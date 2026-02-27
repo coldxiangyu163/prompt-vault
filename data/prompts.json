@@ -40,43 +40,8 @@
     "collected_at": "2026-02-27T16:04:00"
   },
   {
-    "id": "20260227_001",
-    "prompt": "Share 94-Ocean Surface",
-    "tags": [
-      "portrait",
-      "landscape",
-      "anime",
-      "photography"
-    ],
-    "style": "anime",
-    "tool": "Midjourney",
-    "author": "KanaWorks_AI",
-    "source_url": "https://x.com/KanaWorks_AI/status/2026114320724291823",
-    "images": [
-      "images/x_20260227_1_e0fe7f99.jpg"
-    ],
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "20260227_002",
-    "prompt": "was “Strange female Portrait” in Midjourney I typically scramble styles references and moodboards, until something resonates with me and remix that over and over. All these share the same “prompt” but different style references",
-    "tags": [
-      "portrait"
-    ],
-    "style": "digital art",
-    "tool": "Midjourney",
-    "author": "TOXIQMYND",
-    "source_url": "https://x.com/TOXIQMYND/status/2026090617911341526",
-    "images": [
-      "images/x_20260227_2_9f2001e5.jpg"
-    ],
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
     "id": "20260227_003",
-    "prompt": "[subhect or scene ] , Dark whimsy, stylized animation, cozy nighttime glow, subtle backlighting, dreamlike hues",
+    "prompt": "[subject or scene], Dark whimsy, stylized animation, cozy nighttime glow, subtle backlighting, dreamlike hues",
     "tags": [
       "digital art"
     ],
@@ -91,56 +56,8 @@
     "collected_at": "2026-02-27"
   },
   {
-    "id": "20260227_004",
-    "prompt": "(I use Google Nano Banana Pro) to generate the remaining assets.",
-    "tags": [
-      "digital art"
-    ],
-    "style": "illustration",
-    "tool": "unknown",
-    "author": "DannyLimanseta",
-    "source_url": "https://x.com/DannyLimanseta/status/2012900321824260264",
-    "images": [
-      "images/x_20260227_4_2d1869f7.jpg"
-    ],
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "20260227_005",
-    "prompt": "Flux 2 Pro also supports grid stack generation. I generated a 2×2 grid stack directly in Photoshop. The process is very simple: just select the image frame, choose Generative Fill, select Flux 2 Pro, and enter a 2×2 grid prompt. The result appears instantly. The nice part about",
-    "tags": [
-      "photography"
-    ],
-    "style": "photorealistic",
-    "tool": "Flux",
-    "author": "heydin_ai",
-    "source_url": "https://x.com/heydin_ai/status/2010801012593061924",
-    "images": [
-      "images/x_20260227_5_180001b0.jpg"
-    ],
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "20260227_006",
-    "prompt": "adherence, stunning 4MP resolution, and a deep grasp of physics, Flux 2 [pro] lets you create hyper-detailed pictures quicker than ever—slashing",
-    "tags": [
-      "photography"
-    ],
-    "style": "photorealistic",
-    "tool": "Flux",
-    "author": "carolletta",
-    "source_url": "https://x.com/carolletta/status/2009713462071701714",
-    "images": [
-      "images/x_20260227_6_e6d4520e.jpg"
-    ],
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
     "id": "20260227_007",
-    "prompt": "a knight, tall and elegant, bright eyes, energetic",
+    "prompt": "A knight, tall and elegant, bright eyes, energetic, detailed armor, cinematic lighting",
     "tags": [
       "digital art"
     ],
@@ -156,7 +73,7 @@
   },
   {
     "id": "20260227_008",
-    "prompt": "Vibrant collage-style image of [your goal], motivational vision board aesthetic, high detail, inspiring.",
+    "prompt": "Vibrant collage-style image of [your goal], motivational vision board aesthetic, high detail, inspiring",
     "tags": [
       "digital art"
     ],
@@ -172,7 +89,7 @@
   },
   {
     "id": "20260227_nb_001",
-    "prompt": "{\n  \"id\": \"img_9021\",\n  \"title\": \"Red Confidence Studio Selfie\",\n  \"category\": \"Fitness Photography\",\n  \"description\": \"A woman capturing a mirror selfie inside a modern fitness studio after a workout session.",
+    "prompt": "A woman capturing a mirror selfie inside a modern fitness studio after a workout. She wears a bold red sports bra and matching leggings, radiating confidence and strength. Studio lighting, cinematic portrait photography.",
     "tags": [
       "portrait",
       "photography"
@@ -223,7 +140,7 @@
   },
   {
     "id": "20260227_nb_004",
-    "prompt": "{\n  \"project_title\": \"Minimalist Editorial Portrait Series\",\n  \"composition\": {\n    \"layout\": \"Three-panel vertical arrangement\",\n    \"design_language\": \"Ultra-clean, minimalist, high-fashion editorial\",\n    \"spacing\": \"Generous negative",
+    "prompt": "Minimalist editorial portrait series. Three-panel vertical arrangement. Ultra-clean, minimalist, high-fashion editorial aesthetic. Soft neutral background with subtle gradient.",
     "tags": [
       "portrait",
       "fashion",
@@ -241,7 +158,7 @@
   },
   {
     "id": "20260227_nb_005",
-    "prompt": "{\n  \"image_generation_prompt\": {\n    \"subject\": \"A cute, wide-eyed baby hybrid creature with a mix of soft, fluffy brown sloth fur and iridescent green dragon scales, featuring small orange wings.\",\n    \"action\": \"The creature is",
+    "prompt": "A cute, wide-eyed baby hybrid creature with a mix of soft, fluffy brown sloth fur and iridescent green dragon scales, featuring small orange wings.",
     "tags": [
       "fantasy"
     ],
@@ -257,7 +174,7 @@
   },
   {
     "id": "20260227_nb_006",
-    "prompt": "\"style\": \"ultra-realistic beauty portrait, editorial fashion photography\",",
+    "prompt": "Ultra-realistic beauty portrait, editorial fashion photography style, soft studio lighting, flawless skin detail",
     "tags": [
       "portrait",
       "photography",
@@ -292,7 +209,7 @@
   },
   {
     "id": "20260227_nb_008",
-    "prompt": "{\n  \"image_generation_prompt\": {\n    \"subject\": \"Meta glasses\",\n    \"theme\": \"Technical infographic and product teardown\",\n    \"perspective\": \"45-degree isometric 3D perspective, slightly tilted\",\n    \"background\": \"Pure",
+    "prompt": "Meta glasses technical infographic and product teardown. 45-degree isometric 3D perspective, slightly tilted. Exploded view showing internal components with labeled callouts.",
     "tags": [
       "infographic"
     ],
@@ -308,7 +225,7 @@
   },
   {
     "id": "20260227_nb_009",
-    "prompt": "\"Cinematic portrait of an Asian girl in a JK uniform by the sea at sunset...\"",
+    "prompt": "Cinematic portrait of an Asian girl in a JK uniform by the sea at sunset, golden hour lighting, wind blowing hair, soft bokeh background",
     "tags": [
       "portrait",
       "photography"
@@ -325,7 +242,7 @@
   },
   {
     "id": "20260227_nb_010",
-    "prompt": "{\n  \"action\": \"image_generation\",\n  \"input\": {\n    \"prompt\": \"A highly detailed, cinematic portrait of a handsome young man with expressive eyes, looking upward in awe and deep contemplation. His hands are clasped near his",
+    "prompt": "A highly detailed, cinematic portrait of a handsome young man with expressive eyes, looking upward in awe and deep contemplation. His hand gently touching his chin.",
     "tags": [
       "portrait",
       "photography"
@@ -354,22 +271,6 @@
     "source_url": "https://x.com/Taaruk_/status/2027317355945275501",
     "images": [
       "images/x_20260227_nb_11_867d05ac.jpg"
-    ],
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "20260227_nb_012",
-    "prompt": "These 4 Netflix-spec Nano Banana Pro formulas turn any photo into a cinematic poster",
-    "tags": [
-      "photography"
-    ],
-    "style": "photorealistic",
-    "tool": "Nano Banana Pro",
-    "author": "nahidulislam404",
-    "source_url": "https://x.com/nahidulislam404/status/2027317267403616619",
-    "images": [
-      "images/x_20260227_nb_12_9560db8e.jpg"
     ],
     "created_at": "2026-02-27",
     "collected_at": "2026-02-27"
