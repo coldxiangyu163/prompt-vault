@@ -2,8 +2,16 @@
   {
     "id": "20260226_001",
     "prompt": "现代Bento网格布局产品展示设计,采用磨砂亚克力透明玻璃材质。适用于任何产品类型(食物/药品/科技产品/元素等)。\n\n【布局结构】8个模块,非对称Bento网格排列,横向landscape格式:\n\n模块1: 【3D玻璃产品主体展示】(中等尺寸1x1,占20-25%空间)\n- 3D透明玻璃/亚克力材质的[产品名称]雕塑\n- 材质效果: 透明玻璃,光泽表面,光线折射,真实反射\n- 正下方文字标注: \"[中文产品名] / [English Name]\"\n\n模块2-8: 核心功效、食用方法、营养价值、适合人群、食用注意、嘌呤含量、冷知识\n\n【磨砂亚克力材质规格】:\n- 透明度: 80-85% 半透明(TRANSLUCENT)\n- 磨砂效果: 柔和的frosted glass blur模糊\n- 边框: 细致的发光边框,捕捉光线反射\n- 阴影: 柔和的分层阴影,营造浮空深度感\n- 玻璃物理: 真实的玻璃边缘高光、光线折射、表面反射效果\n\n【色彩方案】: 90% 中性色 + 10% 产品主题色点缀\n【背景】: 柔和渐变,装饰元素透过玻璃卡片隐约可见\n【图标】: 极简线条图标,小巧不喧宾夺主",
-    "images": ["images/bento-acrylic-demo.png"],
-    "tags": ["bento", "亚克力", "玻璃拟态", "产品展示", "信息图"],
+    "images": [
+      "images/bento-acrylic-demo.png"
+    ],
+    "tags": [
+      "bento",
+      "亚克力",
+      "玻璃拟态",
+      "产品展示",
+      "信息图"
+    ],
     "style": "glassmorphism",
     "source_url": "https://x.com/berryxia/status/2005842541141451133",
     "author": "@berryxia",
@@ -14,13 +22,128 @@
   {
     "id": "20260227_001",
     "prompt": "使用哆啦A梦的角色和相关主题元素，生成一张图文并茂、带行程路线和时间安排的南京三天两晚旅游不绕路攻略图。\n\nSTYLE: Kawaii cartoon illustration style. Doraemon blue (#0097E0) as primary color. Rounded shapes, pastel accents, playful icons.\n\nLAYOUT: Vertical timeline/route map style, 9:16 portrait ratio. Each day is a section with route line connecting spots.\n\nDAY 1 — 历史文化线: 中山陵→明孝陵→总统府→1912街区→秦淮河夜游\nDAY 2 — 城墙湖景线: 玄武湖→鸡鸣寺→城墙→老门东→大报恩寺\nDAY 3 — 文艺打卡线: 南京博物院→科巷→先锋书店→颐和路→返程",
-    "images": ["images/nanjing-doraemon-guide.png"],
-    "tags": ["旅游攻略", "哆啦A梦", "卡通", "时间轴", "信息图"],
+    "images": [
+      "images/nanjing-doraemon-guide.png"
+    ],
+    "tags": [
+      "旅游攻略",
+      "哆啦A梦",
+      "卡通",
+      "时间轴",
+      "信息图"
+    ],
     "style": "cartoon",
     "source_url": "",
     "author": "@coldxiangyu",
     "tool": "Gemini",
     "created_at": "2026-02-27",
     "collected_at": "2026-02-27T16:04:00"
+  },
+  {
+    "id": "20260227_001",
+    "prompt": "Share 94-Ocean Surface",
+    "image": "images/x_20260227_1_e0fe7f99.jpg",
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photography"
+    ],
+    "style": "anime",
+    "tool": "Midjourney",
+    "author": "KanaWorks_AI",
+    "source_url": "https://x.com/KanaWorks_AI/status/2026114320724291823",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "20260227_002",
+    "prompt": "was “Strange female Portrait” in Midjourney I typically scramble styles references and moodboards, until something resonates with me and remix that over and over. All these share the same “prompt” but different style references",
+    "image": "images/x_20260227_2_9f2001e5.jpg",
+    "tags": [
+      "portrait"
+    ],
+    "style": "digital art",
+    "tool": "Midjourney",
+    "author": "TOXIQMYND",
+    "source_url": "https://x.com/TOXIQMYND/status/2026090617911341526",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "20260227_003",
+    "prompt": "[subhect or scene ] , Dark whimsy, stylized animation, cozy nighttime glow, subtle backlighting, dreamlike hues",
+    "image": "images/x_20260227_3_d50d515d.jpg",
+    "tags": [
+      "digital art"
+    ],
+    "style": "digital art",
+    "tool": "Midjourney",
+    "author": "shikoba_86",
+    "source_url": "https://x.com/shikoba_86/status/2025629499304382546",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "20260227_004",
+    "prompt": "(I use Google Nano Banana Pro) to generate the remaining assets.",
+    "image": "images/x_20260227_4_2d1869f7.jpg",
+    "tags": [
+      "digital art"
+    ],
+    "style": "illustration",
+    "tool": "unknown",
+    "author": "DannyLimanseta",
+    "source_url": "https://x.com/DannyLimanseta/status/2012900321824260264",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "20260227_005",
+    "prompt": "Flux 2 Pro also supports grid stack generation. I generated a 2×2 grid stack directly in Photoshop. The process is very simple: just select the image frame, choose Generative Fill, select Flux 2 Pro, and enter a 2×2 grid prompt. The result appears instantly. The nice part about",
+    "image": "images/x_20260227_5_180001b0.jpg",
+    "tags": [
+      "photography"
+    ],
+    "style": "photorealistic",
+    "tool": "Flux",
+    "author": "heydin_ai",
+    "source_url": "https://x.com/heydin_ai/status/2010801012593061924",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "20260227_006",
+    "prompt": "adherence, stunning 4MP resolution, and a deep grasp of physics, Flux 2 [pro] lets you create hyper-detailed pictures quicker than ever—slashing",
+    "image": "images/x_20260227_6_e6d4520e.jpg",
+    "tags": [
+      "photography"
+    ],
+    "style": "photorealistic",
+    "tool": "Flux",
+    "author": "carolletta",
+    "source_url": "https://x.com/carolletta/status/2009713462071701714",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "20260227_007",
+    "prompt": "a knight, tall and elegant, bright eyes, energetic",
+    "image": "images/x_20260227_7_7a236087.jpg",
+    "tags": [
+      "digital art"
+    ],
+    "style": "digital art",
+    "tool": "Flux",
+    "author": "morenafrica",
+    "source_url": "https://x.com/morenafrica/status/2007223966872809971",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "20260227_008",
+    "prompt": "Vibrant collage-style image of [your goal], motivational vision board aesthetic, high detail, inspiring.",
+    "image": "images/x_20260227_8_a2dc946f.jpg",
+    "tags": [
+      "digital art"
+    ],
+    "style": "digital art",
+    "tool": "Midjourney",
+    "author": "hereishania",
+    "source_url": "https://x.com/hereishania/status/2004476393833615530",
+    "date": "2026-02-27"
   }
 ]
