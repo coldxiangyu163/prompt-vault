@@ -42,7 +42,6 @@
   {
     "id": "20260227_001",
     "prompt": "Share 94-Ocean Surface",
-    "image": "images/x_20260227_1_e0fe7f99.jpg",
     "tags": [
       "portrait",
       "landscape",
@@ -53,12 +52,15 @@
     "tool": "Midjourney",
     "author": "KanaWorks_AI",
     "source_url": "https://x.com/KanaWorks_AI/status/2026114320724291823",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_1_e0fe7f99.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_002",
     "prompt": "was “Strange female Portrait” in Midjourney I typically scramble styles references and moodboards, until something resonates with me and remix that over and over. All these share the same “prompt” but different style references",
-    "image": "images/x_20260227_2_9f2001e5.jpg",
     "tags": [
       "portrait"
     ],
@@ -66,12 +68,15 @@
     "tool": "Midjourney",
     "author": "TOXIQMYND",
     "source_url": "https://x.com/TOXIQMYND/status/2026090617911341526",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_2_9f2001e5.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_003",
     "prompt": "[subhect or scene ] , Dark whimsy, stylized animation, cozy nighttime glow, subtle backlighting, dreamlike hues",
-    "image": "images/x_20260227_3_d50d515d.jpg",
     "tags": [
       "digital art"
     ],
@@ -79,12 +84,15 @@
     "tool": "Midjourney",
     "author": "shikoba_86",
     "source_url": "https://x.com/shikoba_86/status/2025629499304382546",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_3_d50d515d.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_004",
     "prompt": "(I use Google Nano Banana Pro) to generate the remaining assets.",
-    "image": "images/x_20260227_4_2d1869f7.jpg",
     "tags": [
       "digital art"
     ],
@@ -92,12 +100,15 @@
     "tool": "unknown",
     "author": "DannyLimanseta",
     "source_url": "https://x.com/DannyLimanseta/status/2012900321824260264",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_4_2d1869f7.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_005",
     "prompt": "Flux 2 Pro also supports grid stack generation. I generated a 2×2 grid stack directly in Photoshop. The process is very simple: just select the image frame, choose Generative Fill, select Flux 2 Pro, and enter a 2×2 grid prompt. The result appears instantly. The nice part about",
-    "image": "images/x_20260227_5_180001b0.jpg",
     "tags": [
       "photography"
     ],
@@ -105,12 +116,15 @@
     "tool": "Flux",
     "author": "heydin_ai",
     "source_url": "https://x.com/heydin_ai/status/2010801012593061924",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_5_180001b0.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_006",
     "prompt": "adherence, stunning 4MP resolution, and a deep grasp of physics, Flux 2 [pro] lets you create hyper-detailed pictures quicker than ever—slashing",
-    "image": "images/x_20260227_6_e6d4520e.jpg",
     "tags": [
       "photography"
     ],
@@ -118,12 +132,15 @@
     "tool": "Flux",
     "author": "carolletta",
     "source_url": "https://x.com/carolletta/status/2009713462071701714",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_6_e6d4520e.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_007",
     "prompt": "a knight, tall and elegant, bright eyes, energetic",
-    "image": "images/x_20260227_7_7a236087.jpg",
     "tags": [
       "digital art"
     ],
@@ -131,12 +148,15 @@
     "tool": "Flux",
     "author": "morenafrica",
     "source_url": "https://x.com/morenafrica/status/2007223966872809971",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_7_7a236087.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_008",
     "prompt": "Vibrant collage-style image of [your goal], motivational vision board aesthetic, high detail, inspiring.",
-    "image": "images/x_20260227_8_a2dc946f.jpg",
     "tags": [
       "digital art"
     ],
@@ -144,12 +164,15 @@
     "tool": "Midjourney",
     "author": "hereishania",
     "source_url": "https://x.com/hereishania/status/2004476393833615530",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_8_a2dc946f.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_nb_001",
     "prompt": "{\n  \"id\": \"img_9021\",\n  \"title\": \"Red Confidence Studio Selfie\",\n  \"category\": \"Fitness Photography\",\n  \"description\": \"A woman capturing a mirror selfie inside a modern fitness studio after a workout session.",
-    "image": "images/x_20260227_nb_1_6eb5facb.jpg",
     "tags": [
       "portrait",
       "photography"
@@ -158,12 +181,15 @@
     "tool": "Nano Banana Pro",
     "author": "Zainabfat2728",
     "source_url": "https://x.com/Zainabfat2728/status/2027313279123521677",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_nb_1_6eb5facb.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_nb_002",
     "prompt": "Ultra realistic cinematic fashion portrait of a young man round glasses, looking down at the camera, low angle shot, wearing oversized light puffer jacket and warm orange sweater, standing under bright orange and yellow neon lights in an",
-    "image": "images/x_20260227_nb_2_61580b1d.jpg",
     "tags": [
       "portrait",
       "photography",
@@ -173,12 +199,15 @@
     "tool": "Nano Banana Pro",
     "author": "Shorelyn_",
     "source_url": "https://x.com/Shorelyn_/status/2027310074797150533",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_nb_2_61580b1d.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_nb_003",
     "prompt": "Shibuya street at night, neon signs reflecting on wet pavement, light rain, crowded crosswalk glowing under city lights, cinematic atmosphere, realistic handheld phone photo, shallow depth of field, natural color grading.",
-    "image": "images/x_20260227_nb_3_a6a75414.jpg",
     "tags": [
       "photography"
     ],
@@ -186,12 +215,15 @@
     "tool": "Nano Banana",
     "author": "Preda2005",
     "source_url": "https://x.com/Preda2005/status/2027304772093780255",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_nb_3_a6a75414.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_nb_004",
     "prompt": "{\n  \"project_title\": \"Minimalist Editorial Portrait Series\",\n  \"composition\": {\n    \"layout\": \"Three-panel vertical arrangement\",\n    \"design_language\": \"Ultra-clean, minimalist, high-fashion editorial\",\n    \"spacing\": \"Generous negative",
-    "image": "images/x_20260227_nb_4_8c508d36.jpg",
     "tags": [
       "portrait",
       "fashion",
@@ -201,12 +233,15 @@
     "tool": "Nano Banana Pro",
     "author": "frametheory058",
     "source_url": "https://x.com/frametheory058/status/2027300450022904247",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_nb_4_8c508d36.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_nb_005",
     "prompt": "{\n  \"image_generation_prompt\": {\n    \"subject\": \"A cute, wide-eyed baby hybrid creature with a mix of soft, fluffy brown sloth fur and iridescent green dragon scales, featuring small orange wings.\",\n    \"action\": \"The creature is",
-    "image": "images/x_20260227_nb_5_9b47e3e9.jpg",
     "tags": [
       "fantasy"
     ],
@@ -214,12 +249,15 @@
     "tool": "Nano Banana Pro",
     "author": "Fujimoto_hina",
     "source_url": "https://x.com/Fujimoto_hina/status/2026925331266023437",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_nb_5_9b47e3e9.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_nb_006",
     "prompt": "\"style\": \"ultra-realistic beauty portrait, editorial fashion photography\",",
-    "image": "images/x_20260227_nb_6_77d881bd.jpg",
     "tags": [
       "portrait",
       "photography",
@@ -229,12 +267,15 @@
     "tool": "Nano Banana Pro",
     "author": "saniaspeaks_",
     "source_url": "https://x.com/saniaspeaks_/status/2026615331247079737",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_nb_6_77d881bd.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_nb_007",
     "prompt": "\"A beautiful young Indian woman(match face) celebrating Holi outdoors, captured mid-action blowing yellow Holi powder toward the camera with a soft puckered \"blowing kiss\" expression. Powder",
-    "image": "images/x_20260227_nb_7_90b20094.jpg",
     "tags": [
       "portrait",
       "photography"
@@ -243,12 +284,15 @@
     "tool": "Gemini",
     "author": "gemini_prompts",
     "source_url": "https://x.com/gemini_prompts/status/2025888797238452428",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_nb_7_90b20094.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_nb_008",
     "prompt": "{\n  \"image_generation_prompt\": {\n    \"subject\": \"Meta glasses\",\n    \"theme\": \"Technical infographic and product teardown\",\n    \"perspective\": \"45-degree isometric 3D perspective, slightly tilted\",\n    \"background\": \"Pure",
-    "image": "images/x_20260227_nb_8_9e099754.jpg",
     "tags": [
       "infographic"
     ],
@@ -256,12 +300,15 @@
     "tool": "Nano Banana Pro",
     "author": "Maercihh",
     "source_url": "https://x.com/Maercihh/status/2025865841804464210",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_nb_8_9e099754.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_nb_009",
     "prompt": "\"Cinematic portrait of an Asian girl in a JK uniform by the sea at sunset...\"",
-    "image": "images/x_20260227_nb_9_b8153ce5.jpg",
     "tags": [
       "portrait",
       "photography"
@@ -270,12 +317,15 @@
     "tool": "Gemini",
     "author": "Kejijun6666",
     "source_url": "https://x.com/Kejijun6666/status/2025817441599672463",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_nb_9_b8153ce5.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_nb_010",
     "prompt": "{\n  \"action\": \"image_generation\",\n  \"input\": {\n    \"prompt\": \"A highly detailed, cinematic portrait of a handsome young man with expressive eyes, looking upward in awe and deep contemplation. His hands are clasped near his",
-    "image": "images/x_20260227_nb_10_03b5f290.jpg",
     "tags": [
       "portrait",
       "photography"
@@ -284,12 +334,15 @@
     "tool": "Gemini",
     "author": "WallPapers360",
     "source_url": "https://x.com/WallPapers360/status/2025770468133773726",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_nb_10_03b5f290.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_nb_011",
     "prompt": "Hyper-realistic cinematic fashion photoshoot of a young man. He has a refined slim face with a lean, youthful, and elegant physique. Seated casually on a deep white bean bag, he wears bold all-dark chocolate oversized streetwear: a stylish",
-    "image": "images/x_20260227_nb_11_867d05ac.jpg",
     "tags": [
       "portrait",
       "photography",
@@ -299,12 +352,15 @@
     "tool": "Nano Banana Pro",
     "author": "Taaruk_",
     "source_url": "https://x.com/Taaruk_/status/2027317355945275501",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_nb_11_867d05ac.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   },
   {
     "id": "20260227_nb_012",
     "prompt": "These 4 Netflix-spec Nano Banana Pro formulas turn any photo into a cinematic poster",
-    "image": "images/x_20260227_nb_12_9560db8e.jpg",
     "tags": [
       "photography"
     ],
@@ -312,6 +368,10 @@
     "tool": "Nano Banana Pro",
     "author": "nahidulislam404",
     "source_url": "https://x.com/nahidulislam404/status/2027317267403616619",
-    "date": "2026-02-27"
+    "images": [
+      "images/x_20260227_nb_12_9560db8e.jpg"
+    ],
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   }
 ]

@@ -1,26 +1,27 @@
 /* ===== PromptVault App ===== */
 
 const STYLE_TAGS = [
-    { key: '玻璃拟态', label: '玻璃拟态', color: '#a78bfa' },
-    { key: 'bento', label: 'Bento', color: '#60a5fa' },
-    { key: '3D', label: '3D渲染', color: '#f472b6' },
-    { key: '卡通', label: '卡通', color: '#fb923c' },
-    { key: '扁平', label: '扁平插画', color: '#34d399' },
-    { key: '像素', label: '像素', color: '#22d3ee' },
-    { key: '水彩', label: '水彩', color: '#c084fc' },
-    { key: '赛博朋克', label: '赛博朋克', color: '#e879f9' },
+    { key: 'portrait', label: '人像', color: '#a78bfa' },
+    { key: 'photography', label: '摄影', color: '#60a5fa' },
+    { key: 'fashion', label: '时尚', color: '#f472b6' },
+    { key: 'landscape', label: '风景', color: '#34d399' },
+    { key: 'anime', label: '动漫', color: '#fb923c' },
+    { key: 'infographic', label: '信息图', color: '#2dd4bf' },
+    { key: '3D', label: '3D渲染', color: '#22d3ee' },
+    { key: 'fantasy', label: '奇幻', color: '#c084fc' },
+    { key: '玻璃拟态', label: '玻璃拟态', color: '#e879f9' },
     { key: '产品展示', label: '产品展示', color: '#fbbf24' },
-    { key: '信息图', label: '信息图', color: '#2dd4bf' },
-    { key: '海报', label: '海报', color: '#f87171' },
-    { key: '旅游攻略', label: '旅游攻略', color: '#38bdf8' },
+    { key: '卡通', label: '卡通', color: '#f87171' },
 ];
 
 const TOOL_TAGS = [
+    { key: 'Nano Banana Pro', label: 'Nano Banana Pro', color: '#a78bfa' },
+    { key: 'Nano Banana', label: 'Nano Banana', color: '#c084fc' },
     { key: 'Gemini', label: 'Gemini', color: '#60a5fa' },
-    { key: 'Midjourney', label: 'Midjourney', color: '#a78bfa' },
-    { key: 'DALL-E', label: 'DALL-E', color: '#34d399' },
-    { key: 'Flux', label: 'Flux', color: '#fb923c' },
-    { key: 'Seedance', label: 'Seedance', color: '#f472b6' },
+    { key: 'Midjourney', label: 'Midjourney', color: '#fb923c' },
+    { key: 'Flux', label: 'Flux', color: '#34d399' },
+    { key: 'Stable Diffusion', label: 'Stable Diffusion', color: '#f472b6' },
+    { key: 'DALL-E', label: 'DALL-E', color: '#22d3ee' },
 ];
 
 let allPrompts = [];
