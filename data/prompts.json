@@ -998,5 +998,615 @@
     "source_url": "https://x.com/lexx_aura/status/2027319758345884130",
     "created_at": "2026-02-27",
     "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_001",
+    "prompt": "Ultra-realistic fashion infographic photography of a female casual outfit exploded in a circular composition.\nFloating elements arranged clockwise: beige knit hat, gold hoop earrings, cotton crew-neck top, cropped denim jacket,",
+    "images": [
+      "images/x_func_001.jpg"
+    ],
+    "tags": [
+      "infographic",
+      "fashion"
+    ],
+    "style": "infographic",
+    "tool": "Nano Banana Pro",
+    "author": "AIwithkhan",
+    "source_url": "https://x.com/AIwithkhan/status/2017113578139242945",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_002",
+    "prompt": "{\n  \"project\": \"UltraClean_Food_Infographic\",\n  \"camera_settings\": {\n    \"angle\": \"top-down_90_degrees\",\n    \"sensor\": \"medium_format\",\n    \"lens_aperture\": \"f/2.8\",\n    \"focus\": \"sharp_center_plate\"\n  },\n  \"lighting\": {\n    \"type\":",
+    "images": [
+      "images/x_func_002.jpg"
+    ],
+    "tags": [
+      "infographic"
+    ],
+    "style": "infographic",
+    "tool": "Nano Banana Pro",
+    "author": "mehvishs25",
+    "source_url": "https://x.com/mehvishs25/status/2016862730767257828",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_003",
+    "prompt": "Ultra-viral recipe infographic.\n\nShowcase a **FOOD(change ingredients based on your food)** with melted cheese, crisp lettuce, ripe tomato, and dripping",
+    "images": [
+      "images/x_func_003.jpg"
+    ],
+    "tags": [
+      "infographic",
+      "recipe-card"
+    ],
+    "style": "infographic",
+    "tool": "Nano Banana Pro",
+    "author": "TheLOKII_",
+    "source_url": "https://x.com/TheLOKII_/status/2014572137013825808",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_004",
+    "prompt": "Gemini Nano Banana Pro\n\nCreate an infographic image of [OBJECT], combining a realistic photograph or photorealistic render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text (technical pen / architectural",
+    "images": [
+      "images/x_func_004.jpg"
+    ],
+    "tags": [
+      "infographic"
+    ],
+    "style": "infographic",
+    "tool": "Nano Banana Pro",
+    "author": "Q_Alzeidi",
+    "source_url": "https://x.com/Q_Alzeidi/status/2016365130330898624",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_005",
+    "prompt": "Ultra-realistic family fashion infographic photography featuring a Father, Mother, and Daughter in coordinated casual outfits, arranged in a balanced circular exploded composition.\nFloating elements organized clockwise around the",
+    "images": [
+      "images/x_func_005.jpg"
+    ],
+    "tags": [
+      "infographic",
+      "fashion"
+    ],
+    "style": "infographic",
+    "tool": "Nano Banana Pro",
+    "author": "AIwithkhan",
+    "source_url": "https://x.com/AIwithkhan/status/2018932875060777249",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_006",
+    "prompt": "A luxury strawberry parfait ingredient infographic, 4:5 ratio.\n\nLAYOUT: vertical ingredient infographic, ascending ingredient flow,\nfloating ingredients above product, golden aura",
+    "images": [
+      "images/x_func_006.jpg"
+    ],
+    "tags": [
+      "infographic",
+      "recipe-card",
+      "layout"
+    ],
+    "style": "infographic",
+    "tool": "Nano Banana Pro",
+    "author": "jw660227",
+    "source_url": "https://x.com/jw660227/status/2011691975700070521",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_007",
+    "prompt": "A minimalist movie poster for The Matrix. The central focus is a side profile close-up of Neo, meticulously constructed entirely from cascading green digital 0s and 1s. The glowing green digits vary",
+    "images": [
+      "images/x_func_007.jpg"
+    ],
+    "tags": [
+      "poster",
+      "movie-poster"
+    ],
+    "style": "poster",
+    "tool": "Nano Banana Pro",
+    "author": "doctorwasif",
+    "source_url": "https://x.com/doctorwasif/status/2013973568200282580",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_008",
+    "prompt": "An editorial poster-style multi-panel collage presents Subject[person in the image] across three asymmetric photographic frames, unified by a muted-brown urban streetwear aesthetic and a retro analog-digital fusion mood. The top-left frame",
+    "images": [
+      "images/x_func_008.jpg"
+    ],
+    "tags": [
+      "poster",
+      "collage",
+      "fashion"
+    ],
+    "style": "poster",
+    "tool": "Nano Banana Pro",
+    "author": "harboriis",
+    "source_url": "https://x.com/harboriis/status/2018566445031137556",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_009",
+    "prompt": "Create an ultra-HD, hyper-realistic festive digital poster featuring a floating Christmas tree sculpture made entirely from signature products, colors, and design elements of [BRAND NAME], suspended in",
+    "images": [
+      "images/x_func_009.jpg"
+    ],
+    "tags": [
+      "poster"
+    ],
+    "style": "poster",
+    "tool": "Nano Banana Pro",
+    "author": "ZaraIrahh",
+    "source_url": "https://x.com/ZaraIrahh/status/2003834625257607574",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_010",
+    "prompt": "{\n    \"language\": \"en\",\n    \"task\": \"image_edit\",\n    \"consistency_id\": \"user_subject_sassy_santa\",\n    \"input_images\": [\n        {\n            \"image\": \"{{USER_REFERENCE_IMAGE}}\",",
+    "images": [
+      "images/x_func_010.jpg"
+    ],
+    "tags": [
+      "template"
+    ],
+    "style": "template",
+    "tool": "Nano Banana Pro",
+    "author": "hellokaton",
+    "source_url": "https://x.com/hellokaton/status/2003484504347079156",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_011",
+    "prompt": "Exact uploaded [BOTTLE_NAME] bottle (label unchanged). Vertical poster. Center bottle w/ condensation. Add [JUICE_COLOR] liquid splash wrap + ice cubes + [INGREDIENTS] floating (controlled). Background: [BG_COLOR] gradient +",
+    "images": [
+      "images/x_func_011.jpg"
+    ],
+    "tags": [
+      "recipe-card",
+      "poster",
+      "packaging"
+    ],
+    "style": "recipe-card",
+    "tool": "Nano Banana Pro",
+    "author": "oggii_0",
+    "source_url": "https://x.com/oggii_0/status/2010731794820444198",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_012",
+    "prompt": "[Subject-Name]. Imagine you're a luxury graphic designer crafting a conceptual tribute poster in a sophisticated \"dual exposure photo-grid composite\" approach, layering rich mixed-media textures for",
+    "images": [
+      "images/x_func_012.jpg"
+    ],
+    "tags": [
+      "poster",
+      "collage"
+    ],
+    "style": "poster",
+    "tool": "Nano Banana Pro",
+    "author": "doctorwasif",
+    "source_url": "https://x.com/doctorwasif/status/2018993355200577928",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_013",
+    "prompt": "A minimalist cinematic colored poster featuring a given characters portrait from shoulders to the top of the head. The face is reconstructed using a small number of large, square-cut paper",
+    "images": [
+      "images/x_func_013.jpg"
+    ],
+    "tags": [
+      "poster",
+      "movie-poster"
+    ],
+    "style": "poster",
+    "tool": "Nano Banana Pro",
+    "author": "doctorwasif",
+    "source_url": "https://x.com/doctorwasif/status/2021647360766734341",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_014",
+    "prompt": "A minimalist movie poster for The Matrix. The central focus is a side profile close-up of Neo, meticulously constructed entirely from cascading green digital 0s and 1s. The glowing green",
+    "images": [
+      "images/x_func_014.jpg"
+    ],
+    "tags": [
+      "poster",
+      "movie-poster"
+    ],
+    "style": "poster",
+    "tool": "Nano Banana Pro",
+    "author": "doctorwasif",
+    "source_url": "https://x.com/doctorwasif/status/2016827906262286559",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_015",
+    "prompt": "Create a modern digital illustration of me (use my uploaded face) in the same style as a vectorized poster portrait.\nStyle & details:\nClean vector-art look with bold outlines and flat shading.\nUse",
+    "images": [
+      "images/x_func_015.jpg"
+    ],
+    "tags": [
+      "poster"
+    ],
+    "style": "poster",
+    "tool": "Nano Banana Pro",
+    "author": "rovvmut_",
+    "source_url": "https://x.com/rovvmut_/status/1994699411642093651",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_016",
+    "prompt": "~\n\n1. Open ChatGPT/ Gemini AI/ GrokAI\n\n2. Upload your picture \n\n3. Enter this prompt—\n{\n\"prompt\": \"Cinematic ultra-realistic single-subject poster portrait using the uploaded person, chest-up close-up, vertical composition. FINAL ORIENTATION OVERRIDE: the",
+    "images": [
+      "images/x_func_016.jpg"
+    ],
+    "tags": [
+      "poster",
+      "ad-poster",
+      "movie-poster"
+    ],
+    "style": "poster",
+    "tool": "Nano Banana Pro",
+    "author": "23rd_Pulikesi",
+    "source_url": "https://x.com/23rd_Pulikesi/status/2007777200641389053",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_017",
+    "prompt": "8k High-fashion editorial poster for Instagram Stories. The background is a bold, dark shocking pink with clean, solid color-no gradients or textures. A stylish woman stands confidently, partially leaning against the wall, wearing an off-white",
+    "images": [
+      "images/x_func_017.jpg"
+    ],
+    "tags": [
+      "poster",
+      "fashion"
+    ],
+    "style": "poster",
+    "tool": "Nano Banana Pro",
+    "author": "mehvishs25",
+    "source_url": "https://x.com/mehvishs25/status/1995473408826703918",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_018",
+    "prompt": "\": \"Create a portrait that showcases a room with modern and artistic design elements. The main focus of the image is a",
+    "images": [
+      "images/x_func_018.jpg"
+    ],
+    "tags": [
+      "template"
+    ],
+    "style": "template",
+    "tool": "Nano Banana Pro",
+    "author": "xmiiru_",
+    "source_url": "https://x.com/xmiiru_/status/2010591323334606999",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_019",
+    "prompt": "\"{\n  \"image_generation_prompt_template\": {\n    \"visual_style\": \"Ultra-realistic social media influencer mirror selfie, high-resolution smartphone photography aesthetic, glamour lifestyle.\",\n    \"setting\": {\n      \"type\": \"Bathroom or hotel",
+    "images": [
+      "images/x_func_019.jpg"
+    ],
+    "tags": [
+      "template"
+    ],
+    "style": "template",
+    "tool": "Nano Banana Pro",
+    "author": "andrydina7",
+    "source_url": "https://x.com/andrydina7/status/1993379162753528270",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_020",
+    "prompt": "{\n  \"image_generation_prompt_template\": {\n    \"visual_style\": \"Ultra-realistic 8K social media aesthetic, candid mirror selfie style, lifestyle portrait photography.\",\n    \"visual_aesthetic\": {\n      \"technique\": \"Soft, diffuse indoor",
+    "images": [
+      "images/x_func_020.jpg"
+    ],
+    "tags": [
+      "template"
+    ],
+    "style": "template",
+    "tool": "Nano Banana Pro",
+    "author": "andrydina7",
+    "source_url": "https://x.com/andrydina7/status/1994300229366239476",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_021",
+    "prompt": "{\n  \"image_generation_prompt_template\": {\n    \"visual_style\": \"Ultra-realistic high-resolution selfie photography, social media travel influencer aesthetic, candid summer vacation portrait.\",\n    \"visual_aesthetic\": {",
+    "images": [
+      "images/x_func_021.jpg"
+    ],
+    "tags": [
+      "template"
+    ],
+    "style": "template",
+    "tool": "Nano Banana Pro",
+    "author": "andrydina7",
+    "source_url": "https://x.com/andrydina7/status/1994360632712564793",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_022",
+    "prompt": "With Gemini 3.0\nSave in your bookmarks :\n\n{\n  \"image_generation_prompt_template\": {\n    \"visual_style\": \"Ultra-realistic casual lifestyle portrait, Gen Z social media mirror selfie aesthetic, high-resolution smartphone photography style.\",\n    \"setting\": {",
+    "images": [
+      "images/x_func_022.jpg"
+    ],
+    "tags": [
+      "template"
+    ],
+    "style": "template",
+    "tool": "Nano Banana Pro",
+    "author": "andrydina7",
+    "source_url": "https://x.com/andrydina7/status/1993333857609757068",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_023",
+    "prompt": "for Nano banana Pro\n\nPrompt:\n{\n  \"image_generation_prompt_template\": {\n    \"visual_style\": \"Ultra-realistic 8K lifestyle photography, social media travel influencer aesthetic, candid outdoor portrait, summer fashion editorial.\",\n    \"visual_aesthetic\": {",
+    "images": [
+      "images/x_func_023.jpg"
+    ],
+    "tags": [
+      "fashion",
+      "template"
+    ],
+    "style": "fashion",
+    "tool": "Nano Banana Pro",
+    "author": "andrydina7",
+    "source_url": "https://x.com/andrydina7/status/1995085403129254279",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_024",
+    "prompt": "luxury pet product landing page, desktop 16:9.\n\nLAYOUT: Centered hero, 12-column grid, product showcase + benefits, call-to-action.\n\nHERO SECTION:\n- Centered image of a luxurious cat tree, crafted from natural wood, set against a",
+    "images": [
+      "images/x_func_024.jpg"
+    ],
+    "tags": [
+      "landing-page",
+      "product-showcase",
+      "collage",
+      "layout"
+    ],
+    "style": "landing-page",
+    "tool": "Nano Banana Pro",
+    "author": "jw660227",
+    "source_url": "https://x.com/jw660227/status/2008014966218199519",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_025",
+    "prompt": "A stunning solarpunk product showcase featuring an elegant grid arrangement of sustainable technology products seamlessly integrated with lush botanical elements. The scene displays bio-engineered devices with flowing organic curves",
+    "images": [
+      "images/x_func_025.jpg"
+    ],
+    "tags": [
+      "product-showcase",
+      "collage"
+    ],
+    "style": "product-showcase",
+    "tool": "Nano Banana Pro",
+    "author": "jw660227",
+    "source_url": "https://x.com/jw660227/status/2011395861876813924",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_026",
+    "prompt": "：\n\n{\n  \"image_analysis\": {\n    \"subject\": \"[食材名称] 科普信息图，9:16\",\n    \"style\": \"模块化Bento Grid设计 (便当盒网格布局) / 极简主义UI设计\",\n    \"tone\":",
+    "images": [
+      "images/x_func_026.jpg"
+    ],
+    "tags": [
+      "infographic",
+      "recipe-card",
+      "collage"
+    ],
+    "style": "infographic",
+    "tool": "Nano Banana Pro",
+    "author": "linxiaobei888",
+    "source_url": "https://x.com/linxiaobei888/status/2005293067667198029",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_027",
+    "prompt": "(access Nano Banana here: \nhttps://\namirmushich.link/LTX_NBP)\n\n[BRAND NAME] | [HEADLINE] | [SUB-TEXT] | [CTA]. Act as a Senior Art Director.\n\nPHASE 1: INTEGRATED COMPOSITION & OVERLAP.\n- Layout: Seamless fusion of 2D graphics and 3D photography.\n- Overlap Logic: The subject and",
+    "images": [
+      "images/x_func_027.jpg"
+    ],
+    "tags": [
+      "layout"
+    ],
+    "style": "layout",
+    "tool": "Nano Banana Pro",
+    "author": "AmirMushich",
+    "source_url": "https://x.com/AmirMushich/status/2026316198367957327",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_028",
+    "prompt": "{\n  \"concept\": \"Cinematic Collage\",\n  \"layout\": \"Three-photo collage\",\n  \"subject\": {\n    \"description\": \"Glamorous young girl\",\n    \"hair\": \"Long hair\",\n    \"hair_note\": \"Do not change original hair color\",\n    \"vibe\": \"It-girl\"\n  }",
+    "images": [
+      "images/x_func_028.jpg"
+    ],
+    "tags": [
+      "collage",
+      "movie-poster",
+      "layout"
+    ],
+    "style": "collage",
+    "tool": "Nano Banana Pro",
+    "author": "lexx_aura",
+    "source_url": "https://x.com/lexx_aura/status/2014688267568845244",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_029",
+    "prompt": "Generate ad posters in Nano Banana\n\nThis prompt generates:\n• POV low-angle photo (pointing at viewer)\n• Oversized text + brand tagline\n• Serial numbers, copyright lines, technical callouts\n• Brand-appropriate color blocking and texture\n\nUse case:",
+    "images": [
+      "images/x_func_029.jpg"
+    ],
+    "tags": [
+      "poster",
+      "ad-poster"
+    ],
+    "style": "poster",
+    "tool": "Nano Banana Pro",
+    "author": "AmirMushich",
+    "source_url": "https://x.com/AmirMushich/status/2025261764795826531",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_030",
+    "prompt": "Sports icon poster system\n\nYou change the athlete → composition style, colorway, typography treatment adjust autonomously.\n\nPrompt",
+    "images": [
+      "images/x_func_030.jpg"
+    ],
+    "tags": [
+      "poster",
+      "sports"
+    ],
+    "style": "poster",
+    "tool": "Nano Banana Pro",
+    "author": "AmirMushich",
+    "source_url": "https://x.com/AmirMushich/status/2025631713729106049",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_031",
+    "prompt": "{\n  \"model\": \"Nano Banana Pro (Gemini)\",\n  \"prompt\": {\n    \"layout\": {\n      \"type\": \"3x3 photo collage / nine-grid\",\n      \"description\": \"9 vertical portrait photos arranged in a square grid\",",
+    "images": [
+      "images/x_func_031.jpg"
+    ],
+    "tags": [
+      "collage",
+      "layout"
+    ],
+    "style": "collage",
+    "tool": "Nano Banana Pro",
+    "author": "wanerfu",
+    "source_url": "https://x.com/wanerfu/status/2012027041580007890",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_032",
+    "prompt": "Ultra-clean modern country infographic poster (1080x1080), premium editorial layout meets lifestyle travel photography.\n\nShowcase [ENTER",
+    "images": [
+      "images/x_func_032.jpg"
+    ],
+    "tags": [
+      "infographic",
+      "poster",
+      "fashion",
+      "layout"
+    ],
+    "style": "infographic",
+    "tool": "Nano Banana Pro",
+    "author": "Strength04_X",
+    "source_url": "https://x.com/Strength04_X/status/2013905113321185465",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_033",
+    "prompt": "A realistic cyber-aesthetic futuristic business card photograph\n\n---- Prompt ----\n\nA realistic cyber-aesthetic futuristic business card photograph: a left hand is holding a horizontal, acrylic, borderless card the size of a standard business card (3.5\"",
+    "images": [
+      "images/x_func_033.jpg"
+    ],
+    "tags": [
+      "business-card"
+    ],
+    "style": "business-card",
+    "tool": "Nano Banana Pro",
+    "author": "dotey",
+    "source_url": "https://x.com/dotey/status/1996091290509832533",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
+  },
+  {
+    "id": "x_func_034",
+    "prompt": "{\n\"image_type\": \"studio portrait collage\",\n\"layout\": {\n\"structure\": \"3x3 grid\",\n\"aspect ratio\": \"2:3\",\n\"orientation\": \"vertical\",\n\"spacing\": \"even margins between frames\",\n\"consistency\": \"same subject and styling across all frames\"",
+    "images": [
+      "images/x_func_034.jpg"
+    ],
+    "tags": [
+      "collage",
+      "layout"
+    ],
+    "style": "collage",
+    "tool": "Nano Banana Pro",
+    "author": "rovvmut_",
+    "source_url": "https://x.com/rovvmut_/status/2008025334600564817",
+    "category": "functional-template",
+    "created_at": "2026-02-27",
+    "collected_at": "2026-02-27"
   }
 ]
