@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PromptVault — AI 生图提示词视觉图库</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎨</text></svg>">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- 背景动画 -->
+    <div class="bg-gradient"></div>
+    <div class="bg-noise"></div>
+
+    <!-- 顶部导航 -->
+    <header class="header">
+        <div class="header-inner">
+            <div class="logo">
+                <span class="logo-icon">🎨</span>
+                <span class="logo-text">PromptVault</span>
+                <span class="logo-badge">AI 提示词图库</span>
+            </div>
+            <div class="search-box">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+                </svg>
+                <input type="text" id="searchInput" placeholder="搜索提示词、风格、作者...">
+                <kbd class="search-kbd">/</kbd>
+            </div>
+            <div class="header-stats">
+                <span id="totalCount">0</span> 条提示词
+            </div>
+        </div>
+    </header>
+
+    <!-- 标签筛选栏 -->
+    <nav class="filter-bar">
+        <div class="filter-inner">
+            <div class="filter-group">
+                <button class="filter-tag active" data-filter="all">
+                    <span class="tag-dot" style="background:#a78bfa"></span>全部
+                </button>
+            </div>
+            <div class="filter-divider"></div>
+            <div class="filter-group" id="styleTags"></div>
+            <div class="filter-divider"></div>
+            <div class="filter-group" id="toolTags"></div>
+        </div>
+    </nav>
+
+    <!-- 主内容区 -->
+    <main class="gallery" id="gallery">
+        <!-- 动态渲染 -->
+    </main>
+
+    <!-- 空状态 -->
+    <div class="empty-state" id="emptyState" style="display:none">
+        <div class="empty-icon">🔍</div>
+        <p>没有找到匹配的提示词</p>
+    </div>
+
+    <!-- 弹窗 -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal" id="modal">
+            <button class="modal-close" id="modalClose">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M18 6 6 18M6 6l12 12"/>
+                </svg>
+            </button>
+            <div class="modal-body">
+                <div class="modal-image-wrap">
+                    <img id="modalImage" src="" alt="">
+                </div>
+                <div class="modal-content">
+                    <div class="modal-meta">
+                        <span class="modal-author" id="modalAuthor"></span>
+                        <span class="modal-tool" id="modalTool"></span>
+                        <span class="modal-date" id="modalDate"></span>
+                    </div>
+                    <div class="modal-tags" id="modalTags"></div>
+                    <div class="modal-prompt-wrap">
+                        <div class="modal-prompt-header">
+                            <span>📋 提示词</span>
+                            <button class="copy-btn" id="copyBtn">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16">
+                                    <rect x="9" y="9" width="13" height="13" rx="2" ry="2"/>
+                                    <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
+                                </svg>
+                                复制
+                            </button>
+                        </div>
+                        <pre class="modal-prompt" id="modalPrompt"></pre>
+                    </div>
+                    <a class="modal-source" id="modalSource" href="#" target="_blank" rel="noopener">
+                        查看原始推文 ↗
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <p>PromptVault — 收集灵感，一键复用</p>
+        <p class="footer-sub">数据自动采集自 X 平台 · 仅供学习参考</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
