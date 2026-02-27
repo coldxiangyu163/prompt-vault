@@ -82,8 +82,10 @@ function renderGallery() {
 
     gallery.innerHTML = filtered.map((item, i) => `
         <div class="card" data-index="${allPrompts.indexOf(item)}" style="animation-delay:${i * 0.05}s">
-            <img class="card-image" src="${item.images[0]}" alt="" loading="lazy"
-                 onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 400 300%22><rect fill=%22%2318182a%22 width=%22400%22 height=%22300%22/><text x=%2250%25%22 y=%2250%25%22 fill=%22%2355556a%22 font-size=%2240%22 text-anchor=%22middle%22 dy=%22.3em%22>🎨</text></svg>'">
+            <div class="card-image-wrap">
+                <img class="card-image" src="${item.images[0]}" alt="" loading="lazy"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 400 300%22><rect fill=%22%2318182a%22 width=%22400%22 height=%22300%22/><text x=%2250%25%22 y=%2250%25%22 fill=%22%2355556a%22 font-size=%2240%22 text-anchor=%22middle%22 dy=%22.3em%22>🎨</text></svg>'">
+            </div>
             <div class="card-body">
                 <p class="card-prompt">${escapeHtml(item.prompt.substring(0, 120))}...</p>
             </div>
