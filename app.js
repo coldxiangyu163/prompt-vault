@@ -9,9 +9,12 @@ const STYLE_TAGS = [
     { key: 'infographic', label: '信息图', color: '#2dd4bf' },
     { key: '3D', label: '3D渲染', color: '#22d3ee' },
     { key: 'fantasy', label: '奇幻', color: '#c084fc' },
-    { key: '玻璃拟态', label: '玻璃拟态', color: '#e879f9' },
-    { key: '产品展示', label: '产品展示', color: '#fbbf24' },
-    { key: '卡通', label: '卡通', color: '#f87171' },
+    { key: 'retro', label: '复古', color: '#e879f9' },
+    { key: 'data-visualization', label: '数据可视化', color: '#fbbf24' },
+    { key: 'illustration', label: '插画', color: '#f87171' },
+    { key: '玻璃拟态', label: '玻璃拟态', color: '#a3e635' },
+    { key: '产品展示', label: '产品展示', color: '#38bdf8' },
+    { key: '卡通', label: '卡通', color: '#fb7185' },
 ];
 
 const TOOL_TAGS = [
