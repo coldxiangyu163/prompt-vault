@@ -27,6 +27,9 @@ const TOOL_TAGS = [
 let allPrompts = [];
 let activeFilter = 'all';
 let searchQuery = '';
+const PAGE_SIZE = 20;
+let currentPage = 1;
+let isLoading = false;
 
 // ===== Init =====
 document.addEventListener('DOMContentLoaded', async () => {
@@ -68,23 +71,37 @@ function createFilterBtn({ key, label, color }) {
     return btn;
 }
 
-// ===== Render Gallery =====
-function renderGallery() {
+// ===== Render Gallery (paginated) =====
+function renderGallery(append = false) {
     const gallery = document.getElementById('gallery');
     const empty = document.getElementById('emptyState');
     const filtered = getFilteredPrompts();
 
+    if (!append) {
+        currentPage = 1;
+        gallery.innerHTML = '';
+    }
+
     if (filtered.length === 0) {
         gallery.innerHTML = '';
         empty.style.display = 'block';
+        updateLoadMore(0, 0);
         return;
     }
     empty.style.display = 'none';
 
-    gallery.innerHTML = filtered.map((item, i) => `
-        <div class="card" data-index="${allPrompts.indexOf(item)}" style="animation-delay:${i * 0.05}s">
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const end = Math.min(start + PAGE_SIZE, filtered.length);
+    const pageItems = filtered.slice(start, end);
+
+    const html = pageItems.map((item, i) => {
+        const globalIdx = allPrompts.indexOf(item);
+        const delay = append ? i * 0.05 : (start + i) * 0.05;
+        const thumbSrc = getThumbUrl(item.images[0]);
+        return `
+        <div class="card" data-index="${globalIdx}" style="animation-delay:${Math.min(delay, 1)}s">
             <div class="card-image-wrap">
-                <img class="card-image" src="${item.images[0]}" alt="" loading="lazy"
+                <img class="card-image" src="${thumbSrc}" data-full="${item.images[0]}" alt="" loading="lazy"
                      onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 400 300%22><rect fill=%22%2318182a%22 width=%22400%22 height=%22300%22/><text x=%2250%25%22 y=%2250%25%22 fill=%22%2355556a%22 font-size=%2240%22 text-anchor=%22middle%22 dy=%22.3em%22>🎨</text></svg>'">
             </div>
             <div class="card-body">
@@ -99,8 +116,45 @@ function renderGallery() {
                     <span>${item.tool}</span>
                 </div>
             </div>
-        </div>
-    `).join('');
+        </div>`;
+    }).join('');
+
+    gallery.insertAdjacentHTML('beforeend', html);
+    updateLoadMore(end, filtered.length);
+}
+
+// Thumbnail: use smaller version for cards
+function getThumbUrl(url) {
+    if (!url) return '';
+    // X images: swap name=large to name=small
+    if (url.includes('pbs.twimg.com')) {
+        return url.replace('name=large', 'name=small').replace('name=medium', 'name=small');
+    }
+    return url;
+}
+
+function updateLoadMore(loaded, total) {
+    let el = document.getElementById('loadMoreWrap');
+    if (!el) {
+        el = document.createElement('div');
+        el.id = 'loadMoreWrap';
+        el.style.cssText = 'text-align:center;padding:2rem 0;';
+        document.getElementById('gallery').parentNode.appendChild(el);
+    }
+    if (loaded >= total || total === 0) {
+        el.innerHTML = total > 0 ? `<span style="color:#666;font-size:0.9rem">已加载全部 ${total} 条</span>` : '';
+    } else {
+        el.innerHTML = `<button id="loadMoreBtn" class="filter-tag active" style="padding:0.6rem 2rem;font-size:0.95rem">加载更多 (${loaded}/${total})</button>`;
+        document.getElementById('loadMoreBtn').addEventListener('click', loadMore);
+    }
+}
+
+function loadMore() {
+    if (isLoading) return;
+    isLoading = true;
+    currentPage++;
+    renderGallery(true);
+    isLoading = false;
 }
 
 // ===== Filter =====
@@ -126,7 +180,7 @@ function openModal(index) {
     const item = allPrompts[index];
     if (!item) return;
 
-    document.getElementById('modalImage').src = item.images[0];
+    document.getElementById('modalImage').src = item.images[0]; // full size
     document.getElementById('modalAuthor').textContent = item.author;
     document.getElementById('modalTool').textContent = item.tool;
     document.getElementById('modalDate').textContent = item.created_at;
@@ -204,8 +258,21 @@ function bindEvents() {
         clearTimeout(debounceTimer);
         debounceTimer = setTimeout(() => {
             searchQuery = searchInput.value.toLowerCase().trim();
-            renderGallery();
+            renderGallery(false);
         }, 200);
+    });
+
+    // Infinite scroll
+    window.addEventListener('scroll', () => {
+        if (isLoading) return;
+        const scrollBottom = window.innerHeight + window.scrollY;
+        const docHeight = document.documentElement.scrollHeight;
+        if (scrollBottom >= docHeight - 300) {
+            const filtered = getFilteredPrompts();
+            if (currentPage * PAGE_SIZE < filtered.length) {
+                loadMore();
+            }
+        }
     });
 
     // Keyboard shortcuts
