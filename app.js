@@ -1,21 +1,40 @@
 /* ===== PromptVault App ===== */
 
-const STYLE_TAGS = [
-    { key: 'portrait', label: '人像', color: '#a78bfa' },
-    { key: 'photography', label: '摄影', color: '#60a5fa' },
-    { key: 'fashion', label: '时尚', color: '#f472b6' },
-    { key: 'landscape', label: '风景', color: '#34d399' },
-    { key: 'anime', label: '动漫', color: '#fb923c' },
-    { key: 'infographic', label: '信息图', color: '#2dd4bf' },
-    { key: '3D', label: '3D渲染', color: '#22d3ee' },
-    { key: 'fantasy', label: '奇幻', color: '#c084fc' },
-    { key: 'retro', label: '复古', color: '#e879f9' },
-    { key: 'data-visualization', label: '数据可视化', color: '#fbbf24' },
-    { key: 'illustration', label: '插画', color: '#f87171' },
-    { key: '玻璃拟态', label: '玻璃拟态', color: '#a3e635' },
-    { key: '产品展示', label: '产品展示', color: '#38bdf8' },
-    { key: '卡通', label: '卡通', color: '#fb7185' },
-];
+// 标签颜色映射（已知标签给固定颜色，未知标签自动分配）
+const TAG_COLORS = {
+    'infographic': '#2dd4bf', '信息图': '#2dd4bf',
+    'poster': '#f472b6', 'movie-poster': '#c084fc',
+    'fashion': '#f472b6', 'collage': '#fb923c',
+    'layout': '#60a5fa', 'template': '#a78bfa',
+    'recipe-card': '#34d399', '3D': '#22d3ee',
+    'portrait': '#a78bfa', 'landscape': '#34d399',
+    'retro': '#e879f9', 'ad-poster': '#fbbf24',
+    'product-showcase': '#38bdf8', 'packaging': '#38bdf8',
+    'branding': '#fb7185', 'sports': '#f87171',
+    'business-card': '#a3e635', 'landing-page': '#22d3ee',
+    'illustration': '#f87171', 'data-visualization': '#fbbf24',
+    '玻璃拟态': '#a3e635', '产品展示': '#38bdf8', '卡通': '#fb7185',
+    'bento': '#60a5fa', '旅游攻略': '#34d399', '哆啦A梦': '#22d3ee',
+};
+const TAG_LABELS = {
+    'infographic': '信息图', '信息图': '信息图',
+    'poster': '海报', 'movie-poster': '电影海报',
+    'fashion': '时尚', 'collage': '拼贴',
+    'layout': '布局', 'template': '模板',
+    'recipe-card': '食谱卡', '3D': '3D渲染',
+    'portrait': '人像', 'landscape': '风景',
+    'retro': '复古', 'ad-poster': '广告海报',
+    'product-showcase': '产品展示', 'packaging': '包装',
+    'branding': '品牌', 'sports': '运动',
+    'business-card': '名片', 'landing-page': '落地页',
+    'illustration': '插画', 'data-visualization': '数据可视化',
+    '玻璃拟态': '玻璃拟态', '产品展示': '产品展示', '卡通': '卡通',
+    'bento': 'Bento', '旅游攻略': '旅游攻略', '哆啦A梦': '哆啦A梦',
+};
+const PALETTE = ['#a78bfa','#60a5fa','#f472b6','#34d399','#fb923c','#22d3ee','#c084fc','#e879f9','#fbbf24','#f87171','#a3e635','#38bdf8','#fb7185'];
+
+// 动态从数据生成 STYLE_TAGS（加载数据后调用）
+let STYLE_TAGS = [];
 
 const TOOL_TAGS = [
     { key: 'Nano Banana Pro', label: 'Nano Banana Pro', color: '#a78bfa' },
@@ -36,7 +55,6 @@ let isLoading = false;
 
 // ===== Init =====
 document.addEventListener('DOMContentLoaded', async () => {
-    renderFilterTags();
     await loadPrompts();
     bindEvents();
 });
@@ -47,10 +65,28 @@ async function loadPrompts() {
         const res = await fetch('data/prompts.json');
         allPrompts = await res.json();
         document.getElementById('totalCount').textContent = allPrompts.length;
+        buildDynamicTags();
+        renderFilterTags();
         renderGallery();
     } catch (e) {
         console.error('Failed to load prompts:', e);
     }
+}
+
+function buildDynamicTags() {
+    // 统计所有标签出现次数
+    const tagCount = {};
+    allPrompts.forEach(p => {
+        (p.tags || []).forEach(t => { tagCount[t] = (tagCount[t] || 0) + 1; });
+    });
+    // 按出现次数排序，取 top 15
+    const sorted = Object.entries(tagCount).sort((a, b) => b[1] - a[1]).slice(0, 15);
+    let colorIdx = 0;
+    STYLE_TAGS = sorted.map(([key, count]) => ({
+        key,
+        label: (TAG_LABELS[key] || key) + ` (${count})`,
+        color: TAG_COLORS[key] || PALETTE[colorIdx++ % PALETTE.length],
+    }));
 }
 
 // ===== Render Filter Tags =====
