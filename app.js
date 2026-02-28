@@ -144,11 +144,14 @@ function renderGallery(append = false) {
                      onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 400 300%22><rect fill=%22%2318182a%22 width=%22400%22 height=%22300%22/><text x=%2250%25%22 y=%2250%25%22 fill=%22%2355556a%22 font-size=%2240%22 text-anchor=%22middle%22 dy=%22.3em%22>🎨</text></svg>'">
             </div>
             <div class="card-body">
-                <p class="card-prompt">${escapeHtml(item.prompt.substring(0, 120))}...</p>
+                <p class="card-prompt">${escapeHtml(item.prompt.length > 120 ? item.prompt.substring(0, 120) + '...' : item.prompt)}</p>
             </div>
             <div class="card-footer">
                 <div class="card-tags">
-                    ${item.tags.slice(0, 3).map(t => `<span class="card-tag">${t}</span>`).join('')}
+                    ${item.tags.slice(0, 3).map(t => {
+                        const c = TAG_COLORS[t] || '';
+                        return c ? `<span class="card-tag" style="border-left:2px solid ${c};padding-left:5px">${t}</span>` : `<span class="card-tag">${t}</span>`;
+                    }).join('')}
                 </div>
                 <div class="card-meta">
                     <span class="card-author">${item.author}</span>
@@ -339,3 +342,19 @@ function escapeHtml(str) {
     div.textContent = str;
     return div.innerHTML;
 }
+
+// ===== Back to Top =====
+(function() {
+    const btn = document.getElementById('backToTop');
+    if (!btn) return;
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 400) {
+            btn.classList.add('visible');
+        } else {
+            btn.classList.remove('visible');
+        }
+    }, { passive: true });
+    btn.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+})();
