@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coldxiangyu163.github.io/prompt-vault/sitemap.xml
