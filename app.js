@@ -61,6 +61,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 // ===== Load Data =====
 async function loadPrompts() {
+    const spinner = document.getElementById('loadingSpinner');
     try {
         const res = await fetch('data/prompts.json');
         allPrompts = await res.json();
@@ -68,8 +69,12 @@ async function loadPrompts() {
         buildDynamicTags();
         renderFilterTags();
         renderGallery();
+        // Check deep link
+        handleDeepLink();
     } catch (e) {
         console.error('Failed to load prompts:', e);
+    } finally {
+        if (spinner) spinner.style.display = 'none';
     }
 }
 
@@ -137,9 +142,11 @@ function renderGallery(append = false) {
         const globalIdx = allPrompts.indexOf(item);
         const delay = append ? i * 0.05 : (start + i) * 0.05;
         const thumbSrc = getThumbUrl(item.images[0]);
+        const isNew = item.created_at && (Date.now() - new Date(item.created_at).getTime()) < 7 * 24 * 60 * 60 * 1000;
         return `
         <div class="card" data-index="${globalIdx}" style="animation-delay:${Math.min(delay, 1)}s">
             <div class="card-image-wrap">
+                ${isNew ? '<span class="card-badge-new">NEW</span>' : ''}
                 <img class="card-image" src="${thumbSrc}" data-full="${item.images[0]}" alt="" loading="lazy"
                      onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 400 300%22><rect fill=%22%2318182a%22 width=%22400%22 height=%22300%22/><text x=%2250%25%22 y=%2250%25%22 fill=%22%2355556a%22 font-size=%2240%22 text-anchor=%22middle%22 dy=%22.3em%22>🎨</text></svg>'">
             </div>
@@ -222,7 +229,7 @@ function openModal(index) {
     const item = allPrompts[index];
     if (!item) return;
 
-    document.getElementById('modalImage').src = item.images[0]; // full size
+    document.getElementById('modalImage').src = item.images[0];
     document.getElementById('modalAuthor').textContent = item.author;
     document.getElementById('modalTool').textContent = item.tool;
     document.getElementById('modalDate').textContent = item.created_at;
@@ -241,6 +248,11 @@ function openModal(index) {
         sourceEl.style.display = 'none';
     }
 
+    // Update URL with deep link
+    const url = new URL(window.location);
+    url.searchParams.set('id', index);
+    window.history.replaceState(null, '', url);
+
     document.getElementById('modalOverlay').classList.add('active');
     document.body.style.overflow = 'hidden';
 }
@@ -248,6 +260,29 @@ function openModal(index) {
 function closeModal() {
     document.getElementById('modalOverlay').classList.remove('active');
     document.body.style.overflow = '';
+    // Remove id from URL
+    const url = new URL(window.location);
+    url.searchParams.delete('id');
+    window.history.replaceState(null, '', url);
+}
+
+// Deep link handler
+function handleDeepLink() {
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get('id');
+    if (id !== null && allPrompts[parseInt(id)]) {
+        openModal(parseInt(id));
+    }
+}
+
+// ===== Update Clear Button Visibility =====
+function updateClearBtn() {
+    const btn = document.getElementById('filterClear');
+    if (activeFilter !== 'all' || searchQuery) {
+        btn.classList.add('visible');
+    } else {
+        btn.classList.remove('visible');
+    }
 }
 
 // ===== Events =====
@@ -260,6 +295,7 @@ function bindEvents() {
         document.querySelectorAll('.filter-tag').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
         activeFilter = btn.dataset.filter;
+        updateClearBtn();
         renderGallery();
     });
 
@@ -293,6 +329,29 @@ function bindEvents() {
         }
     });
 
+    // Copy link button
+    document.getElementById('copyLinkBtn').addEventListener('click', async () => {
+        const btn = document.getElementById('copyLinkBtn');
+        try {
+            await navigator.clipboard.writeText(window.location.href);
+            btn.classList.add('copied');
+            btn.textContent = '✅ 已复制';
+            setTimeout(() => { btn.classList.remove('copied'); btn.textContent = '🔗 复制链接'; }, 2000);
+        } catch (err) { console.error('Copy link failed:', err); }
+    });
+
+    // Clear filter button
+    const clearBtn = document.getElementById('filterClear');
+    clearBtn.addEventListener('click', () => {
+        activeFilter = 'all';
+        searchQuery = '';
+        searchInput.value = '';
+        document.querySelectorAll('.filter-tag').forEach(b => b.classList.remove('active'));
+        document.querySelector('.filter-tag[data-filter="all"]').classList.add('active');
+        clearBtn.classList.remove('visible');
+        renderGallery();
+    });
+
     // Search
     const searchInput = document.getElementById('searchInput');
     let debounceTimer;
@@ -300,6 +359,7 @@ function bindEvents() {
         clearTimeout(debounceTimer);
         debounceTimer = setTimeout(() => {
             searchQuery = searchInput.value.toLowerCase().trim();
+            updateClearBtn();
             renderGallery(false);
         }, 200);
     });

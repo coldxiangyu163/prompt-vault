@@ -273,6 +273,16 @@ body {
 .copy-btn:hover { border-color: var(--accent); color: var(--accent); }
 .copy-btn.copied { color: var(--green); border-color: var(--green); }
 
+.copy-link-btn {
+    display: flex; align-items: center; gap: 4px;
+    padding: 3px 10px; border-radius: 4px;
+    background: var(--comfy-input-bg); border: 1px solid var(--border-color);
+    color: var(--fg-secondary); font-size: 12px;
+    cursor: pointer; transition: var(--transition); font-family: inherit;
+}
+.copy-link-btn:hover { border-color: var(--accent); color: var(--accent); }
+.copy-link-btn.copied { color: var(--green); border-color: var(--green); }
+
 .modal-prompt {
     padding: 12px; margin: 0;
     font-size: 13px; line-height: 1.7;
@@ -381,3 +391,47 @@ body {
 .card-tag[data-color] {
     border-left: 2px solid var(--tag-color, var(--fg-muted));
 }
+
+/* ===== NEW Badge ===== */
+.card-badge-new {
+    position: absolute; top: 8px; right: 8px; z-index: 2;
+    padding: 2px 8px; border-radius: 4px;
+    background: var(--green); color: #fff;
+    font-size: 11px; font-weight: 700;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 6px rgba(76, 175, 80, 0.4);
+}
+
+/* ===== Loading Spinner ===== */
+.loading-spinner {
+    display: flex; align-items: center; justify-content: center;
+    padding: 80px 20px; flex-direction: column; gap: 16px;
+}
+.loading-spinner .spinner {
+    width: 36px; height: 36px;
+    border: 3px solid var(--border-color);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+.loading-spinner .spinner-text {
+    font-size: 14px; color: var(--fg-muted);
+}
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* ===== Clear Filter Button ===== */
+.filter-clear {
+    display: none; align-items: center; gap: 4px;
+    padding: 5px 12px; border-radius: var(--radius-sm);
+    background: rgba(255, 82, 82, 0.1); border: 1px solid rgba(255, 82, 82, 0.3);
+    color: #ff5252; font-size: 13px;
+    cursor: pointer; transition: var(--transition);
+    white-space: nowrap; font-family: inherit; flex-shrink: 0;
+}
+.filter-clear:hover {
+    background: rgba(255, 82, 82, 0.2);
+    border-color: #ff5252;
+}
+.filter-clear.visible { display: flex; }

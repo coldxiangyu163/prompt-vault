@@ -90,8 +90,15 @@
             <div class="filter-group" id="styleTags"></div>
             <div class="filter-divider"></div>
             <div class="filter-group" id="toolTags"></div>
+            <button class="filter-clear" id="filterClear">✕ 清除</button>
         </div>
     </nav>
+
+    <!-- Loading Spinner -->
+    <div class="loading-spinner" id="loadingSpinner">
+        <div class="spinner"></div>
+        <span class="spinner-text">加载中...</span>
+    </div>
 
     <!-- 主内容区 -->
     <main class="gallery" id="gallery">
@@ -136,9 +143,12 @@
                         </div>
                         <pre class="modal-prompt" id="modalPrompt"></pre>
                     </div>
-                    <a class="modal-source" id="modalSource" href="#" target="_blank" rel="noopener">
-                        查看原始推文 ↗
-                    </a>
+                    <div style="display:flex;gap:8px;align-items:center;margin-bottom:12px;">
+                        <button class="copy-link-btn" id="copyLinkBtn">🔗 复制链接</button>
+                        <a class="modal-source" id="modalSource" href="#" target="_blank" rel="noopener">
+                            查看原始推文 ↗
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
