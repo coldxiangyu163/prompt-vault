@@ -73,8 +73,14 @@ body {
 
 .header-stats {
     font-size: 13px; color: var(--fg-secondary); flex-shrink: 0;
+    display: flex; align-items: center; gap: 10px;
 }
 .header-stats span { color: var(--accent); font-weight: 600; }
+.github-link {
+    color: var(--fg-muted); transition: var(--transition);
+    display: flex; align-items: center;
+}
+.github-link:hover { color: var(--fg-color); }
 
 /* ===== Filter Bar ===== */
 .filter-bar {
@@ -300,6 +306,8 @@ body {
     color: var(--fg-muted); font-size: 12px;
 }
 .footer-sub { margin-top: 4px; font-size: 11px; opacity: 0.6; }
+.footer-sub a { color: var(--accent); text-decoration: none; }
+.footer-sub a:hover { text-decoration: underline; }
 
 /* ===== Scrollbar ===== */
 ::-webkit-scrollbar { width: 6px; }
