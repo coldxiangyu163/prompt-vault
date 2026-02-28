@@ -131,23 +131,6 @@
     "collected_at": "2026-02-27"
   },
   {
-    "id": "feishu_aj_004",
-    "prompt": "# High-Density Knowledge Infographic Generator v1.0\n\n## 🎯 Role Definition\nYou are an **Expert Information Architect & Graphic Designer**, specialized in transforming complex professional knowledge into **high-density, stationery-style (Planner/Journal)** infographics.\n\n**Core Capabilities:**\n- **Information Structuring:** Extracting core logic from complex data and categorizing it into visual modules.\n- **Data-Driven Strategy:** Ensuring every module contains specific numbers, parameters, or verified brands/tools.\n- **Stationery Aesthetic:** Creating refined 3D-styled illustrations (Clipboards, Folders, Index Tabs) to host content.\n\n**⚠️ Information Density Principles:**\n- Each image MUST contain **6-7 sub-topic modules**.\n- Prioritize information richness over empty aesthetics.\n- Every mo",
-    "images": [
-      "images/feishu_aj_8.jpg"
-    ],
-    "tags": [
-      "infographic",
-      "thermal-print"
-    ],
-    "style": "infographic",
-    "tool": "Nano Banana Pro",
-    "author": "AJ@WaytoAGI",
-    "source_url": "https://waytoagi.feishu.cn/wiki/YG0zwalijihRREkgmPzcWRInnUg",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
     "id": "feishu_aj_005",
     "prompt": "### 🎨 Visual Analysis: Color Logic & Design Style\n\n**1. Color Logic:**\n\n* **High-Contrast Framing:** The design uses a vibrant, solid color block (like bright Cyan `#00AEEF` or Mustard Yellow `#FFD100`) as a background to frame the central content area.\n* **Neutral Core:** The main content area is an off-white/light gray (`#F9F9F9`), mimicking a physical piece of paper or receipt, which reduces eye strain when reading dense text.\n* **Text & Accent:** Primary text is a dark charcoal/black for maximum legibility. The background color is cleverly reused as an accent color *inside* the paper area (e.g., highlighting specific words with circles or underlines) to tie the design together.\n\n**2. Design Style:**\n\n* **Modern Skeuomorphism (Receipt/Ticket Aesthetic):** The layout mimics a printed rec",
     "images": [
@@ -1594,25 +1577,6 @@
     "collected_at": "2026-02-27"
   },
   {
-    "id": "skill_034",
-    "prompt": "A cinematic shot of a single, winding bridge stretching into the distance. The architecture transitions seamlessly along its length: starting as Roman stone, becoming a medieval drawbridge, then a Victorian iron truss, and finally a futuristic composite material. Each section has era-appropriate travelers and weathering. Morning mist fills the valley below, with soft light breaking through clouds. 8K.",
-    "title": "Evolutionary Bridge Cinematic Shot Prompt",
-    "description": "A prompt designed to create a cinematic, high-resolution shot of a single, winding bridge that seamlessly transitions through different architectural eras—from Roman stone to futuristic composite material—with era-appropriate travelers and weathering, set in a misty valley with soft morning light.",
-    "images": [
-      "images/skill_034.jpg"
-    ],
-    "tags": [
-      "poster"
-    ],
-    "style": "poster",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1765438606023_8zv2xx_G7nUJksW4AA8Xc8.jpg",
-    "category": "poster-flyer",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
     "id": "skill_035",
     "prompt": "A high-contrast ink noir portrait of {argument name=\"subject\" default=\"[SUBJECT]\"}, illustrated entirely with expressive black ink strokes and controlled splatter. Heavy shadows dominate the composition while selective highlights emerge through negative space. Subtle paper grain is visible. Atmosphere is moody, cinematic, and intense, like a graphic novel frozen at its most dramatic panel.",
     "title": "Inkstorm Noir Portrait with Controlled Splatter",
@@ -1666,25 +1630,6 @@
     "tool": "Nano Banana Pro",
     "author": "youmind-library",
     "source_url": "https://cms-assets.youmind.com/media/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg",
-    "category": "poster-flyer",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "skill_038",
-    "prompt": "Create a vintage patent-style technical illustration of {argument name=\"object\" default=\"a complex mechanical device\"} on aged cream parchment paper. Black ink linework with sepia accents, hand-lettered labels, cross-section views, numbered component callouts, official patent border frame with fake patent number and date. Style of 1890s mechanical engineering drawings. Elegant, authoritative, museum-worthy.",
-    "title": "Vintage Patent Drawing Technical Illustration",
-    "description": "A prompt template for generating a vintage patent-style technical illustration of an object. It specifies black ink linework, sepia accents, hand-lettered labels, cross-section views, and an official patent border on aged cream parchment paper, aiming for the aesthetic of 1890s mechanical engineering drawings.",
-    "images": [
-      "images/skill_038.jpg"
-    ],
-    "tags": [
-      "poster"
-    ],
-    "style": "poster",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1770100770869_3w5rmq_HAL2ypcW8AAbjLT.jpg",
     "category": "poster-flyer",
     "created_at": "2026-02-27",
     "collected_at": "2026-02-27"
@@ -2301,25 +2246,6 @@
     "collected_at": "2026-02-27"
   },
   {
-    "id": "skill_071",
-    "prompt": "A hyper-realistic studio product shot of a Coca-Cola can lying horizontally, centered and slightly embedded in crushed ice and frosty snow. The can is covered with cold condensation droplets and thin frost. Soft cinematic light highlights the metallic red texture. Ice crystals are sharp with cool blue tones. Refreshing, icy, premium commercial beverage ad, 8K detail, 1350x1080, no text except logo.",
-    "title": "Hyper-Realistic Icy Coca-Cola Product Shot",
-    "description": "A prompt for generating a hyper-realistic studio product shot of a Coca-Cola can embedded in crushed ice and snow. It emphasizes cold condensation, frost, soft cinematic lighting, and 8K detail for a premium commercial beverage advertisement.",
-    "images": [
-      "images/skill_071.jpg"
-    ],
-    "tags": [
-      "ecommerce"
-    ],
-    "style": "ecommerce",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1768319084449_ec66ut_G-eLK6aaAAAvE47.jpg",
-    "category": "ecommerce-main-image",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
     "id": "skill_072",
     "prompt": "A photorealistic image of an abandoned {argument name=\"subject\" default=\"[SUBJECT]\"} in {argument name=\"color\" default=\"[COLOR]\"}, heavily covered in rust, overgrown with plants and bushes growing through and around it, splattered with mud, isolated on a pure white background, square 1:1 aspect ratio, shot with a 50mm lens for natural perspective and depth of field --ar 1:1 --v 6 --stylize 750 --q 2",
     "title": "Abandoned Object Photorealistic Image Generator",
@@ -2334,120 +2260,6 @@
     "tool": "Nano Banana Pro",
     "author": "youmind-library",
     "source_url": "https://cms-assets.youmind.com/media/1767682210746_8asmdx_G96tX4ibQAAMPfh.jpg",
-    "category": "ecommerce-main-image",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "skill_073",
-    "prompt": "A surreal zero-gravity product video featuring a strawberry soda can floating in a soft red-pink studio space.\n\nSCENE 1 — SPACE FLOATING INTRO:\nThe soda can is suspended mid-air, slightly tilted, with no visible gravity. Surrounding it are strawberries, ice cubes, and flowing red liquid, all drifting slowly as if in outer space. No object is falling — everything floats gently in different directions.",
-    "title": "Zero-Gravity Product Video Prompt (Strawberry Soda)",
-    "description": "A prompt for generating a surreal, zero-gravity product video featuring a strawberry soda can. The scene is set in a soft red-pink studio space where the can, strawberries, ice cubes, and liquid all float slowly, emphasizing a weightless, outer space aesthetic for the product shot.",
-    "images": [
-      "images/skill_073.jpg"
-    ],
-    "tags": [
-      "ecommerce"
-    ],
-    "style": "ecommerce",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1769235995156_76im06_G_U0e55a4AAMRZK.jpg",
-    "category": "ecommerce-main-image",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "skill_074",
-    "prompt": "Commercial product photography, {argument name=\"product name\" default=\"Aravia Correcting Azelaic Cream\"} white tube diagonally placed on a white circular chart diagram overlaying a bed of fresh green leaves, text 'CREAM' and 'ARAVIA' at top, floating green leaves in foreground, covered in fresh water droplets, condensation, bright white studio lighting, high resolution, photorealistic 3D composition, 8k",
-    "title": "Commercial Product Photography (CGI Advertising Composite)",
-    "description": "An extremely detailed JSON prompt for generating a commercial product advertisement image (CGI composite style) for a cosmetic cream tube. It specifies a clean, clinical mood, a white circular platform, a bed of dark green leaves, and realistic water droplets/condensation effects. The prompt includes specific Russian text labels and detailed lighting instructions for a high-key, saturated look.",
-    "images": [
-      "images/skill_074.jpg"
-    ],
-    "tags": [
-      "ecommerce"
-    ],
-    "style": "ecommerce",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1768319189239_c8rff1_G-c0GS8asAAn82S.jpg",
-    "category": "ecommerce-main-image",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "skill_075",
-    "prompt": "Ultra-cinematic product photography of a premium protein bar wrapped in metallic packaging, floating at a dynamic angle; explosive chocolate chunks, caramel drips, and nut fragments frozen mid-air; high-speed splash and crumble effect, dramatic studio lighting with sharp highlights; rich brown and gold palette, ultra-detailed textures, shallow depth of field, photorealistic, 8K, fitness luxury advertising.",
-    "title": "Ultra-cinematic Protein Bar Product Photography",
-    "description": "A prompt focused on generating ultra-cinematic product photography of a premium protein bar. It emphasizes dynamic action, such as floating elements (chocolate, caramel, nuts) and high-speed splash effects, using dramatic studio lighting and a rich color palette for luxury advertising.",
-    "images": [
-      "images/skill_075.jpg"
-    ],
-    "tags": [
-      "ecommerce"
-    ],
-    "style": "ecommerce",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1770532754408_296sfb_HAhtxysacAEKuf5.jpg",
-    "category": "ecommerce-main-image",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "skill_076",
-    "prompt": "Studio photography of [{argument name=\"product name\" default=\"product name\"}]. Placed on a [{argument name=\"background\" default=\"background\"}] surrounded by soft shadows and a gradient background. Premium product photo with high-key lighting, shallow depth of field, and extremely sharp focus on the subject. Shot with a digital SLR camera. Minimalist aesthetic, delicate reflections, commercial lighting setup.",
-    "title": "Genspark Product Photography Prompt Template",
-    "description": "A reusable prompt template for generating premium product photography images using Genspark, which offers unlimited access to Nano Banana Pro. The prompt focuses on studio setting, soft lighting, shallow depth of field, and a minimalist aesthetic.",
-    "images": [
-      "images/skill_076.jpg"
-    ],
-    "tags": [
-      "ecommerce"
-    ],
-    "style": "ecommerce",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1765967795528_79h0gf_G72JjGdaMAURlfP.jpg",
-    "category": "ecommerce-main-image",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "skill_077",
-    "prompt": "A single ripe {argument name=\"fruit type\" default=\"cherry\"} suspended in a creamy milk splash, ultra-macro food photography, glossy red skin with fine texture, soft {argument name=\"background color\" default=\"pastel pink\"} background, liquid frozen mid-motion, smooth flowing curves, shallow depth of field, cinematic studio lighting, hyper-realistic, high detail, luxury advertising style",
-    "title": "Ultra-Macro Cherry in Milk Splash",
-    "description": "A prompt for generating a hyper-realistic, ultra-macro food photograph of a single ripe cherry suspended in a creamy milk splash, capturing the liquid frozen mid-motion with smooth flowing curves, set against a soft pastel pink background for a luxury advertising aesthetic.",
-    "images": [
-      "images/skill_077.jpg"
-    ],
-    "tags": [
-      "ecommerce"
-    ],
-    "style": "ecommerce",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1770706175460_r42e5q_HAteTzqaUAA_9fh.jpg",
-    "category": "ecommerce-main-image",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "skill_078",
-    "prompt": "Professional product photography, high-end advertising, luxury, minimalist, clean background, soft studio lighting, focus on texture and detail, sharp, hyper-realistic, 8k, a single {argument name=\"product name\" default=\"sleek black object\"} on a polished marble surface, subtle reflections, dramatic shadows, cinematic composition, depth of field, neutral color palette, commercial style",
-    "title": "Product Shoot Prompt for Advertising",
-    "description": "This is an image generation prompt used for a product shoot advertisement comparison between Seedream 4.2 and Nano Banana Pro 2K. The prompt describes a high-end, professional product photography setup featuring a luxurious, minimalist aesthetic with a focus on lighting and texture.",
-    "images": [
-      "images/skill_078.jpg"
-    ],
-    "tags": [
-      "ecommerce"
-    ],
-    "style": "ecommerce",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1765421904328_lmkrwn_G7kiLZwbkAAfyXs.jpg",
     "category": "ecommerce-main-image",
     "created_at": "2026-02-27",
     "collected_at": "2026-02-27"
@@ -2586,25 +2398,6 @@
     "collected_at": "2026-02-27"
   },
   {
-    "id": "skill_086",
-    "prompt": "A modern, minimalist digital illustration of {argument name=\"title or name\" default=\"[TITLE / NAME]\"} using bold uppercase typography with subtle depth. Each letter contains one carefully chosen object or visual cue representing a key idea or value.\n\nThe background remains understated, allowing the typography to communicate meaning through simplicity. Clean, intelligent, gallery-ready aesthetic.",
-    "title": "Minimalist Typographic Illustration Conveying Meaning",
-    "description": "A prompt template for generating a modern, minimalist digital illustration where the letters of a given title or name are used as the canvas. Each bold uppercase letter contains a carefully chosen object or visual cue representing a key idea or value, creating a clean, intelligent, and gallery-ready aesthetic.",
-    "images": [
-      "images/skill_086.jpg"
-    ],
-    "tags": [
-      "app-design"
-    ],
-    "style": "app-design",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1768143610586_57m1dv_G-NxivMbwAAgvWN.jpg",
-    "category": "app-web-design",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
     "id": "skill_087",
     "prompt": "A clean, minimalist 3D isometric model showcasing a [{argument name=\"location\" default=\"car showroom\"}], where [{argument name=\"display items\" default=\"display items\"}] are arranged within a [cabin structure], featuring subtle lighting accents, smooth floor surfaces, soft studio lighting, realistic materials, rounded edges, a miniature architectural style, high detail, and a neutral background.",
     "title": "Minimalist 3D Isometric Car Showroom Model",
@@ -2638,25 +2431,6 @@
     "tool": "Nano Banana Pro",
     "author": "youmind-library",
     "source_url": "https://cms-assets.youmind.com/media/1767455056686_av627p_G9adqnVaYAI73Zm.jpg",
-    "category": "app-web-design",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "skill_089",
-    "prompt": "[ Theme ]\nAdvertisement for an accounting efficiency tool\n\nThis is a standard layout. People read from the top left and their gaze flows to the bottom right. The arrangement follows this rule. It continues with the main copy, sub-copy, and CTA button. The right side is the eye-catcher, whose role is to attract attention, evoke empathy, and make the viewer feel personally connected.",
-    "title": "Nano Banana Pro Thumbnail Generation Example",
-    "description": "This tweet describes the layout and design principles for a thumbnail generated by Nano Banana Pro, specifically for an advertisement about an accounting efficiency tool. It explains the visual flow (top-left to bottom-right) for optimal viewer engagement, but the actual prompt text is mentioned to be in the replies (which are not provided).",
-    "images": [
-      "images/skill_089.jpg"
-    ],
-    "tags": [
-      "app-design"
-    ],
-    "style": "app-design",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1770187207321_l0fn8e_HAROPCBaYAA7MIa.jpg",
     "category": "app-web-design",
     "created_at": "2026-02-27",
     "collected_at": "2026-02-27"
@@ -3105,25 +2879,6 @@
     "collected_at": "2026-02-27"
   },
   {
-    "id": "skill_113",
-    "prompt": "Hyper-realistic portrait of a main character with vibrant green skin, standing in front of the Las Vegas Strip at night with neon lights, casinos, and glowing signs in the background. Cinematic lighting on the face, deep shadows, crisp details, slight lens bloom from the Vegas lights, shallow depth of field. Add the text “{argument name=\"model's name\" default=\"[model's name]\"}” with 3D teddy bear texture typography integrated into the scene.",
-    "title": "Hyper-realistic portrait with vibrant green skin on the Las Vegas Strip",
-    "description": "An image generation prompt for creating a hyper-realistic cinematic portrait of a main character with vibrant green skin, set against the backdrop of the Las Vegas Strip at night. The prompt emphasizes cinematic lighting, deep shadows, crisp details, and includes a specific instruction for integrating 3D teddy bear texture typography with the character's name into the scene.",
-    "images": [
-      "images/skill_113.jpg"
-    ],
-    "tags": [
-      "youtube-thumbnail"
-    ],
-    "style": "youtube-thumbnail",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1765421889413_4n0q7v_G7SLvlNXAAA_HXu.jpg",
-    "category": "youtube-thumbnail",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
     "id": "skill_114",
     "prompt": "A stunning young woman with long wavy grey hair sits on a snow-covered ferry seat during a heavy snowfall, leaning her head on her arm. She wears a thick grey knitted sweater and a black puffer vest, with snowflakes resting on her hair and clothes. The background shows an empty ferry deck, icy railings, and a blurred winter cityscape across the water. The mood is cold, cinematic, and serene with soft natural lighting and a muted color palette.",
     "title": "Serene Winter Ferry Portrait",
@@ -3241,25 +2996,6 @@
     "collected_at": "2026-02-27"
   },
   {
-    "id": "skill_120",
-    "prompt": "A high-contrast ink noir portrait of {argument name=\"subject\" default=\"[SUBJECT]\"}, illustrated entirely with expressive black ink strokes and controlled splatter. Heavy shadows dominate the composition while selective highlights emerge through negative space. Subtle paper grain is visible. Atmosphere is moody, cinematic, and intense, like a graphic novel frozen at its most dramatic panel.",
-    "title": "Ink Noir Portrait Generation Prompt",
-    "description": "A detailed image generation prompt designed for a high-contrast ink noir portrait. It specifies the use of expressive black ink strokes and controlled splatter, emphasizing heavy shadows and selective highlights created through negative space. The goal is to achieve a moody, cinematic, graphic novel aesthetic.",
-    "images": [
-      "images/skill_120.jpg"
-    ],
-    "tags": [
-      "comic"
-    ],
-    "style": "comic",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1767803972396_9b03ms_G99hschbgAAWmL_.jpg",
-    "category": "comic-storyboard",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
     "id": "skill_121",
     "prompt": "A storyboard panel, depicting a scene of {argument name=\"scene description\" default=\"a young woman sitting alone in a dimly lit cafe, rain streaks down the window, her expression is melancholic\"}. The style is clean, cinematic, and black and white, with strong contrast and deep shadows. The composition is a medium close-up, focusing on the character's face and the atmosphere of the cafe. Aspect ratio 16:9.",
     "title": "Nano Banana Pro Storyboard Prompt Pattern",
@@ -3279,25 +3015,6 @@
     "collected_at": "2026-02-27"
   },
   {
-    "id": "skill_122",
-    "prompt": "Create an addictively intriguing storyboard in 3X3 gride with 9 images featuring a woman and man in an award-winning luxury luggage commercial. The story should have emotional highs and lows, ending on an elegant shot of the woman with the logo. The identity of the woman and man and their attire must stay consistent throughout but they should be seen from different angles and distances.",
-    "title": "Commercial Ad Storyboard Prompt for Luxury Luggage",
-    "description": "A structured prompt designed to generate a 3x3 grid storyboard for a luxury luggage commercial. The prompt focuses on maintaining character consistency (a woman and man) across nine images depicting emotional highs and lows, culminating in an elegant shot with the brand logo.",
-    "images": [
-      "images/skill_122.jpg"
-    ],
-    "tags": [
-      "comic"
-    ],
-    "style": "comic",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1769063249497_lzwjyj_G_NALnCaIAArnf3.jpg",
-    "category": "comic-storyboard",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
     "id": "skill_123",
     "prompt": "A multi-cut image of a Japanese woman doing yoga in a stylish room.\nDivide the frame into 5x5 sections and create 25 scenes.\nDisplay sequential numbers from 1 in the upper left of each scene.\n\n25 scenes are depicted in the image above.\nThe upper left is the scene number.\nExtract scene number {argument name=\"extracted scene number\" default=\"7\"} and reproduce it in high resolution.",
     "title": "Multi-Cut Scene Generation and Extraction Prompt",
@@ -3312,25 +3029,6 @@
     "tool": "Nano Banana Pro",
     "author": "youmind-library",
     "source_url": "https://cms-assets.youmind.com/media/1770187208800_fg4pik_HAN5rpDa4AEa1g5.jpg",
-    "category": "comic-storyboard",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "skill_124",
-    "prompt": "classic archival film still warner bros studio archive a glamorous silver screen with a knowing grin, femme fatale sits in a chair her legs crossed medium close-up shot subtitle \"{argument name=\"subtitle\" default=\"Everyone too scared to try me?\"}\"  no logos, black and white.   Her dress has the text \"{argument name=\"dress text\" default=\"Seedream 4.5\"}\" embroidered elegantly, ultrafine detail, creatively upscale to 8K",
-    "title": "Archival Film Still of a Glamorous Femme Fatale",
-    "description": "A prompt for generating a black and white, archival film still image reminiscent of a Warner Bros. studio archive. It features a glamorous silver screen femme fatale sitting in a chair with crossed legs, including a subtitle and specific instructions for ultrafine detail and upscaling.",
-    "images": [
-      "images/skill_124.jpg"
-    ],
-    "tags": [
-      "comic"
-    ],
-    "style": "comic",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1766042087893_vsqy41_G8WCjzNa4AQoJif.jpg",
     "category": "comic-storyboard",
     "created_at": "2026-02-27",
     "collected_at": "2026-02-27"
@@ -3394,44 +3092,6 @@
     "collected_at": "2026-02-27"
   },
   {
-    "id": "skill_128",
-    "prompt": "{\n  \"prompt\": \"A beautiful girl standing on a neon-lit mountain peak overlooking a futuristic cyberpunk world. Holograms in the sky, glowing lights from distant cities, metallic textures, neon blue and pink colour palette.\",\n  \"style\": \"cyberpunk sci-fi\",\n  \"lighting\": \"neon rim light\",\n  \"details\": {\n    \"tech_elements\": [\"holograms\", \"light trails\"],\n    \"mood\": \"bold, adventurous\"\n  }\n}",
-    "title": "Cyberpunk Mountain Peak Girl",
-    "description": "A prompt for generating a cyberpunk sci-fi image of a girl standing on a neon-lit mountain peak, overlooking a futuristic world with holograms and glowing cities, using a neon blue and pink color palette.",
-    "images": [
-      "images/skill_128.jpg"
-    ],
-    "tags": [
-      "game-asset"
-    ],
-    "style": "game-asset",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg",
-    "category": "game-asset",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "skill_129",
-    "prompt": "A clean, minimal 3D isometric diorama of a {argument name=\"city transport type\" default=\"[CITY TRANSPORT TYPE]\"} stop, featuring a {argument name=\"vehicle type\" default=\"[VEHICLE]\"} paused at a [PLATFORM TYPE], simple [SHELTER / CANOPY], subtle wayfinding signs, smooth concrete surfaces, soft studio lighting, realistic materials, rounded edges, miniature architectural model style, high detail, neutral background.",
-    "title": "3D Isometric Urban Transit Stop Diorama Prompt",
-    "description": "A template prompt for generating a clean, minimal 3D isometric diorama of an urban transit stop, allowing customization of the transport type, vehicle, platform, and shelter, emphasizing realistic materials and a miniature architectural model style.",
-    "images": [
-      "images/skill_129.jpg"
-    ],
-    "tags": [
-      "game-asset"
-    ],
-    "style": "game-asset",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1768544814248_umamd4_G-rcPi3bQAMNVo8.jpg",
-    "category": "game-asset",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
     "id": "skill_130",
     "prompt": "“A stylized illustration of [{argument name=\"character type\" default=\"CHARACTER TYPE\"}] with [{argument name=\"distinct feature\" default=\"DISTINCT FEATURE / ACCESSORY\"}].\n\nSimplified shapes, expressive body language with heavy facial details.\n\nIllustration style: [{argument name=\"illustration style\" default=\"FLAT / CEL-SHADED / SOFT 3D\"}].\nColor palette: [MUTED / VIBRANT / MONOCHROME].\nBackground minimal and abstract”",
     "title": "Stylized Character Illustration Template",
@@ -3446,25 +3106,6 @@
     "tool": "Nano Banana Pro",
     "author": "youmind-library",
     "source_url": "https://cms-assets.youmind.com/media/1770273445403_zepfra_HATiARYagAEN1KE.jpg",
-    "category": "game-asset",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "skill_131",
-    "prompt": "A towering winter creature emerges from a blizzard shrouded forest, antler like ice horns branching from its skull, fur crusted with frost and drifting snow. Glowing pale light blue eyes cut through the whiteout. Breath crystallizes midair. \n\nCinematic wide shot, low angle, heavy snowfall, cold blue-grey palette, ultra detailed texture, dramatic rim light, dark fantasy realism.",
-    "title": "Dark Fantasy Winter Creature Emerging from a Blizzard",
-    "description": "A cinematic image generation prompt for a dark fantasy creature. It describes a towering winter entity with ice horns, frost-crusted fur, and glowing blue eyes, set against a heavy snowfall and a cold blue-grey palette. The composition is specified as a cinematic wide shot with a low angle and dramatic lighting.",
-    "images": [
-      "images/skill_131.jpg"
-    ],
-    "tags": [
-      "game-asset"
-    ],
-    "style": "game-asset",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1769322297572_j4dp4w_G_dmeMZaMAAQlz-.jpg",
     "category": "game-asset",
     "created_at": "2026-02-27",
     "collected_at": "2026-02-27"
@@ -3524,25 +3165,6 @@
     "tool": "Nano Banana Pro",
     "author": "youmind-library",
     "source_url": "https://cms-assets.youmind.com/media/1766988112563_2iduen_G9D2U4raoAA8F_2.jpg",
-    "category": "game-asset",
-    "created_at": "2026-02-27",
-    "collected_at": "2026-02-27"
-  },
-  {
-    "id": "skill_135",
-    "prompt": "A clean, minimal 3D isometric diorama of a {argument name=\"exhibition type\" default=\"[EXHIBITION TYPE]\"}, featuring {argument name=\"display objects\" default=\"[DISPLAY OBJECTS]\"} arranged within a {argument name=\"pod structure\" default=\"[POD STRUCTURE]\"}, subtle lighting accents, smooth floor surfaces, soft studio lighting, realistic materials, rounded edges, miniature architectural model style, high detail, neutral background.",
-    "title": "Minimalist 3D Isometric Exhibition Pod Diorama",
-    "description": "A template prompt for generating a clean, minimal 3D isometric diorama image. It is designed for visualizing a pop-up exhibition space, allowing the user to customize the type of exhibition, the objects displayed, and the structure of the pod, all rendered in a miniature architectural model style with soft studio lighting.",
-    "images": [
-      "images/skill_135.jpg"
-    ],
-    "tags": [
-      "game-asset"
-    ],
-    "style": "game-asset",
-    "tool": "Nano Banana Pro",
-    "author": "youmind-library",
-    "source_url": "https://cms-assets.youmind.com/media/1768717570869_xdbz00_G-2E_2JaUAAR7Q-.jpg",
     "category": "game-asset",
     "created_at": "2026-02-27",
     "collected_at": "2026-02-27"
