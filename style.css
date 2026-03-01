@@ -638,3 +638,20 @@ body {
     border-color: #ff5252;
 }
 .filter-clear.visible { display: flex; }
+
+/* ===== Modal Navigation Buttons ===== */
+.modal-nav {
+    position: absolute; top: 50%; transform: translateY(-50%);
+    z-index: 10; background: rgba(0,0,0,0.5); border: 1px solid rgba(255,255,255,0.15);
+    color: #fff; border-radius: 50%; width: 40px; height: 40px;
+    display: flex; align-items: center; justify-content: center;
+    cursor: pointer; transition: var(--transition); opacity: 0.7;
+}
+.modal-nav:hover { opacity: 1; background: rgba(99,102,241,0.6); }
+.modal-nav-prev { left: -56px; }
+.modal-nav-next { right: -56px; }
+@media (max-width: 768px) {
+    .modal-nav-prev { left: 8px; }
+    .modal-nav-next { right: 8px; }
+    .modal-nav { width: 36px; height: 36px; opacity: 0.85; }
+}

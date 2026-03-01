@@ -46,12 +46,23 @@ const TOOL_TAGS = [
     { key: 'DALL-E', label: 'DALL-E', color: '#22d3ee' },
 ];
 
+// Will be updated after data loads
+function updateToolTagCounts() {
+    const toolCount = {};
+    allPrompts.forEach(p => { toolCount[p.tool] = (toolCount[p.tool] || 0) + 1; });
+    TOOL_TAGS.forEach(t => {
+        const count = toolCount[t.key] || 0;
+        t.label = `${t.key} (${count})`;
+    });
+}
+
 let allPrompts = [];
 let activeFilter = 'all';
 let searchQuery = '';
 const PAGE_SIZE = 20;
 let currentPage = 1;
 let isLoading = false;
+let currentModalIndex = -1; // Track current modal prompt index
 
 // ===== Init =====
 document.addEventListener('DOMContentLoaded', async () => {
@@ -67,6 +78,7 @@ async function loadPrompts() {
         allPrompts = await res.json();
         document.getElementById('totalCount').textContent = allPrompts.length;
         buildDynamicTags();
+        updateToolTagCounts();
         renderFilterTags();
         renderGallery();
         // Check deep link
@@ -233,8 +245,13 @@ function getFilteredPrompts() {
 function openModal(index) {
     const item = allPrompts[index];
     if (!item) return;
+    currentModalIndex = index;
 
-    document.getElementById('modalImage').src = item.images[0];
+    const modalImg = document.getElementById('modalImage');
+    modalImg.src = item.images[0];
+    modalImg.onerror = function() {
+        this.src = 'data:image/svg+xml,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400"><rect fill="#18182a" width="600" height="400"/><text x="50%" y="50%" fill="#55556a" font-size="48" text-anchor="middle" dy=".3em">🎨 图片加载失败</text></svg>');
+    };
     document.getElementById('modalAuthor').textContent = item.author;
     document.getElementById('modalTool').textContent = item.tool;
     document.getElementById('modalDate').textContent = item.created_at;
@@ -265,10 +282,23 @@ function openModal(index) {
 function closeModal() {
     document.getElementById('modalOverlay').classList.remove('active');
     document.body.style.overflow = '';
+    currentModalIndex = -1;
     // Remove id from URL
     const url = new URL(window.location);
     url.searchParams.delete('id');
     window.history.replaceState(null, '', url);
+}
+
+// Navigate to prev/next prompt in modal
+function navigateModal(direction) {
+    const filtered = getFilteredPrompts();
+    if (filtered.length === 0) return;
+    const currentItem = allPrompts[currentModalIndex];
+    const currentFilteredIdx = filtered.indexOf(currentItem);
+    if (currentFilteredIdx === -1) return;
+    const nextFilteredIdx = (currentFilteredIdx + direction + filtered.length) % filtered.length;
+    const nextGlobalIdx = allPrompts.indexOf(filtered[nextFilteredIdx]);
+    openModal(nextGlobalIdx);
 }
 
 // Deep link handler
@@ -356,6 +386,16 @@ function bindEvents() {
         if (e.target === e.currentTarget) closeModal();
     });
 
+    // Modal navigation buttons
+    document.getElementById('modalPrev').addEventListener('click', (e) => {
+        e.stopPropagation();
+        navigateModal(-1);
+    });
+    document.getElementById('modalNext').addEventListener('click', (e) => {
+        e.stopPropagation();
+        navigateModal(1);
+    });
+
     // Copy button
     document.getElementById('copyBtn').addEventListener('click', async () => {
         const text = document.getElementById('modalPrompt').textContent;
@@ -423,12 +463,13 @@ function bindEvents() {
 
     // Keyboard shortcuts
     document.addEventListener('keydown', e => {
+        const modalActive = document.getElementById('modalOverlay').classList.contains('active');
         if (e.key === '/' && document.activeElement !== searchInput) {
             e.preventDefault();
             searchInput.focus();
         }
         if (e.key === 'Escape') {
-            if (document.getElementById('modalOverlay').classList.contains('active')) {
+            if (modalActive) {
                 closeModal();
             } else {
                 searchInput.blur();
@@ -436,6 +477,11 @@ function bindEvents() {
                 searchQuery = '';
                 renderGallery();
             }
+        }
+        // Arrow key navigation in modal
+        if (modalActive && (e.key === 'ArrowLeft' || e.key === 'ArrowRight')) {
+            e.preventDefault();
+            navigateModal(e.key === 'ArrowRight' ? 1 : -1);
         }
     });
 }
