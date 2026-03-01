@@ -4,6 +4,10 @@
 
 🔗 **在线体验**: [https://coldxiangyu163.github.io/prompt-vault](https://coldxiangyu163.github.io/prompt-vault)
 
+## Preview
+
+![PromptVault Preview](docs/screenshot.png)
+
 ## ✨ 特性
 
 - 🖼️ **瀑布流图库** — 瀑布流布局展示 200+ 精选提示词及其生成效果图
