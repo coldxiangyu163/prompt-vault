@@ -78,32 +78,68 @@
         </div>
     </header>
 
-    <!-- 标签筛选栏 -->
-    <nav class="filter-bar">
-        <div class="filter-inner">
-            <div class="filter-group">
-                <button class="filter-tag active" data-filter="all">
-                    <span class="tag-dot" style="background:#a78bfa"></span>全部
+    <!-- 侧边栏 + 主内容布局 -->
+    <div class="layout-wrapper">
+        <!-- 侧边栏筛选 -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <span class="sidebar-title">🏷️ 筛选</span>
+                <button class="sidebar-toggle" id="sidebarCollapse" title="收起侧边栏">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M15 18l-6-6 6-6"/></svg>
                 </button>
             </div>
-            <div class="filter-divider"></div>
-            <div class="filter-group" id="styleTags"></div>
-            <div class="filter-divider"></div>
-            <div class="filter-group" id="toolTags"></div>
-            <button class="filter-clear" id="filterClear">✕ 清除</button>
+            <div class="sidebar-body">
+                <div class="sidebar-section">
+                    <button class="filter-tag active" data-filter="all">
+                        <span class="tag-dot" style="background:#a78bfa"></span>全部
+                    </button>
+                </div>
+                <div class="sidebar-section">
+                    <div class="sidebar-section-title" data-collapse="style">
+                        <span>风格标签</span>
+                        <svg class="collapse-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><path d="M6 9l6 6 6-6"/></svg>
+                    </div>
+                    <div class="sidebar-section-body" id="styleTags"></div>
+                </div>
+                <div class="sidebar-section">
+                    <div class="sidebar-section-title" data-collapse="tool">
+                        <span>工具</span>
+                        <svg class="collapse-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><path d="M6 9l6 6 6-6"/></svg>
+                    </div>
+                    <div class="sidebar-section-body" id="toolTags"></div>
+                </div>
+                <button class="filter-clear" id="filterClear">✕ 清除筛选</button>
+            </div>
+        </aside>
+
+        <!-- 侧边栏收起后的展开按钮 -->
+        <button class="sidebar-expand" id="sidebarExpand" title="展开筛选">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M9 18l6-6-6-6"/></svg>
+            <span>筛选</span>
+        </button>
+
+        <!-- 移动端筛选按钮 -->
+        <button class="mobile-filter-btn" id="mobileFilterBtn">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><path d="M4 6h16M7 12h10M10 18h4"/></svg>
+            筛选
+        </button>
+
+        <!-- 移动端 drawer 遮罩 -->
+        <div class="drawer-overlay" id="drawerOverlay"></div>
+
+        <div class="main-content">
+            <!-- Loading Spinner -->
+            <div class="loading-spinner" id="loadingSpinner">
+                <div class="spinner"></div>
+                <span class="spinner-text">加载中...</span>
+            </div>
+
+            <!-- 主内容区 -->
+            <main class="gallery" id="gallery">
+                <!-- 动态渲染 -->
+            </main>
         </div>
-    </nav>
-
-    <!-- Loading Spinner -->
-    <div class="loading-spinner" id="loadingSpinner">
-        <div class="spinner"></div>
-        <span class="spinner-text">加载中...</span>
     </div>
-
-    <!-- 主内容区 -->
-    <main class="gallery" id="gallery">
-        <!-- 动态渲染 -->
-    </main>
 
     <!-- 空状态 -->
     <div class="empty-state" id="emptyState" style="display:none">

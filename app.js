@@ -105,6 +105,11 @@ function renderFilterTags() {
     TOOL_TAGS.forEach(tag => {
         toolContainer.appendChild(createFilterBtn(tag));
     });
+
+    // Set initial max-height for collapsible sections
+    document.querySelectorAll('.sidebar-section-body').forEach(body => {
+        body.style.maxHeight = body.scrollHeight + 'px';
+    });
 }
 
 function createFilterBtn({ key, label, color }) {
@@ -287,8 +292,41 @@ function updateClearBtn() {
 
 // ===== Events =====
 function bindEvents() {
-    // Filter clicks
-    document.querySelector('.filter-bar').addEventListener('click', e => {
+    const sidebar = document.getElementById('sidebar');
+    const sidebarCollapse = document.getElementById('sidebarCollapse');
+    const sidebarExpand = document.getElementById('sidebarExpand');
+    const mobileFilterBtn = document.getElementById('mobileFilterBtn');
+    const drawerOverlay = document.getElementById('drawerOverlay');
+
+    // Sidebar collapse/expand (desktop)
+    sidebarCollapse.addEventListener('click', () => {
+        sidebar.classList.add('collapsed');
+    });
+    sidebarExpand.addEventListener('click', () => {
+        sidebar.classList.remove('collapsed');
+    });
+
+    // Mobile drawer open/close
+    mobileFilterBtn.addEventListener('click', () => {
+        sidebar.classList.add('mobile-open');
+        drawerOverlay.classList.add('active');
+    });
+    drawerOverlay.addEventListener('click', () => {
+        sidebar.classList.remove('mobile-open');
+        drawerOverlay.classList.remove('active');
+    });
+
+    // Section collapse/expand
+    document.querySelectorAll('.sidebar-section-title').forEach(title => {
+        title.addEventListener('click', () => {
+            title.classList.toggle('collapsed');
+            const body = title.nextElementSibling;
+            body.classList.toggle('collapsed');
+        });
+    });
+
+    // Filter clicks (sidebar)
+    sidebar.addEventListener('click', e => {
         const btn = e.target.closest('.filter-tag');
         if (!btn) return;
 
@@ -297,6 +335,12 @@ function bindEvents() {
         activeFilter = btn.dataset.filter;
         updateClearBtn();
         renderGallery();
+
+        // Close mobile drawer after selection
+        if (window.innerWidth <= 768) {
+            sidebar.classList.remove('mobile-open');
+            drawerOverlay.classList.remove('active');
+        }
     });
 
     // Card clicks
