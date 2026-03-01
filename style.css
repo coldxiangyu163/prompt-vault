@@ -510,7 +510,7 @@ body {
     padding: 12px; margin: 0;
     font-size: 13px; line-height: 1.7;
     color: var(--fg-color);
-    white-space: pre-wrap; word-break: break-all;
+    white-space: pre-wrap; overflow-wrap: break-word; word-break: normal;
     max-height: 260px; overflow-y: auto;
     font-family: 'SF Mono', 'Fira Code', Consolas, monospace;
 }

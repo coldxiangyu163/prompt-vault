@@ -257,6 +257,13 @@ function openModal(index) {
     document.getElementById('modalDate').textContent = item.created_at;
     document.getElementById('modalPrompt').textContent = item.prompt;
 
+    // Show character count
+    const charCount = item.prompt ? item.prompt.length : 0;
+    const promptHeader = document.querySelector('.modal-prompt-header');
+    if (promptHeader) {
+        promptHeader.innerHTML = `📋 提示词 <span style="font-size:0.75em;color:var(--fg-muted);font-weight:normal;margin-left:6px">(${charCount} chars)</span>`;
+    }
+
     const tagsHtml = item.tags.map(t =>
         `<span class="modal-tag-item">${t}</span>`
     ).join('');
@@ -484,6 +491,24 @@ function bindEvents() {
             navigateModal(e.key === 'ArrowRight' ? 1 : -1);
         }
     });
+
+    // Touch swipe navigation for modal (mobile)
+    let touchStartX = 0;
+    let touchStartY = 0;
+    const modalOverlay = document.getElementById('modalOverlay');
+    modalOverlay.addEventListener('touchstart', e => {
+        touchStartX = e.changedTouches[0].screenX;
+        touchStartY = e.changedTouches[0].screenY;
+    }, { passive: true });
+    modalOverlay.addEventListener('touchend', e => {
+        if (!modalOverlay.classList.contains('active')) return;
+        const dx = e.changedTouches[0].screenX - touchStartX;
+        const dy = e.changedTouches[0].screenY - touchStartY;
+        // Only trigger if horizontal swipe > 50px and more horizontal than vertical
+        if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+            navigateModal(dx < 0 ? 1 : -1);
+        }
+    }, { passive: true });
 }
 
 // ===== Utils =====
