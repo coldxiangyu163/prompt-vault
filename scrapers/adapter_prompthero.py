@@ -1,6 +1,9 @@
 """
 PromptHero Adapter — 从 PromptHero 网站采集热门 prompt
-PromptHero 没有公开 API，通过网页抓取获取数据。
+
+NOTE (2026-03-02): PromptHero 已迁移至 Next.js SPA，服务端返回空壳 HTML，
+静态抓取无法获取 prompt 数据。此 adapter 已标记为 broken。
+建议使用 Civitai adapter (batch_collect.py) 作为替代数据源。
 """
 
 import json
