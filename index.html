@@ -17,9 +17,9 @@
     <link rel="dns-prefetch" href="https://pbs.twimg.com">
     <link rel="preload" href="data/prompts.json" as="fetch" crossorigin>
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="PromptVault — AI 生图提示词视觉图库">
-    <meta name="twitter:description" content="190+ 精选 AI 绘图提示词，免费开源一键复用">
-    <meta name="twitter:image" content="https://coldxiangyu163.github.io/prompt-vault/images/og-cover.png">
+    <meta name="twitter:title" content="PromptVault - AI Prompt Gallery">
+    <meta name="twitter:description" content="Discover and share AI art prompts for Stable Diffusion, Midjourney, DALL-E and more">
+    <meta name="twitter:image" content="https://coldxiangyu163.github.io/prompt-vault/og-image.svg">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
     <link rel="stylesheet" href="style.css">
     <!-- Umami Analytics (privacy-friendly, no cookie consent needed) -->
@@ -193,8 +193,19 @@
                         </div>
                         <pre class="modal-prompt" id="modalPrompt"></pre>
                     </div>
-                    <div style="display:flex;gap:8px;align-items:center;margin-bottom:12px;">
-                        <button class="copy-link-btn" id="copyLinkBtn">🔗 复制链接</button>
+                    <div class="modal-share-bar">
+                        <button class="share-btn share-btn-copy" id="copyLinkBtn" title="复制链接">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+                            <span>复制链接</span>
+                        </button>
+                        <button class="share-btn share-btn-twitter" id="shareTwitterBtn" title="分享到 Twitter">
+                            <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                            <span>推特</span>
+                        </button>
+                        <button class="share-btn share-btn-share" id="shareNativeBtn" title="分享">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+                            <span>分享</span>
+                        </button>
                         <a class="modal-source" id="modalSource" href="#" target="_blank" rel="noopener">
                             查看原始推文 ↗
                         </a>

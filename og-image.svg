@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4a9eff"/>
+      <stop offset="100%" style="stop-color:#a78bfa"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Decorative grid dots -->
+  <g opacity="0.08" fill="#fff">
+    <circle cx="100" cy="100" r="2"/><circle cx="160" cy="100" r="2"/><circle cx="220" cy="100" r="2"/><circle cx="280" cy="100" r="2"/>
+    <circle cx="100" cy="160" r="2"/><circle cx="160" cy="160" r="2"/><circle cx="220" cy="160" r="2"/><circle cx="280" cy="160" r="2"/>
+    <circle cx="100" cy="220" r="2"/><circle cx="160" cy="220" r="2"/><circle cx="220" cy="220" r="2"/><circle cx="280" cy="220" r="2"/>
+    <circle cx="920" cy="410" r="2"/><circle cx="980" cy="410" r="2"/><circle cx="1040" cy="410" r="2"/><circle cx="1100" cy="410" r="2"/>
+    <circle cx="920" cy="470" r="2"/><circle cx="980" cy="470" r="2"/><circle cx="1040" cy="470" r="2"/><circle cx="1100" cy="470" r="2"/>
+    <circle cx="920" cy="530" r="2"/><circle cx="980" cy="530" r="2"/><circle cx="1040" cy="530" r="2"/><circle cx="1100" cy="530" r="2"/>
+  </g>
+
+  <!-- Decorative blobs -->
+  <circle cx="950" cy="150" r="180" fill="#4a9eff" opacity="0.06"/>
+  <circle cx="250" cy="480" r="150" fill="#a78bfa" opacity="0.06"/>
+
+  <!-- Icon -->
+  <text x="600" y="220" text-anchor="middle" font-size="80" fill="none">🎨</text>
+  <text x="600" y="220" text-anchor="middle" font-size="80">🎨</text>
+
+  <!-- Title -->
+  <text x="600" y="320" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="72" font-weight="800" fill="url(#accent)" filter="url(#glow)">PromptVault</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="380" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" fill="#94a3b8">AI Prompt Gallery</text>
+
+  <!-- Description -->
+  <text x="600" y="440" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#64748b">Discover and share AI art prompts for</text>
+  <text x="600" y="472" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#64748b">Stable Diffusion · Midjourney · DALL-E · Gemini</text>
+
+  <!-- Bottom accent line -->
+  <rect x="400" y="520" width="400" height="3" rx="1.5" fill="url(#accent)" opacity="0.6"/>
+
+  <!-- Tag pills -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14">
+    <rect x="340" y="540" width="80" height="28" rx="14" fill="#4a9eff" opacity="0.15"/>
+    <text x="380" y="559" text-anchor="middle" fill="#4a9eff">Poster</text>
+    <rect x="435" y="540" width="100" height="28" rx="14" fill="#a78bfa" opacity="0.15"/>
+    <text x="485" y="559" text-anchor="middle" fill="#a78bfa">Infographic</text>
+    <rect x="550" y="540" width="60" height="28" rx="14" fill="#f472b6" opacity="0.15"/>
+    <text x="580" y="559" text-anchor="middle" fill="#f472b6">3D</text>
+    <rect x="625" y="540" width="90" height="28" rx="14" fill="#34d399" opacity="0.15"/>
+    <text x="670" y="559" text-anchor="middle" fill="#34d399">Portrait</text>
+    <rect x="730" y="540" width="110" height="28" rx="14" fill="#fb923c" opacity="0.15"/>
+    <text x="785" y="559" text-anchor="middle" fill="#fb923c">Illustration</text>
+  </g>
+</svg>

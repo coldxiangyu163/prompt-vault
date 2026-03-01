@@ -241,6 +241,37 @@ function getFilteredPrompts() {
     });
 }
 
+// ===== OG Meta Helpers =====
+const OG_DEFAULTS = {
+    'og:title': 'PromptVault — AI 生图提示词视觉图库',
+    'og:description': '190+ 精选 AI 绘图提示词，免费开源一键复用',
+    'twitter:title': 'PromptVault - AI Prompt Gallery',
+    'twitter:description': 'Discover and share AI art prompts for Stable Diffusion, Midjourney, DALL-E and more',
+};
+
+function updateMetaTag(attr, attrValue, content) {
+    let el = document.querySelector(`meta[${attr}="${attrValue}"]`);
+    if (el) {
+        el.setAttribute('content', content);
+    }
+}
+
+function setOGForPrompt(item) {
+    const title = `${item.prompt.substring(0, 60)}... | PromptVault`;
+    const desc = `${item.tool} prompt by ${item.author} — ${item.tags.slice(0, 3).join(', ')}`;
+    updateMetaTag('property', 'og:title', title);
+    updateMetaTag('property', 'og:description', desc);
+    updateMetaTag('name', 'twitter:title', title);
+    updateMetaTag('name', 'twitter:description', desc);
+}
+
+function restoreOGDefaults() {
+    updateMetaTag('property', 'og:title', OG_DEFAULTS['og:title']);
+    updateMetaTag('property', 'og:description', OG_DEFAULTS['og:description']);
+    updateMetaTag('name', 'twitter:title', OG_DEFAULTS['twitter:title']);
+    updateMetaTag('name', 'twitter:description', OG_DEFAULTS['twitter:description']);
+}
+
 // ===== Modal =====
 function openModal(index) {
     const item = allPrompts[index];
@@ -282,6 +313,9 @@ function openModal(index) {
     url.searchParams.set('id', index);
     window.history.replaceState(null, '', url);
 
+    // Update OG meta for social sharing
+    setOGForPrompt(item);
+
     document.getElementById('modalOverlay').classList.add('active');
     document.body.style.overflow = 'hidden';
 }
@@ -290,6 +324,8 @@ function closeModal() {
     document.getElementById('modalOverlay').classList.remove('active');
     document.body.style.overflow = '';
     currentModalIndex = -1;
+    // Restore default OG meta
+    restoreOGDefaults();
     // Remove id from URL
     const url = new URL(window.location);
     url.searchParams.delete('id');
@@ -423,13 +459,45 @@ function bindEvents() {
     // Copy link button
     document.getElementById('copyLinkBtn').addEventListener('click', async () => {
         const btn = document.getElementById('copyLinkBtn');
+        const spanEl = btn.querySelector('span');
         try {
             await navigator.clipboard.writeText(window.location.href);
             btn.classList.add('copied');
-            btn.textContent = '✅ 已复制';
-            setTimeout(() => { btn.classList.remove('copied'); btn.textContent = '🔗 复制链接'; }, 2000);
+            if (spanEl) spanEl.textContent = '已复制';
+            setTimeout(() => { btn.classList.remove('copied'); if (spanEl) spanEl.textContent = '复制链接'; }, 2000);
         } catch (err) { console.error('Copy link failed:', err); }
     });
+
+    // Twitter share button
+    document.getElementById('shareTwitterBtn').addEventListener('click', () => {
+        const item = allPrompts[currentModalIndex];
+        if (!item) return;
+        const text = `${item.prompt.substring(0, 200)}${item.prompt.length > 200 ? '...' : ''}\n\n🎨 via PromptVault`;
+        const shareUrl = window.location.href;
+        const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(shareUrl)}`;
+        window.open(twitterUrl, '_blank', 'width=600,height=400,noopener,noreferrer');
+    });
+
+    // Native share button (Web Share API)
+    const shareNativeBtn = document.getElementById('shareNativeBtn');
+    if (navigator.share) {
+        shareNativeBtn.addEventListener('click', async () => {
+            const item = allPrompts[currentModalIndex];
+            if (!item) return;
+            try {
+                await navigator.share({
+                    title: `PromptVault — ${item.tool} prompt`,
+                    text: item.prompt.substring(0, 200),
+                    url: window.location.href,
+                });
+            } catch (err) {
+                if (err.name !== 'AbortError') console.error('Share failed:', err);
+            }
+        });
+    } else {
+        // Hide native share button if Web Share API not supported
+        shareNativeBtn.style.display = 'none';
+    }
 
     // Clear filter button
     const clearBtn = document.getElementById('filterClear');
