@@ -1,0 +1,83 @@
+{
+  "timestamp": "20260301_163902",
+  "stats": {
+    "total": 260,
+    "passed": 252,
+    "blocked": 8,
+    "flagged": 0
+  },
+  "flagged_items": [
+    {
+      "id": "20260301_civ_226",
+      "prompt_preview": "(4k,8k,Ultra HD), masterpiece, best quality, ultra-detailed, very aesthetic, dep",
+      "blocked": true,
+      "needs_review": false,
+      "reasons": [
+        "[BLOCK] L1 keyword hit: 'loli'"
+      ]
+    },
+    {
+      "id": "20260301_civ_239",
+      "prompt_preview": "fairy tale,  perfect composition, realistic oil painting,  Boris Vallejo style, ",
+      "blocked": true,
+      "needs_review": false,
+      "reasons": [
+        "[BLOCK] L1 keyword hit: 'nsfw'"
+      ]
+    },
+    {
+      "id": "20260301_civ_242",
+      "prompt_preview": "medieval peasants, castle well market, perfect composition, realistic oil painti",
+      "blocked": true,
+      "needs_review": false,
+      "reasons": [
+        "[BLOCK] L1 keyword hit: 'nsfw'"
+      ]
+    },
+    {
+      "id": "20260301_civ_245",
+      "prompt_preview": "1girl, mai_wulong, brown eyes, black hair, long hair, double bun, blunt bangs, s",
+      "blocked": true,
+      "needs_review": false,
+      "reasons": [
+        "[BLOCK] L1 keyword hit: 'nsfw'"
+      ]
+    },
+    {
+      "id": "20260301_civ_252",
+      "prompt_preview": "concept art, perfect composition, realistic oil painting, Albert Bierstadt style",
+      "blocked": true,
+      "needs_review": false,
+      "reasons": [
+        "[BLOCK] L1 keyword hit: 'nsfw'"
+      ]
+    },
+    {
+      "id": "20260301_civ_253",
+      "prompt_preview": "concept art, winter afternoon, perfect composition, realistic oil painting, Albe",
+      "blocked": true,
+      "needs_review": false,
+      "reasons": [
+        "[BLOCK] L1 keyword hit: 'nsfw'"
+      ]
+    },
+    {
+      "id": "20260301_civ_255",
+      "prompt_preview": "general,highres, ultra-detailed,very aesthetic,best quality ,best hands,best eye",
+      "blocked": true,
+      "needs_review": false,
+      "reasons": [
+        "[BLOCK] L1 keyword hit: 'nude'"
+      ]
+    },
+    {
+      "id": "20260301_civ_257",
+      "prompt_preview": "1girl, glowing eyes, red hair, purple hair, very long hair, floating hair, big h",
+      "blocked": true,
+      "needs_review": false,
+      "reasons": [
+        "[BLOCK] L1 keyword hit: 'nsfw'"
+      ]
+    }
+  ]
+}
