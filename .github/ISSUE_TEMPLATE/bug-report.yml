@@ -1,0 +1,92 @@
+name: "🐛 Bug Report"
+description: "报告 PromptVault 网站的问题或异常"
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你帮助改进 PromptVault！请尽可能详细地描述你遇到的问题。
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 问题描述
+      description: "清晰简要地描述遇到的问题"
+      placeholder: "描述你遇到的 bug..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: "如何复现这个问题？"
+      placeholder: |
+        1. 打开网站 '...'
+        2. 点击 '...'
+        3. 滚动到 '...'
+        4. 看到错误
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期行为
+      description: "你期望发生什么？"
+      placeholder: "描述正确的行为应该是什么..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际行为
+      description: "实际发生了什么？"
+      placeholder: "描述实际看到的行为..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: 浏览器
+      description: "你使用的浏览器"
+      options:
+        - Chrome
+        - Firefox
+        - Safari
+        - Edge
+        - Arc
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: device
+    attributes:
+      label: 设备类型
+      options:
+        - Desktop (桌面端)
+        - Mobile (移动端)
+        - Tablet (平板)
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 截图
+      description: "如果有的话，请添加截图帮助说明问题（可选）"
+      placeholder: "拖拽图片到这里或粘贴图片链接..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 补充信息
+      description: "其他有助于排查问题的信息（可选）"
+    validations:
+      required: false

@@ -1,0 +1,81 @@
+name: "🎨 Submit a Prompt"
+description: "提交一条新的 AI 生图提示词到 PromptVault"
+title: "[Prompt] "
+labels: ["new-prompt"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你为 PromptVault 贡献提示词！请填写以下信息，我们会尽快审核并收录。
+
+  - type: input
+    id: prompt-title
+    attributes:
+      label: Prompt 标题
+      description: "给这条提示词起一个简短的描述性标题"
+      placeholder: "例如：赛博朋克城市夜景海报"
+    validations:
+      required: true
+
+  - type: textarea
+    id: prompt-content
+    attributes:
+      label: Prompt 内容
+      description: "完整的提示词文本，可直接复制使用"
+      placeholder: "粘贴你的完整 prompt..."
+      render: text
+    validations:
+      required: true
+
+  - type: dropdown
+    id: ai-tool
+    attributes:
+      label: 使用的 AI 工具
+      description: "生成该图片所使用的 AI 工具"
+      options:
+        - Stable Diffusion
+        - Midjourney
+        - DALL-E
+        - ChatGPT
+        - Gemini
+        - Flux
+        - Nano Banana Pro
+        - Nano Banana
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: preview-image
+    attributes:
+      label: 效果预览图 URL
+      description: "生成效果的图片链接（可选，支持直链或 imgur 等图床）"
+      placeholder: "https://example.com/preview.png"
+    validations:
+      required: false
+
+  - type: input
+    id: source-link
+    attributes:
+      label: 来源链接
+      description: "原始出处链接（可选，如 X/Twitter 帖子）"
+      placeholder: "https://x.com/username/status/..."
+    validations:
+      required: false
+
+  - type: input
+    id: tags
+    attributes:
+      label: 风格标签
+      description: "用逗号分隔的标签（可选，如：海报, 3D, 赛博朋克）"
+      placeholder: "infographic, poster, 3D"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 确认事项
+      options:
+        - label: "我确认此提示词可以公开分享，不侵犯他人版权"
+          required: true

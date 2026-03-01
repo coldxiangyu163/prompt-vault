@@ -74,6 +74,16 @@ npx serve .
 | DALL-E | OpenAI 图片生成 |
 | Stable Diffusion | 开源扩散模型 |
 
+## 🤝 Contributing
+
+我们欢迎社区贡献！你可以通过以下方式参与：
+
+- 🎨 **提交 Prompt** — 通过 [Issue 模板](https://github.com/coldxiangyu163/prompt-vault/issues/new?template=submit-prompt.yml) 提交新的提示词
+- 🐛 **报告 Bug** — 通过 [Bug Report](https://github.com/coldxiangyu163/prompt-vault/issues/new?template=bug-report.yml) 报告问题
+- 💡 **功能建议** — 在 [Issues](https://github.com/coldxiangyu163/prompt-vault/issues) 中提出想法
+
+详细的贡献指南请查看 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
 ## 📝 License
 
 MIT
