@@ -11,7 +11,9 @@
     <meta property="og:url" content="https://coldxiangyu163.github.io/prompt-vault/">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="zh_CN">
-    <meta name="theme-color" content="#1e1e1e">
+    <meta name="theme-color" content="#6366f1">
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
     <link rel="canonical" href="https://coldxiangyu163.github.io/prompt-vault/">
     <link rel="preconnect" href="https://pbs.twimg.com">
     <link rel="dns-prefetch" href="https://pbs.twimg.com">
@@ -230,5 +232,15 @@
     <script src="app.js"></script>
     <!-- GoatCounter Analytics (free, privacy-friendly, no cookie consent needed) -->
     <script data-goatcounter="https://prompt-vault.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    <!-- PWA Service Worker -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('sw.js', { scope: '/prompt-vault/' })
+            .then(reg => console.log('SW registered:', reg.scope))
+            .catch(err => console.warn('SW registration failed:', err));
+        });
+      }
+    </script>
 </body>
 </html>
