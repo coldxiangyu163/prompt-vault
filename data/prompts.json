@@ -23413,5 +23413,557 @@
     "tool": "Midjourney",
     "source": "prompthero",
     "sourceUrl": "https://prompthero.com/prompt/caba069aa34-midjourney-6-woman-bionic-ceramic-glossy-pink-face-sculpture-pushed-out-of-the-background-front-view-brightly-lit-ultra-realistic-modern-minimalism"
+  },
+  {
+    "prompt": "strong warrior princess| centered| key visual| intricate| highly detailed| breathtaking beauty| prec",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fg85340p71q25gb6bjz8vqivdmiux&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "a portrait of an old coal miner in 19th century, beautiful painting with highly detailed face by gre",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F8vsajf5okvs9v0imi4jkiic3hjdw&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Hyper realistic painting of a beautiful girl in an EVA plugsuit, hyper detailed, anime, by greg rutk",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fg4n3boj7wkfug4mkf68fj0dcj6os&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "store full of curious collectibles :: incredible, anime, Digital 2D, animated by Kyoto Animation, St",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fxdol66d0nh5necyeaq77qur07i05&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "poster of warrior princess| standing on hill |centered| key visual| intricate| highly detailed| brea",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Frr4s7i82to83u1b1xav06r3epnj0&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": ":  sango fantasy, fantasy magic,  , intricate, sharp focus, illustration, highly detailed, digital p",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fqqpkrx9izcfac5jznmq1kaedoyes&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "High quality portrait of Gordon Freeman from HL2. Art by Makoto Shinkai, Crunchyroll, pixiv, danboor",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fgz3ybqf5cu7dd2s9a1bpf94y3tga&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "long range view, Beautiful Japanese flower garden, elegant bridges, waterfalls, pink and white, by A",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Faqtrz9u33a0g7lu6s8jcqe2s3z31&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Scarlett Johansson, highly detailed, artstation, smooth, sharp focus, 8K, art by art by artgerm and",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F6mn44zxlna8b7rd8k21ewm1rurxb&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "a ultradetailed beautiful panting of a stylish woman, by conrad roset, greg rutkowski and makoto shi",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fml3rg7xmao7dnvmtmz0pfzfx9z7x&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "young man with long face, with clean shaven short beard, with dark hair, without hat, without glasse",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fu920v6ltyitqc23gve9n5yu1n9cy&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "detailed and realistic (upper body portrait:1.2) of a woman with a few (freckles:0.8) BREAK round ey",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F5t5nrurlg8ybqz77mylrtby1sg7d&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "1 girl, beautiful Korean girl, (Cute Loose Bob hair), (wearing a cropped hoodie, capri sweatpants:1.",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Frl1ul2i0eqithy4gp45cj83e11ga&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Kyoto Animation stylized anime mixed with tradition Chinese artworks~ A dragon flying at modern cybe",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fc2p361z8p1b64jbqmylf69x4h7sm&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "an image of a person with a flowing, sculptural hairstyle and garment that echo the movement of wat",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F83jhg2meq69e4mstdgb4k1ker80z&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "1girl, (Nadia Hilker):1.5, Champagne color Gatsby 1920s Flapper Dress with Sequins and Fringes, Sout",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F53icex148v5mqei5u80cqm0htzto&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "a highly detailed matte painting of a young boy and girl at the bottom of a huge hill by studio ghib",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fpml3dtt83hwl130pvdfrnq153vgt&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Steve Jobs Star Wars movie character, highly detailed, digital fantasy character, painted portrait,",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F8q060ldfn4rt2lkr4zcthifnwq3p&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Baroque rococo architecture, architectural photography, post apocalyptic New York, hyperrealism, hyp",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fjig5foi8fh7k920flrcl96dwhabz&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "aesthetic, painterly style, modern ink, Asian girl, sensual, sultry, dark blouse, expressive pose, u",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fw4dag85vpu2h95ggvvcq1g5v1wf4&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "An image of a woman standing straight on, head turned slightly to her left, looking directly into th",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Favg2mpaytbaed3zucz440261xu62&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "An image of a young woman with a medium complexion and chestnut-colored hair styled in a casual updo",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fws0y934lhyz4axbzbpg0kfhdt05g&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "a masterpiece, batgirl/supergirl from dc comic wearing alternate yellow costume, coy and alluring, f",
+    "tool": "Stable Diffusion",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ferklkhk7nw0k92x16xzhmye4utuv&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "A woman with long brunette hair and fair skin is captured in a candid moment. She's wearing a very l",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fjv31b50y4tcx5e83ckg96aayisju&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "A woman with wavy dark brown hair, wearing an off-shoulder oversized brown knit sweater. She gazes s",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fok1xgi4lafiywolnckk8qb3qzt3k&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "the girl takes a photo with her phone of herself in the mirror, she has 24 years old, has straight b",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F0j6k2cico5tg3omc2xb23ok9kuff&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "realistic cinematic image with dark shadows and high contrast,\n\nA fit 28yo woman standing on a sandy",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ffd7ysdmgrssf5zsujete4z4xdo&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "RPG, Style: MACRO, a low-quality CCTV camera with a slightly fish-eye lens effect. The camera's time",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F2oxo0xy8iw94supm5i19ln3ywos3&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "She sits on a sleek, black piano bench, her body turned slightly to the side, showcasing the dramati",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fe10vdvmvk2m4q99gx0m3iee1k28j&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "A woman stands alone in an overgrown grass field on a late night, surrounded by darkness that only a",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fn9nun8rx591hcs8ylejm7r65hebj&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "A photo of an eccentric woman sitting on top of white fluffy clouds wearing big sunglasses and light",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F6wryr34dlla639gjjfdrlk6bo4w6&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "fantasy art, woman , young, messy short blonde hair, blue eyes, sitting on sofa, crossed legs, sexy",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fazfokv9ccx8km3lxazf5fnzvqhxa&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "a bold and edgy portrait of a tattoo artist working in a vibrant, neon-lit studio. The woman exudes",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fsqyl4shtt82w8srad266w4uvpgjt&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "The image shows a young woman sitting on a white furry rug with string lights hanging above her head",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fdid14g4di80lsu7xr5p269i6fcka&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "A portrait of a young woman with light brown hair in a high ponytail, smiling softly with blue eyes",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F2fffy7wdo193jfr9a0dt3q4rrc7r&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Portrait of a young woman with long, blonde hair tied in a high ponytail, wearing a black sports bra",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ffumqjfvzfpqixvxa6j9d4whaq7sr&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "(Fine art photography:1.5, cinematic, grainy Polaroid aesthetic:1.4, realistic skin texture:1.5, vol",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fj0gvfwxlrqxr3ev7zx4fwpxml6um&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Close-up portrait of a woman illuminated by soft, warm afternoon light streaming through window blin",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F2ilxopm5ztzgel7w5jykedqsutf5&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "(woman:1.1) with (dark:1.2) wavy hair is totally in a completely (dark:1.1) open room with the (only",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fghmbqv0uhn5tqjuvatw33sz2nr7u&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Portrait of a gorgeous woman, 20 years old, with open lush breasts, a thin leather bra, waist-length",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fi67lltpog8q2m2stosvw6hsdhe5i&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Design a photorealistic portrait of a woman with dark makeup and makeup art, set in a dark concept a",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F2r3l4p9twisvrg4qt13otkgz32mb&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "high-resolution photo of a Angela White, photorealistic, UHD, optimal photography, natural lighting,",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fm13c37ket3ojcn9jo5emy8fpnldp&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "high definition, extreme detail, portrait photo, a beautiful blonde woman sitting on a bar stool at",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fi9wb72euw7f90dt0h2vi81ru0kum&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "smur-fette from the smurfs, beautiful charismatic woman, piercings, athletic, a woman with a white d",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ffu2omfbhkvl23ahb7u8cpmisbasv&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Monochromatic outdoor portrait of a woman, eyes closed, flowing hair, light dress, serene expression",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fd22kaj3r3vo1kgfswq2ce3fzippp&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "A close-up portrait of a young woman with long, dark hair and striking blue eyes.  She is wearing a",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fplvgx6qwg4qnnked3vi6646bm9qr&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "fashion editorial photography, front shot, upper body, professional female model, shot with hasselbl",
+    "tool": "Flux",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fdd72vq4yovxj1bkwck9wtyai5er6&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "close-up of a stunning fashion model, ultra-realistic, portrait, shot on a Sony A7III, high quality",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F9qbfr7mlnt8sn7yp01pw02z7ez1r&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "a woman with long black hair in a gold painting, in the style of charlie bowater, dark blue and dark",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F50gc2ppgkgsgxnv2krblzlx7rzvs&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "photography, portrait of contrast, profile silhouette of a woman, vibrant hot pink backdrop, visuali",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F7nqvhyrmf607ngkesub1l7kxc9j3&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "a black and white photo of a woman with shadow., in the style of minimalist beauty, light bronze and",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fo7zetbmbjk7fr0d6qfsdlws88i8o&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Japanese girl, 18-21 years old, brown hair, high-quality photo portrait, shot on a Polaroid camera,",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fxjsos7jl5jltflxms50aa37a4bw5&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "a woman with long wild hair on a windy day, in the style of toy camera effects, haunting elegance, f",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fwrpbbm0g66wjerf6nluq4u0gothp&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "photography, orange hue, korean woman model, solid orange backdrop, using a camera setup that mimics",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fyktjuihsozyxcetxc5hsasx2wed8&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "red race car, in the style of sam spratt, historical illustrations, old masters, genndy tartakovsky,",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fluqvns7twvdbtnmwlaesatvjuqmr&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "a woman wearing a cropped top and jeans standing in front of the bus stop, in the style of Oleg Opri",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F98gc6zje8wb8m6m520cu2mvita7i&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "a young girl in a business suit with a very angry expression, in the style of unreal engine 5, carto",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F10pckza1p0gaurf4kxbsmp7d1qnp&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "sketches blueprint of futuristic sci-fi huge spacecraft, warp engines, formulas and annotations, sch",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fmuyejayamebyuyjpbbrw0g0consy&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Black and white street photography of an attractive woman in leather jacket with headscarf sitting i",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F54xz2e9g2xcdm3f28xc308ocfug4&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "wide and low angle, cinematic, fashion photography for the brand Uniqlo. Woman sitting on floor wear",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fuzz5smeabs9ptyzu8sc14l61ez71&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "high-resolution photograph, woman, stunning use of shadows, in the syle of crisp lines and forms,  U",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fx1vbmcdl3a611aymslpwjfk4keqt&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Chinese model poses for a selfie, in the style of social media influencers, webcam photography, Feli",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ffkcmucr5tdx4bwgcwypx8tnhgdjr&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Spacious office with frontal view, Herman Miller Aeron chairs, Artemide Tolomeo desk lamps, captured",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F2hvhr1d3tbo9a259m6erubbqz7fu&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "Jessica Rabbit beautiful charismatic girl,athletic body, gorgeous figure, interesting shapes, full b",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fgpkklu8h45sx206y2sezhbs4wwgz&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "a girl in a purple top in a neon city, in the style of chinapunk, iconic album covers, soft-focus po",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fuz3llgy56lp3980u3boh0pua66ar&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "giraffe in flowers by artist arne thun, in the style of natalia rak, 8k resolution, vintage aestheti",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fchvp6z98z0y6e5wlif05z0yxu04w&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "hair photography, woman, bob cut hair, silver color, ivory hue background, studio lighting setup, re",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fgyil69md10h4a59fabsr4j9ifvsa&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "a girl with white hair sitting in car filled withflowers, art by Rinko Kawauchi, in the style ofnatu",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fcu3f6056zr51lv4j55rmuoitdgzm&w=1920&q=75"
+    ],
+    "source": "prompthero"
+  },
+  {
+    "prompt": "woman bionic ceramic glossy pink face sculpture, pushed out of the background, front view, brightly",
+    "tool": "Midjourney",
+    "images": [
+      "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fp6z0wk6ihh9hd9pbsv4nzulqe4ax&w=1920&q=75"
+    ],
+    "source": "prompthero"
   }
 ]
