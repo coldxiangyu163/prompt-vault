@@ -25465,5 +25465,193 @@
       "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/72dde501-22c7-4285-a814-e97cfad9af00/original=true/72dde501-22c7-4285-a814-e97cfad9af00.jpeg"
     ],
     "tool": "Stable Diffusion"
+  },
+  {
+    "prompt": "realistic, solo, cat, cute, sleeping, light_particles, nature, mountain, depth of field, the best quality, amazing quality, high quality, masterpiece,\n\nNegative prompt: watermark, text, nsfw, worst quality, bad quality, low quality, kids, children, lowres, anatomical nonsense, artistic error, bad anatomy, interlocked fingers, extra fingers, text, artist name, signature, bad feet, extra toes, ugly, poorly drawn, censor, blurry, watermark, simple background, transparent background, old, oldest, glitch, deformed, mutated, disfigured, long body, bad hands, missing fingers, extra digit, fewer digits, cropped, very displeasing, sketch, jpeg artifacts, username, censored, bar_censor, mosaic_censor, conjoined, bad ai-generated, long neck, skin blemishes, skin spots, acne, the wrong limb, error, black line, excess hands, (nsfw:1.2), (nude:1.6), (nipple:1.2), naked",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/35db9a04-3f7e-4abf-b0c5-7929785c4a45/original=true/35db9a04-3f7e-4abf-b0c5-7929785c4a45.jpeg",
+    "url": "https://civitai.com/images/122442045",
+    "author": "mystifying",
+    "meta": {
+      "Size": "832x1216",
+      "seed": 783608035348285,
+      "Model": "sweethoneyIllus_v20",
+      "steps": 25,
+      "prompt": "realistic, solo, cat, cute, sleeping, light_particles, nature, mountain, depth of field, the best quality, amazing quality, high quality, masterpiece,",
+      "sampler": "Euler a Karras",
+      "cfgScale": 5,
+      "resources": [],
+      "negativePrompt": "watermark, text, nsfw, worst quality, bad quality, low quality, kids, children, lowres, anatomical nonsense, artistic error, bad anatomy, interlocked fingers, extra fingers, text, artist name, signature, bad feet, extra toes, ugly, poorly drawn, censor, blurry, watermark, simple background, transparent background, old, oldest, glitch, deformed, mutated, disfigured, long body, bad hands, missing fingers, extra digit, fewer digits, cropped, very displeasing, sketch, jpeg artifacts, username, censored, bar_censor, mosaic_censor, conjoined, bad ai-generated, long neck, skin blemishes, skin spots, acne, the wrong limb, error, black line, excess hands, (nsfw:1.2), (nude:1.6), (nipple:1.2), naked"
+    },
+    "id": "20260304_1772540781266"
+  },
+  {
+    "prompt": "strong warrior princess|centered|key visual|intricate|highly detailed|breathtaking beauty|precise lineart|vibrant|comprehensive cinematic|Carne Griffiths|Conrad Roset",
+    "tool": "Stable Diffusion 1.5",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fg85340p71q25gb6bjz8vqivdmiux-stable-diffusion-15-strong-warrior-princess-centered-key-visual-intricate-highly-detailed-breathtaking-beauty-precise-lineart-vibrant-comprehensive-cinematic-carne-griffiths-conrad-roset.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/9f35d13cd13-stable-diffusion-15-strong-warrior-princess-centered-key-visual-intricate-highly-detailed-breathtaking-beauty-precise-lineart-vibrant-comprehensive-cinematic-carne-griffiths-conrad-roset",
+    "id": "20260304_1772540781267"
+  },
+  {
+    "prompt": "a portrait of an old coal miner in 19th century,beautiful painting with highly detailed face by greg rutkowski and magali villanueve",
+    "tool": "Stable Diffusion 1.5",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F8vsajf5okvs9v0imi4jkiic3hjdw-stable-diffusion-15-a-portrait-of-an-old-coal-miner-in-19th-century-beautiful-painting-with-highly-detailed-face-by-greg-rutkowski-and.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/eedee759ddc-stable-diffusion-15-a-portrait-of-an-old-coal-miner-in-19th-century-beautiful-painting-with-highly-detailed-face-by-greg-rutkowski-and",
+    "id": "20260304_1772540781268"
+  },
+  {
+    "prompt": "Hyper realistic painting of a beautiful girl in an EVA plugsuit,hyper detailed,anime,by greg rutkowski,trending on artstation",
+    "tool": "Stable Diffusion 1.5",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fg4n3boj7wkfug4mkf68fj0dcj6os-stable-diffusion-15-hyper-realistic-painting-of-a-beautiful-girl-in-an-eva-plugsuit-hyper-detailed-anime-by-greg-rutkowski-trending-on-artstation.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/8863f6cbc15-stable-diffusion-15-hyper-realistic-painting-of-a-beautiful-girl-in-an-eva-plugsuit-hyper-detailed-anime-by-greg-rutkowski-trending-on-artstation",
+    "id": "20260304_1772540781269"
+  },
+  {
+    "prompt": "store full of curious collectibles :: incredible,anime,Digital 2D,animated by Kyoto Animation,Studio Ghibli,Miyazaki,AKIRA art style,beautiful,gorgeous,dramatic lighting,rule of thirds,perfect composition,trending on ArtStation,4k --ar 1:2 --quality 2",
+    "tool": "Stable Diffusion 1.5",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fxdol66d0nh5necyeaq77qur07i05-stable-diffusion-15-store-full-of-curious-collectibles-incredible-anime-digital-2d-animated-by-kyoto-animation-studio-ghibli-miyazaki-akira-art-style-beautiful.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/65f69ef422e-stable-diffusion-15-store-full-of-curious-collectibles-incredible-anime-digital-2d-animated-by-kyoto-animation-studio-ghibli-miyazaki-akira-art-style-beautiful",
+    "id": "20260304_1772540781270"
+  },
+  {
+    "prompt": "poster of warrior princess|standing on hill |centered|key visual|intricate|highly detailed|breathtaking|precise lineart|vibrant|panoramic|cinematic|Carne Griffiths|Conrad Roset",
+    "tool": "Stable Diffusion 1.5",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Frr4s7i82to83u1b1xav06r3epnj0-stable-diffusion-15-poster-of-warrior-princess-standing-on-hill-centered-key-visual-intricate-highly-detailed-breathtaking-precise-lineart-vibrant-panoramic-cinematic-carne.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/7d04616cd60-stable-diffusion-15-poster-of-warrior-princess-standing-on-hill-centered-key-visual-intricate-highly-detailed-breathtaking-precise-lineart-vibrant-panoramic-cinematic-carne",
+    "id": "20260304_1772540781271"
+  },
+  {
+    "prompt": ": sango fantasy,fantasy magic, ,intricate,sharp focus,illustration,highly detailed,digital painting,concept art,matte,Artgerm and Paul lewin and kehinde wiley,masterpiece",
+    "tool": "Stable Diffusion 1.5",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fqqpkrx9izcfac5jznmq1kaedoyes-stable-diffusion-15-sango-fantasy-fantasy-magic-intricate-sharp-focus-illustration-highly-detailed-digital-painting-concept-art-matte-artgerm-and-paul-lewin-and.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/f2225c97abd-stable-diffusion-15-sango-fantasy-fantasy-magic-intricate-sharp-focus-illustration-highly-detailed-digital-painting-concept-art-matte-artgerm-and-paul-lewin-and",
+    "id": "20260304_1772540781272"
+  },
+  {
+    "prompt": "High quality portrait of Gordon Freeman from HL2.Art by Makoto Shinkai,Crunchyroll,pixiv,danbooru,HD,headshot,cinematic still,detailed anime face,bokeh,digital art,cel shading,vivid colors,ambient lighting",
+    "tool": "Stable Diffusion 1.5",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fgz3ybqf5cu7dd2s9a1bpf94y3tga-stable-diffusion-15-high-quality-portrait-of-gordon-freeman-from-hl2-art-by-makoto-shinkai-crunchyroll-pixiv-danbooru-hd-headshot-cinematic-still-detailed.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/d8e2891564d-stable-diffusion-15-high-quality-portrait-of-gordon-freeman-from-hl2-art-by-makoto-shinkai-crunchyroll-pixiv-danbooru-hd-headshot-cinematic-still-detailed",
+    "id": "20260304_1772540781273"
+  },
+  {
+    "prompt": "long range view,Beautiful Japanese flower garden,elegant bridges,waterfalls,pink and white,by Akihito Yoshida,Ismail Inceoglu,Karol Bak,Airbrush,Dramatic,Panorama,Cool Color Palette,Megapixel,Lumen Reflections,insanely detailed and intricate,hypermaximalist,elegant,ornate,hyper realistic,super detailed,unreal engine",
+    "tool": "Stable Diffusion 1.5",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Faqtrz9u33a0g7lu6s8jcqe2s3z31-stable-diffusion-15-long-range-view-beautiful-japanese-flower-garden-elegant-bridges-waterfalls-pink-and-white-by-akihito-yoshida-ismail-inceoglu-karol-bak.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/be3aeffd9e6-stable-diffusion-15-long-range-view-beautiful-japanese-flower-garden-elegant-bridges-waterfalls-pink-and-white-by-akihito-yoshida-ismail-inceoglu-karol-bak",
+    "id": "20260304_1772540781274"
+  },
+  {
+    "prompt": "Scarlett Johansson,highly detailed,artstation,smooth,sharp focus,8K,art by art by artgerm and greg rutkowski and edgar maxence.",
+    "tool": "Stable Diffusion 1.5",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F6mn44zxlna8b7rd8k21ewm1rurxb-stable-diffusion-15-scarlett-johansson-highly-detailed-artstation-smooth-sharp-focus-8k-art-by-art-by-artgerm-and-greg-rutkowski-and-edgar-maxence.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/58dae66c5f4-stable-diffusion-15-scarlett-johansson-highly-detailed-artstation-smooth-sharp-focus-8k-art-by-art-by-artgerm-and-greg-rutkowski-and-edgar-maxence",
+    "id": "20260304_1772540781275"
+  },
+  {
+    "prompt": "a ultradetailed beautiful panting of a stylish woman,by conrad roset,greg rutkowski and makoto shinkai,trending on artstation",
+    "tool": "Stable Diffusion 1.5",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fml3rg7xmao7dnvmtmz0pfzfx9z7x-stable-diffusion-15-a-ultradetailed-beautiful-panting-of-a-stylish-woman-by-conrad-roset-greg-rutkowski-and-makoto-shinkai-trending-on-artstation.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/2ef636592fb-stable-diffusion-15-a-ultradetailed-beautiful-panting-of-a-stylish-woman-by-conrad-roset-greg-rutkowski-and-makoto-shinkai-trending-on-artstation",
+    "id": "20260304_1772540781276"
+  },
+  {
+    "prompt": "young man with long face,with clean shaven short beard,with dark hair,without hat,without glasses,with t-shirt,with hoodies,line art,ink,portrait,stroke only,style moebius.",
+    "tool": "Stable Diffusion 1.5",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fu920v6ltyitqc23gve9n5yu1n9cy-stable-diffusion-15-young-man-with-long-face-with-clean-shaven-short-beard-with-dark-hair-without-hat-without-glasses-with-t-shirt.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/028d04e14ae-stable-diffusion-15-young-man-with-long-face-with-clean-shaven-short-beard-with-dark-hair-without-hat-without-glasses-with-t-shirt",
+    "id": "20260304_1772540781277"
+  },
+  {
+    "prompt": "An image of a woman standing straight on,head turned slightly to her left,looking directly into the camera with a confident yet curious expression.She has dark brown,wavy hair and fair skin with noticeable freckles.Her eyes are amber brown with a warm light reflecting in them.She wears a tartan plaid garment in navy blue and red with white lines,and the neckline is slightly off her right shoulder.The setting is brightly lit with natural light.",
+    "tool": "Stable Diffusion XL Base 0.9",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Favg2mpaytbaed3zucz440261xu62-stable-diffusion-xl-base-09-an-image-of-a-woman-standing-straight-on-head-turned-slightly-to-her-left-looking-directly-into-the-camera-with.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/4f09bf671ff-stable-diffusion-xl-base-09-an-image-of-a-woman-standing-straight-on-head-turned-slightly-to-her-left-looking-directly-into-the-camera-with",
+    "id": "20260304_1772540781278"
+  },
+  {
+    "prompt": "Kyoto Animation stylized anime mixed with tradition Chinese artworks~ A dragon flying at modern cyberpunk fantasy world.Cinematic Lighting,ethereal light,intricate details,extremely detailed,incredible details,full colored,complex details,insanely detailed and intricate,hypermaximalist,extremely detailed with rich colors.masterpiece,best quality,aerial view,HDR,UHD,unreal engine.plump looking at the camera,smooth thighs,(glittery jewelry) ((acrylic illustration,by artgerm,by kawacy,by John Singer Sargenti) dark Fantasy background,glittery jewelry,Representative,fair skin,beautiful face,Rich in details High quality,gorgeous,glamorous,8k,super detail,gorgeous light and shadow,detailed decoration,detailed lines\nNegative prompt:",
+    "tool": "Stable Diffusion XL Base 0.9",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fc2p361z8p1b64jbqmylf69x4h7sm-stable-diffusion-xl-base-09-kyoto-leonardo-anime-xl-2leonardo-alchemyanimeleonardo-alpha-upscale-kyoto-animation-stylized-anime-mixed-with-tradition-chinese-artworks-a-dragon-flying-at-modern-cyberpunk-fantasy-world-cinematic-lighting-ethereal.jpg&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/80c4c18d360-stable-diffusion-xl-base-09-kyoto-leonardo-anime-xl-2leonardo-alchemyanimeleonardo-alpha-upscale-kyoto-animation-stylized-anime-mixed-with-tradition-chinese-artworks-a-dragon-flying-at-modern-cyberpunk-fantasy-world-cinematic-lighting-ethereal",
+    "id": "20260304_1772540781279"
+  },
+  {
+    "prompt": "An image of a young woman with a medium complexion and chestnut-colored hair styled in a casual updo with loose strands around her face.She has a natural makeup look with defined eyes and a neutral lip color.She is wearing a fitted,cropped burgundy T-shirt with short sleeves and high-waisted black pants with distinctive button details.She stands confidently,with one hand on her hip and the other gently touching her pants.The lighting is soft and frontal,highlighting her features and the texture of her clothing against a muted dark background.",
+    "tool": "Stable Diffusion XL Base 0.9",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fws0y934lhyz4axbzbpg0kfhdt05g-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv8-dreamshaperxlturbo-full-credits-shall-go-to-the-an-image-of-a-young-woman-with-a-medium-complexion-and-chestnut-colored-hair-styled-in-a-casual-updo-with.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/efe70985326-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv8-dreamshaperxlturbo-full-credits-shall-go-to-the-an-image-of-a-young-woman-with-a-medium-complexion-and-chestnut-colored-hair-styled-in-a-casual-updo-with",
+    "id": "20260304_1772540781280"
+  },
+  {
+    "prompt": "a masterpiece,batgirl/supergirl from dc comic wearing alternate yellow costume,coy and alluring,full body,Kim Jung gi,freedom,soul,digital illustration,comic style,cyberpunk,perfect anatomy,centered,approaching perfection,dynamic,highly detailed,watercolor painting,artstation,concept art,smooth,sharp focus,illustration,art by Carne Griffiths and Wadim Kashin,unique,award winning,masterpiece",
+    "tool": "Stable Diffusion XL Base 0.9",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ferklkhk7nw0k92x16xzhmye4utuv-stable-diffusion-xl-base-09-bat-girl-a-masterpiece-batgirlsupergirl-from-dc-comic-wearing-alternate-yellow-costume-coy-and-alluring-full-body-kim-jung-gi-freedom-soul.jpg&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/e02e8fc8584-stable-diffusion-xl-base-09-bat-girl-a-masterpiece-batgirlsupergirl-from-dc-comic-wearing-alternate-yellow-costume-coy-and-alluring-full-body-kim-jung-gi-freedom-soul",
+    "id": "20260304_1772540781281"
+  },
+  {
+    "prompt": "Baroque rococo architecture,architectural photography,post apocalyptic New York,hyperrealism,hyperrealistic,octane render,cinematic,hyper detailed,8K",
+    "tool": "Stable Diffusion 1.5",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fjig5foi8fh7k920flrcl96dwhabz-stable-diffusion-15-baroque-rococo-architecture-architectural-photography-post-apocalyptic-new-york-hyperrealism-hyperrealistic-octane-render-cinematic-hyper-detailed-8k.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/5cc60dbf76a-stable-diffusion-15-baroque-rococo-architecture-architectural-photography-post-apocalyptic-new-york-hyperrealism-hyperrealistic-octane-render-cinematic-hyper-detailed-8k",
+    "id": "20260304_1772540781282"
+  },
+  {
+    "prompt": "aesthetic,painterly style,modern ink,Asian girl,sensual,sultry,dark blouse,expressive pose,urbanpunk,abstract texture multilayer background,neo-expressionist ,Russ Mills,Ian Miller",
+    "tool": "Stable Diffusion XL Base 0.9",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fw4dag85vpu2h95ggvvcq1g5v1wf4-stable-diffusion-xl-base-09-aesthetic-painterly-style-modern-ink-asian-girl-sensual-sultry-dark-blouse-expressive-pose-urbanpunk-abstract-texture-multilayer-background-neo-expressionist.png&w=1920&q=75"
+    ],
+    "source": "PromptHero",
+    "url": "https://prompthero.com/prompt/85aa11db8db-stable-diffusion-xl-base-09-aesthetic-painterly-style-modern-ink-asian-girl-sensual-sultry-dark-blouse-expressive-pose-urbanpunk-abstract-texture-multilayer-background-neo-expressionist",
+    "id": "20260304_1772540781283"
   }
 ]
