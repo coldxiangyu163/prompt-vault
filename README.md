@@ -1,8 +1,8 @@
 # 🎨 PromptVault — AI 生图提示词视觉图库
 
-![Prompts](https://img.shields.io/badge/prompts-1091-blue) [![License](https://img.shields.io/github/license/coldxiangyu163/prompt-vault)](LICENSE) [![Website](https://img.shields.io/badge/website-live-green)](https://coldxiangyu163.github.io/prompt-vault)
+![Prompts](https://img.shields.io/badge/prompts-1256-blue) [![License](https://img.shields.io/github/license/coldxiangyu163/prompt-vault)](LICENSE) [![Website](https://img.shields.io/badge/website-live-green)](https://coldxiangyu163.github.io/prompt-vault)
 
-> **1000+ AI Prompts** — 收集灵感，一键复用。一个精心策划的 AI 图片生成提示词库，配有预览图和一键复制功能。
+> **1256+ AI Prompts** — 收集灵感，一键复用。一个精心策划的 AI 图片生成提示词库，配有预览图和一键复制功能。
 
 🔗 **在线体验**: [https://coldxiangyu163.github.io/prompt-vault](https://coldxiangyu163.github.io/prompt-vault)
 
@@ -12,7 +12,7 @@
 
 ## ✨ 特性
 
-- 🖼️ **瀑布流图库** — 瀑布流布局展示 1091+ 精选提示词及其生成效果图
+- 🖼️ **瀑布流图库** — 瀑布流布局展示 1256+ 精选提示词及其生成效果图
 - 🔍 **全文搜索** — 支持搜索提示词、风格标签、作者、工具（快捷键 `/`）
 - 🏷️ **标签筛选** — 按风格（信息图、海报、3D、插画等）和工具（Nano Banana Pro、Gemini、Midjourney 等）过滤
 - 📋 **一键复制** — 点击卡片查看完整提示词，一键复制到剪贴板
