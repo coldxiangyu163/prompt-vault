@@ -20694,5 +20694,53 @@
     ],
     "style": "realistic",
     "hash": "ab9c8719200b"
+  },
+  {
+    "id": "092b52bd50ea",
+    "prompt": "The image shows a young woman sitting on a white furry rug with string lights hanging above her head. She is wearing a white lace bra and matching orange thigh-high stockings. Her blonde hair is styled in loose waves and she is looking directly at the camera with a sultry expression. The overall aesthetic of the image is sensual and feminine.",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fdid14g4di80lsu7xr5p269i6fcka&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "tags": [
+      "portrait"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://prompthero.com/prompt/e846124c203-flux-flux1-dev-the-image-shows-a-young-woman-sitting-on-a-white-furry-rug-with-string-lights-hanging-above-her-head-she",
+    "author": "PromptHero",
+    "collected_at": null,
+    "created_at": null
+  },
+  {
+    "id": "b63a07ff872a",
+    "prompt": "A portrait of a young woman with light brown hair in a high ponytail, smiling softly with blue eyes and red lipstick. She wears a white towel draped over her shoulders, with glowing skin and natural lighting. The background is softly blurred, creating a serene and intimate atmosphere",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F2fffy7wdo193jfr9a0dt3q4rrc7r&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "tags": [
+      "portrait"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://prompthero.com/prompt/89893f8430f-flux-flux1-dev-experimenting-with-fluxdev-a-fun-model-to-work-with-i-am-not-an-affiliated-but-strongly-recommend-for-you-to-a-portrait-of-a-young-woman-with-light-brown-hair-in-a-high-ponytail-smiling-softly-with-blue-eyes-and",
+    "author": "PromptHero",
+    "collected_at": null,
+    "created_at": null
+  },
+  {
+    "id": "ed252b22dd17",
+    "prompt": "Portrait of a young woman with long, blonde hair tied in a high ponytail, wearing a black sports bra, turned slightly to the side, smiling playfully at the camera. She stands against a textured teal wall with soft lighting that highlights her facial features and athletic back. The image captures a lively, casual, and confident mood in a warm, naturally lit environment",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ffumqjfvzfpqixvxa6j9d4whaq7sr&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "tags": [
+      "portrait"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://prompthero.com/prompt/27f3acaa7d7-flux-flux1-dev-experimenting-with-fluxdev-a-fun-model-to-work-with-i-am-not-an-affiliated-but-strongly-recommend-for-you-to-portrait-of-a-young-woman-with-long-blonde-hair-tied-in-a-high-ponytail-wearing-a-black-sports-bra-turned",
+    "author": "PromptHero",
+    "collected_at": null,
+    "created_at": null
   }
 ]
