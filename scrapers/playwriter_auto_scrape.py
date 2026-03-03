@@ -137,11 +137,18 @@ def main():
         existing_data = json.load(f)
     log(f"Existing prompts: {len(existing_data)}")
     
-    # Build dedup sets
-    existing_hashes = set(content_hash(p['prompt']) for p in existing_data)
+    # Build dedup sets (handle both 'prompt' and 'content' fields)
+    existing_hashes = set()
+    for p in existing_data:
+        text = p.get('prompt') or p.get('content', '')
+        if text:
+            existing_hashes.add(content_hash(text))
+    
     existing_images = set()
     for p in existing_data:
         existing_images.update(p.get('images', []))
+        if p.get('imageUrl'):
+            existing_images.add(p['imageUrl'])
     
     log(f"Dedup sets: {len(existing_hashes)} hashes, {len(existing_images)} images")
     
