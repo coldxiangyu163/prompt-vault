@@ -28219,5 +28219,479 @@
     "tool": "Stable Diffusion",
     "source": "civitai",
     "sourceUrl": "https://civitai.com/images/123067809"
+  },
+  {
+    "id": "civitai_123058676",
+    "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, usnr, Fl9we4s, 7A3IFRHPR_illu, dynamic pose, abstract element, abstract background,\n((sketch)), (line art), elliemaplefox, doodle, minimal color, manhwa, no color, \n\nFull body, 1girl, solo, masterpiece, BREAK, long hair, long braid, cowboy shot, (see-through robot, science fiction, android, mechanical parts, cyborg), dancing, one hand up, one leg up, under spotlight, dark background",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6d8bb4b4-c4df-4f91-9587-8d0cd307f35d/original=true/6d8bb4b4-c4df-4f91-9587-8d0cd307f35d.jpeg"
+    ],
+    "tags": [],
+    "style": "artistic",
+    "source_url": "https://civitai.com/images/123058676",
+    "author": "unknown",
+    "tool": "urn:air:sdxl:checkpoint:civitai:2354275@2647860",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_121831033",
+    "prompt": "10-second cinematic video, masterpiece, best quality, ultra detailed, 8k, cinematic lighting, dramatic overcast sky, soft volumetric god rays through dust, deep dramatic shadows, heavy melancholic atmosphere, emotional devastation, slow-motion moments mixed with dynamic speed,\n\na beautiful young adult woman, 22 years old, Russian-Ukrainian features, pale porcelain skin in grayscale, platinum-blonde hair styled in two long thick traditional Russian braids (pigtails) already beginning to unravel with many loose strands falling out and blowing in the wind, high cheekbones, delicate slavic face, big expressive light eyes full of quiet tears and longing, long wet eyelashes, trembling lips, profound heartbreaking sadness,\n\nstarts sitting on a damaged wooden bench at the ruined train station, holding an open old pocket watch with both hands, gently stroking it, gazing at it with tears rolling down her cheeks,\n\ncamera slowly pushes in on her face and the glowing golden brass pocket watch (the ONLY color in the entire scene),\n\nshe slowly closes the pocket watch with a soft click, puts it away, grabs the assault rifle leaning against the bench with one hand, stands up quickly with determination, turns and starts running away through the destroyed train station, long dynamic tracking shot following her from the side and slightly behind, camera panning and orbiting around her as she runs, wind whipping her unraveling braids and dirty clothes, heavy combat boots splashing through mud and debris,\n\nwearing a dirty white t-shirt heavily stained with ash, dust, mud and soot, thin wet fabric clinging tightly to her body and curves from moisture and sweat clearly outlining her breasts and figure, layered under a black sleeveless denim jacket, ripped dark jeans with tears on thighs and knees, heavy black combat boots (Springerstiefel),\n\ndestroyed train station with collapsed roof, broken tracks and wrecked train cars in background,\n\nentire video extremely desaturated, near-pure monochrome black and white, high contrast cinematic look, deep blacks and bright silver highlights, everything completely washed-out grayscale, cold and lifeless atmosphere, ONLY the warm glowing golden brass of the pocket watch is vivid until she closes it,\n\nemotional cinematic masterpiece, tragic beauty, photorealistic, sharp focus, depth of field, ultra realistic skin fabric hair texture, glistening tears,\n\naudio: sad melancholic piano melody with strings, distant cannon thunder and explosion sounds off-screen (not visible), wind and footsteps SFX, no dialogue\n\ndynamic camera: smooth cinematic tracking, slight handheld urgency, dramatic low and side angles, perfect 10-second timing",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/768ad8c1-1f4a-4612-afe8-cb895485e1a6/original=true/768ad8c1-1f4a-4612-afe8-cb895485e1a6.mp4"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/121831033",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_121831035",
+    "prompt": "10-second cinematic video, masterpiece, best quality, ultra detailed, 8k, cinematic lighting, dramatic overcast sky, soft volumetric god rays through dust, deep dramatic shadows, heavy melancholic atmosphere, emotional devastation, slow-motion moments mixed with dynamic speed,\n\na beautiful young adult woman, 22 years old, Russian-Ukrainian features, pale porcelain skin in grayscale, platinum-blonde hair styled in two long thick traditional Russian braids (pigtails) already beginning to unravel with many loose strands falling out and blowing in the wind, high cheekbones, delicate slavic face, big expressive light eyes full of quiet tears and longing, long wet eyelashes, trembling lips, profound heartbreaking sadness,\n\nstarts sitting on a damaged wooden bench at the ruined train station, holding an open old pocket watch with both hands, gently stroking it, gazing at it with tears rolling down her cheeks,\n\ncamera slowly pushes in on her face and the glowing golden brass pocket watch (the ONLY color in the entire scene),\n\nshe slowly closes the pocket watch with a soft click, puts it away, grabs the assault rifle leaning against the bench with one hand, stands up quickly with determination, turns and starts running away through the destroyed train station, long dynamic tracking shot following her from the side and slightly behind, camera panning and orbiting around her as she runs, wind whipping her unraveling braids and dirty clothes, heavy combat boots splashing through mud and debris,\n\nwearing a dirty white t-shirt heavily stained with ash, dust, mud and soot, thin wet fabric clinging tightly to her body and curves from moisture and sweat clearly outlining her breasts and figure, layered under a black sleeveless denim jacket, ripped dark jeans with tears on thighs and knees, heavy black combat boots (Springerstiefel),\n\ndestroyed train station with collapsed roof, broken tracks and wrecked train cars in background,\n\nentire video extremely desaturated, near-pure monochrome black and white, high contrast cinematic look, deep blacks and bright silver highlights, everything completely washed-out grayscale, cold and lifeless atmosphere, ONLY the warm glowing golden brass of the pocket watch is vivid until she closes it,\n\nemotional cinematic masterpiece, tragic beauty, photorealistic, sharp focus, depth of field, ultra realistic skin fabric hair texture, glistening tears,\n\naudio: sad melancholic piano melody with strings, distant cannon thunder and explosion sounds off-screen (not visible), wind and footsteps SFX, no dialogue\n\ndynamic camera: smooth cinematic tracking, slight handheld urgency, dramatic low and side angles, perfect 10-second timing",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/74d37fe9-fab3-4e61-9588-4391b9fa25a0/original=true/74d37fe9-fab3-4e61-9588-4391b9fa25a0.mp4"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/121831035",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_120347391",
+    "prompt": "1girl, mature female\n, oarox, brown hair, long hair, twintails, hair rings, hair pulled back, red eyes, hair ribbon, pink ribbon\n,cheerleader,aqua crop top,midriff,navel,aqua skirt,pleated skirt,wristband\n, ((cat on head,black cat):1.1), chicken, running chicken\n, zzSewaddleC1tr0n, \n, beautiful landscape , blue ocean, from a distance, wallpaper style, vibrant beautiful colors, highly detailed, aesthetic, great lighting, extremely detailed, award winning, perfect composition, a rich and complex image of nature, a vibrant tissue of hues and textures captured digitally, best quality, realistic, captivating, intricately detailed, hyper detailed, maximalist style, photorealist, sharp focus, dynamic lighting, superb composition, finest details, highest aesthetics, best quality, sharp focus, high contrast, stylized, clear, colorful, ultra quality, 8k, best quality, award winning, a masterpiece",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be5cc5be-033b-41a8-8ade-af90b1d30e13/original=true/be5cc5be-033b-41a8-8ade-af90b1d30e13.jpeg"
+    ],
+    "tags": [
+      "landscape"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/120347391",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_122044537",
+    "prompt": "extremely detailed, savannah background, trees, clouds, closeup, face closeup, smug,\n1male, lion (big mane, hair accessories, iron accessories, tribal tattoos, face paint), sword,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a595b206-2ed2-466b-a9d9-c5142f613e83/original=true/a595b206-2ed2-466b-a9d9-c5142f613e83.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/122044537",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068580",
+    "prompt": "@4x0style, year 2025, newest, score 9, score 8, best quality, masterpiece, highres, absurdres, 1girl, fox girl, red hair, medium hair, two side up, tsurime, hair between eyes, long sidelock, hair ribbon, black ribbon, yellow eyes, fluffy tail, white animal ear fluff, smile, open mouth, heart hands, hand heart, looking at viewer, frilled dress, black dress, white frills, red accents, black choker, cross choker, ribbon trim, puffy sleeves, black arm warmers, black gloves, multiple hearts, floating hearts, pink background, gradient background, sparkles, soft lighting\n<lora:anima_beudelb_epoch36:1.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/279cb7c7-e50a-4eb7-9224-70bea5db7fa2/original=true/279cb7c7-e50a-4eb7-9224-70bea5db7fa2.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068580",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068554",
+    "prompt": "Full-body shot,\n1girl, cyberpunk, LeaStahl, sci-fi,\nShort blond hair, blue eyes,\nwhite power armor, bodysuit,Medium bust, slim figure, black jacket, black gloves,\n <lora:CCG_LeaStahl_IL:0.9>, (masterpiece:1.2), (best quality:1.2), (ultra highres:1.2) ,(8k resolution:1.2),",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/30af0032-c0a9-49bc-ab35-0400d17afedf/original=true/30af0032-c0a9-49bc-ab35-0400d17afedf.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068554",
+    "author": "unknown",
+    "tool": "divingIllustriousReal_v70VAE",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068546",
+    "prompt": "1girl, cyberpunk, LeaStahl, sci-fi,\nShort blond hair, blue eyes,\nwhite power armor, bodysuit,Medium bust, slim figure, black jacket, black gloves,\n <lora:CCG_LeaStahl_IL:0.9>, (masterpiece:1.2), (best quality:1.2), (ultra highres:1.2) ,(8k resolution:1.2),",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec79c4c9-25c9-48e7-8cf6-7a923fbbdeae/original=true/ec79c4c9-25c9-48e7-8cf6-7a923fbbdeae.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068546",
+    "author": "unknown",
+    "tool": "divingIllustriousReal_v70VAE",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068553",
+    "prompt": "1girl, cyberpunk, LeaStahl, sci-fi,\nShort blond hair, blue eyes,\nwhite power armor, bodysuit,Medium bust, slim figure, black jacket, black gloves,\nassault rifle,\n <lora:CCG_LeaStahl_IL:0.9>, (masterpiece:1.2), (best quality:1.2), (ultra highres:1.2) ,(8k resolution:1.2),",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1481c5b9-7bf6-48fe-a381-39347ce952ce/original=true/1481c5b9-7bf6-48fe-a381-39347ce952ce.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068553",
+    "author": "unknown",
+    "tool": "divingIllustriousReal_v70VAE",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068556",
+    "prompt": "Headshot,\n1girl, cyberpunk, LeaStahl, sci-fi,\nShort blond hair, blue eyes,\nwhite power armor, bodysuit,Medium bust, slim figure, black jacket, black gloves,\n <lora:CCG_LeaStahl_IL:0.9>, (masterpiece:1.2), (best quality:1.2), (ultra highres:1.2) ,(8k resolution:1.2),",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/da500bbf-ae27-4e83-bd20-a1ae9334c533/original=true/da500bbf-ae27-4e83-bd20-a1ae9334c533.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068556",
+    "author": "unknown",
+    "tool": "divingIllustriousReal_v70VAE",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068461",
+    "prompt": "masterpiece, best quality, absurdres, highres, very aesthetic, high quality, detailed, insanely detailed, beautiful, very awa, depth of field, volumetric lighting, \nanime coloring, soft and gentle colors, soft pastel colors, detailed textures,\nBreak,\n1girl, solo, looking at viewer, cowboy shot, petite body, \nBreak,\nscore_9, score_8_up, score_7_up, \nsource_cartoon, toon (style),\nBreak,,\nLori Loud, blonde hair, black eyes, small breasts,\nBreak, \njewelry, earrings,, blue shirt, sleeveless shirt\nBreak,\nOpen mouth, sky,  :d,  dutch angle, night, portrait, star (sky), close-up, starry sky, upper body, outdoors, parted lips, blue sky, tree, eyelashes, dot nose,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5fa64729-3286-4a92-92b6-d3b1bbc6bde7/original=true/5fa64729-3286-4a92-92b6-d3b1bbc6bde7.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/123068461",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068462",
+    "prompt": "masterpiece, best quality, absurdres, highres, very aesthetic, high quality, detailed, insanely detailed, beautiful, very awa, depth of field, volumetric lighting, \nanime coloring, soft and gentle colors, soft pastel colors, detailed textures,\nBreak,\n1girl, solo, looking at viewer, , petite body, \nBreak,\nscore_9, score_8_up, score_7_up, \nsource_cartoon, toon (style),\nBreak,,\nLori Loud, blonde hair, black eyes, small breasts,\nBreak, \njewelry, earrings,, blue shirt, sleeveless shirt\nBreak,\nOpen mouth, sky,  :d,  dutch angle, night, portrait, star (sky), close-up, starry sky, upper body, outdoors, parted lips, blue sky, tree, eyelashes, dot nose,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a4351893-c65d-4f01-86c6-8a3f0a4f732a/original=true/a4351893-c65d-4f01-86c6-8a3f0a4f732a.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/123068462",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068468",
+    "prompt": "masterpiece, best quality, absurdres, highres, very aesthetic, high quality, detailed, insanely detailed, beautiful, very awa, depth of field, volumetric lighting, \nanime coloring, soft and gentle colors, soft pastel colors, detailed textures,\nBreak,\n1girl, solo, looking at viewer, , petite body, \nBreak,\nscore_9, score_8_up, score_7_up, \nsource_cartoon, toon (style),\nBreak,,\nLori Loud, blonde hair, black eyes, small breasts,\nBreak, \njewelry, earrings,, blue shirt, sleeveless shirt\nBreak,\nOpen mouth, sky,  :o, dutch angle, night, portrait, star (sky), close-up, starry sky, wide-eyed, upper body, outdoors, parted lips, blue sky, tree, eyelashes, dot nose, serious,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/41a38967-c422-454d-9e72-e50ae8c6c490/original=true/41a38967-c422-454d-9e72-e50ae8c6c490.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/123068468",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068470",
+    "prompt": "masterpiece, best quality, absurdres, highres, very aesthetic, high quality, detailed, insanely detailed, beautiful, very awa, depth of field, volumetric lighting, \nanime coloring, soft and gentle colors, soft pastel colors, detailed textures,\nBreak,\n1girl, solo, looking at viewer, , petite body, \nBreak,\nscore_9, score_8_up, score_7_up, \nsource_cartoon, toon (style),\nBreak,,\nLori Loud, blonde hair, black eyes, small breasts,\nBreak, \njewelry, earrings,, blue shirt, sleeveless shirt,  brown straight short skirt, jewelry, earrings, blue footwear, shoes,\nBreak,\nIndoors, living room,  sitting, crossed legs, from side, from below, happy,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad014a27-dc08-49e6-8a77-ac7652eae4e8/original=true/ad014a27-dc08-49e6-8a77-ac7652eae4e8.jpeg"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/123068470",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068538",
+    "prompt": "asdill , best quality,very aesthetic,masterpiece,newest,\nz521, 1girl,solo,black hair, red inner hair, yellow eyes, parted bangs, two side up, slit pupils,headgear,\nhuge weapon, dragonslayer \\(sword\\),holding weapon, berserker armor,fang,dynamic pose,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6d052456-f7db-40ef-9c7e-c5c79873e44b/original=true/6d052456-f7db-40ef-9c7e-c5c79873e44b.jpeg"
+    ],
+    "tags": [
+      "fantasy"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068538",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068023",
+    "prompt": "A young woman with dark, wavy hair is walking confidently toward the camera in what appears to be a modern, upscale interior space. She is wearing a long-sleeved black turtleneck dress that fits her body well and ends just above her knees. She is also wearing black suede high heels. Her posture is upright and poised, with a bright, welcoming smile on her face. She has subtle makeup, including defined eyebrows and eyelashes, and is wearing small, dangling earrings and a delicate silver necklace with a small, clustered pendant. Her fingernails are painted a light, neutral color.\n\nThe setting is a well-lit, contemporary room with light beige walls and large, polished gray floor tiles. In the background, there is a dark brown sofa with light gray cushions and a matching dark brown armchair to the left. There are two abstract paintings on the walls. The one on the left has bright reds, oranges, and blues, and the one on the right has a more muted palette of blues, yellows, and whites against a dark background. The background is softly blurred, drawing attention to the woman as the main subject. The lighting is even and bright, highlighting her features and outfit without creating harsh shadows. The composition places her centrally in the frame, with her movement creating a sense of dynamism.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d5a49fd7-e8ef-484b-a222-0a63c3647e03/original=true/d5a49fd7-e8ef-484b-a222-0a63c3647e03.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068023",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068364",
+    "prompt": "A dark, gothic fairy tale reimagined — where the forest is alive, the Wolf is a cursed guardian, and the cottage is a trap. Red Riding Hood walks through a forest of shadows — not alone. Behind her, the Wolf follows — not to eat her, but to remember her. He is not a monster — he is a memory. And she is not afraid — she is ready.\n\n🎨 Style & Aesthetic\nGothic Romanticism meets Folk Horror — think The Wolf Man meets Pan’s Labyrinth meets The Little Mermaid — but with the weight of German Romanticism and 19th-century woodcuts.\nCinematic realism — high contrast, chiaroscuro lighting, with a touch of mythic surrealism.\nColor Palette: Deep crimson, blood-orange, mossy green, obsidian black, and the eerie glow of the mushrooms. No bright colors — only shadows and secrets.\n🌲 Scene Description\nA young girl — Red Riding Hood, but with pale, almost porcelain skin, dark smudged eyes, and a crimson hood stitched with spiderwebs — walks through a dense, twisted forest. The trees are gnarled and ancient, their bark cracked like dried parchment, and the ground is littered with glowing mushrooms that pulse with a sickly green light.\n\nShe carries a basket — not for berries, but for souls — and a tiny, glowing lantern tied to her belt. Her eyes are fixed on the distant, crooked cottage — the house of the grandmother, but not the one from the tale. It’s a crumbling, moss-covered structure with a single, broken window, and a door that groans open with the sound of a thousand whispers.\n\nBehind her — the Wolf is following.\n\nHe is not just watching. He is waiting. His eyes glow with a soft, eerie amber — he is not just a predator, but a memory. He has the body of a wolf, but the face of a man who has forgotten his own name. His cloak is mist — swallowing the light, whispering secrets to the wind.\n\nThe sky above is a bruised purple, streaked with stars that flicker like dying candles. The wind howls through the trees, carrying the scent of rot and honey.\n\n🧍‍♀️ Red Riding Hood — The Girl Who Knows the Forest\nShe walks with purpose — not fear, but recognition.\nHer eyes are not wide with terror — they are fixed, knowing, aware.\nShe knows the forest. She knows the Wolf. She knows the cottage.\nHer hand is raised — not in fear, but in recognition. She is not afraid — she is prepared.\n🐺 The Wolf — The Cursed Guardian\nHe is not just behind her — he is in the trees. His paws leave no prints — only whispers.\nHis eyes glow — not with hunger, but with memory.\nHe is not chasing her — he is following — because he remembers her. He remembers what she was.\nHis mist cloak sways with the wind — carrying the scent of honey and rot — the scent of home.\n🏠 The Cottage — The Trap\nThe cottage is not just a house — it’s a trap. A place where the memories are buried.\nThe door groans open — not with wind, but with whispers.\nThe window is broken — not from a storm, but from a memory.\n🌌 Atmosphere & Mood\nTense, eerie, haunting — the forest is alive — it watches, it waits, it remembers.\nThe sky is bruised purple — it’s not just night, it’s the end of time.\nThe mushrooms glow — they are not just fungi — they are eyes.\n📸 Camera Angle\nLow-angle shot — the camera is positioned low, looking up at the girl and the Wolf — making them both feel monumental, almost mythic.\nThe Wolf’s shadow is long — it stretches behind her, like a shadow of the past.\n🧩 Final Touch\nThe girl walks — not toward the cottage — but through it. She is not afraid. She is ready. She knows the Wolf. She knows the forest. She knows the cottage. She knows the story. And she is not afraid — she is prepared.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c06ba131-2f28-44fa-8600-5bbf3c20586a/original=true/c06ba131-2f28-44fa-8600-5bbf3c20586a.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068364",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068369",
+    "prompt": "masterpiece, sharp detail, intricate detail,HD anime, anime style, anime colors, detailed anime, anime eyes, bigger eyes, high quality anime, large pupil anime,1girl, solo,zzSinon, hair between eyes, short hair with long locks, aqua hair, aqua eyes,full body,expression in happy, happy,bedroom, bed,rain, heavy rain, dark cloud, cloudy, very cloudy,flat color,no lineart,<lora:illustrious_flat_color_v2>,<lora:Sinon>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c5e2b24d-d1d0-4285-ae75-6100c031354f/original=true/c5e2b24d-d1d0-4285-ae75-6100c031354f.jpeg"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/123068369",
+    "author": "unknown",
+    "tool": "Illustrious\\waiIllustriousSDXL_v150",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068393",
+    "prompt": "masterpiece, sharp detail, intricate detail,HD anime, anime style, anime colors, detailed anime, anime eyes, bigger eyes, high quality anime, large pupil anime,1girl, solo,zzSinon, hair between eyes, short hair with long locks, aqua hair, aqua eyes,full body,expression in sad, sad,bar, bar counter, counter, glass of wine, bottle of alcohol, bottle,day, sky with clouds, sky, cloud,flat color,no lineart,<lora:illustrious_flat_color_v2>,<lora:Sinon>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/582ba5e2-5658-457c-85e3-f1465be4e47e/original=true/582ba5e2-5658-457c-85e3-f1465be4e47e.jpeg"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/123068393",
+    "author": "unknown",
+    "tool": "Illustrious\\waiIllustriousSDXL_v150",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068394",
+    "prompt": "masterpiece, sharp detail, intricate detail,HD anime, anime style, anime colors, detailed anime, anime eyes, bigger eyes, high quality anime, large pupil anime,1girl, solo,zzSinon, hair between eyes, short hair with long locks, aqua hair, aqua eyes,full body,expression in happy, happy,bar, bar counter, counter, glass of wine, bottle of alcohol, bottle,night, moon, starry sky,flat color,no lineart,<lora:illustrious_flat_color_v2>,<lora:Sinon>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3edc03a0-e514-405e-9909-4eccc1927f19/original=true/3edc03a0-e514-405e-9909-4eccc1927f19.jpeg"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/123068394",
+    "author": "unknown",
+    "tool": "Illustrious\\waiIllustriousSDXL_v150",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068228",
+    "prompt": "2girls, alice liddell (american mcgee's alice), wednesday addams, Adorable_puff_dress, Puff dress, vc_partay, indoors, house, party, alcohol, drunk, excited, slipped clothes, standing, cheek to cheek, selfie, faceless crowd, being watched,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8c62db8f-762c-41fc-b001-4b2ce01c286c/original=true/8c62db8f-762c-41fc-b001-4b2ce01c286c.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068228",
+    "author": "unknown",
+    "tool": "urn:air:sdxl:checkpoint:civitai:827184@2514310",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068471",
+    "prompt": "masterpiece, best quality, ultra-detailed, high resolution, refined painterly illustration, elegant gothic woman, waist-up portrait, centered composition, confident gaze, pale porcelain skin with soft freckles, symmetrical face, almond-shaped hazel eyes, long curled eyelashes, subtle winged eyeliner, natural pink lips, delicate blush, aristocratic facial structure,\nintricate blonde updo with braided crown, sculpted curls pinned at the top, clean hair detailing,\navant-garde bodysuit made of long dense luxurious fur fibers, layered flowing fur strands, Wookie-inspired textile construction, made of w00kiee fur, rich dark sable and black tonal fur, ultra-detailed strand rendering, directional fur flow following body contours, couture fur tailoring, sculpted fiber panels, soft volumetric fur texture, subtle gloss along individual strands, tactile realism,\nhigh-fashion gothic couture, structured silhouette, long sleeves, elegant neckline, dramatic fur collar framing shoulders, form-fitting torso beneath layered fur texture, \nsleek fashion anatomy, long neck, graceful posture, slightly angled hips,\nstudio lighting, soft warm key light, rim light catching fur tips, subtle specular highlights along strands, soft shadow transitions,\npastel gradient background (peach, coral, soft yellow, mint), smooth painterly backdrop, clean brushwork, semi-realistic rendering, modern fantasy fashion aesthetic, \n<lora:Wookiee_Hair:1>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/48b6aaf3-f059-4f65-973b-9c930e351886/original=true/48b6aaf3-f059-4f65-973b-9c930e351886.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "fantasy"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068471",
+    "author": "unknown",
+    "tool": "sdXL_v10VAEFix",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068367",
+    "prompt": "((solo)),from above, muscular male,  male focus,yellow short-sleeved shirt, black long-sleeved undershirt, blue knee-length shorts, black leggings, white fingerless gloves, light blue chest strap harness, white belt pouch, white backpack, pokemon_boy,brown hair,brown eyes,poke_ball in hand, white safari hat with light blue band,((young)), geta, standing, outdoors, forest, looking at viewer, showing biceps, light smile,  closed mouth + teeth, ((hyper muscular)), masterpiece, amazing quality,best quality, ultra-detailed, 8K, amazing quality, newest, absurdres, G_0ndom,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/375063d4-ebeb-425a-ab74-a415589f3d82/original=true/375063d4-ebeb-425a-ab74-a415589f3d82.jpeg"
+    ],
+    "tags": [
+      "landscape"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068367",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123033517",
+    "prompt": "Captured on an ARRI ALEXA 35 with a Cooke Anamorphic/i 75mm lens, shot at T2.3 for shallow depth and gentle oval bokeh that separates subject from spectacle while retaining environmental weight. The lighting is bold but directional — a massive fire source motivated by a collapsing braziery off-frame right, balanced with cold moonlight spilling through fractured cathedral arches. Warm sodium-orange flame clashes against desaturated cobalt night tones. Smoke and ember particulate hang in layered sheets, catching highlights in streaks. The color grade leans into burnished golds and oxidized blues, with deep crimson accents preserved in costume detail. High dynamic range, controlled halation on practical flames, cinematic contrast without crushing shadow detail.\nA defining confrontation scene from the fantasy epic “The Gilded Quiet.”\nIn the foreground stands the hero, Ser Caldrin Vale — tall, gaunt, unmistakable — his most defining feature a porcelain half-mask fused seamlessly to the left side of his face, etched with hairline gold fractures that spider outward from his eye. His exposed right eye is steady, unblinking. He wears a long, ash-gray duelist’s coat with exaggerated split tails, lined in muted gold silk that flashes when he moves. Beneath it: articulated ivory plate armor, slim and architectural, with filigree shaped like broken halos. A narrow, luminous rapier hums in his hand, blade emitting a restrained white-gold edge light that reflects along the bevel of nearby stone.\nOpposite him, descending the cathedral steps through drifting smoke, is the primary antagonist: Lady Virexa Thorne, known as the Choir of Teeth. She is statuesque, her silhouette unmistakable — elongated black lacquered armor shaped like layered rib bones, flaring outward at the hips into serrated, crown-like ridges. Her helm is open-faced but framed by a mantle of articulated metallic “feathers” resembling curved fangs. Her lips are painted obsidian; her teeth capped in faintly reflective silver. In one hand she carries a chain-bound censer glowing from within with a deep, arterial red light, casting restless shadows that twitch across the vaulted ceiling.\nBehind Caldrin, partially out of focus, kneel members of the Glass Priory — supporting figures in translucent crystal-thread cloaks, fractured and battle-worn. Behind Virexa, elevated along the ruined colonnade, stand her adversarial chorus-knights: identical figures in mirrored masks and segmented bone-white armor, holding hooked polearms upright in ritual symmetry.\nThe frame captures the exact moment Caldrin steps forward, coat tails caught mid-sweep by the thermal draft of rising fire, rapier angled low but ready. Virexa’s censer swings outward, red light flaring brighter, embers scattering across marble steps. Sparks drift between them like suspended constellations. No exaggerated magic burst — just tension at ignition point.\nThe setting is the world of Aurith Hollow — a vertical city carved into cathedral-like canyon walls, where architecture is grown from calcified light. The shattered sanctuary around them is vast yet intimate in the lens compression: towering arches blurred into anamorphic streaks, fractured stained glass casting faint, fractured color patterns across smoke.\nEmotionally, the image radiates inevitability. Not rage — conviction. Caldrin’s posture is upright, restrained, deliberate. Virexa’s stance is relaxed but predatory, chin slightly tilted downward as if already victorious. The world feels old, ritualistic, and heavy with consequence.\nEditorial but grounded — styled like a prestige live-action fantasy film photographed by a high-fashion cinematographer who favors texture, silhouette, and controlled spectacle over chaos. 8K fidelity, ultra-detailed fabric weave, metallic patina, realistic flame behavior, sharp focus locked on the space between their eyes. A frozen moment just before the first strike. ",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/344040f1-106c-47e8-b530-cbcf61d64bfc/original=true/344040f1-106c-47e8-b530-cbcf61d64bfc.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "fantasy"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123033517",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068329",
+    "prompt": "(absurdres, best quality, masterpiece:1.4), score_9, score_8_up, score_7_up, score_6_up, detailed, detailed body, detailed face, world of wacraft, solo, alone, \n1male orc, dark brown tank top, (green skin tone:1.5), big tusks, gray beard, one shoulder armor, head scar, scars, bald, hoop earrings,  (old), black eyes, serious, , dark brown fur cloak,\nface close-up,\ndark background, pg-13, safe",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3d6bf77b-5995-4aa8-b2b3-227fabf248a6/original=true/3d6bf77b-5995-4aa8-b2b3-227fabf248a6.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068329",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068342",
+    "prompt": "(absurdres, best quality, masterpiece:1.4), score_9, score_8_up, score_7_up, score_6_up, detailed, detailed body, detailed face, world of wacraft, solo, alone, \n1male, orc, dark brown tank top, (green skin:1.3), big tusks, gray beard, one shoulder armor, head scar, scars, bald, hoop earrings,  (old), red eyes, serious, , dark brown fur cloak,\nface close-up,\ndark background, pg-13, safe",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e93d708-a091-4a48-a58c-500b8b668558/original=true/3e93d708-a091-4a48-a58c-500b8b668558.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068342",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068339",
+    "prompt": "(absurdres, best quality, masterpiece:1.4), score_9, score_8_up, score_7_up, score_6_up, detailed, detailed body, detailed face, world of wacraft, solo, alone, \n1male orc, dark brown tank top, (green skin tone:1.5), tusks, gray beard, one shoulder armor, head scar, scars, bald,  (old), black eyes, smirk, , dark brown fur cloak,\nface close-up,\ndark background, pg-13, safe",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ffb57896-ded4-4422-a479-df93228930b1/original=true/ffb57896-ded4-4422-a479-df93228930b1.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068339",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068336",
+    "prompt": "(absurdres, best quality, masterpiece:1.4), score_9, score_8_up, score_7_up, score_6_up, detailed, detailed body, detailed face, world of wacraft, solo, alone, \n1male orc, , (green skin tone:1.5), tusks, gray beard, one shoulder armor, head scar, scars, bald, hoop earrings,   black eyes, calm, , dark brown fur cape,\nface close-up,\ndark background, pg-13, safe",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/92215eb8-e911-424f-9c81-a7a29128ed20/original=true/92215eb8-e911-424f-9c81-a7a29128ed20.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068336",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068333",
+    "prompt": "(absurdres, best quality, masterpiece:1.4), score_9, score_8_up, score_7_up, score_6_up, detailed, detailed body, detailed face, world of wacraft, solo, alone, \n1male, orc, dark brown tank top, (green skin:1.3), big tusks, gray beard, one shoulder armor, head scar, scars, bald, hoop earrings, huge katana, (old), red eyes, serious, \nface close-up,\ndark background, pg-13, safe",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d78a2648-dbb9-4c59-b2d7-6a1489f82757/original=true/d78a2648-dbb9-4c59-b2d7-6a1489f82757.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068333",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
+  },
+  {
+    "id": "civitai_123068248",
+    "prompt": "masterpiece,best quality,amazing quality,\n1girl, solo, majodou, subaru-majo, red hair, long hair, bangs, side locks, braids, blue eyes, large breasts, \nsubaru-casual, layered clothing, black shirt, white vest, sailor collar, red bow, long sleeves, black skirt, pleated skirt, \ncafe, sitting, crossed legs, smile, coffee mug, side view",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/69476b94-0621-4eef-b0cd-fe507f9d9074/original=true/69476b94-0621-4eef-b0cd-fe507f9d9074.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123068248",
+    "author": "unknown",
+    "tool": "Unknown",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04 04:12:18"
   }
 ]
