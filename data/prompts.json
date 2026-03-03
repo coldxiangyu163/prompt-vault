@@ -27789,5 +27789,435 @@
     "source": "civitai",
     "created_at": "2026-03-03",
     "collected_at": "2026-03-03T20:05:48.872Z"
+  },
+  {
+    "id": "civitai_123068814",
+    "prompt": "masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres,\n1girl, long hair, pointy ears, dark elf, colored skin, black skin, white hair, purple eyes, metal corset, red dress, see-through dress, halter dress, high heels, pantyhose, Noir_Gloom, fantasy, castle, balcony, against railing, night, star \\(sky\\), crescent moon,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/755dd764-0f45-4f8d-9550-4310d90619b1/original=true/755dd764-0f45-4f8d-9550-4310d90619b1.jpeg"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068814"
+  },
+  {
+    "id": "civitai_123068794",
+    "prompt": "macro photography of fingers. Her shiny, mirror-polished nails reflect her face., dramatic lighting, gaze, savage manners, fantastic realism, dynamic composition, mythical creature of beauty and energy, creative transformation, epic adventure, thrilling narrative, otherworldly charm",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2ab725d7-6d71-4e8a-810e-7cdf099bd72c/original=true/2ab725d7-6d71-4e8a-810e-7cdf099bd72c.jpeg"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068794"
+  },
+  {
+    "id": "civitai_123068792",
+    "prompt": "A mesmerizing macro image documents Quartz aranea glacialis, a fictional spider species whose abdomen has been entirely replaced through a symbiotic mineralization process by a perfect sphere of faceted ice-blue quartz crystal, roughly the size of a large pea, that refracts available light into dozens of internal prismatic reflections. The creature's eight legs are anatomically accurate spider-legs but appear to be made of frosted pale-blue chitin, nearly translucent at the joints, each foot gripping the rough surface of a white quartz geode formation with delicate precision. The spider's cephalothorax retains biological texture — fine silver-blue hairs visible individually under macro magnification, eight pale-blue eyes arranged in the typical spider configuration, each eye a tiny mirror-polished sphere reflecting the surrounding crystal environment. The foreground showcases the jagged inner surface of the geode — white quartz points and druzy blue chalcedony micro-crystals catching light, creating a bed of sharp sparkle beneath the creature.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b0a9188c-57dd-419d-ab89-6994e9cc13b3/original=true/b0a9188c-57dd-419d-ab89-6994e9cc13b3.mp4"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068792"
+  },
+  {
+    "id": "civitai_123068365",
+    "prompt": "Vintage Polaroid photo, candid shot of a girl with white hair laughing, sitting in the passenger seat of an old car, sunny day, wind blowing hair, overexposed highlights, light leaks, washed-out colors, soft focus, retro aesthetic, nostalgic 1990s vibe, instant film texture, imperfect framing",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2247a049-c092-495e-a401-ef30ff8b8e0c/original=true/2247a049-c092-495e-a401-ef30ff8b8e0c.jpeg"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068365"
+  },
+  {
+    "id": "civitai_123068370",
+    "prompt": "grunge style flash photography, a girl wearing a baggy oversized white hoodie and a choker, harsh direct flash, film grain, disposable camera aesthetic, authentic look, candid shot, slightly blurred motion, rebellious vibe, kodak portra 400 emulation.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e735a8e-f4c0-4c00-9d10-49ea018ba0e2/original=true/3e735a8e-f4c0-4c00-9d10-49ea018ba0e2.jpeg"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068370"
+  },
+  {
+    "id": "civitai_123061311",
+    "prompt": "ultrabitch style, amy rose, pink fur, green eyes, teeth, grass, outdoors, furry, 1girl, gloves, day, white gloves, tears, crying, furry female, animal nose, solo, animal ears, clenched teeth, pink hair, tree, looking at viewer, body fur, furry male, clenched hands, sky, blue sky, 1boy, crying with eyes open, own hands together, clenched hand, open mouth, determined, clenched hands together, crop top",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e2696df1-94f9-4ba6-be60-6e7d1f2c396d/original=true/e2696df1-94f9-4ba6-be60-6e7d1f2c396d.jpeg"
+    ],
+    "tool": "889818.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123061311"
+  },
+  {
+    "id": "civitai_123068477",
+    "prompt": "High-resolution anime-style illustration, bold painterly textures, cinematic sunset lighting. A massive container ship is docked in a bustling harbor at sunset, its towering stacks of colorful cargo containers casting long shadows over the reflective water. The golden-orange sky fades into deep purples and blues, the last light of the sun glinting off the ship's weathered metal hull. Cranes loom overhead, their silhouettes stark against the glowing horizon, while distant city lights begin to flicker to life along the waterfront. In the foreground, a sleek car is parked near the dock, its polished surface reflecting the warm hues of the sunset. A lone woman stands beside it, her silhouette outlined against the glowing sky as she watches the harbor, exuding a quiet, mysterious presence. <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c6ffb7ff-ded5-47ea-a7c2-829845e0373e/original=true/c6ffb7ff-ded5-47ea-a7c2-829845e0373e.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068477"
+  },
+  {
+    "id": "civitai_123068472",
+    "prompt": "The image shows a futuristic spaceship flying over a desert landscape. The spaceship is in the center of the image, with its wings spread wide and its body facing towards the right side of the frame. The body of the spaceship is made up of multiple layers of metal, with intricate designs and patterns on its surface. The top layer is covered in a dark blue-green color, while the bottom layer is a lighter shade of blue. There are two red lights on the top of the ship, one on each side, illuminating the area below. The ship's wheels are large and black, and they are arranged in a circular pattern. In the foreground, there are two black cars parked on the ground, one in front of the other. The sky is a deep blue, and there are a few small planes flying in the distance. The ground is covered with dirt and rocks, and the sun is setting in the background, casting a warm glow over the scene. <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1ab084c2-d449-45fe-95b0-c6df8350e863/original=true/1ab084c2-d449-45fe-95b0-c6df8350e863.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068472"
+  },
+  {
+    "id": "civitai_123068473",
+    "prompt": "A digital illustration of a futuristic spaceship in flight. The spaceship is in the center of the image, with its wings spread wide and its body facing towards the left side of the frame. The body of the spaceship is predominantly yellow and gray, with a metallic sheen. The wings are elongated and have a pointed tip, with two pointed tips on either side. The cockpit is large and rectangular, with multiple windows and doors. The front of the cockpit has a large red \"U\" logo on it, which stands out against the yellow and gray colors. The background is a grayish-blue sky with a hint of smoke or fog. The overall mood of the illustration is futuristic and futuristic. <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a1db6b6b-90a9-48f0-8bc8-6a2a4fd78471/original=true/a1db6b6b-90a9-48f0-8bc8-6a2a4fd78471.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068473"
+  },
+  {
+    "id": "civitai_123068474",
+    "prompt": "The image is a digital illustration of a futuristic-looking truck parked on the side of a road. The truck is white with a futuristic design, featuring a large front grille with the Cadillac logo in the center. The front of the truck has a unique pattern of black and gold accents, while the back has a large dome-like structure with a red and black stripe running along the top. The dome is tilted slightly to the side, giving the truck a futuristic look. The vehicle has two large black wheels with silver rims on either side. The road is lined with white lines, and in the background, there is a body of water with a rocky shoreline and a mountain range in the distance. The sky is a pale blue, and the overall mood of the image is peaceful and serene. <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7523d3a2-0d12-448a-87de-9117db92f64b/original=true/7523d3a2-0d12-448a-87de-9117db92f64b.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068474"
+  },
+  {
+    "id": "civitai_123068475",
+    "prompt": "Intricate, high-tech room filled with advanced gadgets and sophisticated surveillance equipment. Wall-mounted screens display satellite imagery and encrypted data streams flow across them like digital currents. Holographic projections flicker, revealing brief glimpses of clandestine meetings in shadowy locationsâdistant cities lit by the glow of skyscrapers, secret laboratories humming with activity. The room is dimly lit, shadows cast by the array of high-tech devices creating a labyrinthine atmosphere. A figure in a tailored suit stands near an elegantly designed desk adorned with advanced technologyâa sleek keyboard emitting a soft glow, a holographic display hovering above it displaying complex data. The scene captures the essence of covert operations with meticulous attention to technological detail, evoking intrigue and suspense. <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/263221ab-9b02-4cf5-9c37-483abceda3fe/original=true/263221ab-9b02-4cf5-9c37-483abceda3fe.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068475"
+  },
+  {
+    "id": "civitai_123068476",
+    "prompt": "A futuristic spaceship, streamlined, black glass, antennae, scratched and damaged steel panels and huge wheels, off road tires, intakes, vents, motors, complex and intricate machinery, missile battery, turbines, jet engines, exhaust glow, standing on a runway, stormy sky, steel buildings, factories, morning light, distant mountains futurist-curve space, feedback. <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5249033b-dbac-4854-ae8d-a6eb70e9c781/original=true/5249033b-dbac-4854-ae8d-a6eb70e9c781.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068476"
+  },
+  {
+    "id": "civitai_123068478",
+    "prompt": "<lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e2e174c8-798d-41e5-b321-30d0ece3aaa9/original=true/e2e174c8-798d-41e5-b321-30d0ece3aaa9.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068478"
+  },
+  {
+    "id": "civitai_123068479",
+    "prompt": "A majestic, retrofuturistic semi-truck fitted for interstellar travel hauls a glowing train of modular cargo pods through the vastness of deep space. Its colossal frame is clad in burnished chrome and matte graphite plating, layered with intricate vents, thrusters, and glowing conduits that pulse like veins of starlight. The angular design reflects brutalist elegance, casting shimmering reflections of nebulae and passing meteors. The long cargo chain trails behind, glowing with soft cyan and magenta hues. A dutch angle heightens the sense of motion and scale, while the truck barrels through a swirling asteroid field and plasma clouds illuminated by a distant red giant. Streaks of light curve around it, warping perspective as gravitational waves ripple subtly in the surrounding space. Massive celestial bodies drift in the background â crystalline moons, planetary rings, and geometric space stations like floating temples of industry. The composition is dynamic and cinematic, with sharp silhouettes, deep perspective, and an atmosphere of serene yet heroic adventure. Rendered with ultra-high detail and painterly refinement, the scene blends cosmic surrealism and science fiction with a mesmerizing visual rhythm. Hyper-accurate textures, high-resolution finish, and radiant lighting effects bring the image to life. Inspired by the visionary styles of Chris Foss, John Harris, and Paul Chadeisson. An absolute masterpiece of sci-fi illustration â rich, immersive, and unforgettable. <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90f03acc-3d00-498a-ac5a-e2a32b299383/original=true/90f03acc-3d00-498a-ac5a-e2a32b299383.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068479"
+  },
+  {
+    "id": "civitai_123068480",
+    "prompt": "A highly detailed CGI rendering of a futuristic, armored vehicle, the vehicle is positioned in a dimly lit, industrial setting, with a high ceiling and walls that appear to be made of metal or concrete, the exterior of the vehicle has a sleek, metallic gray color, with numerous visible circuitry and mechanical components, including a large, rectangular panel on the right side, the panel is illuminated with bright yellow lines, suggesting a futuristic or cybernetic theme, surrounding the panel are numerous wires and cables, some of which are tangled and disorganized, adding to the chaotic and advanced nature of the machine, on the left side, there are four large, circular tracks with a grid-like pattern, each with a metallic sheen, indicating a high level of detail and precision in the design, the vehicles have a rugged, industrial appearance, with visible wear and tear, suggesting they have been used for a long time, the overall color palette is dark and moody, with the metallic gray dominating dominating the foreground and the dark, shadowy background adding depth and contrast <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/34829aa5-0e1e-45a8-93e1-15cba116f19a/original=true/34829aa5-0e1e-45a8-93e1-15cba116f19a.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068480"
+  },
+  {
+    "id": "civitai_123068481",
+    "prompt": "<lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:1.5>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44959479-5fb8-420d-8789-83e133cdf766/original=true/44959479-5fb8-420d-8789-83e133cdf766.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068481"
+  },
+  {
+    "id": "civitai_123068482",
+    "prompt": "Detailed oil painting, dark fantasy style, an old woman with white hair and goggles riding a round-shaped futuristic motorcycle in a dusty environment. She wears a long jacket and pant's. The woman has two large, egg-shaped eyes on the sides of her head. Cinematic, dramatic lighting, highly detailed, realistic textures. <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/67e3273a-257a-4dfd-b3d9-5c9aaa7bc5db/original=true/67e3273a-257a-4dfd-b3d9-5c9aaa7bc5db.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068482"
+  },
+  {
+    "id": "civitai_123068483",
+    "prompt": "<lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:1.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a524a58d-6e12-4338-9c3f-9697cfe96ad4/original=true/a524a58d-6e12-4338-9c3f-9697cfe96ad4.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068483"
+  },
+  {
+    "id": "civitai_123068484",
+    "prompt": "Cyberpunk digital art with dramatic lighting and vibrant neon colors, showcasing a heavily modified, battered car with glowing red headlights, parked on a wet urban street reflecting the lights, surrounded by tall, dark buildings and misty atmosphere, creating a tense, futuristic scene. <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1b87fef5-9b3f-4a2f-9d6c-cd9e495b8c47/original=true/1b87fef5-9b3f-4a2f-9d6c-cd9e495b8c47.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068484"
+  },
+  {
+    "id": "civitai_123068485",
+    "prompt": "Dynamic angle shot of a VTOL futuristic Motorbike parked on the street in front of a metropolis futuristic city in the rain. The bike is a beefy armored futuristic machine. Puddles of water reflect the bike and environment as the bike is the main focal point. <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d6f98fcc-430f-4982-b8d7-83e125cf5389/original=true/d6f98fcc-430f-4982-b8d7-83e125cf5389.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068485"
+  },
+  {
+    "id": "civitai_123068486",
+    "prompt": "With a glowing spherical object in the sky, reflecting an inverted landscape, tranquil river flowing through snowy fields and green meadows, rustic cabin near the river, towering mountains under a starry twilight sky, peaceful and enchanting atmosphere, vibrant and reflective elements, intricate with intricate textures and vibrant colors. The scene should include a rich variety of elements, each contributing to the overall atmosphere. Lighting should be soft, diffused, and natural, enhancing the depth and realism of the scene. The mood is to be calm yet vibrant, creating a sense of serenity and wonder. Every detail in the scene should be meticulously rendered, emphasizing the contrast between light and shadow, and capturing the fine textures and subtle gradients. The color palette should be carefully chosen to evoke emotion, with each hue enhancing the aesthetic appeal of the overall composition. The final image should be immersive and captivating, drawing the viewer into its intricately detailed world. <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/30e272ca-08fb-4a96-96c5-08bb2c0d993e/original=true/30e272ca-08fb-4a96-96c5-08bb2c0d993e.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068486"
+  },
+  {
+    "id": "civitai_123068487",
+    "prompt": "A highly detailed digital artwork depicting a futuristic, high-tech vehicle in a desolate, mountainous landscape, the vehicle is a large, cylindrical, armored vehicle with a sleek, metallic exterior, featuring a mix of gray and white hues, its interior is covered in intricate, glowing circuitry and mechanical components, giving it a futuristic and advanced look, the spacecraft is positioned on a rocky terrain, with snow-capped mountains in the background, illuminated by a faint, orange glow from the distant lava flows, suggesting a volcanic or ice-related activity, the sky is a deep blue, with a few stars scattered across it, adding a sense of vastness and mystery to the scene, the overall style is highly realistic with a touch of hyperrealism, emphasizing the intricate details of the vehicle's design and the ruggedness of the terrain, the artwork is rich in detail, with textures and lighting that enhance the sense of depth and realism, typical of high-end digital art <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8caa0859-abb3-481c-b5ae-25ff314a09dd/original=true/8caa0859-abb3-481c-b5ae-25ff314a09dd.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068487"
+  },
+  {
+    "id": "civitai_123068488",
+    "prompt": "A digital painting depicting a futuristic, sci-fi scene, the central focus is a large, luxurious, futuristic ship with a sleek, aerodynamic design, resembling a spaceship or a spaceship, floating through a vibrant sunset sky filled with swirling, orange and pink clouds, the ship's surface is smooth and reflective, with a glossy finish that reflects the warm, golden hues of the sky, the sky is bathed in a gradient of warm hues, transitioning from a deep orange at the top to a lighter pink at the bottom, the clouds are detailed with soft, wispy textures, adding depth and movement to the scene, in the left side of the image, there are two smaller, black, cylindrical spaceships, resembling spacecrafts, flying towards the ship, one in the foreground and the other in the background, the ships are positioned in a way that creates a sense of movement and depth, with the larger ship slightly ahead of the smaller one, the overall style of the artwork is reminiscent of modern, futuristic art with a touch of surrealism, blending elements of fantasy and realism <lora:YFG-FutureIsBlue-Flux2-Klein9B-v1_2k:1> <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:1.25>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/92e4e53f-bc25-41af-bb21-c0286ec6747a/original=true/92e4e53f-bc25-41af-bb21-c0286ec6747a.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068488"
+  },
+  {
+    "id": "civitai_123068489",
+    "prompt": "The image is a digital art piece that appears to be a futuristic cityscape. It is a close-up of a large, futuristic spaceship that is floating in the air. The spaceship is silver in color and has multiple circular windows on its body. The windows are covered in wires and cables, and there is a red banner hanging from the top right corner of the image with Chinese characters written on it. The background is filled with tall buildings and skyscrapers, and the sky is a hazy gray color. In the foreground, there are two figures, one wearing a black suit and the other wearing a red suit, standing in front of the spaceship. The figures appear to be looking up at the spaceship, as if they are looking at it. There is a hint of smoke or fog in the background, adding to the futuristic atmosphere. <lora:YFG-Obs-Flux2-Klein9b_3k-v1:1> <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:1>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/331eb3e6-d8da-4d28-bf84-5e2face1ca8b/original=true/331eb3e6-d8da-4d28-bf84-5e2face1ca8b.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068489"
+  },
+  {
+    "id": "civitai_123068490",
+    "prompt": "The image is a digital illustration of a large, abandoned ship in the middle of a desert-like landscape. The ship appears to be in a state of disrepair, with rust and decay visible on its hull. The body of the ship is rusted and weathered, with a large American flag flying on the right side of the image. The ship is surrounded by a rocky cliff, with patches of sand and debris scattered around it. The sky is a pale blue, and the sun is shining through the clouds, casting a warm glow over the scene. The overall mood of the illustration is desolate and desolate. <lora:YFG-FutureIsDark-Flux2-Klein-9B-Base-v1_750:0.85> <lora:YFG-Obs-Flux2-Klein9b_3k-v1:0.9> <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:1.35>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/da7a959e-81b3-4226-8dbc-cfbbe2001d24/original=true/da7a959e-81b3-4226-8dbc-cfbbe2001d24.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068490"
+  },
+  {
+    "id": "civitai_123068493",
+    "prompt": "Japanese Manga style Poster with bold large fonts and graphics, Close-up perspective shot from a sandy beach at ground level focusing intensely on three discarded items abandoned beside itâcyberpunk soldier helmet with glowing circuits, assault rifle lying open with mechanical parts visible, military ranger boot with intricate designs showing wear; depth of field creates sharp focus on objects while blurring surroundings; foreground cluttered with sand and debris; background features a vast expanse of ocean with waves crashing violently against rocky shores; sky above is stormy with dark clouds billowing in winds; sun glows brightly casting golden hour hues; banners float in the wind; beach littered with shells, pebbles; sea spray flies as waves rise high. Cinematic perspective captures scene's dramatic elements through composition and lighting; highlights contrast between discarded gear and vast environment; utilizes depth of field to emphasize focus on objects; creates immersive atmosphere drawing viewer into scene's tension. <lora:YFG_Stranje_Flux2_Klein9b_v1_000003000:2.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1df90135-2629-40ee-85f1-ec6e1614a0ba/original=true/1df90135-2629-40ee-85f1-ec6e1614a0ba.jpeg"
+    ],
+    "tool": "Flux\\flux-2-klein-9b.safetensors",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068493"
+  },
+  {
+    "id": "civitai_123068630",
+    "prompt": "masterpiece, best quality, absurdres, highres, extremely high detail, tropical fortress. medieval,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2505a7f1-59e8-4ebc-943c-3ebde552416b/original=true/2505a7f1-59e8-4ebc-943c-3ebde552416b.jpeg"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068630"
+  },
+  {
+    "id": "civitai_123066901",
+    "prompt": "An 80s style analog photo of Jinx from Arcane for a high fashion editorial. Medium shot.\n\nPOSE:\nHer body is angled 45 degrees to the right (three-quarter front view), torso and chest clearly visible. NOT a back view. Her head is turned to face directly forward at the camera. Eyes looking to the right. Arms raised with hands clasped behind her head, elbows out.\n\nAPPEARANCE:\nSignature blue braids, one shorter braid draped over left shoulder. Blue cloud tattoos visible on right upper arm. Oversized white sleeveless knit top with grey horizontal chest stripes. Black trousers. No armpit hair.\n\nDETAILS:\nMinimalist white wall background. Soft studio lighting. Ultra-detailed skin texture. 80s fashion photography grain.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a55e6d08-57b9-4283-932b-d711b055ff39/original=true/a55e6d08-57b9-4283-932b-d711b055ff39.jpeg"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123066901"
+  },
+  {
+    "id": "civitai_123066264",
+    "prompt": "score_9, score_8_up, score_8, 8k, (80s style, Analogic photo), (jinx), (standing with both arms over the head, hands behind head, body facing forward), (oversized loose black and white striped sleeveless knit top:1.3), (relaxed black pants), (blue tattoo on left arm:1.2), (neutral matte white walls), (even soft lighting), (cool confident expression), Arcane style, high fashion editorial, clean realism, ultra detailed, portrait orientation, (portrait medium shot from mid-thigh up, no feet:1.2)",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7b095c5e-aef3-403b-b633-8bd543279a59/original=true/7b095c5e-aef3-403b-b633-8bd543279a59.jpeg"
+    ],
+    "tool": "cyberrealisticPony_v100",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123066264"
+  },
+  {
+    "id": "civitai_123057820",
+    "prompt": "high quality,detailled,high resolution,masterpiece,\nBREAK\nsolo,posing,front view,looking at viewer, <lora:demi_Superhuman:0.8> d3mi, 1girl,pink eyes, long hair, flat chest, white skin, white eyebrows, white eyelashes, shortstack, white hair, jeans, sweater,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/36223ef0-86ae-4569-839e-3b98dee900e6/original=true/36223ef0-86ae-4569-839e-3b98dee900e6.jpeg"
+    ],
+    "tool": "waiIllustriousSDXL_v140",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123057820"
+  },
+  {
+    "id": "civitai_123068492",
+    "prompt": "(inspired by https://civitai.com/images/39061653 | beautiful work ) ### (Misterious mood Soft Lighting Photography), TWbabeXL01 irresistibile beautiful (20yo woman), half-top view,  spanish  girl ,  full lips, skin texture, long  dark with purple stripes hair,  small sagging breasts, nipple outline, revealing transparent blue tanktop, parted lips, looking at viewer, dinamic side view, light and shadow, elegance, harmony, 8K, best quality, masterpiece, an extremely delicate and realistic portrait, fashion magazine style, suspended expression , great lighting, perfect shading, professional shading, shallow detailed eyes, accurate makeup , modern styled, perfect face, perfect teeth, cute, beautiful, perfect beauty, amazing beauty, pure genius, absolutely perfect, gentle, highly detailed, breathtaking, ((Photo Focus, DOF, Aperture)), very elegant, high-budget professional color grading,  uncensored, dof background,<lora:SDXL/TWbabeXL01:0.76>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a8d9cbad-3d82-4fb5-8134-da2de3e0f4d9/original=true/a8d9cbad-3d82-4fb5-8134-da2de3e0f4d9.jpeg"
+    ],
+    "tool": "juggernautXL_v8Rundiffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068492"
+  },
+  {
+    "id": "civitai_123068555",
+    "prompt": "Full-body shot,\n1girl, cyberpunk, LeaStahl, sci-fi,\nShort blond hair, blue eyes,\nwhite power armor, bodysuit,Medium bust, slim figure, black jacket, black gloves,\nassault rifle,\n <lora:CCG_LeaStahl_IL:0.9>, (masterpiece:1.2), (best quality:1.2), (ultra highres:1.2) ,(8k resolution:1.2),",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f190fb87-daee-46d2-be7b-959450e17154/original=true/f190fb87-daee-46d2-be7b-959450e17154.jpeg"
+    ],
+    "tool": "divingIllustriousReal_v70VAE",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068555"
+  },
+  {
+    "id": "civitai_123068503",
+    "prompt": "<lora:F42_Daily_Challenge:0.25>\nWhimsical and Playful, breathtaking, ecstatic <lora:Wookiee_Hair:1>,made of w00kiee, (masterpiece, cinematic, photorealistic) A samurai mech covered entirely in cascading Wookiee hair, katana wrapped with braided pelt, wind whipping through shimmering strands, cherry blossoms entangled in the fur, cinematic lighting diffused through smoke and pink petals, detailed armor reflections, mythic Japan fantasy realism, 8k sharp focus . award-winning, professional, highly detailed, imaginative, fantastical, bight colors, stylized, happy, Whimsical and Playful, 3d , dynamic action, closeup cute and adorable, cute big circular reflective eyes, long fuzzy fur, nebulae, Pixar render, unreal engine cinematic smooth, intricate detail, cinematic\n<F42>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0273ef4f-d240-41d5-8371-901a8813ab55/original=true/0273ef4f-d240-41d5-8371-901a8813ab55.jpeg"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068503"
+  },
+  {
+    "id": "civitai_123068383",
+    "prompt": "masterpiece, sharp detail, intricate detail,HD anime, anime style, anime colors, detailed anime, anime eyes, bigger eyes, high quality anime, large pupil anime,1girl, solo,zzSinon, hair between eyes, short hair with long locks, aqua hair, aqua eyes,   hair ornament, hairclip, white scarf, open jacket, cropped jacket, green jacket, cleavage, small breasts, long sleeves, fingerless gloves, black gloves, highleg leotard, white leotard, side cutout, black belt, short shorts, black shorts, chaps, green pants, thigh strap,full body,angry expression, angry,bedroom, bed,night, moon, starry sky,flat color,no lineart,<lora:illustrious_flat_color_v2>,<lora:Sinon>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7698bda7-7f6e-49be-be8b-7b9184639224/original=true/7698bda7-7f6e-49be-be8b-7b9184639224.jpeg"
+    ],
+    "tool": "Illustrious\\waiIllustriousSDXL_v150",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068383"
+  },
+  {
+    "id": "civitai_123068391",
+    "prompt": "masterpiece, sharp detail, intricate detail,HD anime, anime style, anime colors, detailed anime, anime eyes, bigger eyes, high quality anime, large pupil anime,1girl, solo,zzSinon, hair between eyes, short hair with long locks, aqua hair, aqua eyes,   hair ornament, hairclip, white scarf, open jacket, cropped jacket, green jacket, cleavage, small breasts, long sleeves, fingerless gloves, black gloves, highleg leotard, white leotard, side cutout, black belt, short shorts, black shorts, chaps, green pants, thigh strap,full body,expression in sad, sad,beach, sand, ocean, water,rain, heavy rain, dark cloud, cloudy, very cloudy,flat color,no lineart,<lora:illustrious_flat_color_v2>,<lora:Sinon>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/67db1709-2455-40d6-ba4a-ef8a9bec69f2/original=true/67db1709-2455-40d6-ba4a-ef8a9bec69f2.jpeg"
+    ],
+    "tool": "Illustrious\\waiIllustriousSDXL_v150",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068391"
+  },
+  {
+    "id": "civitai_123068398",
+    "prompt": "masterpiece, sharp detail, intricate detail,HD anime, anime style, anime colors, detailed anime, anime eyes, bigger eyes, high quality anime, large pupil anime,1girl, solo,zzSinon, hair between eyes, short hair with long locks, aqua hair, aqua eyes,   hair ornament, hairclip, white scarf, open jacket, cropped jacket, green jacket, cleavage, small breasts, long sleeves, fingerless gloves, black gloves, highleg leotard, white leotard, side cutout, black belt, short shorts, black shorts, chaps, green pants, thigh strap,full body,angry expression, angry,restaurant,chocolate cakes on the table, table, chair, glass, menu, chocolate cakes,night, moon, starry sky,flat color,no lineart,<lora:illustrious_flat_color_v2>,<lora:Sinon>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/75604c2c-3285-463d-b98b-a66ff4368276/original=true/75604c2c-3285-463d-b98b-a66ff4368276.jpeg"
+    ],
+    "tool": "Illustrious\\waiIllustriousSDXL_v150",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068398"
+  },
+  {
+    "id": "civitai_123068399",
+    "prompt": "<lora:blackwhiplash(bwl)-guy90-Illust-Lycorisv1:1>, blaash, <lora:stuffy_ai_style_illustrious_goofy:0.8>, \n(1girl, solo), <lora:Komi_Shuuko_Komi_Cant_Communicate:0.8>, komi shuuko, simple background, full body,\nlips, short hair, black hair, closed eyes, =_=, :3, smug, \nfrieren \\(cosplay\\), striped shirt, white capelet, black belt, white skirt, long sleeves, black pantyhose\n4 fingers, wide hips, large breasts, sitting, kneeling, hand between legs,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/190879bb-9dec-4f06-aeba-caa63a76dd2b/original=true/190879bb-9dec-4f06-aeba-caa63a76dd2b.jpeg"
+    ],
+    "tool": "hassakuXLIllustrious_v22",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068399"
+  },
+  {
+    "id": "civitai_123068341",
+    "prompt": "(absurdres, best quality, masterpiece:1.4), score_9, score_8_up, score_7_up, score_6_up, detailed, detailed body, detailed face, world of wacraft, solo, alone, \n1male orc, dark brown tank top, (green skin tone:1.5), tusks, gray beard, one shoulder armor, head scar, scars, bald, hoop earrings,  (old), black eyes, calm, , dark brown fur cloak, \nface close-up,\ndark background, pg-13, safe",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/22a1dc17-c6fb-4f0a-91b1-547b567e09cf/original=true/22a1dc17-c6fb-4f0a-91b1-547b567e09cf.jpeg"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068341"
+  },
+  {
+    "id": "civitai_123068243",
+    "prompt": "masterpiece,best quality,amazing quality,\n1girl, solo, majodou, rurune-majodou, brown hair, short hair, pigtails, parted bangs, hair ribbons, purple eyes, medium breasts, \nrurune-casual, layered clothing, green dress, white shirt, long sleeves,  white apron, red bow,\nsmile, hands on hips, shop",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/43775959-743c-4677-baba-87beb2895aa3/original=true/43775959-743c-4677-baba-87beb2895aa3.jpeg"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068243"
+  },
+  {
+    "id": "civitai_123068276",
+    "prompt": "masterpiece, best quality, amazing quality, highres, absurdres, newest, very awa, mood lighting, cinematic lighting, volumetric lighting, ray tracing, dramatic shadows, dappled light, high resolution, aesthetic, excellent, medium resolution,\nBlonde hair, bangs, long hair, twin tails, twin drills, yellow eyes, expressionless, pale skin, blush, black lipstick, \n1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,\ntraditional media, close-up shot, view from aside, solo, holding sword, dynamic fighting pose, 1girl, sabia, human, white Victorian frill dress, black corset, looking at viewer, closed mouth,\n(rella:1.2), (redum4:1.2) (au \\(d elete\\):1.2) (dino \\(dinoartforame\\):1.1), wlop, chiaroscuro, under lighting, side light",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5fbf04c5-df9b-47f2-ac2d-22008da291af/original=true/5fbf04c5-df9b-47f2-ac2d-22008da291af.jpeg"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123068276"
+  },
+  {
+    "id": "civitai_123067975",
+    "prompt": "一张采用**35mm 中远景 (Medium Long Shot)** 的电影质感影像，捕捉阳光明媚的中东城镇街景。\n\n**[前景与中景主体]** 画面中心为地面上燃烧的火堆，火光与升腾的烟雾位于中景下部。围绕火堆站立着3位年轻中东女性，她们身着现代时尚服饰，美丽的秀发随风飘动。她们正处于动态瞬间，正将黑色头巾投入火中。\n\n**[空间与环境]** 人物位于画面中下层，背景是**浅景深处理**的中东城镇建筑群，暖色调的墙面与蓝色天空形成互补。人物与背景的距离感明确，展现开阔的空间结构。\n\n**[人物情绪调度]** 虽然是群像，但通过肢体语言与面部轮廓传达出**喜悦与兴奋**的情绪，面部表情在景深允许范围内清晰可读，避免过度聚焦单一五官而忽略群体氛围。\n\n**[光影与光学]** 采用**f/5.6**的光圈设置，确保人物群像与背景建筑均有足够的清晰度，保留环境叙事信息。强烈的**自然日光 (Natural Daylight)** 从侧上方照射，人物边缘形成清晰的 **Rim light (轮廓光)**，烟雾在光路中呈现细腻的 **Volumetric lighting (体积光/丁达尔效应)** 质感。\n\n**[渲染风格]** 8k resolution, Hyper-realistic, 35mm Film simulation, High Contrast, Warm color grading.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dadca571-15af-4d7d-b5c0-92f220da3a05/original=true/dadca571-15af-4d7d-b5c0-92f220da3a05.jpeg"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123067975"
+  },
+  {
+    "id": "civitai_123067783",
+    "prompt": "A creature with a rodent-like head and human-like body, featuring a large, bushy dark brown tail, sits on a gravelly surface. It has a gray torso, brown arms, and a brown face with a pink nose. Its head is turned to the right, looking upward. The background is a plain, light grayish-blue. The lighting is soft and even, highlighting the creature's fur and the texture of the gravel. The style is photorealistic, with detailed rendering of fur, skin, and the surrounding environment.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d231f2ac-5539-4fab-9efa-ea32a1f63de6/original=true/d231f2ac-5539-4fab-9efa-ea32a1f63de6.jpeg"
+    ],
+    "tool": "phantasmagoria_sdxl098",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123067783"
+  },
+  {
+    "id": "civitai_123067809",
+    "prompt": "\t2girls, standing, looking at viewer, BREAK, girl, long hair, white hair, pink hair, multicolored hair, pink animal ears, pink eyes, glowing eyes, medium breasts, white top, white detached sleeves, white skirt, white thighhighs, BREAK, girl, long hair, purple hair, black hair, multicolored hair, black animal ears, purple eyes, glowing eyes, medium breasts, black top, black detached sleeves, black skirt, black thighhighs, BREAK, evening, chernobyl, soviet city, abandoned city, scenery, from side, highres, masterpiece, amazing quality, very aesthetic, ultra detailed, hdr, ray tracing, render, deep shading, volumetric lighting",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e89406d3-a55a-4d2e-8b77-bf62d1adaa3d/original=true/e89406d3-a55a-4d2e-8b77-bf62d1adaa3d.jpeg"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/123067809"
   }
 ]
