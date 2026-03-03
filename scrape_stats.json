@@ -1,7 +1,10 @@
 {
-  "last_run": "2026-03-04T03:35:00",
-  "total_prompts": 1580,
-  "sources": {
-    "civitai_newest": 72
+  "last_run": "2026-03-04T03:37:00",
+  "total_prompts": 1691,
+  "this_run": {
+    "civitai_newest": 72,
+    "civitai_reactions": 58,
+    "civitai_comments": 53,
+    "total_new": 183
   }
 }
