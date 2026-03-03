@@ -25041,5 +25041,429 @@
       "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a3223da1-5846-4f07-8926-df6a6542bffd/original=true/a3223da1-5846-4f07-8926-df6a6542bffd.jpeg"
     ],
     "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1639",
+    "prompt": "Amazing detailed photography of a perfect beautiful 1girl ((flying through a paradox)), high resolution face, piercing eyes, Simon Bisley, Anti-Aliasing, FXAA, De-Noise, Post-Production, SFX, insanely detailed & intricate, hypermaximalist, elegant, ornate, hyper realistic, super detailed, noir coloration, serene, 16k resolution, full body,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9da6ff35-4f68-406d-b610-e1408ef5d293/original=true/9da6ff35-4f68-406d-b610-e1408ef5d293.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1640",
+    "prompt": "(masterpiece, best quality,hires,high resolution:1.2), extremely detailed,colorful, paint splatter,colorful paint splatter, professional full body photo of (male joker wearing joker jacket:1.2),slow motion, pov,high quality, masterpiece, cinematic, close up, realistic, highres, (cinematic dark lighting, cinematic exposition, 4K realistic texture), (dynamic pose, soles, perfect face, cute, joker haircut, crazy laughing, crazy laugh, colorful, full body, paint explosion)",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/839c721a-3f4f-4b2d-80cc-8d5757159182/original=true/839c721a-3f4f-4b2d-80cc-8d5757159182.mp4"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1641",
+    "prompt": ",(Masterpiece:1.2, high quality),\n cat, :3,  \n<lora:cat_20230627113759:0.8> cat sorrounded by hearts at the woods with kittens playing with girls",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/896220ec-da71-4faf-a561-91b0ea07604a/original=true/896220ec-da71-4faf-a561-91b0ea07604a.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1642",
+    "prompt": ",(Masterpiece:1.2, high quality),\n cat, :3,  \n<lora:cat_20230627113759:0.8> angel wings",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6faa7768-c2fe-45a0-963a-de8c32d2b365/original=true/6faa7768-c2fe-45a0-963a-de8c32d2b365.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1643",
+    "prompt": "a woman laying on grass",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/692d9679-92d8-45fb-8ecc-2d80c29aeeae/original=true/692d9679-92d8-45fb-8ecc-2d80c29aeeae.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1644",
+    "prompt": "(dynamic action close-up:1.3) of a (cute red winged Pixar-style strawberry cat:1.3), its body made of (dimpled strawberry skin surface:1.4), (natural strawberry seed pattern embedded in skin:1.4), (glossy fresh fruit highlights:1.4), vibrant saturated reds with realistic strawberry pores and subtle translucent edges, (wearing mirrored sunglasses reflecting strawberry trees and sky:1.3) and a (golden crown:1.3), (laughing:1.2) with a joyful (open mouth:1.1).\nThe cat is (soaring mid-air:1.3), (fully suspended in mid-air:1.3), (flying toward viewer over parallel rows of vibrant strawberry trees:1.3), (dynamic low-angle aerial composition:1.3), (no ground below subject:1.4), (full airborne posture:1.3), (limbs in aerodynamic flight posture:1.3), large (in full mid-flap wings shaped like fresh translucent strawberry slices:1.3) with light passing through them, (rainbow-colored light streaks following the cat's curved flight path:1.3), (surrounded by a swirling cloud of butterflies:1.4).\nBackground: a lush strawberry grove with bright sunlight, vivid green leaves, and warm golden afternoon tones, (soft depth of field:1.2) emphasizing the cat and foreground branches, with (gentle lens flare and warm glows through foliage:1.1),\nmobe-fcc, lazypos, cinematic natural lighting, (photorealistic quality:1.4), ultra-detailed strawberry-skin surface, (fantasy realism:1.2), high resolution, sharp focus on cat, lively and cheerful atmosphere, no humans",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7abe7098-dd3f-4244-8ace-fbf5a1498dee/original=true/7abe7098-dd3f-4244-8ace-fbf5a1498dee.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1645",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, watercolor painting, white Cat, blue eyes,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8009e55b-61d9-4170-914c-df491e31aa98/original=true/8009e55b-61d9-4170-914c-df491e31aa98.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1646",
+    "prompt": "A kitten holding a sign with text \"buzz or tuna, plzzz?\" <lora:buzz-text:1>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fcc31ee4-dd89-415d-8818-b5f637c4087f/original=true/fcc31ee4-dd89-415d-8818-b5f637c4087f.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1647",
+    "prompt": "A kitten holding a sign with text \"buzz for tuna\" <lora:buzz-text:1>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d39bb201-d857-4484-a1da-b24385bffaed/original=true/d39bb201-d857-4484-a1da-b24385bffaed.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1648",
+    "prompt": "In a modern, brightly lit living room, create a surreal scene with five Nazgûl standing behind a white couch. The Nazgûl are dressed in dark, ominous cloaks, forming a semi-circle as they look down at the couch. Seated on the couch is a one-eyed Minion from despicable me, with blonde pigtails, smiling playfully.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afc77ace-8d0a-4bc5-be18-6e12b38f529b/original=true/afc77ace-8d0a-4bc5-be18-6e12b38f529b.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1649",
+    "prompt": "A fine art photograph of an elaborate industrial art Halloween witchs spell book made of brushed brass with many tiny green cracks. The piece has obviously been made by a skilled craftsman, with finely detailed textures and surfaces. It is obviously old, with worn parts and a patina of grime.  A phosphorescent glow emanates from it, illuminating the surrounding area. Wisps of glowing orange fog roil in the background. The overall feel of the image is Magical Realism. <lora:BlackColor:0.6> <lora:Magical_Glow_Flux:0.6> <lora:Green_Cracks_on_Black_Flux:0.6>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/746b1cfb-7f1c-4a99-8610-cf81d9ac812f/original=true/746b1cfb-7f1c-4a99-8610-cf81d9ac812f.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1650",
+    "prompt": "shattered mirror, reflect, girl's face, cinematic shot + dynamic composition, incredibly detailed, sharpen, details + intricate detail + professional lighting, film lighting + 35mm + anamorphic + lightroom + cinematography + bokeh + lens flare + film grain + HDR10 + 8K + Roger Deakins, ((cinematic))",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8ea73ed4-b496-4adc-aff7-12c2dc560337/original=true/8ea73ed4-b496-4adc-aff7-12c2dc560337.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1651",
+    "prompt": "cy04, a book titled \"The Search For More Buzz\", an illustration of a man working at a computer in a dark room Text at the top \"Choose from over 59 possible endings!\"",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/26144282-7089-4cb7-b51c-9ace016f17a0/original=true/26144282-7089-4cb7-b51c-9ace016f17a0.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1652",
+    "prompt": "Neon robot bee holding a sign saying: \"Needs Buzz to keep buzzing\"\nWet streets, evening, futuristic city",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2215e822-50d2-4979-b763-3f3f68a6121d/original=true/2215e822-50d2-4979-b763-3f3f68a6121d.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1653",
+    "prompt": "A kitten holding a sign with text \"buzz for tuna\" <lora:buzz for tuna-text:1>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08c15f39-16ad-46ad-950b-2165957d8c59/original=true/08c15f39-16ad-46ad-950b-2165957d8c59.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1654",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, vetcheck, human, 1girl, veterinarian, lab coat, rubber gloves, inspection, hands, holding animal, animal focus, inspection table, cute female furry feral chibi chikorita, green skin, no fur, sitting, nervous, high angle, nature background, source_furry <lora:Chikorita:1> chikorita, pokemon (creature)  <lora:Veterinarian_inspection:0.7>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a8aeb1b2-4d88-4a17-80e7-d74c2098f6d8/original=true/a8aeb1b2-4d88-4a17-80e7-d74c2098f6d8.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1655",
+    "prompt": "A detailed magical epic book. Open. On the pages of which there is a three-dimensional image of the ocean, fantastic magical beauty, complex clear details, romanticism, layering of layers and details, fantasy art, sunshine, water, ships, lighthouse, reefs + connected, vortex flows, three-dimensional images in the book, shimmer, 4d , fractal star haze, 64k, hdr, ue5, ultraHD, realistic, lumen, interactive, isometric view, surrealism, f/22, ISO300 any angle",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5ce785bd-8bc4-429a-8f32-a243cec20c53/original=true/5ce785bd-8bc4-429a-8f32-a243cec20c53.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1656",
+    "prompt": "A stunning teenage Swiss girl with flawless model-like facial features, flawless light pale skin, youthful innocent charm, minimal makeup, and large captivating eyes. She is ecstatic and has a huge maniacal smile.  Her eyes are unnaturally large and colorful.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f6dc911e-e4ee-488a-98ba-636a24dba4f5/original=true/f6dc911e-e4ee-488a-98ba-636a24dba4f5.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1657",
+    "prompt": "female etol ridiy erer nalomo? Nasicab rasa hi odeb erolie beresa tilebo unef. Ene sihomet ra. De pik ridiy aye non ho ti wiyedo. Ihenenal agiwel xicicun nalomo yoledo, etol otu tateha panierih niruses. Edep cen ra ape erer rad sum ifegeco, co nisalit nat yid isawoles. Sotu re apol nipaf. Marine onahi re sos.  cyberpunk anime, idjourney_whisper_avant_couture",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/33f22b91-6c75-4ca4-b34b-a3f2c4b99000/original=true/33f22b91-6c75-4ca4-b34b-a3f2c4b99000.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1658",
+    "prompt": "cute chibi vampire with huge eyes flyling through a dark forrest",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f7bc830c-b314-4801-8297-455dde86bd2c/original=true/f7bc830c-b314-4801-8297-455dde86bd2c.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1659",
+    "prompt": "Minimalist, (Masterpiece Digital Artwork:1.3) of (Graphic novel:1.3),(Peaceful:1.3) Neon Orange, ceramic,imaginative,dreamlike,unusual,primordial, fantasy, masterpiece, highly detailed,<lora:attractive_notrigger:0>, <lora:ancient_shadows_of_the_lens-FluxDev:1> ,(by Artist Theo Van Rysselberghe:1.3),CGSociety,ArtStation,(Funk Art:1.3),(Kodak Portra:1.3), Simple, clean, uncluttered, modern, elegant",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/25b2c729-9c3d-469d-9a31-b5896ffbef8b/original=true/25b2c729-9c3d-469d-9a31-b5896ffbef8b.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1660",
+    "prompt": "anime, niji, anime source,cinematic composition,sky,dof,perfectly focused, Peter Doig,Nan Goldin,fantasy, creature in a kimono sits in the middle of the street,Tokyo,close up, hyper detailed,intricate,poster,artstation,<lora:Anime v1.3:1.2>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0f5d7741-dfae-4ab9-ad75-11017a9fed20/original=true/0f5d7741-dfae-4ab9-ad75-11017a9fed20.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1661",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, pretty woman, 21 year old, 1girl, very pale skin, white skin, goth girl, emo, eyeliner, eyeshadow, white hair, long hair, straight hair, happy, smile, pretty face, long hair, long sleeves, shirt, skirt, sexy pose, public, downtown city",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2593449a-7546-4435-bc2c-cee72b20e9c5/original=true/2593449a-7546-4435-bc2c-cee72b20e9c5.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1662",
+    "prompt": "Create a fearsome creature in the style of H,R, Giger's biomechanical art, The being should have a skeletal structure visibly beneath its slick, reptilian skin, Its eyes should be malevolent and glowing with an inner light, despite the darkness of the surrounding environment, Use a combination of sharp angles and organic curves to create a sense of both power and fluidity, Incorporate hidden details that reveal themselves slowly, rewarding careful observation, The overall impression should be one of a terrifying force beyond human comprehension, a living nightmare made all the more haunting by the dim light of its environment, , (&:0)",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c204987f-6e42-4119-a055-ad8c49e9e3e4/original=true/c204987f-6e42-4119-a055-ad8c49e9e3e4.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1663",
+    "prompt": "(( heavy rain ):2.1) Next to a futuristic installation of giant pink transparent glass poppy flowers sparkling with water droplets stands in a colorful sea of wildflowers under a black sky with lightning and pink cloud",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f1006734-e90e-4c51-9196-a9a5f25e020f/original=true/f1006734-e90e-4c51-9196-a9a5f25e020f.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1664",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, watercolors, japanese ancient calligraphy in the shape of a cat",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c35142b5-e6e2-4045-9887-884ac5816d7a/original=true/c35142b5-e6e2-4045-9887-884ac5816d7a.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1665",
+    "prompt": "The figure of Death is dressed in a black traditional uniform hooded cloak and holds a large staff. She sits on a large clock similar to the dial of an antique wall clock, which shows 12 o'clock. There are many other clocks around. The figure of Death is depicted in a dark and sinister way, creating an atmosphere of mystery and the inevitability of time. The clock is suspended vertically, and the pendulum swings downward, creating a sense of movement and the passage of time. The overall style of the image is simplicity and contrast, using an emerald-ochre palette to emphasize the drama of the scene.<lora:flux1-D\\flux.1_lora_flyway_Epic-Characters_v1.safetensors:0.85:0.85> <lora:flux1-D\\FantasyWizardWitchesFlux:1.0> <lora:flux1-D\\FluxGhost-000001:1.0> <lora:flux1-D\\Monochrome_Monsters_Flux.safetensors:0.8:1.0> <lora:flux1-D\\detailed_v2_flux_ntc.safetensors:0.7000000000000001:1.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/59a7648b-d14d-484d-8047-eb1c0b5c114d/original=true/59a7648b-d14d-484d-8047-eb1c0b5c114d.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1666",
+    "prompt": "MysticSplash. Ink-splash-style. Ink-splash-style. Extreme closeup of a dapper figure in a stylized, richly detailed black top hat, adorned with decorative golden accents, stands against a white background. The character is a skeleton with very detailed skull and long canines as vampire fangs. He cloaked in a vibrant  victorian jacket, featuring intricate golden embellishments and a deep red vest underneath. He wears a large victorian monocle with a yellow-tinted lense and copper frame very reddish. Exquisite details include a shiny silver cross and a blue gem on the chest, harmonizing with splashes of paint in vivid hues of blue, gold, and red that artistically cascade around the figure, blending an impressionistic flair with elements of surrealism. The atmosphere is whimsical and opulent, evoking a sense of grandeur and mystery.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/949de930-d550-4f5a-8937-95386fe21eec/original=true/949de930-d550-4f5a-8937-95386fe21eec.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1667",
+    "prompt": "A hyper-realistic portrait, photorealistic photo close-up image, Image is a creepy, sinister yet adorable cute fantasy digital illustration featuring a semi  realistic glowing demon kettle with sinister eyes that is hanging down from a chain over a kitchen fire in fireplace (photography, high-resolution, dynamic, energetic,hyper-realistic, dramatic lighting, shallow depth of field.)",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8b604ec7-4b29-4384-9de6-faf29dc62ce0/original=true/8b604ec7-4b29-4384-9de6-faf29dc62ce0.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1668",
+    "prompt": ". A wide-angle shot of a female Samurai meditating in a temple garden in an open field at dawn with traditional clan symbols and dramatic shadows from a sunset., <lora:bv-crimson-ronin-style-v1.safetensors:1.0:1.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/33ca828e-c289-422e-bea1-631c67260fc8/original=true/33ca828e-c289-422e-bea1-631c67260fc8.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1669",
+    "prompt": "(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl), extreme detailed,(fractal art:1.3),colorful,highest detailed",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f122edf7-e530-4d9d-86d0-2ed559946847/original=true/f122edf7-e530-4d9d-86d0-2ed559946847.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1670",
+    "prompt": "thin, fine fractal glossy vivid colored ink sketch shiny contours outlines of a perfect physique female silhouette",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8aebe21b-9339-41e0-8d4f-fc2d15a26371/original=true/8aebe21b-9339-41e0-8d4f-fc2d15a26371.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1671",
+    "prompt": "Upscale from Civitai Generator",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9d94c6d3-b0ef-4df3-935d-bddd76680dbf/original=true/9d94c6d3-b0ef-4df3-935d-bddd76680dbf.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1672",
+    "prompt": "A cartoon duck, white with orange beak and feet, is holding a knife and wearing sunglasses. \nThe duck is positioned in the center-left of the image, holding a knife in its left hand and with a confident, slightly intimidating expression.\nThe text \"DON'T HIDE YOUR PROMPT!\" is written in bold, dark letters above and around the duck. The words \"DON'T\" and \"HIDE\" are stacked vertically, while \"YOUR PROMPT!\" is positioned below and slightly to the right of the main phrase. \nThe background is a light beige or cream color.\n<lora:FLUX-daubrez-DB4RZ-v2:1> DB4RZ, DB4RZ style painting",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a7687f73-526d-4dec-854f-a1873d15fc89/original=true/a7687f73-526d-4dec-854f-a1873d15fc89.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1673",
+    "prompt": "colorwater, negative space, girl, woman, lips, (trees:0.5), (flowers:0.6) ,(birds:0.2), (bamboo0.1), lakes, Hangzhou, <lora:Xiaorenshu_v20:0.9>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/339bce84-fd59-441c-c2a9-ccddb6751c00/original=true/339bce84-fd59-441c-c2a9-ccddb6751c00.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1674",
+    "prompt": "1girl,sitting on a cozy couch,crossing legs,soft light",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a768b16f-41b0-4eb7-89f0-5f6dbdfb0687/original=true/a768b16f-41b0-4eb7-89f0-5f6dbdfb0687.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1675",
+    "prompt": "from future intelligence, technology background, complex mission, sudden mystery, unexpected result, confident look, space black pioneer dress, yellow eyes, black hair",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/78125617-e345-48cb-ab63-5dff7435c907/original=true/78125617-e345-48cb-ab63-5dff7435c907.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1676",
+    "prompt": "A professional photo, showing a fox outside a restaurant. The fox is investigating a menu board. The board prominently contains the word \"chicken\" with menu entries listed below it. It is a cozy afternoon.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/613ad47e-cb2c-4020-955f-eb0fd06f18d5/original=true/613ad47e-cb2c-4020-955f-eb0fd06f18d5.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1677",
+    "prompt": "retrofuturistic portrait of a chimp wearing rayban style sunglasses and a black suit jacket and black vest and black shirt and black necktie",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9996ee2f-5419-4c6d-8362-6b1451431014/original=true/9996ee2f-5419-4c6d-8362-6b1451431014.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1678",
+    "prompt": "A watercolor painting captures a young woman, angled from slightly above and to the right, crouching low to the ground in a puddle. The young woman is wearing bright red rubber boots and a red jacket with white polka dots. The jacket sleeves are pushed up to reveal blue cuffs. The young woman also wears dark blue jeans and has a smile on her face as she extends her right index finger to touch the water in the puddle. Above the young woman is a large, open umbrella with rainbow-colored panels and a red handle. The ground is wet and paved with grey stones, reflecting the sky and umbrella. The background is slightly blurred, showing hints of green grass and trees. The lighting is overcast and diffused, typical of a rainy day.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b545757b-9d19-4ab0-91fc-eaf514576b2e/original=true/b545757b-9d19-4ab0-91fc-eaf514576b2e.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1679",
+    "prompt": "Magnifying glass, scrutinizing duality.\n\ndualityCE ctyle",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7de3fafd-21e7-4703-8a70-b8b912031757/original=true/7de3fafd-21e7-4703-8a70-b8b912031757.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1680",
+    "prompt": "from future intelligence, computers background, complex mission, sudden mystery, unexpected result, unknown variables, strange data, confident look, space black pioneer dress, yellow eyes, black hair",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/88a0841f-0c17-4dfd-a0ee-acef5328eaac/original=true/88a0841f-0c17-4dfd-a0ee-acef5328eaac.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1681",
+    "prompt": "girl at night in the wood, selfie, dressed for trekking, winter, laughing, at night, very dark, infrared photography, without flash, grainy, ((motion blur)), blurry,  walking",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bcc6e66f-1cfa-485a-9ccd-dfe3d09f71a4/original=true/bcc6e66f-1cfa-485a-9ccd-dfe3d09f71a4.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1682",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, watercolor painting, aesthetic, black female silhouette on a neon blue and pink canvas, hand outstretched",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2865d53f-50ec-4e9f-abda-715574ca733c/original=true/2865d53f-50ec-4e9f-abda-715574ca733c.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1683",
+    "prompt": "A professional photon illustration of a female samurai warrior in action. She is wearing a black kimono and has long dark hair that is flowing in the wind. The warrior is holding a red sword in her right hand and is in the middle of a fierce battle. The background is black with splashes of red and white, creating a dramatic and intense atmosphere. The overall mood of the image is intense and powerful.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/232a57f3-34fa-4161-b1fa-87ca22fa7c95/original=true/232a57f3-34fa-4161-b1fa-87ca22fa7c95.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1684",
+    "prompt": "(masterpiece, best quality), pink rose background, profile, close shot, <lora:noa:0.8>, himenoa , :3, white choker, closed eyes, flower, white dress, bare_shoulders, collarbone, earrings, jewelry, (flower, rose:1.5), hair behind ear, facing_away, <lora:blade-doodle_v2.0:1>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/04db2b88-3ae1-4063-84d3-72c95e399f02/original=true/04db2b88-3ae1-4063-84d3-72c95e399f02.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1685",
+    "prompt": "((blue and navy color tone:1.3)) 1girl, solo,jellyfish filling up the ocean, millions of jellyfish, a girl swimming ((naked)) in the deep ocean surrounded by jellyfish, ((jellyfish)), deep black ocean,under the sea,(photorealistic:1.4), official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality, (dynamic angle:1.4), glowing skin, (floating colorful sparkles:1) the most beautiful form of chaos, elegant, a brutalist designed, vivid colours, romanticism, ultra wide angle,   <lora:add_detail:0.3>  <lyco:GPTS4 dreamwave full_478773:1.0>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fe681a42-a29b-4264-bc29-13ffcfa34d59/original=true/fe681a42-a29b-4264-bc29-13ffcfa34d59.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1686",
+    "prompt": "hyper-realistic photography close-up portrait of a conservative tribal young tanned  beauty wearing a traditional headscarf, with an emphasis on cultural heritage and intricate details. The headscarf, in a rich azure blue, is adorned with delicate golden embroidery, featuring geometric and floral motifs that seem to shimmer as they catch the light. The fabric should look soft and luxurious, with slight folds that reveal its texture and weight. Her bright eyes,  large and almond-shaped, with long eyelashes, should be rendered with meticulous detail, showing flecks of gold in her light beige colored irises that catch the ambient light. She wears large, ornate gold earrings with embedded jewels, reflecting hues of blue and red that complement her attire. A series of golden bangles adorns her wrist, with each bangle showcasing unique etchings and a subtle sheen that adds depth to the scene. The multi-layered necklace on her chest should look heavy and intricate, with each link and pendant reflecting the light in a way that conveys realism and richness. Her skin is very tanned with warm undertone, with a gentle blush across her cheeks and nose, suggesting a natural glow. (The background Jagged mountains in the background, barely visible under the moonlight, adding a sense of scale), contrasting with the blue of her scarf and enhancing the warmth of her skin. The lighting should be soft yet direct, illuminating her features and jewelry, casting subtle shadows that add depth and realism. Capture the texture of her skin, the softness of the fabric, and the cool, reflective surfaces of the jewelry to create a lifelike and immersive portrait that honors her cultural heritage and individual beauty. Add a slight breeze that lifts a strand of hair across her face, adding a sense of movement and intimacy to the composition, making the viewer feel as if they are sharing a moment of quiet contemplation with her.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/981a5ada-27ff-4491-81a5-99f94740644b/original=true/981a5ada-27ff-4491-81a5-99f94740644b.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1687",
+    "prompt": "Benevolent Robot Godzilla named Mechazilla, using chopsticks, carefully catches a space rocket. The rocket booster has a flat top and fires a yellow plume of fire at its bottom. This happens in the early morning on the coast of texas, on the beach facing a calm ocean.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/900619de-5aae-4b26-81c2-aad580716511/original=true/900619de-5aae-4b26-81c2-aad580716511.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1688",
+    "prompt": "comic book art, a handsome male astronaut wearing sleek modern spacesuit holding a retro laser pistol on (A massive, ancient spaceship floating derelict in deep space.), retro sci-fi style, dynamic lighting, digital art, cinematic shot, fantastically beautiful, illustration, aesthetically inspired by classic sci-fi movies, by Paul Lehr by Jon Whitcomb, samdoesart, dreamlikeart.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3fad72b4-8c98-4081-a81b-ed0505cb6f48/original=true/3fad72b4-8c98-4081-a81b-ed0505cb6f48.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1689",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, SV, full body detailed CGI art, \nclose-up of icy ghostly skeleton king, intricate golden armor, glowing eyes, translucent skeletons floating, dark ocean, eerie atmosphere, haunting presence, ethereal glow, skeletal details, dark water backdrop",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/56078f57-c6b0-45e0-a9f9-7f69e686446f/original=true/56078f57-c6b0-45e0-a9f9-7f69e686446f.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1690",
+    "prompt": "the image must contain maximum high quality details, the realism of the image must be maximal and of high quality, image quality must be maximum,  image rendering  must be maximum andrealist,  the image must have a lot of detail and be very complex,  ultra realist style,\nA highly detailed and realist Close-up of a death-powered sorceress holding an intricately designed magic staff that is associated with death, crafted by the prince of the underworld. The staff is adorned with skulls, bones, and dark energy, emitting a ghostly, deathly glow. The sorceress exudes an aura of invincibility, her skin pale and hollow, with her eyes glowing like empty voids. She wears dark robes covered in symbols of death, and the air around her is filled with a sense of doom. The atmosphere is filled with shadows and swirling deathly energy, making her look untouchable and terrifying.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d4114da8-54a3-4978-bc76-33f24b697ec0/original=true/d4114da8-54a3-4978-bc76-33f24b697ec0.jpeg"
+    ],
+    "tool": "Stable Diffusion"
+  },
+  {
+    "id": "20260304_1691",
+    "prompt": "xjnpng, china flag, dragon, cyberpunk zombie, ugly, photorealistic, octane render    <lora:xjnpng:1>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/72dde501-22c7-4285-a814-e97cfad9af00/original=true/72dde501-22c7-4285-a814-e97cfad9af00.jpeg"
+    ],
+    "tool": "Stable Diffusion"
   }
 ]
