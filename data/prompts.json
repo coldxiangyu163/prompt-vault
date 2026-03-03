@@ -18693,5 +18693,42 @@
     "created_at": "2026-03-03",
     "collected_at": "2026-03-03T12:36:09",
     "id": "20260303_phr_1000"
+  },
+  {
+    "prompt": "The palette is dominated by dark tones. The texture is pronounced, with brushstrokes and traces of paint visible, imitating the process of painting using multi-layered tones. The composition is centered around the figures, and the background flows smoothly in color and tone. The style is abstract, almost sculptural. The style is abstract, almost sculptural. Free, gestural brushstrokes create a sense of movement and action. The muted color palette includes subtle variations in tone. The sense of depth is achieved through different densities of brushstrokes. The light source is diffused, giving the image a slightly cool and mysterious shade. The style of painting is reminiscent of abstract realism and expressionism.  Soft shadows that reflect every detail and add volume to the scene.\n\nA striking portrait of a female person of indeterminate age, possibly in their 20s or 30s, exuding an aura of serene strength. The individual's skin is pale, almost ivory, contrasted by intricate, raised white markings across their shaved head and face, creating a tribal or ceremonial aesthetic. Their eyes are a striking amber color, conveying an intense gaze, while their expression is composed and confident. They are draped in a flowing, vibrant saffron-colored fabric, which appears to be a shawl or wrap, adorned with intricate white patterns. Multiple necklaces with beads and small pendants add further decorative detail. The setting is softly lit, with dappled sunlight creating shadows. The background appears blurred, suggesting an outdoor environment, possibly a market or village, with hints of architectural structures, but the focus is entirely on the central figure. The lighting creates a warm, inviting atmosphere, although the subject's expression adds a feeling of contemplation. The composition, a medium close-up, allows for detailed observation of the subject's features. The overall style is akin to a stylized portrait, possibly inspired by cultural elements with a touch of fantasy.\n\nNegative prompt: (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, (Integration of fingers and fingers, melting fingers), signature, watermarks, ugly, imperfect eyes, error, extra limb, missing limbs, painting by , 3d art\n\nembedding:bad-artist",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fbff5e0c-a037-44cc-82f7-3983766a1d95/original=true/fbff5e0c-a037-44cc-82f7-3983766a1d95.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "fantasy",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/122833172",
+    "author": "Sheat13",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-01",
+    "collected_at": "2026-03-03T18:02:32",
+    "id": "20260303_civ_1001"
+  },
+  {
+    "prompt": "masterpiece, best quality, hyper detailed, cinematic composition, (close-up portrait off-shoulde, intense eyes, natural makeup masterpiece, highly detailed, black hair, long hair, parted bangs, small breasts lazypos, masterpiece, best quality, hyper detailed, cinematic composition, one mole near mouth)\nBREAK\nmasterpiece, best quality, very aesthetic, absurdres, newest, depth of field,realistic, goth girl , 1girl, sharp fingernails, red background, profile, nun, jewelry, looking at viewer, from side, simple, parted lips, upper body, cross necklace, long fingernails, red nails, ring, eyeshadow, makeup, multiple rings\nCherry blossoms, petals, looking at viewer, one shoulder exposed, limited palette, pink Theme, foreground, depth of field, Blurred periphery,\n\nNegative prompt: lazyneg, lazyhand, lazyloli, shiny skin, shiny clothes, text, words, logo, artist name, watermark, red eyes,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/171e8f94-6f82-4256-9329-3b5a993db08a/original=true/171e8f94-6f82-4256-9329-3b5a993db08a.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/122925244",
+    "author": "L1sara",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-02",
+    "collected_at": "2026-03-03T18:02:32",
+    "id": "20260303_civ_1002"
   }
 ]
