@@ -29016,5 +29016,27 @@
     "collected_at": "2026-03-04T04:15:37",
     "source_name": "civitai",
     "id": "20260304_civ_019"
+  },
+  {
+    "id": "20260304_civ_068382",
+    "prompt": "masterpiece, sharp detail, intricate detail,HD anime, anime style, anime colors, detailed anime, anime eyes, bigger eyes, high quality anime, large pupil anime,1girl, solo,zzSinon, hair between eyes, short hair with long locks, aqua hair, aqua eyes,   hair ornament, hairclip, white scarf, open jacket, cropped jacket, green jacket, cleavage, small breasts, long sleeves, fingerless gloves, black gloves, highleg leotard, white leotard, side cutout, black belt, short shorts, black shorts, chaps, green pants, thigh strap,full body,expression in happy, happy,bedroom, bed,night, moon, starry sky,flat color,no lineart,<lora:illustrious_flat_color_v2>,<lora:Sinon>",
+    "tool": "Illustrious\\waiIllustriousSDXL_v150",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c12ccc45-3a2d-481f-a3fe-318ca37fbaed/original=true/c12ccc45-3a2d-481f-a3fe-318ca37fbaed.jpeg"
+    ],
+    "source": "civitai",
+    "tags": [],
+    "style": "realistic"
+  },
+  {
+    "id": "20260304_civ_068389",
+    "prompt": "masterpiece, sharp detail, intricate detail,HD anime, anime style, anime colors, detailed anime, anime eyes, bigger eyes, high quality anime, large pupil anime,1girl, solo,zzSinon, hair between eyes, short hair with long locks, aqua hair, aqua eyes,   hair ornament, hairclip, white scarf, open jacket, cropped jacket, green jacket, cleavage, small breasts, long sleeves, fingerless gloves, black gloves, highleg leotard, white leotard, side cutout, black belt, short shorts, black shorts, chaps, green pants, thigh strap,full body,expression in happy, happy,bar, bar counter, counter, glass of wine, bottle of alcohol, bottle,night, blizzard de neige, blizzard, falling snow, snowy sky,moon, starry sky,flat color,no lineart,<lora:illustrious_flat_color_v2>,<lora:Sinon>",
+    "tool": "Illustrious\\waiIllustriousSDXL_v150",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/919ae815-97af-4a7d-bfa0-bde6d72a1594/original=true/919ae815-97af-4a7d-bfa0-bde6d72a1594.jpeg"
+    ],
+    "source": "civitai",
+    "tags": [],
+    "style": "realistic"
   }
 ]
