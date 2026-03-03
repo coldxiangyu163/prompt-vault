@@ -18730,5 +18730,82 @@
     "created_at": "2026-03-02",
     "collected_at": "2026-03-03T18:02:32",
     "id": "20260303_civ_1002"
+  },
+  {
+    "content": "<lora:reij-detaILer:0.74> <lora:Rembrandt Lighting style illu v1:0.61> <lora:bladeRunner_illustrious_v2:0.21> <lora:CreateConcept_Illustrious:0.58>",
+    "negative_prompt": "(lowres:1.2), (worst quality:1.4), (low quality:1.4), (bad anatomy:1.4), multiple views, jpeg artifacts, artist name, censored, censored nipples, young, 2D",
+    "tool": "Stable Diffusion",
+    "model": "Illustrious",
+    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/75175725-2305-43a4-a364-a4cc9b5d8241/original=true/75175725-2305-43a4-a364-a4cc9b5d8241.jpeg",
+    "source": "civitai",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04T02:07:14.838568",
+    "id": "20260304_civ_0bcc3aa5"
+  },
+  {
+    "content": "A pale dark sorceress levitating in a deep forest at night, full body centered vertical composition, camera positioned slightly below eye level looking upward, her body upright and elongated, chest subtly forward, head tilted slightly back, gaze lifted into the darkness with a calm yet ominous expression, arms lowered slightly away from her body, palms open and facing down, fingers relaxed and naturally spread, long black hair flowing slowly in the cold night air, dark emerald and black medieval gown fitted at the torso with a layered flowing skirt dissolving into shadow and mist, fabric torn and drifting as if consumed by dark energy, a massive perfectly symmetrical glowing arcane circle with a pentagram aligned directly behind her body, emitting cold white and faint icy blue light with subtle flickering instability in the magical lines, thick heavy fog covering the forest floor and rising around her legs, dark tree silhouettes barely visible in the background, dense volumetric mist filling the frame, floating particles in the cold air, cinematic dark fantasy atmosphere, deep blue and charcoal color grading, very low saturation, high contrast shadows, cold moonlight faintly filtering through trees, dramatic top light combined with strong backlight creating a sharp rim light around her hair and shoulders, realistic detailed skin texture, sharp facial features, piercing cold gaze, shallow depth of field, 85mm lens, high dynamic range, ultra sharp focus, masterpiece, 8k,",
+    "negative_prompt": "blurry, low resolution, bad anatomy, deformed hands, extra fingers, missing fingers, poorly drawn face, cross eyed, plastic skin, waxy texture, flat lighting, overexposed highlights, oversaturated colors, cartoon, anime, illustration, low detail background",
+    "tool": "Stable Diffusion",
+    "model": "SDXL 1.0",
+    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a715498-647a-424f-bd98-ba0aee5e8e0b/original=true/9a715498-647a-424f-bd98-ba0aee5e8e0b.jpeg",
+    "source": "civitai",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04T02:07:14.838593",
+    "id": "20260304_civ_807cd7f0"
+  },
+  {
+    "content": "An ultra-detailed cinematic macro portrait of a bumblebee suspended mid-air yet posed in a distinctly human defensive stance, as if braced for impact against a powerful incoming force. Though hovering, its posture conveys grounded resistance â hind legs extended downward and slightly apart as if planted against invisible ground, joints flexed and tensed. The mid-legs angle outward for balance and stability, reinforcing the sense of physical bracing despite being airborne.\nIts dense black and golden-yellow fur is rendered with extreme microscopic fidelity â individual strands layered naturally with subtle variation in length and density, catching soft specular highlights. Fine golden pollen grains cling organically to the thorax and leg joints. The abdomen shows realistic segmentation and gentle curvature, maintaining anatomical authenticity while supporting the anthropomorphic pose.\nThe beeâs glossy compound eyes are deep obsidian with faint sapphire and emerald iridescence reflecting the magical energy ahead. Its gaze is fierce and unwavering, locked forward with disciplined intensity. Antennae sweep slightly backward, reacting to the force of the spell discharge. The translucent wings extend behind in a powerful stabilizing spread, their delicate membranes etched with intricate vein structures; subtle motion blur at the tips conveys rapid vibration counteracting recoil.\nThe foremost right leg (closest to the head) is fully outstretched, gripping a proportionally accurate miniature wand no longer than its foreleg. The wand is simple, smooth matte dark wood with faint natural grain, lightweight and realistically scaled to the beeâs size. It is aimed directly forward with precision. The foremost left leg is raised above the beeâs head in a dramatic counterbalancing gesture, elbow joint bent slightly, as if channeling additional force into the spell or shielding itself from backlash â a heroic, duelist-like silhouette translated into insect anatomy.\nFrom the wandâs tip erupts a concentrated arcane blast that expands into a luminous defensive barrier. Concentric rings of sapphire and pale silver energy rotate with geometric precision, layered with glowing protective glyphs. The shield radiates outward in smooth, controlled expansion, with crackling filaments of energy arcing across its surface. Tiny sparks scatter forward, dissipating naturally into the air.\nColored smoke swirls dynamically around the beeâs lower body and behind the shield â deep indigo, muted violet, and faint teal vapors curling as if pushed back by the force of the magic. The environment is an enchanted twilight meadow rendered in creamy macro bokeh; blurred wildflowers and tall grasses provide atmospheric depth. Floating pollen and dust particles drift through subtle volumetric light rays cutting across the frame.\nLighting is dramatic and high-contrast: a cool frontal key light illuminates the beeâs face, outstretched leg, and wand, while a warm golden rim light traces the fur edges and wing contours, enhancing dimensional separation. The glowing shield acts as a powerful secondary light source, casting shifting blue highlights and soft reflections across the beeâs textured thorax and abdomen. Captured on a 100mm macro lens with shallow depth of field, focus is razor-sharp on the beeâs eyes and forward-pointing wand, with smooth falloff toward wings and background. Fine cinematic film grain, gentle chromatic aberration at the edges, and restrained bloom around the magical energy complete the polished fantasy realism aesthetic. The color grading balances cool sapphire and steel-blue tones against warm honey-gold fur, evoking a heroic, defensive, high-stakes magical confrontation.\nmasterpiece, best quality, ultra-detailed textures, 8k resolution, professional colour grading, high dynamic range, photorealistic macro fantasy artwork",
+    "negative_prompt": "low quality, low resolution, blurry, out of focus, bad anatomy, incorrect insect anatomy, malformed legs, extra legs, extra wings, distorted proportions, oversized wand, stiff pose, cartoonish style, excessive glow, oversaturated colors, flat lighting, harsh shadows, jpeg artifacts, watermark, text, logo",
+    "tool": "Stable Diffusion",
+    "model": "ZImageBase",
+    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7175fb39-a996-470d-b95d-d4b628be00c0/original=true/7175fb39-a996-470d-b95d-d4b628be00c0.jpeg",
+    "source": "civitai",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04T02:07:14.838617",
+    "id": "20260304_civ_cc5766e0"
+  },
+  {
+    "content": "<lora:DetailerILv2-000008:0.67>",
+    "negative_prompt": "ai-generated, ai-assisted, stable diffusion, nai diffusion, worst quality, worst aesthetic, bad quality, normal quality, average quality, oldest, old, early, very displeasing, displeasing, adversarial noise, unknown artist, banned artist, what, off-topic, artist request, text, artist name, signature, username, logo, watermark, copyright name, copyright symbol, resized, downscaled, source larger, low quality, lowres, jpeg artifacts, compression artifacts, blurry, artistic error, bad anatomy, bad hands, bad feet, disfigured, deformed, extra digits, fewer digits, missing fingers, censored, bar censor, mosaic censoring, missing, extra, fewer, bad, hyper, error, ugly, worst, tagme, unfinished, bad proportions, bad perspective, aliasing, simple background, asymmetrical, monochrome, sketch, concept art, flat color, flat colors, simple shading, jaggy lines, traditional media \\(artwork\\), microsoft paint \\(artwork\\), ms paint \\(medium\\), unclear, photo, icon, multiple views, sequence, comic, 2koma, 4koma, multiple images, turnaround, collage, panel skew, letterboxed, framed, border, speech bubble, 3d, lossy-lossless, scan artifacts, out of frame, cropped",
+    "tool": "Stable Diffusion",
+    "model": "Illustrious",
+    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cd7d4f2f-eb98-411c-9b31-d82cbdee9702/original=true/cd7d4f2f-eb98-411c-9b31-d82cbdee9702.jpeg",
+    "source": "civitai",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04T02:07:14.838737",
+    "id": "20260304_civ_30b7ad60"
+  },
+  {
+    "content": "masterpiece,amazing quality,newest,absurdres,highres,highly-detailed,detailed face,glossy hair,<lora:serafuku_illustrious_V2.0:0.8>,serafuku,blue serafuku,pleated skirt,blue sailor collar,neckerchief,long sleeves,simple background,black hair,long hair,straight hair,smile,",
+    "negative_prompt": "worst quality,bad quality,lowres,bad anatomy,bad hands,extra legs,extra arms,missing fingers,error,username,artist name,text,multiple angle,split view,censored,bar censored,halo,hair inner colored,earring,",
+    "tool": "Stable Diffusion",
+    "model": "Illustrious",
+    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6c1a1cb8-16b7-46d2-a1fd-c711a2403024/original=true/6c1a1cb8-16b7-46d2-a1fd-c711a2403024.jpeg",
+    "source": "civitai",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04T02:07:14.838790",
+    "id": "20260304_civ_4043bbd7"
+  },
+  {
+    "content": "1 girl, solo, depth of field, cinematic angle, \nmedium breast, blonde, gold hair, yellow hair, big round eyes, yellow eyes, white pupils, white hair ribbon, french braid, long hair, hair between eyes, japanese ahoge,\nWhite sailor outfit, white short skirt, shoes,\nBREAK\nlaying on back, snack, on shopping cart, foreshortening, arm rest, crossed legs, indoors, mall, holding lollipop,\nmasterpiece, best quality, amazing quality, 4k, very aesthetic, high resolution, ultra-detailed, absurdres, newest, ultra-HD,",
+    "negative_prompt": "lazyneg, lazyhand, (photorealistic, realistic),  modern, recent, old, oldest, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digits, fewer digits, cropped, very displeasing, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, username, signature, conjoined,bad ai-generated, gold skin, white hair, ",
+    "tool": "Stable Diffusion",
+    "model": "Illustrious",
+    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afdb7346-6b56-4486-8dfa-bec266fdb9d0/original=true/afdb7346-6b56-4486-8dfa-bec266fdb9d0.jpeg",
+    "source": "civitai",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04T02:07:14.838804",
+    "id": "20260304_civ_7fe1b7d6"
+  },
+  {
+    "content": "<lora:Rogue80sIllustrious1.0JLFO-000015:0.85>  r0gue, 1girl, retro artstyle, bodysuit, white hair, red hair, jacket, multicolored hair, long hair, solo, gloves, yellow bodysuit, headband, two-tone hair, belt, green bodysuit,smile, makeup, lipstick, breasts,clenched hand, looking at viewer, hand on own hip, cowboy shot, simple background,, masterpiece, best quality, amazing quality, very aesthetic, absurdres",
+    "negative_prompt": "patreon username, patreon logo, artist name, signature,",
+    "tool": "Stable Diffusion",
+    "model": "Illustrious",
+    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bcc128fd-90bd-4d08-a4e6-0372b128820c/original=true/bcc128fd-90bd-4d08-a4e6-0372b128820c.jpeg",
+    "source": "civitai",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04T02:07:14.838822",
+    "id": "20260304_civ_5621d9a7"
   }
 ]
