@@ -29707,5 +29707,40 @@
     "source": "civitai",
     "created_at": "2026-03-03",
     "collected_at": "2026-03-03T20:22:05.669Z"
+  },
+  {
+    "id": "civitai_123069525",
+    "prompt": "jonpei, ireading, incase, sketch, blurry background, 1girl, solo, cyberpunk clothes, multicolored clothes, jacket, sunglasses, blue hair, pants, curvy, neon lights, looking at viewer, smile, city behind, multicolored clothes, yellow jacket, red pants, cowboy shot, shadow",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f450ce8c-9707-4796-b63e-994198b7936e/original=true/f450ce8c-9707-4796-b63e-994198b7936e.jpeg"
+    ],
+    "tags": [
+      "cyberpunk",
+      "character"
+    ],
+    "style": "realistic",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04T04:26:15.433010",
+    "negativePrompt": "blurry, lowres, worst quality, bad anatomy, scan artifacts, scanlines, adversarial noise, signature, watermark, logo, missing fingers, extra digits, bad hands, censored, simple background, greyscale, sepia",
+    "width": 832,
+    "height": 1216
+  },
+  {
+    "id": "civitai_123069460",
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres, newest, \nBREAK\nrodin \\(girls creation\\), 1girl, :d, asymmetrical hair, blue and brown skirt, blue gem on skirt, bow, corset, floating hair, frilled collar, frills,  hair between eyes, hair bow, hand on own chest, layered skirt, long sleeves, looking at viewer, multiple pouches, open mouth, puffy long sleeves, puffy sleeves, shirt, skirt, smile, solo, standing, striped bow,  white bow, white feather hair ornament, white shirt,\nblue_hair, \nBREAK\nindoors, ",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4e46372b-7030-403b-a433-7ed8bfbf09dc/original=true/4e46372b-7030-403b-a433-7ed8bfbf09dc.jpeg"
+    ],
+    "tags": [
+      "character"
+    ],
+    "style": "realistic",
+    "tool": "waiIllustriousSDXL_v160",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04T04:26:15.433010",
+    "negativePrompt": "(censorship:1.2),watermark,bad anatomy,bad proportions,extra limbs,(extra digit:0.9),extra legs,extra legs and arms,disfigured,missing arms,too many fingers,fused fingers,unclear eyes,watermark,username,bad hands,extra arms,glowing extra limb,bad body,bad feet,deformed,malformed limbs,mutated hands and fingers,poorly drawn hands,extra limb,ugly,(fat:1.2),mosaic censoring,speech bubble,extra fingers, deformed, mutated hands and fingers,(not five fingers:1.2),six fingers,",
+    "width": 1256,
+    "height": 1608
   }
 ]
