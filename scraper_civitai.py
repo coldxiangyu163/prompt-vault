@@ -1,63 +1,39 @@
 import json
-import urllib.request
+import requests
 import hashlib
-from pathlib import Path
+from datetime import datetime
 
-def get_hash(text):
-    return hashlib.md5(text.encode()).hexdigest()[:12]
-
-def fetch_civitai_prompts(limit=50):
-    url = f"https://civitai.com/api/v1/images?limit={limit}&sort=Most+Reactions&period=Week"
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        data = json.loads(resp.read().decode())
+def fetch_civitai():
+    url = "https://civitai.com/api/v1/images?limit=100&period=Week&sort=Most+Reactions"
+    resp = requests.get(url, timeout=30)
+    data = resp.json()
     
     prompts = []
     for item in data.get('items', []):
-        if item.get('nsfwLevel') not in ['None', 'Soft']:
+        meta = item.get('meta', {})
+        prompt = meta.get('prompt', '')
+        if not prompt or len(prompt) < 20:
             continue
         
-        meta = item.get('meta') or {}
-        prompt_text = meta.get('prompt', '').strip()
-        
-        if not prompt_text or len(prompt_text) < 20:
+        nsfw = item.get('nsfw', False) or item.get('nsfwLevel', 0) > 1
+        if nsfw:
             continue
+        
+        image_url = item.get('url', '')
+        tool = meta.get('Model', 'Unknown')
         
         prompts.append({
-            'prompt': prompt_text[:1000],
-            'imageUrl': item.get('url', ''),
-            'tool': 'Stable Diffusion',
-            'tags': ['general'],
-            'style': 'realistic',
-            'hash': get_hash(prompt_text)
+            'id': hashlib.md5(prompt.encode()).hexdigest()[:12],
+            'content': prompt,
+            'tool': tool,
+            'images': [image_url] if image_url else [],
+            'author': 'Civitai',
+            'created_at': datetime.utcnow().isoformat() + 'Z',
+            'collected_at': datetime.utcnow().isoformat() + 'Z'
         })
     
     return prompts
 
-# 加载现有数据
-existing = json.load(open('data/prompts.json'))
-existing_hashes = {get_hash(p.get('prompt', '')) for p in existing if p.get('prompt')}
-existing_urls = {p.get('imageUrl', '') for p in existing if p.get('imageUrl')}
-
-print(f"现有 prompts: {len(existing)}")
-
-# 抓取新数据
-new_prompts = fetch_civitai_prompts(50)
-print(f"Civitai 抓取: {len(new_prompts)} 条")
-
-# 去重
-unique = []
-for p in new_prompts:
-    if p['hash'] not in existing_hashes and p['imageUrl'] not in existing_urls:
-        unique.append(p)
-        existing_hashes.add(p['hash'])
-        existing_urls.add(p['imageUrl'])
-
-print(f"去重后新增: {len(unique)} 条")
-
-if unique:
-    existing.extend(unique)
-    json.dump(existing, open('data/prompts.json', 'w'), indent=2, ensure_ascii=False)
-    print(f"✅ 保存成功，总数: {len(existing)}")
-else:
-    print("⚠️ 无新增数据")
+if __name__ == '__main__':
+    prompts = fetch_civitai()
+    print(json.dumps(prompts, indent=2, ensure_ascii=False))

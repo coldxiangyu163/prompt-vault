@@ -1,123 +1,73 @@
-#!/usr/bin/env python3
 import json
 import hashlib
-import re
-from pathlib import Path
+from datetime import datetime
 
-def clean_prompt(text):
-    """清理 prompt 文本，移除统计数字和工具标签"""
-    # 移除末尾的数字和 "Stable Diffusion" 标签
-    text = re.sub(r'\d+\s*Stable Diffusion$', '', text)
-    text = re.sub(r'\d+$', '', text)
-    return text.strip()
+# 加载新数据
+with open('new_prompts.json', 'r', encoding='utf-8') as f:
+    new_data = json.load(f)
 
-def get_content_hash(prompt):
-    """生成 prompt 内容的 hash（前12位）"""
-    return hashlib.md5(prompt.encode()).hexdigest()[:12]
+# 加载现有数据
+with open('data/prompts.json', 'r', encoding='utf-8') as f:
+    existing = json.load(f)
 
-def infer_tags(prompt):
-    """根据关键词推断标签"""
-    prompt_lower = prompt.lower()
-    tags = []
-    
-    if any(kw in prompt_lower for kw in ['portrait', 'face', 'headshot', 'person', 'woman', 'man']):
-        tags.append('portrait')
-    if any(kw in prompt_lower for kw in ['landscape', 'scenery', 'mountain', 'forest', 'garden']):
-        tags.append('landscape')
-    if any(kw in prompt_lower for kw in ['anime', 'manga', 'studio ghibli', 'makoto shinkai']):
-        tags.append('anime')
-    if any(kw in prompt_lower for kw in ['fantasy', 'magic', 'warrior', 'princess', 'dragon']):
-        tags.append('fantasy')
-    if any(kw in prompt_lower for kw in ['realistic', 'photorealistic', 'photo realism', 'detailed']):
-        tags.append('realistic')
-    if any(kw in prompt_lower for kw in ['cinematic', 'dramatic lighting', 'movie']):
-        tags.append('cinematic')
-    if any(kw in prompt_lower for kw in ['concept art', 'illustration', 'digital painting']):
-        tags.append('concept-art')
-    if any(kw in prompt_lower for kw in ['character', 'character design']):
-        tags.append('character')
-    if any(kw in prompt_lower for kw in ['architecture', 'building', 'interior']):
-        tags.append('architecture')
-    
-    return tags if tags else ['general']
+# 去重
+existing_hashes = {hashlib.md5(p.get('prompt', '').encode()).hexdigest()[:12] for p in existing if p.get('prompt')}
+existing_urls = {img for p in existing for img in p.get('images', [])}
 
-def infer_style(prompt):
-    """推断艺术风格"""
-    prompt_lower = prompt.lower()
-    
-    if 'greg rutkowski' in prompt_lower or 'artstation' in prompt_lower:
-        return 'digital-art'
-    elif 'anime' in prompt_lower or 'manga' in prompt_lower:
-        return 'anime'
-    elif 'oil painting' in prompt_lower or 'watercolor' in prompt_lower:
-        return 'painting'
-    elif 'photorealistic' in prompt_lower or 'photo realism' in prompt_lower:
-        return 'photorealistic'
-    elif 'concept art' in prompt_lower:
-        return 'concept-art'
-    elif 'line art' in prompt_lower or 'ink' in prompt_lower:
-        return 'line-art'
-    else:
-        return 'digital-art'
+added = 0
+skipped = 0
 
-# 读取现有数据
-existing_file = Path('/tmp/pv-check/data/prompts.json')
-existing_prompts = json.loads(existing_file.read_text())
-print(f"现有 prompts: {len(existing_prompts)}")
-
-# 构建去重索引
-existing_hashes = {get_content_hash(p['prompt']) for p in existing_prompts}
-existing_images = set()
-for p in existing_prompts:
-    if 'images' in p and p['images']:
-        existing_images.update(p['images'])
-    elif 'image' in p:
-        existing_images.add(p['image'])
-
-# 读取新抓取的数据
-new_data = json.loads(Path('/tmp/ph_raw.json').read_text())
-print(f"PromptHero 抓取: {len(new_data)} 条")
-
-# 去重并转换格式
-new_prompts = []
 for item in new_data:
-    cleaned_prompt = clean_prompt(item['prompt'])
-    content_hash = get_content_hash(cleaned_prompt)
+    content_hash = hashlib.md5(item['prompt'].encode()).hexdigest()[:12]
     
-    # 跳过重复内容
-    if content_hash in existing_hashes or item['image'] in existing_images:
+    if content_hash in existing_hashes or item['imageUrl'] in existing_urls:
+        skipped += 1
         continue
     
-    new_prompts.append({
-        'id': content_hash,
-        'prompt': cleaned_prompt,
-        'images': [item['image']],
-        'tool': 'Stable Diffusion',
-        'tags': infer_tags(cleaned_prompt),
-        'style': infer_style(cleaned_prompt),
-        'source_url': item['url'],
-        'author': 'PromptHero',
-        'collected_at': None,
-        'created_at': None
+    # 推断标签
+    tags = []
+    prompt_lower = item['prompt'].lower()
+    if any(w in prompt_lower for w in ['landscape', 'mountain', 'field', 'sky', 'nature']):
+        tags.append('landscape')
+    if any(w in prompt_lower for w in ['portrait', 'face', 'girl', 'woman', 'man']):
+        tags.append('portrait')
+    if any(w in prompt_lower for w in ['anime', 'manga']):
+        tags.append('anime')
+    if any(w in prompt_lower for w in ['fantasy', 'wizard', 'magic']):
+        tags.append('fantasy')
+    if any(w in prompt_lower for w in ['sci-fi', 'space', 'futuristic']):
+        tags.append('sci-fi')
+    if any(w in prompt_lower for w in ['cat', 'dog', 'animal', 'bird']):
+        tags.append('animal')
+    
+    if not tags:
+        tags = ['general']
+    
+    # 推断风格
+    style = 'realistic'
+    if 'anime' in prompt_lower or 'manga' in prompt_lower:
+        style = 'anime'
+    elif 'painting' in prompt_lower or 'oil painting' in prompt_lower:
+        style = 'painting'
+    elif 'cartoon' in prompt_lower or 'illustration' in prompt_lower:
+        style = 'illustration'
+    
+    existing.append({
+        "id": f"civitai_{content_hash}",
+        "prompt": item['prompt'],
+        "tool": item['model'],
+        "tags": tags,
+        "style": style,
+        "images": [item['imageUrl']],
+        "source_url": item['url'],
+        "author": "Unknown",
+        "created_at": datetime.utcnow().isoformat() + 'Z',
+        "collected_at": datetime.utcnow().isoformat() + 'Z'
     })
-    
-    existing_hashes.add(content_hash)
-    existing_images.add(item['image'])
+    added += 1
 
-print(f"去重后新增: {len(new_prompts)} 条")
+print(f"新增: {added}, 跳过: {skipped}, 总数: {len(existing)}")
 
-if new_prompts:
-    # 合并数据
-    all_prompts = existing_prompts + new_prompts
-    
-    # 保存
-    output_file = Path('/tmp/pv-check/data/prompts.json')
-    output_file.write_text(json.dumps(all_prompts, indent=2, ensure_ascii=False))
-    print(f"✅ 已保存 {len(all_prompts)} 条 prompts")
-    
-    # 显示新增示例
-    print("\n新增示例:")
-    for p in new_prompts[:3]:
-        print(f"  - {p['prompt'][:80]}...")
-else:
-    print("⚠️ 无新增数据")
+# 保存
+with open('data/prompts.json', 'w', encoding='utf-8') as f:
+    json.dump(existing, f, ensure_ascii=False, indent=2)
