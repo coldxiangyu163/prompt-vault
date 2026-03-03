@@ -18919,5 +18919,61 @@
     "created_at": "2026-03-04",
     "collected_at": "2026-03-04T02:08:55.867781",
     "id": "20260304_ph_ce668728"
+  },
+  {
+    "prompt": "\n\nCreate a high-contrast black and white image depicting a silhouetted female figure against a stormy, overcast sky. The figure is robed in a flowing, tattered gown and wears a decorative headpiece with crescent moon elements. One hand is outstretched, cradling a luminous crescent moon, as if bestowing it. The aesthetic should be gothic, ethereal, and subtly melancholic, evoking a sense of ancient mystery and celestial influence. Focus on the interplay of light and shadow to enhance the drama and evoke a sense of the unseen. The atmosphere should be one of quiet power and otherworldly beauty.\n",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3cfa9e1b-c37f-471b-b46b-ce7cc3c3744f/original=true/3cfa9e1b-c37f-471b-b46b-ce7cc3c3744f.jpeg",
+    "tool": "Stable Diffusion",
+    "tags": [
+      "landscape"
+    ],
+    "style": "realistic"
+  },
+  {
+    "prompt": "<lora:reij-detaILer:0.74> <lora:Rembrandt Lighting style illu v1:0.61> <lora:bladeRunner_illustrious_v2:0.21> <lora:CreateConcept_Illustrious:0.58>",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/75175725-2305-43a4-a364-a4cc9b5d8241/original=true/75175725-2305-43a4-a364-a4cc9b5d8241.jpeg",
+    "tool": "Stable Diffusion",
+    "tags": [
+      "general"
+    ],
+    "style": "realistic"
+  },
+  {
+    "prompt": "A pale dark sorceress levitating in a deep forest at night, full body centered vertical composition, camera positioned slightly below eye level looking upward, her body upright and elongated, chest subtly forward, head tilted slightly back, gaze lifted into the darkness with a calm yet ominous expression, arms lowered slightly away from her body, palms open and facing down, fingers relaxed and naturally spread, long black hair flowing slowly in the cold night air, dark emerald and black medieval gown fitted at the torso with a layered flowing skirt dissolving into shadow and mist, fabric torn and drifting as if consumed by dark energy, a massive perfectly symmetrical glowing arcane circle with a pentagram aligned directly behind her body, emitting cold white and faint icy blue light with subtle flickering instability in the magical lines, thick heavy fog covering the forest floor and rising around her legs, dark tree silhouettes barely visible in the background, dense volumetric mist filling the frame, floating particles in the cold air, cinematic dark fantasy atmosphere, deep blue and charcoal color grading, very low saturation, high contrast shadows, cold moonlight faintly filtering through trees, dramatic top light combined with strong backlight creating a sharp rim light around her hair and shoulders, realistic detailed skin texture, sharp facial features, piercing cold gaze, shallow depth of field, 85mm lens, high dynamic range, ultra sharp focus, masterpiece, 8k,",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a715498-647a-424f-bd98-ba0aee5e8e0b/original=true/9a715498-647a-424f-bd98-ba0aee5e8e0b.jpeg",
+    "tool": "Stable Diffusion",
+    "tags": [
+      "landscape",
+      "fantasy"
+    ],
+    "style": "realistic"
+  },
+  {
+    "prompt": "An ultra-detailed cinematic macro portrait of a bumblebee suspended mid-air yet posed in a distinctly human defensive stance, as if braced for impact against a powerful incoming force. Though hovering, its posture conveys grounded resistance â hind legs extended downward and slightly apart as if planted against invisible ground, joints flexed and tensed. The mid-legs angle outward for balance and stability, reinforcing the sense of physical bracing despite being airborne.\nIts dense black and golden-yellow fur is rendered with extreme microscopic fidelity â individual strands layered naturally with subtle variation in length and density, catching soft specular highlights. Fine golden pollen grains cling organically to the thorax and leg joints. The abdomen shows realistic segmentation and gentle curvature, maintaining anatomical authenticity while supporting the anthropomorphic pose.\nThe beeâs glossy compound eyes are deep obsidian with faint sapphire and emerald iridescence reflecting the magical energy ahead. Its gaze is fierce and unwavering, locked forward with disciplined intensity. Antennae sweep slightly backward, reacting to the force of the spell discharge. The translucent wings extend behind in a powerful stabilizing spread, their delicate membranes etched with intricate vein structures; subtle motion blur at the tips conveys rapid vibration counteracting recoil.\nThe foremost right leg (closest to the head) is fully outstretched, gripping a proportionally accurate miniature wand no longer than its foreleg. The wand is simple, smooth matte dark wood with faint natural grain, lightweight and realistically scaled to the beeâs size. It is aimed directly forward with precision. The foremost left leg is raised above the beeâs head in a dramatic counterbalancing gesture, elbow joint bent slightly, as if channeling additional force into the spell or shielding itself from backlash â a heroic, duelist-like silhouette translated into insect anatomy.\nFrom the wandâs tip erupts a concentrated arcane blast that expands into a luminous defensive barrier. Concentric rings of sapphire and pale silver energy rotate with geometric precision, layered with glowing protective glyphs. The shield radiates outward in smooth, controlled expansion, with crackling filaments of energy arcing across its surface. Tiny sparks scatter forward, dissipating naturally into the air.\nColored smoke swirls dynamically around the beeâs lower body and behind the shield â deep indigo, muted violet, and faint teal vapors curling as if pushed back by the force of the magic. The environment is an enchanted twilight meadow rendered in creamy macro bokeh; blurred wildflowers and tall grasses provide atmospheric depth. Floating pollen and dust particles drift through subtle volumetric light rays cutting across the frame.\nLighting is dramatic and high-contrast: a cool frontal key light illuminates the beeâs face, outstretched leg, and wand, while a warm golden rim light traces the fur edges and wing contours, enhancing dimensional separation. The glowing shield acts as a powerful secondary light source, casting shifting blue highlights and soft reflections across the beeâs textured thorax and abdomen. Captured on a 100mm macro lens with shallow depth of field, focus is razor-sharp on the beeâs eyes and forward-pointing wand, with smooth falloff toward wings and background. Fine cinematic film grain, gentle chromatic aberration at the edges, and restrained bloom around the magical energy complete the polished fantasy realism aesthetic. The color grading balances cool sapphire and steel-blue tones against warm honey-gold fur, evoking a heroic, defensive, high-stakes magical confrontation.\nmasterpiece, best quality, ultra-detailed textures, 8k resolution, professional colour grading, high dynamic range, photorealistic macro fantasy artwork",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7175fb39-a996-470d-b95d-d4b628be00c0/original=true/7175fb39-a996-470d-b95d-d4b628be00c0.jpeg",
+    "tool": "Stable Diffusion",
+    "tags": [
+      "portrait",
+      "fantasy"
+    ],
+    "style": "3d"
+  },
+  {
+    "prompt": "<lora:DetailerILv2-000008:0.67>",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cd7d4f2f-eb98-411c-9b31-d82cbdee9702/original=true/cd7d4f2f-eb98-411c-9b31-d82cbdee9702.jpeg",
+    "tool": "Stable Diffusion",
+    "tags": [
+      "general"
+    ],
+    "style": "realistic"
+  },
+  {
+    "prompt": "masterpiece,amazing quality,newest,absurdres,highres,highly-detailed,detailed face,glossy hair,<lora:serafuku_illustrious_V2.0:0.8>,serafuku,blue serafuku,pleated skirt,blue sailor collar,neckerchief,long sleeves,simple background,black hair,long hair,straight hair,smile,",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6c1a1cb8-16b7-46d2-a1fd-c711a2403024/original=true/6c1a1cb8-16b7-46d2-a1fd-c711a2403024.jpeg",
+    "tool": "Stable Diffusion",
+    "tags": [
+      "portrait"
+    ],
+    "style": "realistic"
   }
 ]
