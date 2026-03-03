@@ -23994,5 +23994,12 @@
     "style": "mixed",
     "source": "civitai",
     "createdAt": "2026-03-03T19:14:17.507Z"
+  },
+  {
+    "prompt": "masterpiece, best quality, very aesthetic, CivitAI BatouLaMenace, \n(flat color, no lineart, lineless:1.5),\n(realistic, semi-realistic:1), \n(artist:Incase:0), (artist:Tsuaii:0),\nsnow capped mountain peak, alpine valley, rocky foreground, pine trees, wildflowers, distant mountain range, no humans,\nwide landscape shot, elevated viewpoint, leading lines, dramatic perspective,\ngolden hour, sunset sky, scattered clouds, warm sunlight,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/de1a65d6-a66d-4bd9-9ff4-7be7098ecc66/original=true/de1a65d6-a66d-4bd9-9ff4-7be7098ecc66.jpeg"
+    ],
+    "tool": "Stable Diffusion"
   }
 ]

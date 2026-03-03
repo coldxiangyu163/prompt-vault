@@ -1,12 +1,12 @@
 {
-  "lastRun": "2026-03-04T02:58:00+08:00",
-  "totalPrompts": 1436,
-  "newAdded": 74,
+  "timestamp": "2026-03-03T19:17:20.552Z",
+  "total_prompts": 1508,
+  "new_prompts": 1,
   "sources": {
-    "civitai": 20,
-    "prompthero_sd": 19,
-    "prompthero_flux": 12,
-    "prompthero_mj": 23
+    "civitai": 1,
+    "prompthero_sd": 0,
+    "prompthero_flux": 0,
+    "prompthero_mj": 0
   },
-  "deduplicationRate": "84.3%"
+  "dedup_rate": "0.998"
 }
