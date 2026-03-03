@@ -26934,5 +26934,27 @@
     "created_at": "2026-03-03",
     "collected_at": "2026-03-04T03:51:19",
     "id": "20260304_civ_1772540781353"
+  },
+  {
+    "prompt": "Captured on an ARRI ALEXA 35 with a Cooke Anamorphic/i 75mm lens, shot at T2.3 for shallow depth and gentle oval bokeh that separates subject from spectacle while retaining environmental weight. The lighting is bold but directional — a massive fire source motivated by a collapsing braziery off-frame right, balanced with cold moonlight spilling through fractured cathedral arches. Warm sodium-orange flame clashes against desaturated cobalt night tones. Smoke and ember particulate hang in layered sheets, catching highlights in streaks. The color grade leans into burnished golds and oxidized blues, with deep crimson accents preserved in costume detail. High dynamic range, controlled halation on practical flames, cinematic contrast without crushing shadow detail.\nA defining confrontation scene from the fantasy epic “The Gilded Quiet.”\nIn the foreground stands the hero, Ser Caldrin Vale — tall, gaunt, unmistakable — his most defining feature a porcelain half-mask fused seamlessly to the left side of his face, etched with hairline gold fractures that spider outward from his eye. His exposed right eye is steady, unblinking. He wears a long, ash-gray duelist’s coat with exaggerated split tails, lined in muted gold silk that flashes when he moves. Beneath it: articulated ivory plate armor, slim and architectural, with filigree shaped like broken halos. A narrow, luminous rapier hums in his hand, blade emitting a restrained white-gold edge light that reflects along the bevel of nearby stone.\nOpposite him, descending the cathedral steps through drifting smoke, is the primary antagonist: Lady Virexa Thorne, known as the Choir of Teeth. She is statuesque, her silhouette unmistakable — elongated black lacquered armor shaped like layered rib bones, flaring outward at the hips into serrated, crown-like ridges. Her helm is open-faced but framed by a mantle of articulated metallic “feathers” resembling curved fangs. Her lips are painted obsidian; her teeth capped in faintly reflective silver. In one hand she carries a chain-bound censer glowing from within with a deep, arterial red light, casting restless shadows that twitch across the vaulted ceiling.\nBehind Caldrin, partially out of focus, kneel members of the Glass Priory — supporting figures in translucent crystal-thread cloaks, fractured and battle-worn. Behind Virexa, elevated along the ruined colonnade, stand her adversarial chorus-knights: identical figures in mirrored masks and segmented bone-white armor, holding hooked polearms upright in ritual symmetry.\nThe frame captures the exact moment Caldrin steps forward, coat tails caught mid-sweep by the thermal draft of rising fire, rapier angled low but ready. Virexa’s censer swings outward, red light flaring brighter, embers scattering across marble steps. Sparks drift between them like suspended constellations. No exaggerated magic burst — just tension at ignition point.\nThe setting is the world of Aurith Hollow — a vertical city carved into cathedral-like canyon walls, where architecture is grown from calcified light. The shattered sanctuary around them is vast yet intimate in the lens compression: towering arches blurred into anamorphic streaks, fractured stained glass casting faint, fractured color patterns across smoke.\nEmotionally, the image radiates inevitability. Not rage — conviction. Caldrin’s posture is upright, restrained, deliberate. Virexa’s stance is relaxed but predatory, chin slightly tilted downward as if already victorious. The world feels old, ritualistic, and heavy with consequence.\nEditorial but grounded — styled like a prestige live-action fantasy film photographed by a high-fashion cinematographer who favors texture, silhouette, and controlled spectacle over chaos. 8K fidelity, ultra-detailed fabric weave, metallic patina, realistic flame behavior, sharp focus locked on the space between their eyes. A frozen moment just before the first strike.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/344040f1-106c-47e8-b530-cbcf61d64bfc/original=true/344040f1-106c-47e8-b530-cbcf61d64bfc.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic",
+      "fantasy",
+      "sci-fi",
+      "architecture",
+      "character",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123033517",
+    "author": "impossiblebearcl4060",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:55:04",
+    "id": "20260304_civ_1772540781354"
   }
 ]
