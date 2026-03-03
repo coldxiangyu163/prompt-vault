@@ -20165,5 +20165,17 @@
     "source_url": "https://prompthero.com/prompt/5cc60dbf76a-stable-diffusion-15-baroque-rococo-architecture-architectural-photography-post-apocalyptic-new-york-hyperrealism-hyperrealistic-octane-render-cinematic-hyper-detailed-8k",
     "created_at": "2026-03-04",
     "collected_at": "2026-03-04"
+  },
+  {
+    "id": "04b85c540920",
+    "prompt": "same but realistic",
+    "tool": "Stable Diffusion",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/21041e77-95b9-4826-ab2f-88c723fab8f4/original=true/21041e77-95b9-4826-ab2f-88c723fab8f4.jpeg",
+    "tags": [
+      "general"
+    ],
+    "style": "realistic",
+    "source": "civitai",
+    "created_at": "2026-03-04T02:24:50.350277"
   }
 ]
