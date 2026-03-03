@@ -19821,5 +19821,349 @@
     ],
     "style": "realistic",
     "source": "civitai"
+  },
+  {
+    "id": "civitai_20260304_9f24a77f79a2",
+    "prompt": "realistic, solo, cat, cute, sleeping, light_particles, nature, mountain, depth of field, the best quality, amazing quality, high quality, masterpiece,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/35db9a04-3f7e-4abf-b0c5-7929785c4a45/original=true/35db9a04-3f7e-4abf-b0c5-7929785c4a45.jpeg"
+    ],
+    "tags": [
+      "landscape"
+    ],
+    "style": "photorealistic",
+    "tool": "Stable Diffusion",
+    "author": "mystifying",
+    "source_url": "https://civitai.com/images/122442045",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_8e6a73365576",
+    "prompt": "strong warrior princess| centered| key visual| intricate| highly detailed| breathtaking beauty| precise lineart| vibrant| comprehensive cinematic| Carne Griffiths| Conrad Roset37913509Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fg85340p71q25gb6bjz8vqivdmiux&w=1920&q=75"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "artistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/9f35d13cd13-stable-diffusion-15-strong-warrior-princess-centered-key-visual-intricate-highly-detailed-breathtaking-beauty-precise-lineart-vibrant-comprehensive-cinematic-carne-griffiths-conrad-roset",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_7cae502a452d",
+    "prompt": "a portrait of an old coal miner in 19th century, beautiful painting with highly detailed face by greg rutkowski and magali villanueve35214685Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F8vsajf5okvs9v0imi4jkiic3hjdw&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "general",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/eedee759ddc-stable-diffusion-15-a-portrait-of-an-old-coal-miner-in-19th-century-beautiful-painting-with-highly-detailed-face-by-greg-rutkowski-and",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_3e73fac859c0",
+    "prompt": "Hyper realistic painting of a beautiful girl in an EVA plugsuit, hyper detailed, anime, by greg rutkowski, trending on artstation1958370Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fg4n3boj7wkfug4mkf68fj0dcj6os&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait",
+      "anime"
+    ],
+    "style": "photorealistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/8863f6cbc15-stable-diffusion-15-hyper-realistic-painting-of-a-beautiful-girl-in-an-eva-plugsuit-hyper-detailed-anime-by-greg-rutkowski-trending-on-artstation",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_e6144a5439d0",
+    "prompt": "store full of curious collectibles :: incredible, anime, Digital 2D, animated by Kyoto Animation, Studio Ghibli, Miyazaki, AKIRA art style, beautiful, gorgeous, dramatic lighting, rule of thirds, perfect composition, trending on ArtStation, 4k --ar 1:2 --quality 21897551Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fxdol66d0nh5necyeaq77qur07i05&w=1920&q=75"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "style": "anime",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/65f69ef422e-stable-diffusion-15-store-full-of-curious-collectibles-incredible-anime-digital-2d-animated-by-kyoto-animation-studio-ghibli-miyazaki-akira-art-style-beautiful",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_b2052c148ead",
+    "prompt": "a portrait of an old coal miner in 19th century, beautiful painting with highly detailed face by greg rutkowski and magali villanueve1878577Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F23g20r9312ok51c1bv4uvsctcdo7&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "general",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/42650b48748-stable-diffusion-15-a-portrait-of-an-old-coal-miner-in-19th-century-beautiful-painting-with-highly-detailed-face-by-greg-rutkowski-and",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_7acd450f60d2",
+    "prompt": "poster of warrior princess| standing on hill |centered| key visual| intricate| highly detailed| breathtaking| precise lineart| vibrant| panoramic| cinematic| Carne Griffiths| Conrad Roset1556074Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Frr4s7i82to83u1b1xav06r3epnj0&w=1920&q=75"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "artistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/7d04616cd60-stable-diffusion-15-poster-of-warrior-princess-standing-on-hill-centered-key-visual-intricate-highly-detailed-breathtaking-precise-lineart-vibrant-panoramic-cinematic-carne",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_10b96b2cf575",
+    "prompt": ":  sango fantasy, fantasy magic,  , intricate, sharp focus, illustration, highly detailed, digital painting, concept art, matte, Artgerm and Paul lewin and kehinde wiley, masterpiece1325537Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fqqpkrx9izcfac5jznmq1kaedoyes&w=1920&q=75"
+    ],
+    "tags": [
+      "fantasy"
+    ],
+    "style": "artistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/f2225c97abd-stable-diffusion-15-sango-fantasy-fantasy-magic-intricate-sharp-focus-illustration-highly-detailed-digital-painting-concept-art-matte-artgerm-and-paul-lewin-and",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_bcfac2b72582",
+    "prompt": "High quality portrait of Gordon Freeman from HL2. Art by Makoto Shinkai, Crunchyroll, pixiv, danbooru, HD, headshot, cinematic still, detailed anime face, bokeh, digital art, cel shading, vivid colors, ambient lighting1135319Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fgz3ybqf5cu7dd2s9a1bpf94y3tga&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait",
+      "anime"
+    ],
+    "style": "anime",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/d8e2891564d-stable-diffusion-15-high-quality-portrait-of-gordon-freeman-from-hl2-art-by-makoto-shinkai-crunchyroll-pixiv-danbooru-hd-headshot-cinematic-still-detailed",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_6a46f7269838",
+    "prompt": "long range view, Beautiful Japanese flower garden, elegant bridges, waterfalls, pink and white, by Akihito Yoshida, Ismail Inceoglu, Karol Bak, Airbrush, Dramatic, Panorama, Cool Color Palette, Megapixel, Lumen Reflections, insanely detailed and intricate, hypermaximalist, elegant, ornate, hyper realistic, super detailed, unreal engine993756Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Faqtrz9u33a0g7lu6s8jcqe2s3z31&w=1920&q=75"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "photorealistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/be3aeffd9e6-stable-diffusion-15-long-range-view-beautiful-japanese-flower-garden-elegant-bridges-waterfalls-pink-and-white-by-akihito-yoshida-ismail-inceoglu-karol-bak",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_2bea62c38853",
+    "prompt": "Scarlett Johansson, highly detailed, artstation, smooth, sharp focus, 8K, art by art by artgerm and greg rutkowski and edgar maxence.834227Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F6mn44zxlna8b7rd8k21ewm1rurxb&w=1920&q=75"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "artistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/58dae66c5f4-stable-diffusion-15-scarlett-johansson-highly-detailed-artstation-smooth-sharp-focus-8k-art-by-art-by-artgerm-and-greg-rutkowski-and-edgar-maxence",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_97353496019b",
+    "prompt": "a ultradetailed beautiful panting of a stylish woman, by conrad roset, greg rutkowski and makoto shinkai, trending on artstation682647Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fml3rg7xmao7dnvmtmz0pfzfx9z7x&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "artistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/2ef636592fb-stable-diffusion-15-a-ultradetailed-beautiful-panting-of-a-stylish-woman-by-conrad-roset-greg-rutkowski-and-makoto-shinkai-trending-on-artstation",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_4b5a74fc53a7",
+    "prompt": "young man with long face, with clean shaven short beard, with dark hair, without hat, without glasses, with t-shirt, with hoodies, line art, ink, portrait, stroke only, style moebius.652623Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fu920v6ltyitqc23gve9n5yu1n9cy&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "artistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/028d04e14ae-stable-diffusion-15-young-man-with-long-face-with-clean-shaven-short-beard-with-dark-hair-without-hat-without-glasses-with-t-shirt",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_206152a04e4c",
+    "prompt": "detailed and realistic (upper body portrait:1.2) of a woman with a few (freckles:0.8) BREAK round eyes and short messy hair BREAK shot outside, wearing a white t shirt, staring at camera, chapped lips BREAK soft natural lighting, portrait photography, magical photography, dramatic lighting, photo realism, ultra-detailed, intimate portrait composition, Leica 50mm, f1. 4584700Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F5t5nrurlg8ybqz77mylrtby1sg7d&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait",
+      "fantasy"
+    ],
+    "style": "photorealistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/edd9661b619-stable-diffusion-15-detailed-and-realistic-upper-body-portrait12-of-a-woman-with-a-few-freckles08-break-round-eyes-and-short-messy-hair",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_d309d9eb44eb",
+    "prompt": "1 girl, beautiful Korean girl, (Cute Loose Bob hair), (wearing a cropped hoodie, capri sweatpants:1. 5), (hands in pockets:1. 5), (red lips:1. 3), (small breasts:1. 3), (toned stomach:1. 3), (eyelashes:1. 2), (aegyo sal:1. 2), beautiful detailed eyes, symmetrical eyes, (detailed face), immersive background, volumetric haze, global illumination, soft lighting, (flowing hair), (bright smile), natural lighting, (realistic:1.5), (lifelike:1.4), (4k, digital art, masterpiece), High detail digital painting, realistic, (top quality), (soft shadows), (best character art), ultra high resolution, highly detailed digital artwork, physically-based rendering, realism with an artistic touch, vibrant colors, f2.2 lens, soft palette, natural beauty.574233Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Frl1ul2i0eqithy4gp45cj83e11ga&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "photorealistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/8887d8e2e22-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants1-5-hands-in-pockets1-5",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_186f824a2946",
+    "prompt": "Kyoto Animation stylized anime mixed with tradition Chinese artworks~ A dragon flying at modern cyberpunk fantasy world. Cinematic Lighting, ethereal light, intricate details, extremely detailed, incredible details, full colored, complex details, insanely detailed and intricate, hypermaximalist, extremely detailed with rich colors. masterpiece, best quality, aerial view, HDR, UHD, unreal engine. plump looking at the camera, smooth thighs, (glittery jewelry) ((acrylic illustration, by artgerm, by kawacy, by John Singer Sargenti) dark Fantasy background, glittery jewelry, Representative, fair skin, beautiful face, Rich in details High quality, gorgeous, glamorous, 8k, super detail, gorgeous light and shadow, detailed decoration, detailed lines5512773Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fc2p361z8p1b64jbqmylf69x4h7sm&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait",
+      "anime",
+      "fantasy",
+      "sci-fi"
+    ],
+    "style": "anime",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/80c4c18d360-stable-diffusion-xl-base-09-kyoto-leonardo-anime-xl-2leonardo-alchemyanimeleonardo-alpha-upscale-kyoto-animation-stylized-anime-mixed-with-tradition-chinese-artworks-a-dragon-flying-at-modern-cyberpunk-fantasy-world-cinematic-lighting-ethereal",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_f62e32df5467",
+    "prompt": "an image of a person with a flowing, sculptural hairstyle and garment that echo the movement of water. The hair and attire should be crafted with smooth, swirling patterns that extend and blend into each other, in a seamless and organic fashion. The color scheme should be a gradient of turquoise to aquamarine, set against a neutral gray background to emphasize the subject. The subject's pose should be elegant and poised, with a profile view showcasing refined features and a calm, contemplative expression. Add a detailed, ornate earring to the subject to bring an additional element of sophistication. The lighting should cast soft shadows to define the swirling forms, creating a luxurious and modern aesthetic.\"537138Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F83jhg2meq69e4mstdgb4k1ker80z&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "general",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/186bd6a98d6-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv5-refiner-model-sdxl-1009safetensors-workflow-seargesdxl43-prompt-generator-llama2-an-image-of-a-person-with-a-flowing-sculptural-hairstyle-and-garment-that-echo-the-movement-of-water-the-hair",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_24042f560017",
+    "prompt": "1girl, (Nadia Hilker):1.5, Champagne color Gatsby 1920s Flapper Dress with Sequins and Fringes, South of France, Monaco, Monte Carlo, dynamic angle, seductive grin, smokey eye shadow, high detail skin, high detail eyes, seductive eyes, smokey makeup, slender body, toned body, perfect face, slim athletic body, (perky small breasts:0. 75), detailed clothing, intricate clothing, seductive pose, action pose, motion, casting pose,((masterpiece)), ((best quality)), extremely detailed cg 8k wallpaper, bright colors, Dramatic light, photoreal full body (wide-angle lens, Panoramic:1. 2),fantasy, hyper-realistic, amazing fine detail, rich colors, realistic texture, vignette, moody, dark, epic, gorgeous, film grain, grainy, beautiful lighting, rim lighting, magical, shallow depth of field, photography, neo noir, volumetric lighting, Ultra HD, raytracing, studio quality, octane render, <lora:add_detail:1>, <lora:paulnong-04:0. 6>526668Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F53icex148v5mqei5u80cqm0htzto&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait",
+      "fantasy"
+    ],
+    "style": "photorealistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/dc63f5d594e-stable-diffusion-15-taurealmixv37fp16prunedvae-1girl-nadia-hilker15-champagne-color-gatsby-1920s-flapper-dress-with-sequins-and-fringes-south-of-france-monaco-monte-carlo-dynamic",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_31a2fa30b7b6",
+    "prompt": "a highly detailed matte painting of a young boy and girl at the bottom of a huge hill by studio ghibli, makoto shinkai, by artgerm, by wlop, by greg rutkowski, volumetric lighting, octane render, 4 k resolution, trending on artstation, masterpiece501971Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fpml3dtt83hwl130pvdfrnq153vgt&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "artistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/08be173c486-stable-diffusion-15-a-highly-detailed-matte-painting-of-a-young-boy-and-girl-at-the-bottom-of-a-huge-hill-by-studio",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_0ee5489003e2",
+    "prompt": "Steve Jobs Star Wars movie character, highly detailed, digital fantasy character, painted portrait, artstation, concept art, hard focus, illustrations, works by artgerm and Greg Rutkowski, Alphonse Mucha and Craig Mullins, James Jean, Andrey Ryabovichev, Mark Simonetti and Peter Morbacher, 16k,472816Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F8q060ldfn4rt2lkr4zcthifnwq3p&w=1920&q=75"
+    ],
+    "tags": [
+      "portrait",
+      "fantasy"
+    ],
+    "style": "artistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/1f07d2d7062-stable-diffusion-15-steve-jobs-star-wars-movie-character-highly-detailed-digital-fantasy-character-painted-portrait-artstation-concept-art-hard-focus-illustrations-works",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
+  },
+  {
+    "id": "prompthero_20260304_efa63885027d",
+    "prompt": "Baroque rococo architecture, architectural photography, post apocalyptic New York, hyperrealism, hyperrealistic, octane render, cinematic, hyper detailed, 8K472329Stable Diffusion",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fjig5foi8fh7k920flrcl96dwhabz&w=1920&q=75"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "photorealistic",
+    "tool": "Stable Diffusion",
+    "author": "PromptHero",
+    "source_url": "https://prompthero.com/prompt/5cc60dbf76a-stable-diffusion-15-baroque-rococo-architecture-architectural-photography-post-apocalyptic-new-york-hyperrealism-hyperrealistic-octane-render-cinematic-hyper-detailed-8k",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-04"
   }
 ]
