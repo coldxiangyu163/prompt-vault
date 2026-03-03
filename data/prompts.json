@@ -17167,5 +17167,775 @@
     "image": "https://cdn.prompthero.com/erklkhk7nw0k92x16xzhmye4utuv-stable-diffusion-xl-base-09-bat-girl-a-masterpiece-batgirlsupergirl-from-dc-comic-wearing-alternate-yellow-costume-coy-and-alluring-full-body-kim-jung-gi-freedom-soul.jpg",
     "source": "PromptHero",
     "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai_123029288_0",
+    "title": "Masterpiece",
+    "prompt": "Masterpiece, Best quality Backlights, ultra-detailed quality, dynamic composition, natural lighting, solo, 1boy, male Focus, short hair, black hair, blue eyes, looking at viewer, holding sword, japanese clothes, katana, black kimono, holding weapon, looking at viewer, sitting, off shoulder, red flower, choker, sash, obi, from side, long sleeves",
+    "negativePrompt": "bad quality, worst quality, worst detail, lowres, low quality, censored, (watermark, artist logo, artist signature, twitter username, signature, artist name:1.5), monochrome, fewer digits, extra digits, women, girl, low res, artistic error, mutated hands, ugly style, bad eyes, female, vagina, pussy, bar censor, extra penis, extra testicles, disfigured, logo, error, bad anatomy, bad hands, distorted, female body, deformed, woman, bad hand, long torso, huge head, anorexia, elongated, elongated limbs, extra long arms, extra long limbs, long neck, elongated neck, long throat, cleft chin, cunt, trans, transgender, cuntboy, soulless, crooked eyes, slanted eyes, long face, bucktooth, uncanny valley, uncanny, blurry, blur, blurry image, bad focus, incorrect proportions, bad proportions, worstquality, username, greyscale",
+    "tool": "Stable Diffusion",
+    "category": "Photography",
+    "tags": [
+      "masterpiece",
+      "best quality backlights",
+      "ultra-detailed quality",
+      "dynamic composition",
+      "natural lighting"
+    ],
+    "source": "Civitai",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2a0d7b47-e474-44bf-ada4-f23dcc4bb951/original=true/2a0d7b47-e474-44bf-ada4-f23dcc4bb951.jpeg",
+    "description": "Stable Diffusion prompt: Masterpiece",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540604822_0",
+    "title": "Stable Diffusion prompt: strong warrior princess| centered| ",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: strong warrior princess| centered| key visual| int...\",\"description\":\"Stable Diffusion 1.5 prompt · for portraits · \\\"strong warrior princess| centered| key visual| intricate| highly detailed| breathtaking beauty| prec...\\\" · 13,484 views · 379 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2022-10-27T20:49:04.723Z\",\"dateModified\":\"2025-12-10T10:15:17.229Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/g85340p71q25gb6bjz8vqivdmiux\",\"width\":512,\"height\":768},\"author\":{\"@type\":\"Person\",\"@id\":\"mcrow\",\"name\":\"mcrow\",\"image\":\"https://cdn.prompthero.com/0n2g14w5hj8xbvq6brc1n6cuukvf\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":379},\"genre\":\"portraits\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: strong warrior princess| centered| key visual| int...@mcrowPosted 3 years agoFollow13.5kviews379favoritesFavoriteModel usedStable Diffusion1.5CategoryportraitsGeneration parametersImage512x76816PromptTry this promptCopystrong warrior princess| centered| key visual| intricate| highly detailed| breathtaking beauty| precise lineart| vibrant| comprehensive cinematic| Carne Griffiths| Conrad RosetMore by @mcrowStable Diffusion prompt: White Grecian dress billowing breeze, Auburn long ...Stable Diffusion prompt: airy, pin-up, sci-fi, steam punk, very deitaled, r...Stable Diffusion prompt: airy, pin-up, sci-fi, steam punk, very deitaled, r...Stable Diffusion prompt: airy, pin-up, sci-fi, steam punk, very deitaled, r...Stable Diffusion prompt: airy, pin-up, sci-fi, steam punk, very deitaled, r...Stable Diffusion prompt: A dog riding a rocket in space Stained GlassStable Diffusion prompt: garden bursting with flowers Paulina GóraStable Diffusion prompt: garden bursting with flowers Paulina Góra, Rachel View allExplore RelatedCharacter DesignRealistic Vision GirlConcept ArtMidjourney WarriorHailuo Highly DetailedComments (7)Please sign in to comment11ae256dbd2c3 years agoBeautifulEvangelina3 years agoLovely, thanks.EEstebanMm3 years agoawesomeneuroden3 years agoNiceLita3 years agoBeautiful!anjuna3 years agoBeautiful!mcrow3 years agostrong warrior princess",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fg85340p71q25gb6bjz8vqivdmiux&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540611376_1",
+    "title": "Stable Diffusion prompt: Hyper realistic painting of a beaut",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: Hyper realistic painting of a beautiful girl in an...\",\"description\":\"Stable Diffusion 1.5 prompt · for concept-art · \\\"Hyper realistic painting of a beautiful girl in an EVA plugsuit, hyper detailed, anime, by greg rutk...\\\" · 8,355 views · 195 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2022-10-13T22:17:32.106Z\",\"dateModified\":\"2025-12-09T15:39:49.387Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/g4n3boj7wkfug4mkf68fj0dcj6os\",\"width\":512,\"height\":768},\"author\":{\"@type\":\"Person\",\"@id\":\"Nethril\",\"name\":\"Nethril\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":195},\"genre\":\"concept-art\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: Hyper realistic painting of a beautiful girl in an...NE@NethrilPosted 3 years agoFollow8.4kviews195favoritesFavoriteModel usedStable Diffusion1.5Categoryconcept-artGeneration parametersImage512x768264531045PromptTry this promptCopyHyper realistic painting of a beautiful girl in an EVA plugsuit, hyper detailed, anime, by greg rutkowski, trending on artstationMore by @NethrilStable Diffusion prompt: high resolution photography interior design, dream...Stable Diffusion prompt: Hyper realistic painting of a beautiful girl in an...View allExplore RelatedRealistic Vision GirlStable Diffusion GirlPhotorealisticIdeogram PhotorealisticGreg RutkowskiComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "hyper detailed"
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fg4n3boj7wkfug4mkf68fj0dcj6os&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540614163_2",
+    "title": "Stable Diffusion prompt: store full of curious collectibles ",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: store full of curious collectibles :: incredible, ...\",\"description\":\"Stable Diffusion 1.5 prompt · for concept-art · \\\"store full of curious collectibles :: incredible, anime, Digital 2D, animated by Kyoto Animation, St...\\\" · 7,535 views · 189 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2022-10-28T16:51:05.788Z\",\"dateModified\":\"2025-12-03T08:48:19.907Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/xdol66d0nh5necyeaq77qur07i05\",\"width\":512,\"height\":1024},\"author\":{\"@type\":\"Person\",\"@id\":\"MIDo\",\"name\":\"MIDo\",\"image\":\"https://cdn.prompthero.com/lyd01sahy75st60wjjqg57w4sfvu\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":189},\"genre\":\"concept-art\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: store full of curious collectibles :: incredible, ...@MIDoPosted 3 years agoFollow7.5kviews189favoritesFavoriteModel usedStable Diffusion1.5Categoryconcept-artGeneration parametersImage512x102422034PromptTry this promptCopystore full of curious collectibles :: incredible, anime, Digital 2D, animated by Kyoto Animation, Studio Ghibli, Miyazaki, AKIRA art style, beautiful, gorgeous, dramatic lighting, rule of thirds, perfect composition, trending on ArtStation, 4k --ar 1:2 --quality 2More by @MIDoStable Diffusion prompt: high resolution photography interior design, dream...View allExplore RelatedMidjourney AnimeMidjourney Pixar StyleStable Diffusion AnimeDALL-E Pixar StyleDreamShaper AnimeComments (3)Please sign in to commentAAstral0453 years agoHi mommy lodka3 years agoPrompt is for midjourney, not SDAAimer3 years agoAmazing, what is the sampler you used?",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fxdol66d0nh5necyeaq77qur07i05&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540619540_3",
+    "title": "Stable Diffusion prompt: poster of warrior princess| standin",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: poster of warrior princess| standing on hill |cent...\",\"description\":\"Stable Diffusion 1.5 prompt · for concept-art · \\\"poster of warrior princess| standing on hill |centered| key visual| intricate| highly detailed| brea...\\\" · 6,062 views · 155 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2022-10-27T05:14:14.976Z\",\"dateModified\":\"2025-12-03T18:39:26.194Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/rr4s7i82to83u1b1xav06r3epnj0\",\"width\":512,\"height\":768},\"author\":{\"@type\":\"Person\",\"@id\":\"mcrow\",\"name\":\"mcrow\",\"image\":\"https://cdn.prompthero.com/0n2g14w5hj8xbvq6brc1n6cuukvf\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":155},\"genre\":\"concept-art\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: poster of warrior princess| standing on hill |cent...@mcrowPosted 3 years agoFollow6.1kviews155favoritesFavoriteModel usedStable Diffusion1.5Categoryconcept-artGeneration parametersImage512x7682PromptTry this promptCopyposter of warrior princess| standing on hill |centered| key visual| intricate| highly detailed| breathtaking| precise lineart| vibrant| panoramic| cinematic| Carne Griffiths| Conrad RosetMore by @mcrowStable Diffusion prompt: White Grecian dress billowing breeze, Auburn long ...Stable Diffusion prompt: airy, pin-up, sci-fi, steam punk, very deitaled, r...Stable Diffusion prompt: airy, pin-up, sci-fi, steam punk, very deitaled, r...Stable Diffusion prompt: airy, pin-up, sci-fi, steam punk, very deitaled, r...Stable Diffusion prompt: airy, pin-up, sci-fi, steam punk, very deitaled, r...Stable Diffusion prompt: A dog riding a rocket in space Stained GlassStable Diffusion prompt: garden bursting with flowers Paulina GóraStable Diffusion prompt: garden bursting with flowers Paulina Góra, Rachel View allExplore RelatedMidjourney PosterConcept ArtArtgermHailuo Highly DetailedStable Diffusion WarriorComments (1)Please sign in to commentmcrow3 years agowarrior princess",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Frr4s7i82to83u1b1xav06r3epnj0&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540621903_4",
+    "title": "Stable Diffusion prompt: :  sango fantasy, fantasy magic,  ,",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: :  sango fantasy, fantasy magic,  , intricate, sha...\",\"description\":\"Stable Diffusion 1.5 prompt · for portraits · \\\":  sango fantasy, fantasy magic,  , intricate, sharp focus, illustration, highly detailed, digital p...\\\" · 5,527 views · 132 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2022-10-23T11:45:22.309Z\",\"dateModified\":\"2025-12-09T10:03:04.637Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/qqpkrx9izcfac5jznmq1kaedoyes\",\"width\":512,\"height\":768},\"author\":{\"@type\":\"Person\",\"@id\":\"Jawekkwakman\",\"name\":\"Jawekkwakman\",\"image\":\"https://cdn.prompthero.com/aujfotjac5oa6akvr3cswz2w41tw\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":132},\"genre\":\"portraits\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: :  sango fantasy, fantasy magic,  , intricate, sha...@JawekkwakmanPosted 3 years agoFollow5.5kviews132favoritesFavoriteModel usedStable Diffusion1.5CategoryportraitsGeneration parametersImage512x768428858956PromptTry this promptCopy:  sango fantasy, fantasy magic,  , intricate, sharp focus, illustration, highly detailed, digital painting, concept art, matte, Artgerm and Paul lewin and kehinde wiley, masterpieceMore by @JawekkwakmanStable Diffusion prompt: complex 3d render ultra detailed of a beautiful po...Stable Diffusion prompt: complex 3d render ultra detailed of a beautiful po...Stable Diffusion prompt: complex 3d render ultra detailed of a beautiful po...Stable Diffusion prompt: complex 3d render ultra detailed of a beautiful po...Stable Diffusion prompt: hyperrealistic portrait of a woman astronaut, full...Stable Diffusion prompt: hyperrealistic portrait of a woman astronaut, full...Stable Diffusion prompt: hyperrealistic portrait of a woman astronaut, full...Stable Diffusion prompt: hyperrealistic portrait of a woman astronaut, full...View allExplore RelatedMidjourney FantasyStable Diffusion FantasymajicMIX realistic RealisticIdeogram PhotorealisticMidjourney Vector ArtComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "fantasy magic"
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fqqpkrx9izcfac5jznmq1kaedoyes&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540624834_5",
+    "title": "Stable Diffusion prompt: High quality portrait of Gordon Fre",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: High quality portrait of Gordon Freeman from HL2. ...\",\"description\":\"Stable Diffusion 1.5 prompt · for concept-art · \\\"High quality portrait of Gordon Freeman from HL2. Art by Makoto Shinkai, Crunchyroll, pixiv, danboor...\\\" · 5,304 views · 113 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2022-09-28T05:27:40.309Z\",\"dateModified\":\"2025-12-10T02:20:00.344Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/gz3ybqf5cu7dd2s9a1bpf94y3tga\",\"width\":512,\"height\":512},\"author\":{\"@type\":\"Person\",\"@id\":\"692dae592bf\",\"name\":\"692dae592bf\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":113},\"genre\":\"concept-art\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: High quality portrait of Gordon Freeman from HL2. ...69@692dae592bfPosted 3 years agoFollow5.3kviews113favoritesFavoriteModel usedStable Diffusion1.5Categoryconcept-artGeneration parametersImage512x5122134104486PromptTry this promptCopyHigh quality portrait of Gordon Freeman from HL2. Art by Makoto Shinkai, Crunchyroll, pixiv, danbooru, HD, headshot, cinematic still, detailed anime face, bokeh, digital art, cel shading, vivid colors, ambient lightingMore by @692dae592bfExplore RelatedChatGPT PhotorealisticStable Diffusion PortraitDALL-E Pixar StyleMidjourney Pixar StyleChatGPT Image NarutoComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "crunchyroll"
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fgz3ybqf5cu7dd2s9a1bpf94y3tga&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540627236_6",
+    "title": "Stable Diffusion prompt: long range view, Beautiful Japanese",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: long range view, Beautiful Japanese flower garden,...\",\"description\":\"Stable Diffusion 1.5 prompt · for landscapes · \\\"long range view, Beautiful Japanese flower garden, elegant bridges, waterfalls, pink and white, by A...\\\" · 3,747 views · 99 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2022-11-03T19:34:23.160Z\",\"dateModified\":\"2025-12-07T12:16:41.623Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/aqtrz9u33a0g7lu6s8jcqe2s3z31\",\"width\":512,\"height\":768},\"author\":{\"@type\":\"Person\",\"@id\":\"Pip\",\"name\":\"Pip\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":99},\"genre\":\"landscapes\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: long range view, Beautiful Japanese flower garden,...PI@PipPosted 3 years agoFollow3.7kviews99favoritesFavoriteModel usedStable Diffusion1.5CategorylandscapesGeneration parametersImage512x768844099874PromptTry this promptCopylong range view, Beautiful Japanese flower garden, elegant bridges, waterfalls, pink and white, by Akihito Yoshida, Ismail Inceoglu, Karol Bak, Airbrush, Dramatic, Panorama, Cool Color Palette, Megapixel, Lumen Reflections, insanely detailed and intricate, hypermaximalist, elegant, ornate, hyper realistic, super detailed, unreal engineMore by @PipStable Diffusion prompt: head and shoulders, Beautiful warrioress with hype...Stable Diffusion prompt: head and shoulders, Beautiful warrioress with hype...Stable Diffusion prompt: medusa, symmetrical portrait, insanely detailed an...Stable Diffusion prompt: medusa, symmetrical portrait,  modern European ink...Stable Diffusion prompt: Portrait of a beautiful queen-roots-angel, long el...Stable Diffusion prompt: head and shoulders, highly detailed cdpr character...Stable Diffusion prompt: highly detailed cdpr character design of armor wit...Stable Diffusion prompt: highly detailed cdpr character design of armor wit...View allExplore RelatedMidjourney LandscapeIdeogram PhotorealisticPhotorealisticMidjourney WatercolorPixverse Realistic photosComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Faqtrz9u33a0g7lu6s8jcqe2s3z31&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540629961_7",
+    "title": "Stable Diffusion prompt: Scarlett Johansson, highly detailed",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: Scarlett Johansson, highly detailed, artstation, s...\",\"description\":\"Stable Diffusion 1.5 prompt · for portraits · \\\"Scarlett Johansson, highly detailed, artstation, smooth, sharp focus, 8K, art by art by artgerm and ...\\\" · 4,217 views · 83 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2022-11-16T04:43:13.230Z\",\"dateModified\":\"2025-12-06T13:50:50.200Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/6mn44zxlna8b7rd8k21ewm1rurxb\",\"width\":512,\"height\":512},\"author\":{\"@type\":\"Person\",\"@id\":\"345ac3d9923\",\"name\":\"345ac3d9923\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":83},\"genre\":\"portraits\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: Scarlett Johansson, highly detailed, artstation, s...34@345ac3d9923Posted 3 years agoFollow4.2kviews83favoritesFavoriteModel usedStable Diffusion1.5CategoryportraitsGeneration parametersImage512x5121294216578PromptTry this promptCopyScarlett Johansson, highly detailed, artstation, smooth, sharp focus, 8K, art by art by artgerm and greg rutkowski and edgar maxence.More by @345ac3d9923Openjourney prompt: Scarlett Johansson, highly detailed, artstation, s...Waifu Diffusion prompt: Scarlett Johansson, highly detailed, artstation, s...Stable Diffusion prompt: Scarlett Johansson, highly detailed, artstation, s...Stable Diffusion prompt: Scarlett Johansson, highly detailed, artstation, s...Stable Diffusion prompt: Scarlett Johansson, highly detailed, artstation, s...Stable Diffusion prompt: Scarlett Johansson, highly detailed, artstation, s...View allExplore RelatedMidjourney Emma WatsonScarlett JohanssonFLUX Scarlett JohanssonStable Diffusion WomanGreg RutkowskiComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "highly detailed",
+      "artstation"
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F6mn44zxlna8b7rd8k21ewm1rurxb&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540632337_8",
+    "title": "Stable Diffusion prompt: a ultradetailed beautiful panting o",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: a ultradetailed beautiful panting of a stylish wom...\",\"description\":\"Stable Diffusion 1.5 prompt · for anime · \\\"a ultradetailed beautiful panting of a stylish woman, by conrad roset, greg rutkowski and makoto shi...\\\" · 2,643 views · 68 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2022-11-02T08:23:39.425Z\",\"dateModified\":\"2025-12-09T12:01:19.098Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/ml3rg7xmao7dnvmtmz0pfzfx9z7x\",\"width\":512,\"height\":768},\"author\":{\"@type\":\"Person\",\"@id\":\"rokata\",\"name\":\"rokata\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":68},\"genre\":\"anime\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: a ultradetailed beautiful panting of a stylish wom...RO@rokataPosted 3 years agoFollow2.6kviews68favoritesFavoriteModel usedStable Diffusion1.5CategoryanimeGeneration parametersImage512x76823312780PromptTry this promptCopya ultradetailed beautiful panting of a stylish woman, by conrad roset, greg rutkowski and makoto shinkai, trending on artstationMore by @rokataStable Diffusion prompt: a blueprint of a cyberpunk carStable Diffusion prompt: a blueprint of a cyberpunk carStable Diffusion prompt: a ultradetailed beautiful panting of a stylish wom...Stable Diffusion prompt: a ultradetailed beautiful panting of a stylish wom...Stable Diffusion prompt: a ultradetailed beautiful panting of a stylish wom...Stable Diffusion prompt: a ultradetailed beautiful panting of a stylish wom...Stable Diffusion prompt: a ultradetailed beautiful panting of a stylish wom...Stable Diffusion prompt: a ultradetailed beautiful panting of a stylish wom...View allExplore RelatedStable Diffusion WomanStable Diffusion PortraitGreg RutkowskiIdeogram PhotorealisticStable Diffusion GirlComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "by conrad roset"
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fml3rg7xmao7dnvmtmz0pfzfx9z7x&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540637934_9",
+    "title": "Stable Diffusion prompt: detailed and realistic (upper body ",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: detailed and realistic (upper body portrait:1.2) o...\",\"description\":\"Stable Diffusion 1.5 prompt · for portraits · \\\"detailed and realistic (upper body portrait:1.2) of a woman with a few (freckles:0.8) BREAK round ey...\\\" · 4,690 views · 58 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2023-06-21T17:55:28.997Z\",\"dateModified\":\"2025-12-10T00:32:40.565Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/5t5nrurlg8ybqz77mylrtby1sg7d\",\"width\":512,\"height\":760},\"author\":{\"@type\":\"Person\",\"@id\":\"javierjrueda\",\"name\":\"javierjrueda\",\"image\":\"https://cdn.prompthero.com/5ojouxza57p0y2er0z5sazybilja\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":58},\"genre\":\"portraits\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: detailed and realistic (upper body portrait:1.2) o...@javierjruedaPosted 3 years agoFollow4.7kviews58favoritesFavoriteModel usedStable Diffusion1.5CategoryportraitsGeneration parametersImage512x76050dpm_fast4163493255PromptTry this promptCopydetailed and realistic (upper body portrait:1.2) of a woman with a few (freckles:0.8) BREAK round eyes and short messy hair BREAK shot outside, wearing a white t shirt, staring at camera, chapped lips BREAK soft natural lighting, portrait photography, magical photography, dramatic lighting, photo realism, ultra-detailed, intimate portrait composition, Leica 50mm, f1. 4Negative prompt:asian, chinese, busty, (epicnegative:0.9) easynegativeMore by @javierjruedaFLUX prompt: change the model into an asian manHailuo prompt: model moving slowly in a photoshoot, looking at thRecraft prompt: Photo of a ultra realistic sailing ship, dramatic ...Stable Diffusion prompt: High resolution photography interior design, dream...Ideogram prompt: a drawing of a knight with shield and cloak, in th...Recraft prompt: a drawing of a knight with shield and cloak, in th...Recraft prompt: Goddess close-up portrait ribcagel. jellyfish phoe...Recraft prompt: High resolution photography interior design, dream...View allExplore RelatedIdeogram PhotorealisticPhotorealisticStable Diffusion PortraitSora Realistic photosPixverse Realistic photosComments (3)Please sign in to commentLorakszak2 years agoJust wanted to say, no way it is basic SD1.5, very pretty though, congrats mate!zsmaron3 years agoWoow!javierjrueda3 years agoEpicRealism",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F5t5nrurlg8ybqz77mylrtby1sg7d&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540640904_10",
+    "title": "Stable Diffusion prompt: 1 girl, beautiful Korean girl, (Cut",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: 1 girl, beautiful Korean girl, (Cute Loose Bob hai...\",\"description\":\"Stable Diffusion 1.5 prompt · for anime · \\\"1 girl, beautiful Korean girl, (Cute Loose Bob hair), (wearing a cropped hoodie, capri sweatpants:1....\\\" · 4,224 views · 57 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2023-06-19T10:29:40.356Z\",\"dateModified\":\"2025-12-10T11:10:33.622Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/rl1ul2i0eqithy4gp45cj83e11ga\",\"width\":688,\"height\":1032},\"author\":{\"@type\":\"Person\",\"@id\":\"Rachey13x\",\"name\":\"Rachey13x\",\"image\":\"https://cdn.prompthero.com/4nypplp12s6t1xwt2y3k9h3bam27\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":57},\"genre\":\"anime\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: 1 girl, beautiful Korean girl, (Cute Loose Bob hai...@Rachey13xPosted 3 years agoFollow4.2kviews57favoritesFavoriteModel usedStable Diffusion1.5CategoryanimeGeneration parametersImage688x103225dpm++_sde_karras1713012300PromptTry this promptCopy1 girl, beautiful Korean girl, (Cute Loose Bob hair), (wearing a cropped hoodie, capri sweatpants:1. 5), (hands in pockets:1. 5), (red lips:1. 3), (small breasts:1. 3), (toned stomach:1. 3), (eyelashes:1. 2), (aegyo sal:1. 2), beautiful detailed eyes, symmetrical eyes, (detailed face), immersive background, volumetric haze, global illumination, soft lighting, (flowing hair), (bright smile), natural lighting, (realistic:1.5), (lifelike:1.4), (4k, digital art, masterpiece), High detail digital painting, realistic, (top quality), (soft shadows), (best character art), ultra high resolution, highly detailed digital artwork, physically-based rendering, realism with an artistic touch, vibrant colors, f2.2 lens, soft palette, natural beauty.Negative prompt:(easynegative), (monochrome, grayscale), (worst quality:1.7), (low quality:1.6), (normal quality:1.5), lowres, blurry, jpeg artifacts, bad-artistMore by @Rachey13xFLUX prompt: A female K-pop idol with a white bob haircut, pull...FLUX prompt: A female K-pop idol with a white bob haircut, pull...FLUX prompt: Photo of a ultra realistic sailing ship, dramatic ...FLUX prompt: Photo of a ultra realistic sailing ship, dramatic ...Stable Diffusion prompt: Beautiful Asian woman, porcelain skin, flawless an...Stable Diffusion prompt: Beautiful Asian woman, porcelain skin, flawless an...Stable Diffusion prompt: Beautiful Asian woman, porcelain skin, flawless an...Stable Diffusion prompt: beautiful Korean girl, Cute Loose Bob hair, wearin...View allExplore RelatedRealistic Vision GirlStable Diffusion GirlChatGPT Image GirlChatGPT PhotorealisticIdeogram PhotorealisticComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "beautiful korean girl",
+      "(cute loose bob hai...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Frl1ul2i0eqithy4gp45cj83e11ga&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540643336_11",
+    "title": "Stable Diffusion prompt: Kyoto Animation stylized anime mixe",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: Kyoto Animation stylized anime mixed with traditio...\",\"description\":\"Leonardo Anime XL 2/Leonardo Alchemy/Anime/Leonardo Alpha Upscale\",\"dateCreated\":\"2024-04-04T13:24:24.855Z\",\"dateModified\":\"2025-12-10T11:03:07.592Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/c2p361z8p1b64jbqmylf69x4h7sm\",\"width\":2256,\"height\":3968},\"author\":{\"@type\":\"Person\",\"@id\":\"Atheist\",\"name\":\"Atheist\",\"image\":\"https://cdn.prompthero.com/warmnm5i9lq1cew3anq2cwmz3fqy\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":55},\"genre\":\"anime\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: Kyoto Animation stylized anime mixed with traditio...@AtheistPosted 2 years agoFollow12.8kviews55favoritesFavoriteModel usedStable DiffusionXL Base 0.9CategoryanimeGeneration parametersImage2256x3968PromptTry this promptCopyKyoto Animation stylized anime mixed with tradition Chinese artworks~ A dragon flying at modern cyberpunk fantasy world. Cinematic Lighting, ethereal light, intricate details, extremely detailed, incredible details, full colored, complex details, insanely detailed and intricate, hypermaximalist, extremely detailed with rich colors. masterpiece, best quality, aerial view, HDR, UHD, unreal engine. plump looking at the camera, smooth thighs, (glittery jewelry) ((acrylic illustration, by artgerm, by kawacy, by John Singer Sargenti) dark Fantasy background, glittery jewelry, Representative, fair skin, beautiful face, Rich in details High quality, gorgeous, glamorous, 8k, super detail, gorgeous light and shadow, detailed decoration, detailed linesNegative prompt:| | Low Quality | | text logos | | watermarks | | signatures | | out of frame | | jpeg artifacts | | ugly | | poorly drawn | | extra limbs | | extra hands | | extra feet | | backwards limbs | | extra fingers | | extra toes | | unrealistic, incorrect, bad anatomy | | cut off body pieces | | strange body positions | | impossible body positioning | | Mismatched eyes | | cross eyed | | crooked face | | crooked lips | | unclear | | undefined | | mutations | | deformities | | off center | | poor_composition | | duplicate faces, plastic, fake, tiny, negativity, blurry, blurred, doll, unclearMore by @AtheistVehicle DesignsLogo DesignAirbrushed CarRender IdeasItasha IdeasComfort FashionRealistic AirbrushCharizard Tat IdeasView allExplore RelatedStable Diffusion DragonMidjourney AnimeStable Diffusion AnimeHailuo Highly DetailedDreamShaper AnimeComments (5)Please sign in to commentIftahera year agoThis us super coolAAtheist2 years agoThank you everyone 😁YYUYUANyuyuan2 years agowow！77d2b65d65062 years agoNice JJJeronymo2 years ago👏👏👏😍",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fc2p361z8p1b64jbqmylf69x4h7sm&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540645997_12",
+    "title": "Stable Diffusion prompt:  an image of a person with a flowin",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt:  an image of a person with a flowing, sculptural h...\",\"description\":\"All my works use advanced process i.e. COMFYUI, BASELINE MODEL: JuggernautXL_v5, REFINER MODEL: sdxl-1.0.0.9.safetensors, WORKFLOW: SeargeSDXL4.3, PROMPT GENERATOR: Llama2 prompt. The full credits go to the respective authors/owners. Details info: https://civitai.com/. As for Dall-E, I use OpenAI as the base output.\",\"dateCreated\":\"2023-11-29T17:35:47.095Z\",\"dateModified\":\"2025-12-09T03:47:10.238Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/83jhg2meq69e4mstdgb4k1ker80z\",\"width\":768,\"height\":1344},\"author\":{\"@type\":\"Person\",\"@id\":\"JBlack16062205\",\"name\":\"JBlack16062205\",\"image\":\"https://cdn.prompthero.com/azfoy5tnqnv9wtk8mc82r86xyvja\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":53},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptStable Diffusion prompt:  an image of a person with a flowing, sculptural h...@JBlack16062205Posted 2 years agoFollow7.1kviews53favoritesFavoriteModel usedStable DiffusionXL Base 0.9CategoryphotographyGeneration parametersImage768x1344PromptTry this promptCopy an image of a person with a flowing, sculptural hairstyle and garment that echo the movement of water. The hair and attire should be crafted with smooth, swirling patterns that extend and blend into each other, in a seamless and organic fashion. The color scheme should be a gradient of turquoise to aquamarine, set against a neutral gray background to emphasize the subject. The subject's pose should be elegant and poised, with a profile view showcasing refined features and a calm, contemplative expression. Add a detailed, ornate earring to the subject to bring an additional element of sophistication. The lighting should cast soft shadows to define the swirling forms, creating a luxurious and modern aesthetic.\"More by @JBlack16062205FLUX prompt: A serene woman with wet dark hair in a pool, head ...FLUX prompt: A confident young woman with wavy blonde hair in a...FLUX prompt: Portrait of a young woman with long, blonde hair t...FLUX prompt: The image features a woman standing on a street in...FLUX prompt: Portrait of a young woman with long, wavy brown ha...FLUX prompt: A young woman with shoulder-length brown hair sits...FLUX prompt: Portrait of a young woman with long, wavy brown ha...FLUX prompt: A young woman with long, wavy brown hair, smiling ...View allExplore RelatedStable Diffusion PortraitStable Diffusion WomanStable Diffusion AvatarMidjourney WatercolorStable Diffusion GirlComments (2)Please sign in to commentfotoeffex10 days agoVery elegant!Ttruckercheckina year agocontrast too high and background too soild",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "sculptural h...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F83jhg2meq69e4mstdgb4k1ker80z&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540648279_13",
+    "title": "Stable Diffusion prompt: 1girl, (Nadia Hilker):1.5, Champagn",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Stable Diffusion prompt: 1girl, (Nadia Hilker):1.5, Champagne color Gatsby ...\",\"description\":\"taurealMix_v37Fp16prunedVae\",\"dateCreated\":\"2023-10-17T04:18:51.367Z\",\"dateModified\":\"2025-12-10T10:26:23.389Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/53icex148v5mqei5u80cqm0htzto\",\"width\":512,\"height\":768},\"author\":{\"@type\":\"Person\",\"@id\":\"hawkbs\",\"name\":\"hawkbs\",\"image\":\"https://cdn.prompthero.com/moczz8hxh0ykroida7yvdap1liew\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":52},\"genre\":\"portraits\"}DownloadShareMaximizeTry this promptStable Diffusion prompt: 1girl, (Nadia Hilker):1.5, Champagne color Gatsby ...@hawkbsPosted 2 years agoFollow6.7kviews52favoritesFavoriteModel usedStable Diffusion1.5CategoryportraitsGeneration parametersImage512x76830dpm++_2s_ancestral_karras586949696PromptTry this promptCopy1girl, (Nadia Hilker):1.5, Champagne color Gatsby 1920s Flapper Dress with Sequins and Fringes, South of France, Monaco, Monte Carlo, dynamic angle, seductive grin, smokey eye shadow, high detail skin, high detail eyes, seductive eyes, smokey makeup, slender body, toned body, perfect face, slim athletic body, (perky small breasts:0. 75), detailed clothing, intricate clothing, seductive pose, action pose, motion, casting pose,((masterpiece)), ((best quality)), extremely detailed cg 8k wallpaper, bright colors, Dramatic light, photoreal full body (wide-angle lens, Panoramic:1. 2),fantasy, hyper-realistic, amazing fine detail, rich colors, realistic texture, vignette, moody, dark, epic, gorgeous, film grain, grainy, beautiful lighting, rim lighting, magical, shallow depth of field, photography, neo noir, volumetric lighting, Ultra HD, raytracing, studio quality, octane render, <lora:add_detail:1>, <lora:paulnong-04:0. 6>Negative prompt:3d, cartoon, anime, sketches, (worst quality, bad quality, cropped:1.4)((monochrome)), ((grayscale)), (bad-hands-5:1), (badhandv4), (easynegative:0.8), (bad-artist-anime:), (bad-artist:), (bad_prompt:), (bad-picture-chill-75v:), (bad_prompt_version2:), (bad_quality:), Asian-Less-Neg bad-hands-5 bad_pictures bad artist -neg CyberRealistic_Negative-neg negative_hand-neg ng_deepnegative_v1_75t, verybadimagenegative_v1.3, lowres, low quality, jpeg, artifacts, duplicate, morbid, mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, drawing, painting, crayon, sketch, graphite, impressionist, noisy, softMore by @hawkbsCopax TimeLessXL - SDXL1.0 prompt: photorealistic, ultra highly intricate detailed, p...Copax TimeLessXL - SDXL1.0 prompt: photorealistic, ultra highly intricate detailed, p...Copax TimeLessXL - SDXL1.0 prompt: photorealistic, ultra highly intricate detailed, p...Midjourney prompt: a cyperpunk mermaid with a glorious tail in a vict...Midjourney prompt: Tifa Lockheart, is having a secret meeting with La...Midjourney prompt: a mystical mythical cyberpunk sea siren with a gla...Midjourney prompt: a gypsy woman on a concert stage singing with a lo...Midjourney prompt: In the middle of a Chinese Cherry Blossom Forest i...View allExplore RelatedChatGPT PhotorealisticMidjourney Emma WatsonStable Diffusion WomanRealvisxl V4 0majicMIX realistic RealisticComments (1)Please sign in to commentBbae3af5a0332 years agoWow!",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "(nadia hilker):1.5",
+      "champagne color gatsby ...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F53icex148v5mqei5u80cqm0htzto&w=1920&q=75",
+    "description": "Stable Diffusion prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540662449_31",
+    "title": "FLUX prompt: A woman with wavy dark brown hair, wearing an o",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: A woman with wavy dark brown hair, wearing an off-...\",\"description\":\"Experimenting with FLUX.dev combined with SD1.5 for face detailer. I am very happy with the results. The model is more responsive and easier to control through text prompt, especially for posing. I am not an affiliated but strongly recommend for you to check them at https://flux1ai.com/pro\",\"dateCreated\":\"2024-09-11T12:39:16.457Z\",\"dateModified\":\"2025-12-10T09:47:37.698Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/ok1xgi4lafiywolnckk8qb3qzt3k\",\"width\":768,\"height\":1344},\"author\":{\"@type\":\"Person\",\"@id\":\"JBlack16062205\",\"name\":\"JBlack16062205\",\"image\":\"https://cdn.prompthero.com/azfoy5tnqnv9wtk8mc82r86xyvja\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":76},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptFLUX prompt: A woman with wavy dark brown hair, wearing an off-...@JBlack16062205Posted a year agoFollow13.3kviews76favoritesFavoriteModel usedFLUXFLUX.1 [Dev]CategoryphotographyGeneration parametersImage768x1344PromptTry this promptCopyA woman with wavy dark brown hair, wearing an off-shoulder oversized brown knit sweater. She gazes softly toward the camera, slightly tilting her head, with her right hand gently brushing her hair. The lighting is warm, creating a cozy atmosphere.More by @JBlack16062205FLUX prompt: A serene woman with wet dark hair in a pool, head ...FLUX prompt: A confident young woman with wavy blonde hair in a...FLUX prompt: Portrait of a young woman with long, blonde hair t...FLUX prompt: The image features a woman standing on a street in...FLUX prompt: Portrait of a young woman with long, wavy brown ha...FLUX prompt: A young woman with shoulder-length brown hair sits...FLUX prompt: Portrait of a young woman with long, wavy brown ha...FLUX prompt: A young woman with long, wavy brown hair, smiling ...View allExplore RelatedStable Diffusion WomanStable Diffusion PortraitStable Diffusion GirlMidjourney Emma WatsonStable Diffusion AvatarComments (3)Please sign in to commentSSalsero81a year agoLOL22d464a11183a year agoHEY DELETE MY ACCOUNT. REALLY ANNOYING THAT THERE IS NO WAY TO DELETE YOUR ACCOUNT ON HERE UNLESS I HAVE INSTAGRAM OR X AND TRY TO @ THEM. I HAVE NEITHER SO GUESS WHAT?! MAYBE THEYLL SEE ME HERE!88f70885f77aa year agoF",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "wearing an off-...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fok1xgi4lafiywolnckk8qb3qzt3k&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540664736_32",
+    "title": "FLUX prompt: the girl takes a photo with her phone of hersel",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: the girl takes a photo with her phone of herself i...\",\"description\":\"FLUX flux-1.1-pro prompt · \\\"the girl takes a photo with her phone of herself in the mirror, she has 24 years old, has straight b...\\\" · 10,188 views · 66 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-12-18T06:27:13.407Z\",\"dateModified\":\"2025-12-10T09:17:23.784Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/0j6k2cico5tg3omc2xb23ok9kuff\",\"width\":1024,\"height\":1024},\"author\":{\"@type\":\"Person\",\"@id\":\"waterleelee\",\"name\":\"waterleelee\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":66}}DownloadShareMaximizeTry this promptFLUX prompt: the girl takes a photo with her phone of herself i...WA@waterleeleePosted a year agoFollow10.2kviews66favoritesFavoriteModel usedFLUXflux-1.1-proGeneration parametersImage1024x1024371390jpgPromptTry this promptCopythe girl takes a photo with her phone of herself in the mirror, she has 24 years old, has straight brown long hair, she is posing and is wearing leggingsMore by @waterleeleeFLUX prompt: Two female male Santa Claus criminals strong  wear...FLUX prompt: Two female male Santa Claus criminals strong  wear...FLUX prompt: Two female male Santa Claus criminals strong  wear...FLUX prompt: Two female male Santa Claus criminals strong  wear...FLUX prompt: Two female male Santa Claus criminals strong  wear...FLUX prompt: Two female male Santa Claus criminals strong  wear...FLUX prompt: Two female male Santa Claus criminals strong  wear...FLUX prompt: Two female male Santa Claus criminals strong  wear...View allExplore RelatedChatGPT Image GirlGirlStable Diffusion WomanPortraitStable Diffusion GirlComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "she has 24 years old"
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F0j6k2cico5tg3omc2xb23ok9kuff&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540666863_33",
+    "title": "FLUX prompt: realistic cinematic image with dark shadows and",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: realistic cinematic image with dark shadows and hi...\",\"description\":\"FLUX Dev prompt · for photography · \\\"realistic cinematic image with dark shadows and high contrast,\\n\\nA fit 28yo woman standing on a sandy...\\\" · 8,263 views · 62 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2025-12-22T23:57:14.108Z\",\"dateModified\":\"2025-12-22T23:57:14.108Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/fd7ysdmgrssf5zsujete4z4xdo\",\"width\":832,\"height\":1216},\"author\":{\"@type\":\"Person\",\"@id\":\"Luv2Grill\",\"name\":\"Luv2Grill\",\"image\":\"https://cdn.prompthero.com/ybqj1vrms9qnbrz5hewkvjyavuaj\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":62},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptFLUX prompt: realistic cinematic image with dark shadows and hi...@Luv2GrillPosted 2 months agoFollow8.3kviews62favoritesFavoriteModel usedFLUXDevCategoryphotographyGeneration parametersImage832x1216PromptTry this promptCopyrealistic cinematic image with dark shadows and high contrast,\n\nA fit 28yo woman standing on a sandy beach near a wooden structure, wearing a white bikini with thin straps and a matching bottom. Her skin has a natural sun-kissed glow with subtle freckles across her nose and shoulders. She has long, wavy brown hair cascading over her shoulders, slightly tousled by the ocean breeze. The background features clear blue skies with scattered fluffy clouds, meeting the horizon where the calm turquoise sea gently laps against the shore. The wooden structure to her left is weathered with peeling paint and visible grain patterns, casting soft shadows on the sand. The scene is captured with a wide-angle lens, providing a natural depth of field that keeps both the subject and background in sharp focus. The lighting is bright and natural, typical of a sunny day at the beach, with soft diffused light enhancing the textures of her skin, the wood, and the sand.More by @Luv2GrillFLUX prompt: Create a photorealistic image of a fit adult woman...FLUX prompt: \"A fit adult woman reclines on a beige couch, her ...FLUX prompt: A fit adult woman stands on a street corner, leani...FLUX prompt: Create a close-up portrait of a person with curly ...FLUX prompt: Create a highly detailed, photorealistic image of ...FLUX prompt: A fit adult woman with long blonde hair styled in ...FLUX prompt: A fit adult woman stands on a beach in front of tu...FLUX prompt: Create a high-resolution, photorealistic portrait ...View allExplore RelatedStable Diffusion WomanMidjourney Emma WatsonPhotorealisticPixverse Realistic photosCinematic LightingComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ffd7ysdmgrssf5zsujete4z4xdo&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540669327_34",
+    "title": "FLUX prompt: RPG, Style: MACRO, a low-quality CCTV camera wi",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: RPG, Style: MACRO, a low-quality CCTV camera with ...\",\"description\":\"FLUX flux-1.1-pro prompt · \\\"RPG, Style: MACRO, a low-quality CCTV camera with a slightly fish-eye lens effect. The camera's time...\\\" · 3,974 views · 62 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-12-18T18:19:01.608Z\",\"dateModified\":\"2025-12-06T12:40:23.868Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/2oxo0xy8iw94supm5i19ln3ywos3\",\"width\":1024,\"height\":1024},\"author\":{\"@type\":\"Person\",\"@id\":\"dogankara\",\"name\":\"dogankara\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":62}}DownloadShareMaximizeTry this promptFLUX prompt: RPG, Style: MACRO, a low-quality CCTV camera with ...DO@dogankaraPosted a year agoFollow4.0kviews62favoritesFavoriteModel usedFLUXflux-1.1-proGeneration parametersImage1024x1024893773953jpgPromptTry this promptCopyRPG, Style: MACRO, a low-quality CCTV camera with a slightly fish-eye lens effect. The camera's timestamp and static lines are visible, contributing to the grainy, low-resolution appearance of Samantha, an intricate, attractive, 18-year-old woman withMore by @dogankaraStable Diffusion prompt: hyperrealistic and intricate detailed full-length ...View allExplore RelatedRealistic Vision GirlChatGPT Image GirlStable Diffusion WomanStable Diffusion GirlSora Realistic photosComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "\"name\":\"flux prompt: rpg",
+      "style: macro"
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F2oxo0xy8iw94supm5i19ln3ywos3&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540671989_35",
+    "title": "The Sensual Pianist",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"The Sensual Pianist\",\"description\":\"The Sensual Pianist: A Study in Latex and Curves\\\" - A captivating scene unfolds as a woman, clad in a pink latex suit, sits gracefully on a piano bench. Her hips, highlighted by the tight latex, create a mesmerizing silhouette, drawing attention to her sensual curves. The soft lighting accentuates the glittering sheen of her outfit, while her fingers gracefully dance across the piano keys, creating a harmonious contrast between music and sensuality. The grand piano's curves echo her own, forming a visually striking tableau that invites viewers to explore the interplay of music, fashion, and the female form.\",\"dateCreated\":\"2024-11-07T21:23:06.073Z\",\"dateModified\":\"2025-12-04T19:59:43.024Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/e10vdvmvk2m4q99gx0m3iee1k28j\",\"width\":1728,\"height\":3024},\"author\":{\"@type\":\"Person\",\"@id\":\"Andarkan\",\"name\":\"Andarkan\",\"image\":\"https://cdn.prompthero.com/fgolij1t3si67zzsa4hjkye0k860\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":53},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptThe Sensual Pianist@AndarkanPosted a year agoFollow6.6kviews53favoritesFavoriteModel usedFLUXFLUX.1 [Dev]CategoryphotographyGeneration parametersImage1728x3024PromptTry this promptCopyShe sits on a sleek, black piano bench, her body turned slightly to the side, showcasing the dramatic curve of her hips. Her pink latex suit clings to her body, the glittering sheen catching the soft light from the nearby window. Her fingers dance across the piano keys, but the eye is drawn to her hips, their sensual silhouette accentuated by the tight latex. Behind her, the grand piano's curves echo her own, creating a striking tableau.More by @AndarkanExplore RelatedStable Diffusion WomanChatGPT Image GirlStable Diffusion GirlChatGPT Image CoupleStable Diffusion FashionComments (0)Please sign in to comment",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "\"name\":\"the sensual pianist\"",
+      "clad in a pink latex suit"
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fe10vdvmvk2m4q99gx0m3iee1k28j&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540675346_36",
+    "title": "FLUX prompt: A woman stands alone in an overgrown grass fiel",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: A woman stands alone in an overgrown grass field o...\",\"description\":\"FLUX Dev prompt · \\\"A woman stands alone in an overgrown grass field on a late night, surrounded by darkness that only a...\\\" · 5,566 views · 53 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2025-06-10T15:29:48.207Z\",\"dateModified\":\"2025-12-10T11:18:21.308Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/n9nun8rx591hcs8ylejm7r65hebj\",\"width\":832,\"height\":1216},\"author\":{\"@type\":\"Person\",\"@id\":\"Luv2Grill\",\"name\":\"Luv2Grill\",\"image\":\"https://cdn.prompthero.com/ybqj1vrms9qnbrz5hewkvjyavuaj\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":53}}DownloadShareMaximizeTry this promptFLUX prompt: A woman stands alone in an overgrown grass field o...@Luv2GrillPosted 9 months agoFollow5.6kviews53favoritesFavoriteModel usedFLUXDevGeneration parametersImage832x121620k_euler229052243785851PromptTry this promptCopyA woman stands alone in an overgrown grass field on a late night, surrounded by darkness that only adds to her allure. Her long straight brunette hair cascades down her back, framing her face with elegance. A light-green t-shirt clings to her body, showcasing her toned physique and sensuality. Denim shorts hang loose around her midriff, giving off an air of comfort rather than style. Her eyes sparkle with laughter, as a bright smile spreads across her face. The bokeh effects blur the background, adding an intimate and contemplative feel to the moment. The dark surroundings seem to envelop her, creating a sense of mystery and adventure that's almost palpable.More by @Luv2GrillFLUX prompt: Create a photorealistic image of a fit adult woman...FLUX prompt: \"A fit adult woman reclines on a beige couch, her ...FLUX prompt: A fit adult woman stands on a street corner, leani...FLUX prompt: Create a close-up portrait of a person with curly ...FLUX prompt: Create a highly detailed, photorealistic image of ...FLUX prompt: A fit adult woman with long blonde hair styled in ...FLUX prompt: A fit adult woman stands on a beach in front of tu...FLUX prompt: Create a high-resolution, photorealistic portrait ...View allExplore RelatedStable Diffusion WomanStable Diffusion GirlRealistic Vision GirlChatGPT Image GirlMidjourney Emma WatsonComments (1)Please sign in to commentSelfishreasons9 months agogreat",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fn9nun8rx591hcs8ylejm7r65hebj&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540677731_37",
+    "title": "FLUX prompt: A photo of an eccentric woman sitting on top of",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: A photo of an eccentric woman sitting on top of wh...\",\"description\":\"FLUX flux-1.1-pro prompt · \\\"A photo of an eccentric woman sitting on top of white fluffy clouds wearing big sunglasses and light...\\\" · 3,449 views · 52 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-12-05T09:49:47.749Z\",\"dateModified\":\"2025-12-10T03:57:14.094Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/6wryr34dlla639gjjfdrlk6bo4w6\",\"width\":1024,\"height\":1024},\"author\":{\"@type\":\"Person\",\"@id\":\"javierjrueda\",\"name\":\"javierjrueda\",\"image\":\"https://cdn.prompthero.com/5ojouxza57p0y2er0z5sazybilja\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":52}}DownloadShareMaximizeTry this promptFLUX prompt: A photo of an eccentric woman sitting on top of wh...@javierjruedaPosted a year agoFollow3.4kviews52favoritesFavoriteModel usedFLUXflux-1.1-proGeneration parametersImage1024x1024369677jpgPromptTry this promptCopyA photo of an eccentric woman sitting on top of white fluffy clouds wearing big sunglasses and light blue pajamas with yellow polka dots, she has short dark hair in a bob cut, the background is babyblue sky with white cloud formations, shot by Jimmy Marble, muted earthy colors, soft tonesMore by @javierjruedaFLUX prompt: change the model into an asian manHailuo prompt: model moving slowly in a photoshoot, looking at thRecraft prompt: Photo of a ultra realistic sailing ship, dramatic ...Stable Diffusion prompt: High resolution photography interior design, dream...Ideogram prompt: a drawing of a knight with shield and cloak, in th...Recraft prompt: a drawing of a knight with shield and cloak, in th...Recraft prompt: Goddess close-up portrait ribcagel. jellyfish phoe...Recraft prompt: High resolution photography interior design, dream...View allExplore RelatedStable Diffusion WomanMidjourney Emma WatsonStable Diffusion GirlChatGPT Image GirlSora Realistic photosComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F6wryr34dlla639gjjfdrlk6bo4w6&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540682211_39",
+    "title": "FLUX prompt: a bold and edgy portrait of a tattoo artist wor",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: a bold and edgy portrait of a tattoo artist workin...\",\"description\":\"FLUX flux-1.1-pro-ultra prompt · \\\"a bold and edgy portrait of a tattoo artist working in a vibrant, neon-lit studio. The woman exudes ...\\\" · 9,402 views · 49 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2025-01-04T19:30:42.851Z\",\"dateModified\":\"2025-12-10T11:45:08.291Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/sqyl4shtt82w8srad266w4uvpgjt\",\"width\":1536,\"height\":2752},\"author\":{\"@type\":\"Person\",\"@id\":\"Pulsar212121\",\"name\":\"Pulsar212121\",\"image\":\"https://cdn.prompthero.com/02frol6om1njacuyxtljfccudcjr\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":49}}DownloadShareMaximizeTry this promptFLUX prompt: a bold and edgy portrait of a tattoo artist workin...@Pulsar212121Posted a year agoFollow9.4kviews49favoritesFavoriteModel usedFLUXflux-1.1-pro-ultraGeneration parametersImage1536x2752210666pngPromptTry this promptCopya bold and edgy portrait of a tattoo artist working in a vibrant, neon-lit studio. The woman exudes confidence and creativity, dressed in dark, lacy lingerie adorned with subtle punk-inspired details such as studded accessories and leather straps. Her body is a canvas of art, with intricate, vividly colored tattoos covering her arms, back, and legs, creating a striking visual contrast against her dark outfit.  The setting is a dynamic and artistic tattoo studio filled with character and detail. Vintage tattoo machines and an array of colorful ink bottles are neatly arranged on her workstation, while a classic barber chair sits in the center of the space. The walls are decorated with framed flash art and intricate designs, reflecting the vibrant and rebellious spirit of the environment. The lighting is dim yet dynamic, with soft neon hues—pinks, purples, and blues—casting a moody, atmospheric glow throughout the scene. The interplay of light and shadow enhances the details of her tattoos, the textures of her lingerie, and the edgy decor of the studio.  Her expression is focused and determined as she leans over her work, embodying the boldness and artistry of her craft. The overall composition is hyper-detailed and cinematic, blending the raw energy of the punk aesthetic with the vibrant allure of neon-lit artistry, creating a powerful and visually captivating scene.More by @Pulsar212121FLUX prompt: A hyper-detailed, ultra-high-resolution portrait o...FLUX prompt: A hyper-detailed, ultra-high-resolution portrait o...FLUX prompt: An intimate, hyper-realistic close-up portrait of ...FLUX prompt: An intimate, hyper-realistic close-up portrait of ...FLUX prompt: An impressionistic oil painting of a woman standin...FLUX prompt: A whimsical 3D cartoon-style robot character stand...FLUX prompt: A luminous oil painting of an elegant woman in a b...FLUX prompt: A luminous oil painting of an elegant woman in a b...View allExplore RelatedChatGPT Image CyberpunkDALL-E CyberpunkStable Diffusion WomanStable Diffusion GirlIdeogram PhotorealisticComments (2)Please sign in to commentKajiuKappaArts7 months agoGreat workWWannaBeHero7 months agoBeautiful",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fsqyl4shtt82w8srad266w4uvpgjt&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540684478_40",
+    "title": "FLUX prompt: The image shows a young woman sitting on a whit",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: The image shows a young woman sitting on a white f...\",\"description\":\"FLUX FLUX.1 [Dev] prompt · \\\"The image shows a young woman sitting on a white furry rug with string lights hanging above her head...\\\" · 7,054 views · 47 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2025-02-24T16:30:39.356Z\",\"dateModified\":\"2025-12-10T10:29:05.413Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/did14g4di80lsu7xr5p269i6fcka\",\"width\":768,\"height\":1152},\"author\":{\"@type\":\"Person\",\"@id\":\"Codexer\",\"name\":\"Codexer\",\"image\":\"https://cdn.prompthero.com/7xrlekl42wh33aaj7z2zeuhsgrmo\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":47}}DownloadShareMaximizeTry this promptFLUX prompt: The image shows a young woman sitting on a white f...@CodexerPosted a year agoFollow7.1kviews47favoritesFavoriteModel usedFLUXFLUX.1 [Dev]Generation parametersImage768x1152PromptTry this promptCopyThe image shows a young woman sitting on a white furry rug with string lights hanging above her head. She is wearing a white lace bra and matching orange thigh-high stockings. Her blonde hair is styled in loose waves and she is looking directly at the camera with a sultry expression. The overall aesthetic of the image is sensual and feminine.More by @CodexerFLUX prompt: A young woman in white lingerie kneels in shallow ...FLUX prompt: Elsa, with her icy blonde hair and regal demeanor,...FLUX prompt: A young woman with long, dark brown hair is seated...FLUX prompt: A woman with long, light brown hair is standing wi...FLUX prompt: A sultry woman, her skin glowing like a summer's d...FLUX prompt: Emma Frost, the powerful Marvel comic book charact...FLUX prompt: A woman with vibrant, flowing auburn hair is seate...FLUX prompt: A young woman with long blonde hair sits in the pa...View allExplore RelatedChatGPT Image GirlStable Diffusion WomanCuteStable Diffusion GirlChatGPT Image CoupleComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fdid14g4di80lsu7xr5p269i6fcka&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540686858_41",
+    "title": "FLUX prompt: A portrait of a young woman with light brown ha",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: A portrait of a young woman with light brown hair ...\",\"description\":\"Experimenting with FLUX.dev, a fun model to work with. I am not an affiliated but strongly recommend for you to check them at https://flux1ai.com/pro.\",\"dateCreated\":\"2024-10-22T11:56:49.468Z\",\"dateModified\":\"2025-12-09T17:48:33.142Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/2fffy7wdo193jfr9a0dt3q4rrc7r\",\"width\":584,\"height\":1024},\"author\":{\"@type\":\"Person\",\"@id\":\"JBlack16062205\",\"name\":\"JBlack16062205\",\"image\":\"https://cdn.prompthero.com/azfoy5tnqnv9wtk8mc82r86xyvja\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":46},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptFLUX prompt: A portrait of a young woman with light brown hair ...@JBlack16062205Posted a year agoFollow3.9kviews46favoritesFavoriteModel usedFLUXFLUX.1 [Dev]CategoryphotographyGeneration parametersImage584x1024PromptTry this promptCopyA portrait of a young woman with light brown hair in a high ponytail, smiling softly with blue eyes and red lipstick. She wears a white towel draped over her shoulders, with glowing skin and natural lighting. The background is softly blurred, creating a serene and intimate atmosphereMore by @JBlack16062205FLUX prompt: A serene woman with wet dark hair in a pool, head ...FLUX prompt: A confident young woman with wavy blonde hair in a...FLUX prompt: Portrait of a young woman with long, blonde hair t...FLUX prompt: The image features a woman standing on a street in...FLUX prompt: Portrait of a young woman with long, wavy brown ha...FLUX prompt: A young woman with shoulder-length brown hair sits...FLUX prompt: Portrait of a young woman with long, wavy brown ha...FLUX prompt: A young woman with long, wavy brown hair, smiling ...View allExplore RelatedStable Diffusion WomanStable Diffusion PortraitStable Diffusion GirlMidjourney Emma WatsonChatGPT Image GirlComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F2fffy7wdo193jfr9a0dt3q4rrc7r&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540689287_42",
+    "title": "FLUX prompt: Portrait of a young woman with long, blonde hai",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: Portrait of a young woman with long, blonde hair t...\",\"description\":\"Experimenting with FLUX.dev, a fun model to work with. I am not an affiliated but strongly recommend for you to check them at https://flux1ai.com/pro.\",\"dateCreated\":\"2024-11-20T14:57:00.077Z\",\"dateModified\":\"2025-12-08T17:21:49.977Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/fumqjfvzfpqixvxa6j9d4whaq7sr\",\"width\":768,\"height\":1344},\"author\":{\"@type\":\"Person\",\"@id\":\"JBlack16062205\",\"name\":\"JBlack16062205\",\"image\":\"https://cdn.prompthero.com/azfoy5tnqnv9wtk8mc82r86xyvja\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":45},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptFLUX prompt: Portrait of a young woman with long, blonde hair t...@JBlack16062205Posted a year agoFollow4.4kviews45favoritesFavoriteModel usedFLUXFLUX.1 [Dev]CategoryphotographyGeneration parametersImage768x1344PromptTry this promptCopyPortrait of a young woman with long, blonde hair tied in a high ponytail, wearing a black sports bra, turned slightly to the side, smiling playfully at the camera. She stands against a textured teal wall with soft lighting that highlights her facial features and athletic back. The image captures a lively, casual, and confident mood in a warm, naturally lit environmentMore by @JBlack16062205FLUX prompt: A serene woman with wet dark hair in a pool, head ...FLUX prompt: A confident young woman with wavy blonde hair in a...FLUX prompt: The image features a woman standing on a street in...FLUX prompt: Portrait of a young woman with long, wavy brown ha...FLUX prompt: A young woman with shoulder-length brown hair sits...FLUX prompt: Portrait of a young woman with long, wavy brown ha...FLUX prompt: A young woman with long, wavy brown hair, smiling ...FLUX prompt: The painting is a detailed black and white sketch ...View allExplore RelatedStable Diffusion WomanStable Diffusion GirlChatGPT Image GirlStable Diffusion PortraitMidjourney Emma WatsonComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "blonde hair t...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ffumqjfvzfpqixvxa6j9d4whaq7sr&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540694023_44",
+    "title": "portrait of a woman",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"portrait of a woman\",\"description\":\"FLUX Dev prompt · for photography · \\\"Close-up portrait of a woman illuminated by soft, warm afternoon light streaming through window blin...\\\" · 4,817 views · 44 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-11-16T14:11:49.812Z\",\"dateModified\":\"2025-12-10T07:30:55.067Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/2ilxopm5ztzgel7w5jykedqsutf5\",\"width\":768,\"height\":1344},\"author\":{\"@type\":\"Person\",\"@id\":\"sasan\",\"name\":\"sasan\",\"image\":\"https://cdn.prompthero.com/mfflsy17rtl7i8n3jtgfupohnuoy\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":44},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptportrait of a woman@sasanPosted a year agoFollow4.8kviews44favoritesFavoriteModel usedFLUXDevCategoryphotographyGeneration parametersImage768x1344PromptTry this promptCopyClose-up portrait of a woman illuminated by soft, warm afternoon light streaming through window blinds, creating striking shadow patterns across her face. She has a natural, glowing complexion with dewy skin and subtly highlighted cheekbones. Her expressive eyes are accented with long lashes and a hint of soft eyeshadow, while her full lips are painted in a soft peach shade. The background features muted teal walls that enhance the warmth of the scene. She wears a dark, pinstriped blazer, adding a touch of elegance. The overall aesthetic is hyperrealistic, capturing intricate details like the texture of her skin and the delicate play of light and shadow, with a color palette of warm neutrals and soft pastels.More by @sasanpenguin in Gotham CityA close-up portrait of a womanFLUX prompt: A close-up portrait of a woman with vibrant purple...FLUX prompt: A close-up portrait of a woman with vibrant purple...FLUX prompt: A fierce cyberpunk woman standing on a neon-lit ro...FLUX prompt: A futuristic underwater city illuminated by glowin...FLUX prompt: Create a heartwarming and highly detailed scene fe...lion and an eagleView allExplore RelatedPhotorealisticRealistic Vision GirlIdeogram PhotorealisticFLUX PhotorealisticStable Diffusion PortraitComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "\"name\":\"portrait of a woman\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F2ilxopm5ztzgel7w5jykedqsutf5&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540702535_46",
+    "title": "FLUX prompt: Portrait of a gorgeous woman, 20 years old, wit",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: Portrait of a gorgeous woman, 20 years old, with o...\",\"description\":\"FLUX FLUX.1 [Dev] prompt · for portraits · \\\"Portrait of a gorgeous woman, 20 years old, with open lush breasts, a thin leather bra, waist-length...\\\" · 9,593 views · 42 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-09-25T05:54:56.162Z\",\"dateModified\":\"2025-12-10T09:36:54.575Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/i67lltpog8q2m2stosvw6hsdhe5i\",\"width\":896,\"height\":1152},\"author\":{\"@type\":\"Person\",\"@id\":\"srv85\",\"name\":\"srv85\",\"image\":\"https://cdn.prompthero.com/plnpvb2pfnb9rtnhu3fsssfgpqvg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":42},\"genre\":\"portraits\"}DownloadShareMaximizeTry this promptFLUX prompt: Portrait of a gorgeous woman, 20 years old, with o...@srv85Posted a year agoFollow9.6kviews42favoritesFavoriteModel usedFLUXFLUX.1 [Dev]CategoryportraitsGeneration parametersImage896x11528dpm++_2m286345859PromptTry this promptCopyPortrait of a gorgeous woman, 20 years old, with open lush breasts, a thin leather bra, waist-length, with tattoos on her arms, long white hair, and a piercing gaze. The woman playfully sticks out her tongue and smiles. Long white hair frames an expressive face with clearly defined eyebrows and full lips. The skin is smooth, warm tone. The body is decorated with numerous tattoos, especially noticeable on the arms and chest. The neck is adorned with a black leather choker with metal elements. The background is dark, which creates a dramatic contrast. Directional lighting emphasizes facial features and sparkle in the eyes. The style of the photo is a glamorous portrait with elements of alternative aesthetics. Close-up, focus on the face and upper body.More by @srv85Fluxmania prompt: A beautiful woman's face partially obscured by a c...Fluxmania prompt: A beautiful woman's face partially obscured by a c...Fluxmania prompt: portrait model with neon-colored eye makeup, focus...Fluxmania prompt: portrait model with neon-colored eye makeup, focus...FLUX prompt: Create a dramatic, high-contrast portrait of a wom...Fluxmania prompt: day of the dead, in the style of Unreal Engine 5, ...Fluxmania prompt: a painting of a woman, in the style of brushstroke...Fluxmania prompt: Design a photorealistic portrait of a woman with d...View allExplore RelatedChatGPT Image GirlStable Diffusion WomanStable Diffusion PortraitStable Diffusion GirlMidjourney Emma WatsonComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "20 years old",
+      "with o...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fi67lltpog8q2m2stosvw6hsdhe5i&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540707304_48",
+    "title": "FLUX prompt: high-resolution photo of a Angela White, photor",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: high-resolution photo of a Angela White, photoreal...\",\"description\":\"FLUX flux-1.1-pro prompt · \\\"high-resolution photo of a Angela White, photorealistic, UHD, optimal photography, natural lighting,...\\\" · 1,495 views · 40 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2025-01-26T07:52:44.623Z\",\"dateModified\":\"2025-12-07T12:56:52.819Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/m13c37ket3ojcn9jo5emy8fpnldp\",\"width\":768,\"height\":1344},\"author\":{\"@type\":\"Person\",\"@id\":\"13fa1f2bb2e\",\"name\":\"13fa1f2bb2e\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":40}}DownloadShareMaximizeTry this promptFLUX prompt: high-resolution photo of a Angela White, photoreal...13@13fa1f2bb2ePosted a year agoFollow1.5kviews40favoritesFavoriteModel usedFLUXflux-1.1-proGeneration parametersImage768x1344156457jpgPromptTry this promptCopyhigh-resolution photo of a Angela White, photorealistic, UHD, optimal photography, natural lighting, shot on a Sony A&III --ar 1:2More by @13fa1f2bb2eFLUX prompt: high-resolution photo of a Scarlette Johansson, ph...View allExplore RelatedPhotorealisticPixverse Realistic photosMidjourney Emma WatsonChatGPT PhotorealisticIdeogram PhotorealisticComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "photoreal...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fm13c37ket3ojcn9jo5emy8fpnldp&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540709433_49",
+    "title": "FLUX prompt: high definition, extreme detail, portrait photo",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"FLUX prompt: high definition, extreme detail, portrait photo, a...\",\"description\":\"FLUX flux-1.1-pro prompt · \\\"high definition, extreme detail, portrait photo, a beautiful blonde woman sitting on a bar stool at ...\\\" · 4,237 views · 38 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2025-02-15T09:59:33.973Z\",\"dateModified\":\"2025-12-09T07:49:57.121Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/i9wb72euw7f90dt0h2vi81ru0kum\",\"width\":768,\"height\":1344},\"author\":{\"@type\":\"Person\",\"@id\":\"507c5fb302a\",\"name\":\"507c5fb302a\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":38}}DownloadShareMaximizeTry this promptFLUX prompt: high definition, extreme detail, portrait photo, a...50@507c5fb302aPosted a year agoFollow4.2kviews38favoritesFavoriteModel usedFLUXflux-1.1-proGeneration parametersImage768x1344371143jpgPromptTry this promptCopyhigh definition, extreme detail, portrait photo, a beautiful blonde woman sitting on a bar stool at a local dive bar. She's wearing a tube dress and crossing her legs to accent her beautiful calves. Wearing black strappy stilettos. --ar 1:2More by @507c5fb302aFLUX prompt: undefined\nFLUX prompt: foto a corpo intero:1.3、(16k 、 Foto RAW , top qual...FLUX prompt: High resolution photography interior design, dream...FLUX prompt: Hyper realistic eye level exterior photo of a mid ...FLUX prompt: \nfoto a corpo intero:1.3、(16k 、 Foto RAW , top qua...FLUX prompt: Come è,((16k , Capolavoro , foto RAW , Conversazio...FLUX prompt: Come è,((16k , Capolavoro , foto RAW , Conversazio...FLUX prompt: 8k , Capolavoro, altissima qualità , Le Belle Donn...View allExplore RelatedStable Diffusion WomanPhotorealisticStable Diffusion PortraitPortraitHighly DetailedComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Flux",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "extreme detail",
+      "portrait photo"
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fi9wb72euw7f90dt0h2vi81ru0kum&w=1920&q=75",
+    "description": "Flux prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540712107_50",
+    "title": "Midjourney prompt: close-up of a stunning fashion model, ult",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: close-up of a stunning fashion model, ultra-realis...\",\"description\":\"Midjourney 6 prompt · for photography · \\\"close-up of a stunning fashion model, ultra-realistic, portrait, shot on a Sony A7III, high quality ...\\\" · 13,218 views · 105 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-03-19T14:30:28.073Z\",\"dateModified\":\"2025-12-10T07:51:24.016Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/9qbfr7mlnt8sn7yp01pw02z7ez1r\",\"width\":816,\"height\":1488},\"author\":{\"@type\":\"Person\",\"@id\":\"NorthmoorAI\",\"name\":\"NorthmoorAI\",\"image\":\"https://cdn.prompthero.com/c4jub1pb8pcxqj5prep69e933ixh\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":105},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptMidjourney prompt: close-up of a stunning fashion model, ultra-realis...@NorthmoorAIPosted 2 years agoFollow13.2kviews105favoritesFavoriteModel usedMidjourney6CategoryphotographyGeneration parametersImage816x1488PromptTry this promptCopyclose-up of a stunning fashion model, ultra-realistic, portrait, shot on a Sony A7III, high quality --ar 35:64 --stylize 250More by @NorthmoorAIHero prompt: Korean woman, mid 20's, street scene, in the style...Hero prompt: Korean woman, mid 20's, street scene, in the style...Nano Banana prompt: Korean woman, mid 20's, in the style of Kodak Gold...Nano Banana prompt: woman, in the style of Kodak Gold 200 --no freckleNano Banana prompt: woman, side view, slight smile, shot on a Canon A7...Stable Diffusion  prompt: woman, side view, slight smile, shot on a Canon A7...Midjourney Papercut prompt: woman, side view, slight smile, shot on a Canon A7...Nano Banana prompt: photo of a Japanese woman, mid 20's, street scene,...View allExplore RelatedStable Diffusion PortraitPhotorealisticChatGPT PhotorealisticIdeogram PhotorealisticPixverse Realistic photosComments (2)Please sign in to commentNorthmoorAI2 years agoThank you EchoCali!EEchoCali2 years agoIt's a shame that Fotor can't run these. Beautiful work.",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "ultra-realis...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F9qbfr7mlnt8sn7yp01pw02z7ez1r&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540714855_51",
+    "title": "Midjourney prompt: a woman with long black hair in a gold pa",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: a woman with long black hair in a gold painting, i...\",\"description\":\"Midjourney 6 prompt · for portraits · \\\"a woman with long black hair in a gold painting, in the style of charlie bowater, dark blue and dark...\\\" · 23,267 views · 102 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-01-13T23:17:49.391Z\",\"dateModified\":\"2025-12-10T10:52:41.156Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/50gc2ppgkgsgxnv2krblzlx7rzvs\",\"width\":880,\"height\":1360},\"author\":{\"@type\":\"Person\",\"@id\":\"NorthmoorAI\",\"name\":\"NorthmoorAI\",\"image\":\"https://cdn.prompthero.com/c4jub1pb8pcxqj5prep69e933ixh\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":102},\"genre\":\"portraits\"}DownloadShareMaximizeTry this promptMidjourney prompt: a woman with long black hair in a gold painting, i...@NorthmoorAIPosted 2 years agoFollow23.3kviews102favoritesFavoriteModel usedMidjourney6CategoryportraitsGeneration parametersImage880x1360PromptTry this promptCopya woman with long black hair in a gold painting, in the style of charlie bowater, dark blue and dark black, michael garmash, comic art, realistic color palette, dark black and beige, soft-focused realism --ar 24:37 --stylize 750 --v 6More by @NorthmoorAIHero prompt: Korean woman, mid 20's, street scene, in the style...Hero prompt: Korean woman, mid 20's, street scene, in the style...Nano Banana prompt: Korean woman, mid 20's, in the style of Kodak Gold...Nano Banana prompt: woman, in the style of Kodak Gold 200 --no freckleNano Banana prompt: woman, side view, slight smile, shot on a Canon A7...Stable Diffusion  prompt: woman, side view, slight smile, shot on a Canon A7...Midjourney Papercut prompt: woman, side view, slight smile, shot on a Canon A7...Nano Banana prompt: photo of a Japanese woman, mid 20's, street scene,...View allExplore RelatedStable Diffusion WomanStable Diffusion PortraitMidjourney Oil PaintingRealistic Vision GirlStable Diffusion GirlComments (7)Please sign in to commentBb6e28d195b83 months agoI wish i had some of your talent. Very beautiful works.🙏NorthmoorAIa year agoThanks DrJ!DDrJa year agovery interesting beautyNorthmoorAI2 years agoThanks loardredan!loardredan2 years agoawsome!\nNorthmoorAI2 years agoThanks!CCru2 years agoVery Nice",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "i...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F50gc2ppgkgsgxnv2krblzlx7rzvs&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540716955_52",
+    "title": "Chroma portrait",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Chroma portrait\",\"description\":\"Full prompt https://promptbase.com/prompt/chroma-portraits\",\"dateCreated\":\"2024-04-24T09:27:36.933Z\",\"dateModified\":\"2025-12-10T10:14:20.971Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/7nqvhyrmf607ngkesub1l7kxc9j3\",\"width\":1632,\"height\":2912},\"author\":{\"@type\":\"Person\",\"@id\":\"Grayve\",\"name\":\"Grayve\",\"image\":\"https://cdn.prompthero.com/11q6vtd1dwfmpxh8qb0wu2h5r3h8\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":97},\"genre\":\"portraits\"}DownloadShareMaximizeTry this promptChroma portrait@GrayvePosted 2 years agoFollow13.1kviews97favoritesFavoriteModel usedMidjourney6CategoryportraitsGeneration parametersImage1632x2912PromptTry this promptCopyphotography, portrait of contrast, profile silhouette of a woman, vibrant hot pink backdrop, visualize using a camera setup that mimics a large aperture, focusing solely on the silhouette's edge, while a low ISO maintains the richness of color without grain, photorealistic, UHD --ar 9:16 --chaos 1.7 --style rawMore by @GrayveMidjourney Shatter prompt: surreal cinematic photograph, extreme contrast, ma...Midjourney Shatter prompt: conceptual portrait, female model, wearing a volum...Midjourney Shatter prompt: botanical monogram, letter \"3\", white color, inter...Midjourney Shatter prompt: high resolution photography, candid shot, couple, ...Midjourney Papercut prompt: three-dimensional origami figure, tiger, geometric...Midjourney Shatter prompt: high detrailed rendering, abstract liquid glassmor...Midjourney Shatter prompt: realistic render, cyberpunk, front central view, u...Midjourney Shatter prompt: photograph, front central shot, full-length, unkno...View allExplore RelatedStable Diffusion PortraitPixverse Realistic photosChatGPT PhotorealisticIdeogram PhotorealisticSora Realistic photosComments (2)Please sign in to commentnswebapp00552 months agoEditedMorningnswebapp00552 months agohello",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "\"name\":\"chroma portrait\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F7nqvhyrmf607ngkesub1l7kxc9j3&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540719153_53",
+    "title": "Midjourney prompt: a black and white photo of a woman with s",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: a black and white photo of a woman with shadow., i...\",\"description\":\"Midjourney 6 prompt · for portraits · \\\"a black and white photo of a woman with shadow., in the style of minimalist beauty, light bronze and...\\\" · 12,476 views · 90 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-02-02T05:54:25.624Z\",\"dateModified\":\"2025-12-07T01:15:52.632Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/o7zetbmbjk7fr0d6qfsdlws88i8o\",\"width\":1696,\"height\":2848},\"author\":{\"@type\":\"Person\",\"@id\":\"RealART\",\"name\":\"RealART\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":90},\"genre\":\"portraits\"}DownloadShareMaximizeTry this promptMidjourney prompt: a black and white photo of a woman with shadow., i...RE@RealARTPosted 2 years agoFollow12.5kviews90favoritesFavoriteModel usedMidjourney6CategoryportraitsGeneration parametersImage1696x2848PromptTry this promptCopya black and white photo of a woman with shadow., in the style of minimalist beauty, light bronze and bronze, serene faces, sharp edges, karencore, high definition, contrast shading, realism --ar 3:5 --stylize 750 --v 6.0 --style rawMore by @RealARTFLUX prompt: A striking portrait of a woman lying on a bed of i...Midjourney prompt: masterpiece,best quality,amazing quality,newest,ab...Midjourney prompt: a closeup of Angelina jolie type of model with bob...Midjourney prompt: photo of a woman age 30 years wearing straight hai...Midjourney prompt: photo of a woman age 30 years wearing curls, in th...Midjourney prompt: a close up of a woman with a blue eye shadow on he...Midjourney prompt: a professional shoot, an asian woman in tatoo, got...Midjourney prompt: a blue haired girl, in her 30s, professional outlo...View allExplore RelatedStable Diffusion PortraitIdeogram PhotorealisticStable Diffusion WomanSora Realistic photosPixverse Realistic photosComments (1)Please sign in to commentrolamaximaa month agothis one is amazing",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "i...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fo7zetbmbjk7fr0d6qfsdlws88i8o&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540721676_54",
+    "title": "Midjourney prompt: Japanese girl, 18-21 years old, brown hai",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: Japanese girl, 18-21 years old, brown hair, high-q...\",\"description\":\"Midjourney 6 prompt · for photography · \\\"Japanese girl, 18-21 years old, brown hair, high-quality photo portrait, shot on a Polaroid camera, ...\\\" · 9,136 views · 88 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-03-19T18:11:42.734Z\",\"dateModified\":\"2025-12-10T07:02:52.444Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/xjsos7jl5jltflxms50aa37a4bw5\",\"width\":800,\"height\":1520},\"author\":{\"@type\":\"Person\",\"@id\":\"NorthmoorAI\",\"name\":\"NorthmoorAI\",\"image\":\"https://cdn.prompthero.com/c4jub1pb8pcxqj5prep69e933ixh\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":88},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptMidjourney prompt: Japanese girl, 18-21 years old, brown hair, high-q...@NorthmoorAIPosted 2 years agoFollow9.1kviews88favoritesFavoriteModel usedMidjourney6CategoryphotographyGeneration parametersImage800x1520PromptTry this promptCopyJapanese girl, 18-21 years old, brown hair, high-quality photo portrait, shot on a Polaroid camera, double eyelid --ar 34:65 --style rawMore by @NorthmoorAIHero prompt: Korean woman, mid 20's, street scene, in the style...Hero prompt: Korean woman, mid 20's, street scene, in the style...Nano Banana prompt: Korean woman, mid 20's, in the style of Kodak Gold...Nano Banana prompt: woman, in the style of Kodak Gold 200 --no freckleNano Banana prompt: woman, side view, slight smile, shot on a Canon A7...Stable Diffusion  prompt: woman, side view, slight smile, shot on a Canon A7...Midjourney Papercut prompt: woman, side view, slight smile, shot on a Canon A7...Nano Banana prompt: photo of a Japanese woman, mid 20's, street scene,...View allExplore RelatedChatGPT Image GirlStable Diffusion PortraitStable Diffusion GirlRealistic Vision GirlIdeogram PhotorealisticComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "18-21 years old",
+      "brown hair"
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fxjsos7jl5jltflxms50aa37a4bw5&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540724396_55",
+    "title": "Model portrait",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Model portrait\",\"description\":\"https://litt.ly/grayve\",\"dateCreated\":\"2024-11-03T15:33:14.758Z\",\"dateModified\":\"2025-12-10T10:12:08.107Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/zgkq5uftglj1q0xkl07ycr2n839i\",\"width\":1632,\"height\":2912},\"author\":{\"@type\":\"Person\",\"@id\":\"Grayve\",\"name\":\"Grayve\",\"image\":\"https://cdn.prompthero.com/11q6vtd1dwfmpxh8qb0wu2h5r3h8\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":85},\"genre\":\"portraits\"}DownloadShareMaximizeTry this promptModel portrait@GrayvePosted a year agoFollow8.3kviews85favoritesFavoriteModel usedMidjourney6CategoryportraitsGeneration parametersImage1632x2912PromptTry this promptCopyfashion editorial photography, front shot, upper body, professional female model, shot with hasselblad x2d 100c, xcd 90mm f/2.5 lens, cinematic sepia color grading with golden hour warmth, dramatic black silhouette against burnt umber to honey amber gradient backdrop, avant-garde composition with tilted head pose, staring to camera, profound gaze, elongated body stance, flowing black turtleneck, professional main fresnel light at 60 degree angle with silk diffusion, rim light with cto gel at 75 degree angle, haze machine for ethereal atmosphere, feathered shadows, contrast curve manipulation, selective dodge and burn, grain texture overlay, color temperature adjustment at 5500k to 3200k gradient, ultra sharp details, raw format, inspired by paolo roversi lighting technique, hyper realistic, 16K, rich detail --ar 9:16 --quality 2 --style raw --personalize nq7rq2j --stylize 500 --v 6.1More by @GrayveMidjourney Shatter prompt: surreal cinematic photograph, extreme contrast, ma...Midjourney Shatter prompt: conceptual portrait, female model, wearing a volum...Midjourney Shatter prompt: botanical monogram, letter \"3\", white color, inter...Midjourney Shatter prompt: high resolution photography, candid shot, couple, ...Midjourney Papercut prompt: three-dimensional origami figure, tiger, geometric...Midjourney Shatter prompt: high detrailed rendering, abstract liquid glassmor...Midjourney Shatter prompt: realistic render, cyberpunk, front central view, u...Midjourney Shatter prompt: photograph, front central shot, full-length, unkno...View allExplore RelatedStable Diffusion PortraitMidjourney Emma WatsonPixverse Realistic photosPhotorealisticCinematic LightingComments (3)Please sign in to commentGrayvea year agoI’m not affiliated with PromptHero, but it seems like you’re really upset, judging by your complaint on my post.🤣22d464a11183a year agoHEY DELETE MY ACCOUNT ON PROMPTHERO. REALLY ANNOYING THAT THERE IS NO WAY TO DELETE YOUR ACCOUNT ON HERE UNLESS I HAVE INSTAGRAM OR X AND TRY TO @ THEM. I HAVE NEITHER SO GUESS WHAT?! MAYBE THEYLL SEE ME HERE!ElectricLa year agoLovely prompt. Love the vibe.",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "\"name\":\"model portrait\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fzgkq5uftglj1q0xkl07ycr2n839i&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540726483_56",
+    "title": "Midjourney prompt: a woman with long wild hair on a windy da",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: a woman with long wild hair on a windy day, in the...\",\"description\":\"Midjourney 6 prompt · for photography · \\\"a woman with long wild hair on a windy day, in the style of toy camera effects, haunting elegance, f...\\\" · 6,437 views · 82 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-01-13T17:02:38.901Z\",\"dateModified\":\"2025-12-08T04:41:36.642Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/wrpbbm0g66wjerf6nluq4u0gothp\",\"width\":816,\"height\":1472},\"author\":{\"@type\":\"Person\",\"@id\":\"NorthmoorAI\",\"name\":\"NorthmoorAI\",\"image\":\"https://cdn.prompthero.com/c4jub1pb8pcxqj5prep69e933ixh\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":82},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptMidjourney prompt: a woman with long wild hair on a windy day, in the...@NorthmoorAIPosted 2 years agoFollow6.4kviews82favoritesFavoriteModel usedMidjourney6CategoryphotographyGeneration parametersImage816x1472PromptTry this promptCopya woman with long wild hair on a windy day, in the style of toy camera effects, haunting elegance, frozen movement, captivating gaze, voigtlander bessa r2m, black paintings, new york school --ar 71:128 --stylize 750 --v 6More by @NorthmoorAIHero prompt: Korean woman, mid 20's, street scene, in the style...Hero prompt: Korean woman, mid 20's, street scene, in the style...Nano Banana prompt: Korean woman, mid 20's, in the style of Kodak Gold...Nano Banana prompt: woman, in the style of Kodak Gold 200 --no freckleNano Banana prompt: woman, side view, slight smile, shot on a Canon A7...Stable Diffusion  prompt: woman, side view, slight smile, shot on a Canon A7...Midjourney Papercut prompt: woman, side view, slight smile, shot on a Canon A7...Nano Banana prompt: photo of a Japanese woman, mid 20's, street scene,...View allExplore RelatedMidjourney Emma WatsonStable Diffusion WomanMidjourney CinematicStable Diffusion GirlRealistic Vision GirlComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "in the...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fwrpbbm0g66wjerf6nluq4u0gothp&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540729633_57",
+    "title": "Model portrait",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Model portrait\",\"description\":\"https://promptbase.com/profile/grayve\",\"dateCreated\":\"2024-04-28T16:09:49.064Z\",\"dateModified\":\"2025-12-10T08:14:53.172Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/yktjuihsozyxcetxc5hsasx2wed8\",\"width\":1632,\"height\":2912},\"author\":{\"@type\":\"Person\",\"@id\":\"Grayve\",\"name\":\"Grayve\",\"image\":\"https://cdn.prompthero.com/11q6vtd1dwfmpxh8qb0wu2h5r3h8\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":80},\"genre\":\"portraits\"}DownloadShareMaximizeTry this promptModel portrait@GrayvePosted 2 years agoFollow8.4kviews80favoritesFavoriteModel usedMidjourney6CategoryportraitsGeneration parametersImage1632x2912PromptTry this promptCopyphotography, orange hue, korean woman model, solid orange backdrop, using a camera setup that mimics a large aperture, f/1.4 --ar 9:16 --style rawMore by @GrayveMidjourney Shatter prompt: surreal cinematic photograph, extreme contrast, ma...Midjourney Shatter prompt: conceptual portrait, female model, wearing a volum...Midjourney Shatter prompt: botanical monogram, letter \"3\", white color, inter...Midjourney Shatter prompt: high resolution photography, candid shot, couple, ...Midjourney Papercut prompt: three-dimensional origami figure, tiger, geometric...Midjourney Shatter prompt: high detrailed rendering, abstract liquid glassmor...Midjourney Shatter prompt: realistic render, cyberpunk, front central view, u...Midjourney Shatter prompt: photograph, front central shot, full-length, unkno...View allExplore RelatedStable Diffusion PortraitStable Diffusion WomanChatGPT Image GirlChatGPT PhotorealisticSora Realistic photosComments (2)Please sign in to commentGrayvea year agoI’m not affiliated with PromptHero, but it seems like you’re really upset, judging by your complaint on my post.🤣22d464a11183a year agoHEY DELETE MY ACCOUNT ON PROMPTHERO. REALLY ANNOYING THAT THERE IS NO WAY TO DELETE YOUR ACCOUNT ON HERE UNLESS I HAVE INSTAGRAM OR X AND TRY TO @ THEM. I HAVE NEITHER SO GUESS WHAT?! MAYBE THEYLL SEE ME HERE!",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "\"name\":\"model portrait\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fyktjuihsozyxcetxc5hsasx2wed8&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540732429_58",
+    "title": "Midjourney prompt: red race car, in the style of sam spratt,",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: red race car, in the style of sam spratt, historic...\",\"description\":\"Midjourney 6 prompt · for concept-art · \\\"red race car, in the style of sam spratt, historical illustrations, old masters, genndy tartakovsky,...\\\" · 13,174 views · 73 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-01-13T22:59:33.259Z\",\"dateModified\":\"2025-12-10T10:10:59.437Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/luqvns7twvdbtnmwlaesatvjuqmr\",\"width\":768,\"height\":1568},\"author\":{\"@type\":\"Person\",\"@id\":\"NorthmoorAI\",\"name\":\"NorthmoorAI\",\"image\":\"https://cdn.prompthero.com/c4jub1pb8pcxqj5prep69e933ixh\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":73},\"genre\":\"concept-art\"}DownloadShareMaximizeTry this promptMidjourney prompt: red race car, in the style of sam spratt, historic...@NorthmoorAIPosted 2 years agoFollow13.2kviews73favoritesFavoriteModel usedMidjourney6Categoryconcept-artGeneration parametersImage768x1568PromptTry this promptCopyred race car, in the style of sam spratt, historical illustrations, old masters, genndy tartakovsky, soggy, masaccio, monochromatic realism --ar 63:128 --stylize 750 --v 6More by @NorthmoorAIHero prompt: Korean woman, mid 20's, street scene, in the style...Hero prompt: Korean woman, mid 20's, street scene, in the style...Nano Banana prompt: Korean woman, mid 20's, in the style of Kodak Gold...Nano Banana prompt: woman, in the style of Kodak Gold 200 --no freckleNano Banana prompt: woman, side view, slight smile, shot on a Canon A7...Stable Diffusion  prompt: woman, side view, slight smile, shot on a Canon A7...Midjourney Papercut prompt: woman, side view, slight smile, shot on a Canon A7...Nano Banana prompt: photo of a Japanese woman, mid 20's, street scene,...View allExplore RelatedStable Diffusion CarMidjourney Oil PaintingIdeogram PhotorealisticMidjourney Pixar StyleDALL-E Pixar StyleComments (6)Please sign in to commentElectricLa year agoYeah, ive also checked discord and there is no mention of the site malfunctioning in any way. NorthmoorAIa year agoWill relay all of this feedback from you both when I hear back from Javier AAkiraSa year agoI've given feedback with a tag \"bug\" in discord. But no news there as well.ElectricLa year agoYeah, for me too and I wish we could have a more flexible system of communication, it would make the site feel more alive and also a system to report prompts that have cp in them. I've tried to reach out to the owners but I've had no answer back. NorthmoorAIa year agoI was wondering the same thing and have sent a note to Javier to ask him...nothing has been loadingElectricLa year agoDo you know what's going on with the site?",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "in the style of sam spratt",
+      "historic...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fluqvns7twvdbtnmwlaesatvjuqmr&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540734573_59",
+    "title": "Midjourney prompt: a woman wearing a cropped top and jeans s",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: a woman wearing a cropped top and jeans standing i...\",\"description\":\"Midjourney 6 prompt · for photography · \\\"a woman wearing a cropped top and jeans standing in front of the bus stop, in the style of Oleg Opri...\\\" · 13,913 views · 71 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-01-20T17:50:05.380Z\",\"dateModified\":\"2025-12-10T11:18:12.596Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/98gc6zje8wb8m6m520cu2mvita7i\",\"width\":880,\"height\":1344},\"author\":{\"@type\":\"Person\",\"@id\":\"NorthmoorAI\",\"name\":\"NorthmoorAI\",\"image\":\"https://cdn.prompthero.com/c4jub1pb8pcxqj5prep69e933ixh\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":71},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptMidjourney prompt: a woman wearing a cropped top and jeans standing i...@NorthmoorAIPosted 2 years agoFollow13.9kviews71favoritesFavoriteModel usedMidjourney6CategoryphotographyGeneration parametersImage880x1344PromptTry this promptCopya woman wearing a cropped top and jeans standing in front of the bus stop, in the style of Oleg Oprisco, video, Jocelyn Hobbie, soft, muted tones, close up, wavy, Nick Knight --ar 36:55 --stylize 750 --v 6More by @NorthmoorAIHero prompt: Korean woman, mid 20's, street scene, in the style...Hero prompt: Korean woman, mid 20's, street scene, in the style...Nano Banana prompt: Korean woman, mid 20's, in the style of Kodak Gold...Nano Banana prompt: woman, in the style of Kodak Gold 200 --no freckleNano Banana prompt: woman, side view, slight smile, shot on a Canon A7...Stable Diffusion  prompt: woman, side view, slight smile, shot on a Canon A7...Midjourney Papercut prompt: woman, side view, slight smile, shot on a Canon A7...Nano Banana prompt: photo of a Japanese woman, mid 20's, street scene,...View allExplore RelatedStable Diffusion WomanMidjourney Emma WatsonFLUX PortraitStable Diffusion GirlRealistic Vision GirlComments (1)Please sign in to comment114282dd58fa2 years agoEditedDon't know how this babe is creating such beautiful creations:\nyoutube.com/@SynthographicStudio",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F98gc6zje8wb8m6m520cu2mvita7i&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540745706_60",
+    "title": "Midjourney prompt: sketches blueprint of futuristic sci-fi h",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: sketches blueprint of futuristic sci-fi huge space...\",\"description\":\"Midjourney 5.2 prompt · for concept-art · \\\"sketches blueprint of futuristic sci-fi huge spacecraft, warp engines, formulas and annotations, sch...\\\" · 7,252 views · 69 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2023-09-13T01:00:16.528Z\",\"dateModified\":\"2025-12-09T20:00:42.706Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/muyejayamebyuyjpbbrw0g0consy\",\"width\":1024,\"height\":1024},\"author\":{\"@type\":\"Person\",\"@id\":\"Dallas59\",\"name\":\"Dallas59\",\"image\":\"https://cdn.prompthero.com/9i0l816f8n56r3x119nxhsv5ht9c\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":69},\"genre\":\"concept-art\"}DownloadShareMaximizeTry this promptMidjourney prompt: sketches blueprint of futuristic sci-fi huge space...@Dallas59Posted 2 years agoFollow7.3kviews69favoritesFavoriteModel usedMidjourney5.2Categoryconcept-artGeneration parametersImage1024x1024PromptTry this promptCopysketches blueprint of futuristic sci-fi huge spacecraft, warp engines, formulas and annotations, schematic by parts, golden ratio, fake detail, trending pixiv fanbox, acrylic palette knife, style of makoto shinkai studio ghibli genshin impact james gilleard greg rutkowski chiho aoshimaMore by @Dallas59Hailuo prompt: camera moves towards the horizonKling prompt: camera moves towards the horizonKling prompt: camera moves towards the horizonKling prompt: The ancient Roman man and his his large black dog ...Kling prompt: The ancient Roman man walks along the riverbank wi...Kling prompt: A man looks at the camera and smilesKling prompt: A man looks at the camera and smiles Kling prompt: The camera moves towards the ruins of an alien citView allExplore RelatedConcept ArtMidjourney Vector ArtMidjourney SteampunkDreamShaper ArchitectureChatGPT Image CyberpunkComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "warp engines"
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fmuyejayamebyuyjpbbrw0g0consy&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540761403_62",
+    "title": "Midjourney prompt: Black and white street photography of an ",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: Black and white street photography of an attractiv...\",\"description\":\"Midjourney 6 prompt · for photography · \\\"Black and white street photography of an attractive woman in leather jacket with headscarf sitting i...\\\" · 5,966 views · 69 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-04-16T19:14:23.929Z\",\"dateModified\":\"2025-12-10T07:06:42.472Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/54xz2e9g2xcdm3f28xc308ocfug4\",\"width\":768,\"height\":1536},\"author\":{\"@type\":\"Person\",\"@id\":\"NorthmoorAI\",\"name\":\"NorthmoorAI\",\"image\":\"https://cdn.prompthero.com/c4jub1pb8pcxqj5prep69e933ixh\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":69},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptMidjourney prompt: Black and white street photography of an attractiv...@NorthmoorAIPosted 2 years agoFollow6.0kviews69favoritesFavoriteModel usedMidjourney6CategoryphotographyGeneration parametersImage768x1536PromptTry this promptCopyBlack and white street photography of an attractive woman in leather jacket with headscarf sitting inside vintage convertible car, on the streets of London, shot by arriflex 35 BL Camera Canon K35 Prime Lenses --ar 1:2 --stylize 750More by @NorthmoorAIHero prompt: Korean woman, mid 20's, street scene, in the style...Hero prompt: Korean woman, mid 20's, street scene, in the style...Nano Banana prompt: Korean woman, mid 20's, in the style of Kodak Gold...Nano Banana prompt: woman, in the style of Kodak Gold 200 --no freckleNano Banana prompt: woman, side view, slight smile, shot on a Canon A7...Stable Diffusion  prompt: woman, side view, slight smile, shot on a Canon A7...Midjourney Papercut prompt: woman, side view, slight smile, shot on a Canon A7...Nano Banana prompt: photo of a Japanese woman, mid 20's, street scene,...View allExplore RelatedMidjourney Emma WatsonMidjourney SteampunkStable Diffusion WomanStable Diffusion CarMidjourney CinematicComments (5)Please sign in to commentNorthmoorAIa year agoEdited\nThank you!11f2470c8eeea year agoBeautifulNorthmoorAI2 years agoThank you!Bbbc56d35e2a2 years agoOutstanding !Ssamopad2 years agoZer Gut!",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F54xz2e9g2xcdm3f28xc308ocfug4&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540764181_63",
+    "title": "Midjourney prompt: wide and low angle, cinematic, fashion ph",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: wide and low angle, cinematic, fashion photography...\",\"description\":\"Midjourney 6 prompt · for fashion · \\\"wide and low angle, cinematic, fashion photography for the brand Uniqlo. Woman sitting on floor wear...\\\" · 5,541 views · 68 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-05-22T14:19:59.953Z\",\"dateModified\":\"2025-12-10T10:44:55.791Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/uzz5smeabs9ptyzu8sc14l61ez71\",\"width\":1632,\"height\":2912},\"author\":{\"@type\":\"Person\",\"@id\":\"javierjrueda\",\"name\":\"javierjrueda\",\"image\":\"https://cdn.prompthero.com/5ojouxza57p0y2er0z5sazybilja\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":68},\"genre\":\"fashion\"}DownloadShareMaximizeTry this promptMidjourney prompt: wide and low angle, cinematic, fashion photography...@javierjruedaPosted 2 years agoFollow5.5kviews68favoritesFavoriteModel usedMidjourney6CategoryfashionGeneration parametersImage1632x2912PromptTry this promptCopywide and low angle, cinematic, fashion photography for the brand Uniqlo. Woman sitting on floor wearing a Uniqlo heattech top, and brown chinos. The background is a gradient, red, pink and orange, studio setting\n\n\n--ar\n 9:16More by @javierjruedaFLUX prompt: change the model into an asian manHailuo prompt: model moving slowly in a photoshoot, looking at thRecraft prompt: Photo of a ultra realistic sailing ship, dramatic ...Stable Diffusion prompt: High resolution photography interior design, dream...Ideogram prompt: a drawing of a knight with shield and cloak, in th...Recraft prompt: a drawing of a knight with shield and cloak, in th...Recraft prompt: Goddess close-up portrait ribcagel. jellyfish phoe...Recraft prompt: High resolution photography interior design, dream...View allExplore RelatedStable Diffusion FashionMidjourney FashionCinematic LightingStable Diffusion WomanFLUX FashionComments (1)Please sign in to commentMMeaca_Ga year agoNice, why can I see Olivia Rodrigo in this pose...",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "cinematic",
+      "fashion photography...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fuzz5smeabs9ptyzu8sc14l61ez71&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540766648_64",
+    "title": "Midjourney prompt: high-resolution photograph, woman, stunni",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: high-resolution photograph, woman, stunning use of...\",\"description\":\"Midjourney 6 prompt · for photography · \\\"high-resolution photograph, woman, stunning use of shadows, in the syle of crisp lines and forms,  U...\\\" · 7,171 views · 64 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-04-02T14:04:28.457Z\",\"dateModified\":\"2025-12-10T05:28:39.534Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/x1vbmcdl3a611aymslpwjfk4keqt\",\"width\":1536,\"height\":3072},\"author\":{\"@type\":\"Person\",\"@id\":\"NorthmoorAI\",\"name\":\"NorthmoorAI\",\"image\":\"https://cdn.prompthero.com/c4jub1pb8pcxqj5prep69e933ixh\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":64},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptMidjourney prompt: high-resolution photograph, woman, stunning use of...@NorthmoorAIPosted 2 years agoFollow7.2kviews64favoritesFavoriteModel usedMidjourney6CategoryphotographyGeneration parametersImage1536x3072PromptTry this promptCopyhigh-resolution photograph, woman, stunning use of shadows, in the syle of crisp lines and forms,  UHD, shot on a Sony A7III --ar 1:2 --style raw --stylize 250More by @NorthmoorAIExplore RelatedPhotorealisticIdeogram PhotorealisticStable Diffusion WomanPixverse Realistic photosStable Diffusion PortraitComments (0)Please sign in to comment",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "woman",
+      "stunning use of...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fx1vbmcdl3a611aymslpwjfk4keqt&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540771642_65",
+    "title": "Midjourney prompt: Kooky portraits of 90’s mall teens in ret",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: Kooky portraits of 90’s mall teens in retro clothi...\",\"description\":\"Midjourney 5.2 prompt · for photography · \\\"Kooky portraits of 90’s mall teens in retro clothing, shot on VHS\\\" · 5,911 views · 60 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2023-07-24T08:42:21.885Z\",\"dateModified\":\"2025-12-10T09:19:39.746Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/yxmnjwx7akj5yh08n6h6er498wmu\",\"width\":816,\"height\":1456},\"author\":{\"@type\":\"Person\",\"@id\":\"nononono\",\"name\":\"nononono\",\"image\":\"https://cdn.prompthero.com/75aqdp0yr193lmetz0p5t7clg9ss\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":60},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptMidjourney prompt: Kooky portraits of 90’s mall teens in retro clothi...@nonononoPosted 3 years agoFollow5.9kviews60favoritesFavoriteModel usedMidjourney5.2CategoryphotographyGeneration parametersImage816x1456PromptTry this promptCopyKooky portraits of 90’s mall teens in retro clothing, shot on VHSMore by @nonononoStable Diffusion prompt: <lora:AverySDXL:0.7>, (Candid perspective from the...RealVisXL V4.0 prompt: <lora:AverySDXL:0.7>, (Candid perspective from the...RealVisXL V4.0 prompt: Highly photorealistic, high-resolution, 20-year-ol...RealVisXL V4.0 prompt: woman long hair, cleavage, Raw, 8k, hdr, realistic...RealVisXL V4.0 prompt: <lora:ShaniaXLbase:0.8> 8k cinematic photo, stunni...Realistic Vision V2.0 prompt: a beautiful college girl, mixed girl, girl next do...RealVisXL V4.0 prompt: hot blonde hyperrealistic shot of a 1girl, solo, i...epiCRealism prompt: masterpiece, best quality, high quality,techk1tty,...View allExplore RelatedPortraitsFLUX PortraitsFLUX Realistic photosVeo PortraitsPixverse Realistic photosComments (0)Please sign in to commentNo comments yet. Be the first to comment!",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "shot on vhs\\\" · 5"
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fyxmnjwx7akj5yh08n6h6er498wmu&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540775976_66",
+    "title": "Midjourney prompt: Chinese model poses for a selfie, in the ",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: Chinese model poses for a selfie, in the style of ...\",\"description\":\"Midjourney 6 prompt · for photography · \\\"Chinese model poses for a selfie, in the style of social media influencers, webcam photography, Feli...\\\" · 6,549 views · 60 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2023-12-22T21:40:28.688Z\",\"dateModified\":\"2025-12-10T11:32:56.670Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/fkcmucr5tdx4bwgcwypx8tnhgdjr\",\"width\":800,\"height\":1504},\"author\":{\"@type\":\"Person\",\"@id\":\"NorthmoorAI\",\"name\":\"NorthmoorAI\",\"image\":\"https://cdn.prompthero.com/c4jub1pb8pcxqj5prep69e933ixh\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":60},\"genre\":\"photography\"}DownloadShareMaximizeTry this promptMidjourney prompt: Chinese model poses for a selfie, in the style of ...@NorthmoorAIPosted 2 years agoFollow6.5kviews60favoritesFavoriteModel usedMidjourney6CategoryphotographyGeneration parametersImage800x1504PromptTry this promptCopyChinese model poses for a selfie, in the style of social media influencers, webcam photography, Felicia Simion, photo taken with Provia, hinchel or, shiny --ar 68:128 --stylize 750 --v 6More by @NorthmoorAIHero prompt: Korean woman, mid 20's, street scene, in the style...Hero prompt: Korean woman, mid 20's, street scene, in the style...Nano Banana prompt: Korean woman, mid 20's, in the style of Kodak Gold...Nano Banana prompt: woman, in the style of Kodak Gold 200 --no freckleNano Banana prompt: woman, side view, slight smile, shot on a Canon A7...Stable Diffusion  prompt: woman, side view, slight smile, shot on a Canon A7...Midjourney Papercut prompt: woman, side view, slight smile, shot on a Canon A7...Nano Banana prompt: photo of a Japanese woman, mid 20's, street scene,...View allExplore RelatedStable Diffusion PortraitStable Diffusion WomanChatGPT Image GirlChatGPT PhotorealisticIdeogram PhotorealisticComments (5)Please sign in to comment0063fd5774063 months agothanx\nLLeanaKris2 years agoTanks8873256528652 years agoLooks good. Cool if I draw a picture of her and post it on my Instagram?NorthmoorAI2 years agoThank you!DDR3NKS2 years ago👏👏👏👏👏👏",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "in the style of ...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ffkcmucr5tdx4bwgcwypx8tnhgdjr&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540778358_67",
+    "title": "Midjourney prompt: Spacious office with frontal view, Herman",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: Spacious office with frontal view, Herman Miller A...\",\"description\":\"Midjourney 6 prompt · for interior-design · \\\"Spacious office with frontal view, Herman Miller Aeron chairs, Artemide Tolomeo desk lamps, captured...\\\" · 6,902 views · 60 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2024-01-15T12:03:05.386Z\",\"dateModified\":\"2025-12-10T10:48:22.450Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/2hvhr1d3tbo9a259m6erubbqz7fu\",\"width\":2048,\"height\":2048},\"author\":{\"@type\":\"Person\",\"@id\":\"Grayve\",\"name\":\"Grayve\",\"image\":\"https://cdn.prompthero.com/11q6vtd1dwfmpxh8qb0wu2h5r3h8\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":60},\"genre\":\"interior-design\"}DownloadShareMaximizeTry this promptMidjourney prompt: Spacious office with frontal view, Herman Miller A...@GrayvePosted 2 years agoFollow6.9kviews60favoritesFavoriteModel usedMidjourney6Categoryinterior-designGeneration parametersImage2048x2048PromptTry this promptCopySpacious office with frontal view, Herman Miller Aeron chairs, Artemide Tolomeo desk lamps, captured with a Canon EOS R5, 50mm f/1.2 lens, balanced natural and LED lightingMore by @GrayveMidjourney Shatter prompt: surreal cinematic photograph, extreme contrast, ma...Midjourney Shatter prompt: conceptual portrait, female model, wearing a volum...Midjourney Shatter prompt: botanical monogram, letter \"3\", white color, inter...Midjourney Shatter prompt: high resolution photography, candid shot, couple, ...Midjourney Papercut prompt: three-dimensional origami figure, tiger, geometric...Midjourney Shatter prompt: high detrailed rendering, abstract liquid glassmor...Midjourney Shatter prompt: realistic render, cyberpunk, front central view, u...Midjourney Shatter prompt: photograph, front central shot, full-length, unkno...View allExplore RelatedCinematic LightingFLUX Cinematic Lighting3D / RendersPixverse Realistic photosFLUX PhotorealisticComments (1)Please sign in to commentAAzama year agoNice prompt.",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "herman miller a...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F2hvhr1d3tbo9a259m6erubbqz7fu&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
+  },
+  {
+    "id": "ph_1772540781265_68",
+    "title": "Midjourney prompt: Jessica Rabbit beautiful charismatic girl",
+    "prompt": "{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"Midjourney prompt: Jessica Rabbit beautiful charismatic girl,athletic...\",\"description\":\"Midjourney Niji Mode prompt · for anime · \\\"Jessica Rabbit beautiful charismatic girl,athletic body, gorgeous figure, interesting shapes, full b...\\\" · 10,845 views · 59 favorites. Create amazing AI art with Prompthero!\",\"dateCreated\":\"2023-12-07T01:52:27.341Z\",\"dateModified\":\"2025-12-10T10:59:25.882Z\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prompthero.com/gpkklu8h45sx206y2sezhbs4wwgz\",\"width\":816,\"height\":1456},\"author\":{\"@type\":\"Person\",\"@id\":\"Akasyan\",\"name\":\"Akasyan\",\"image\":\"https://cdn.prompthero.com/m2x073u3t9dm4noo85b3zdbh1mfi\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":5,\"ratingCount\":59},\"genre\":\"anime\"}DownloadShareMaximizeTry this promptMidjourney prompt: Jessica Rabbit beautiful charismatic girl,athletic...@AkasyanPosted 2 years agoFollow10.8kviews59favoritesFavoriteModel usedMidjourneyNiji ModeCategoryanimeGeneration parametersImage816x1456PromptTry this promptCopyJessica Rabbit beautiful charismatic girl,athletic body, gorgeous figure, interesting shapes, full body shot, dark eye makeup, in the style of jessica drossin, --ar 51:91More by @AkasyanMidjourney prompt: Comic Cover with the Marvel Book Title \"X-MEN\" at ...Midjourney prompt: Sub Zero from Mortal Kombat, skull face, cold whit...Midjourney prompt: velma from scooby-doo, very sultry look, so hot gi...Midjourney prompt: \r\nStar-Lord from Guardians of the Galaxy movie, is...Midjourney prompt: Daria Morgendorffer the main character of the anim...Midjourney prompt: Comic Cover with the Marvel Book Title \"X-MEN\" at ...Midjourney prompt: Jessica Rabbit beautiful charismatic girl, athleti...Midjourney prompt: \r\nSub Zero from Mortal Kombat, ink artistic concep...View allExplore RelatedStable Diffusion WomanStable Diffusion GirlChatGPT Image GirlRealistic Vision GirlStable Diffusion PortraitComments (1)Please sign in to commentSStar232 years agoBeautiful",
+    "negativePrompt": "",
+    "tool": "Midjourney",
+    "category": "Art",
+    "tags": [
+      "\"@type\":\"creativework\"",
+      "athletic...\""
+    ],
+    "source": "PromptHero",
+    "imageUrl": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fgpkklu8h45sx206y2sezhbs4wwgz&w=1920&q=75",
+    "description": "Midjourney prompt from PromptHero",
+    "likes": 0
   }
 ]
