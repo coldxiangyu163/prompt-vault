@@ -22599,5 +22599,819 @@
     ],
     "tool": "Flux",
     "source": "https://prompthero.com/prompt/8a7b222deee-flux-flux-11-pro-fashion-editorial-photography-front-shot-upper-body-professional-female-model-shot-with-hasselblad-x2d-100c-xcd-90mm-f25-lens-cinematic"
+  },
+  {
+    "id": "civitai_122133699",
+    "prompt": "<lora:reij-detaILer:0.74> <lora:Rembrandt Lighting style illu v1:0.61> <lora:bladeRunner_illustrious_v2:0.21> <lora:CreateConcept_Illustrious:0.58>",
+    "negativePrompt": "ai-generated, ai-assisted, stable diffusion, nai diffusion, worst quality, worst aesthetic, bad quality, normal quality, average quality, oldest, old, early, very displeasing, displeasing, adversarial noise, unknown artist, banned artist, what, off-topic, artist request, text, artist name, signature, username, logo, watermark, copyright name, copyright symbol, resized, downscaled, source larger, low quality, lowres, jpeg artifacts, compression artifacts, blurry, artistic error, bad anatomy, bad hands, bad feet, disfigured, deformed, extra digits, fewer digits, missing fingers, censored, bar censor, mosaic censoring, missing, extra, fewer, bad, hyper, error, ugly, worst, tagme, unfinished, bad proportions, bad perspective, aliasing, simple background, asymmetrical, monochrome, sketch, concept art, flat color, flat colors, simple shading, jaggy lines, traditional media \\(artwork\\), microsoft paint \\(artwork\\), ms paint \\(medium\\), unclear, photo, icon, multiple views, sequence, comic, 2koma, 4koma, multiple images, turnaround, collage, panel skew, letterboxed, framed, border, speech bubble, 3d, lossy-lossless, scan artifacts, out of frame, cropped",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/473029c3-eb60-4ccc-93e8-920da6119989/original=true/473029c3-eb60-4ccc-93e8-920da6119989.jpeg"
+    ],
+    "tool": "Unknown",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122133699"
+  },
+  {
+    "id": "civitai_122133700",
+    "prompt": "<lora:reij-detaILer:0.74> <lora:Rembrandt Lighting style illu v1:0.61> <lora:bladeRunner_illustrious_v2:0.21> <lora:CreateConcept_Illustrious:0.58>",
+    "negativePrompt": "ai-generated, ai-assisted, stable diffusion, nai diffusion, worst quality, worst aesthetic, bad quality, normal quality, average quality, oldest, old, early, very displeasing, displeasing, adversarial noise, unknown artist, banned artist, what, off-topic, artist request, text, artist name, signature, username, logo, watermark, copyright name, copyright symbol, resized, downscaled, source larger, low quality, lowres, jpeg artifacts, compression artifacts, blurry, artistic error, bad anatomy, bad hands, bad feet, disfigured, deformed, extra digits, fewer digits, missing fingers, censored, bar censor, mosaic censoring, missing, extra, fewer, bad, hyper, error, ugly, worst, tagme, unfinished, bad proportions, bad perspective, aliasing, simple background, asymmetrical, monochrome, sketch, concept art, flat color, flat colors, simple shading, jaggy lines, traditional media \\(artwork\\), microsoft paint \\(artwork\\), ms paint \\(medium\\), unclear, photo, icon, multiple views, sequence, comic, 2koma, 4koma, multiple images, turnaround, collage, panel skew, letterboxed, framed, border, speech bubble, 3d, lossy-lossless, scan artifacts, out of frame, cropped",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/87976e8b-bb76-4f62-b2f5-4ec9248f8d6f/original=true/87976e8b-bb76-4f62-b2f5-4ec9248f8d6f.jpeg"
+    ],
+    "tool": "Unknown",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122133700"
+  },
+  {
+    "id": "civitai_122388048",
+    "prompt": "1 girl, solo, depth of field, cinematic angle, \nmedium breast, blonde, gold hair, yellow hair, big round eyes, yellow eyes, white pupils, white hair ribbon, french braid, long hair, hair between eyes, japanese ahoge,\nWhite sailor outfit, white short skirt, shoes,\nBREAK\nlaying on back, snack, on shopping cart, foreshortening, arm rest, crossed legs, indoors, mall, holding lollipop,\nmasterpiece, best quality, amazing quality, 4k, very aesthetic, high resolution, ultra-detailed, absurdres, newest, ultra-HD, ",
+    "negativePrompt": "lazyneg, lazyhand, (photorealistic, realistic),  modern, recent, old, oldest, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digits, fewer digits, cropped, very displeasing, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, username, signature, conjoined,bad ai-generated, gold skin, white hair, ",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afdb7346-6b56-4486-8dfa-bec266fdb9d0/original=true/afdb7346-6b56-4486-8dfa-bec266fdb9d0.jpeg"
+    ],
+    "tool": "urn:air:sdxl:checkpoint:civitai:1162518@1714002",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122388048"
+  },
+  {
+    "id": "civitai_122134751",
+    "prompt": "futuristic style sci-fi style A fantastical trading base on a distant planet. Tall deep-space communication antennas, squat industrial buildings and hangars, and a landing pad surrounded by a protective wall. The base is located on a mountain spur, swept by a violent snowstorm, through which the buildings are barely visible. No humans on picture. Blizzard.\nextremely detailed, perfect composition, a vibrant tissue of hues and textures captured digitally, best quality, realistic, captivating, intricately detailed, hyper detailed, maximalist style, dynamic lighting, superb composition, finest details, highest aesthetics, best quality, sharp focus, high contrast, stylized, clear, colorful, ultra quality, whimsical, fantastic, splash art, intricate detailed, hyperdetailed, maximalist style, hyper detailed, maximalist style, concept art, sharp focus, harmony, serenity, calm, mysterious glow, dynamic lighting, superb composition, sharp focus, high contrast, stylized, clear, colorful, ultra quality, best quality, DB4RZ, DB4RZ style painting, in the style of cksc, a masterpiece, award winning\n <lora:FLUX-daubrez-DB4RZ-v2:0.5> <lora:Luminous_Nostalgia_Cinematic_Fantasy_Glow:0.5> <lora:MoriiMee_Gothic_Niji_Style__FLUX_LoRA_Test_2:0.8> . futuristic, technological, alien worlds, space themes, advanced civilizations . sleek, modern, ultramodern, high tech, detailed",
+    "negativePrompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval, ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vintage, antique",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8e98be52-4ed9-4041-b7df-b09d609a0561/original=true/8e98be52-4ed9-4041-b7df-b09d609a0561.jpeg"
+    ],
+    "tool": "flux1-dev-bnb-nf4-v2",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122134751"
+  },
+  {
+    "id": "civitai_122133697",
+    "prompt": "<lora:reij-detaILer:0.74> <lora:Rembrandt Lighting style illu v1:0.61> <lora:bladeRunner_illustrious_v2:0.21> <lora:CreateConcept_Illustrious:0.58>",
+    "negativePrompt": "ai-generated, ai-assisted, stable diffusion, nai diffusion, worst quality, worst aesthetic, bad quality, normal quality, average quality, oldest, old, early, very displeasing, displeasing, adversarial noise, unknown artist, banned artist, what, off-topic, artist request, text, artist name, signature, username, logo, watermark, copyright name, copyright symbol, resized, downscaled, source larger, low quality, lowres, jpeg artifacts, compression artifacts, blurry, artistic error, bad anatomy, bad hands, bad feet, disfigured, deformed, extra digits, fewer digits, missing fingers, censored, bar censor, mosaic censoring, missing, extra, fewer, bad, hyper, error, ugly, worst, tagme, unfinished, bad proportions, bad perspective, aliasing, simple background, asymmetrical, monochrome, sketch, concept art, flat color, flat colors, simple shading, jaggy lines, traditional media \\(artwork\\), microsoft paint \\(artwork\\), ms paint \\(medium\\), unclear, photo, icon, multiple views, sequence, comic, 2koma, 4koma, multiple images, turnaround, collage, panel skew, letterboxed, framed, border, speech bubble, 3d, lossy-lossless, scan artifacts, out of frame, cropped",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fee43db6-599b-41f4-abc7-1ca165bf3b13/original=true/fee43db6-599b-41f4-abc7-1ca165bf3b13.jpeg"
+    ],
+    "tool": "Unknown",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122133697"
+  },
+  {
+    "id": "civitai_122562015",
+    "prompt": "<lora:DetailerILv2-000008:0.67>",
+    "negativePrompt": "ai-generated, ai-assisted, stable diffusion, nai diffusion, worst quality, worst aesthetic, bad quality, normal quality, average quality, oldest, old, early, very displeasing, displeasing, adversarial noise, unknown artist, banned artist, what, off-topic, artist request, text, artist name, signature, username, logo, watermark, copyright name, copyright symbol, resized, downscaled, source larger, low quality, lowres, jpeg artifacts, compression artifacts, blurry, artistic error, bad anatomy, bad hands, bad feet, disfigured, deformed, extra digits, fewer digits, missing fingers, censored, bar censor, mosaic censoring, missing, extra, fewer, bad, hyper, error, ugly, worst, tagme, unfinished, bad proportions, bad perspective, aliasing, simple background, asymmetrical, monochrome, sketch, concept art, flat color, flat colors, simple shading, jaggy lines, traditional media \\(artwork\\), microsoft paint \\(artwork\\), ms paint \\(medium\\), unclear, photo, icon, multiple views, sequence, comic, 2koma, 4koma, multiple images, turnaround, collage, panel skew, letterboxed, framed, border, speech bubble, 3d, lossy-lossless, scan artifacts, out of frame, cropped",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/55e15749-b2cb-482c-8ed9-88242a476e93/original=true/55e15749-b2cb-482c-8ed9-88242a476e93.jpeg"
+    ],
+    "tool": "electrumCinnamonBeta_electrumCinnamon",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122562015"
+  },
+  {
+    "id": "civitai_122833172",
+    "prompt": "The palette is dominated by dark tones. The texture is pronounced, with brushstrokes and traces of paint visible, imitating the process of painting using multi-layered tones. The composition is centered around the figures, and the background flows smoothly in color and tone. The style is abstract, almost sculptural. The style is abstract, almost sculptural. Free, gestural brushstrokes create a sense of movement and action. The muted color palette includes subtle variations in tone. The sense of depth is achieved through different densities of brushstrokes. The light source is diffused, giving the image a slightly cool and mysterious shade. The style of painting is reminiscent of abstract realism and expressionism.  Soft shadows that reflect every detail and add volume to the scene.\n\nA striking portrait of a female person of indeterminate age, possibly in their 20s or 30s, exuding an aura of serene strength. The individual's skin is pale, almost ivory, contrasted by intricate, raised white markings across their shaved head and face, creating a tribal or ceremonial aesthetic. Their eyes are a striking amber color, conveying an intense gaze, while their expression is composed and confident. They are draped in a flowing, vibrant saffron-colored fabric, which appears to be a shawl or wrap, adorned with intricate white patterns. Multiple necklaces with beads and small pendants add further decorative detail. The setting is softly lit, with dappled sunlight creating shadows. The background appears blurred, suggesting an outdoor environment, possibly a market or village, with hints of architectural structures, but the focus is entirely on the central figure. The lighting creates a warm, inviting atmosphere, although the subject's expression adds a feeling of contemplation. The composition, a medium close-up, allows for detailed observation of the subject's features. The overall style is akin to a stylized portrait, possibly inspired by cultural elements with a touch of fantasy.",
+    "negativePrompt": "(worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, (Integration of fingers and fingers, melting fingers), signature, watermarks, ugly, imperfect eyes, error, extra limb, missing limbs, painting by , 3d art\n\nembedding:bad-artist",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fbff5e0c-a037-44cc-82f7-3983766a1d95/original=true/fbff5e0c-a037-44cc-82f7-3983766a1d95.jpeg"
+    ],
+    "tool": "Unknown",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122833172"
+  },
+  {
+    "id": "civitai_115162702",
+    "prompt": "masterpiece, high detail, extremely detailed, detailed linework, dynamic composition, (realistic), flat color, retro colors, 60s, retro, comic, fantasy, jedopil, oil painting, perfect eyes, vivid colors, vibrant colors, light from front, 1girl, solo, long hair, looking at viewer, bangs, blue eyes,  shirt, black hair, white background, bare shoulders, monochrome, upper body, parted lips, glasses, sleeveless, blunt bangs, mole, lips, gradient, looking to the side, gradient background, eyelashes, mole under eye, sleeveless shirt, makeup, shadow, blue background, sunglasses, lipstick, portrait, close-up, blue theme, pink lips, round eyewear, limited palette, tinted eyewear, aqua background, looking over eyewear, holographic eyewear, blue-tinted eyewear, pink-tinted eyewear, perfect eyes, rimless eyewear,\nBREAK\ndynamic angle, depth of field, \nblurred background, Flat lighting, clean line, pastel blue and pastel orange gradient background with white border, light theme, windy, blizzard,\n7481llu, 69yottea_style_illu,snow, usnr,",
+    "negativePrompt": "bad quality, worst quality, worst detail,( bad hands),bad anatomy, (extra fingers),extra legs, thin legs, thin calf, thin ankle,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f86b0c6c-b939-4d19-94d2-92ee54a7341c/original=true/f86b0c6c-b939-4d19-94d2-92ee54a7341c.jpeg"
+    ],
+    "tool": "urn:air:sdxl:checkpoint:civitai:111274@2478858",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/115162702"
+  },
+  {
+    "id": "civitai_114712173",
+    "prompt": "The majestic mountain stood tall, its peak shrouded in a mystical aura that seemed to emanate from the very fabric of the starry sky above. The sky itself was a deep shade of indigo, sprinkled with a million twinkling stars that stretched out in every direction like diamonds scattered across the velvet expanse. A faint, ethereal glow emanated from the mountain's summit, as if the very essence of the aurora borealis had been distilled into a singular, breathtaking spectacle.\nBelow, a sea of purple flowers swayed gently in the breeze, their delicate petals dancing in the soft, lunar light that illuminated the landscape. The air was alive with the sweet scent of blooming wildflowers, and the soft chirping of crickets provided a soothing serenade to the natural symphony that played out before us.\nIn the distance, a forest of towering trees stretched out towards the horizon, their dark silhouettes starkly contrasted against the vibrant hues of the sky. A winding river, its surface glinting like a ribbon of silver, flowed lazily through the heart of the forest, its gentle song mingling with the rustling of leaves and the distant howl of a lonely wolf.\nAs the eye wandered, it fell upon a field of emerald green, (flower, outdoors, sky, tree, no humans, night, grass, star \\(sky\\), night sky, scenery, nature, starry sky, forest, purple flower, mountain, field, mountainous horizon, landscape, aurora:0.5) masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
+    "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7a77666c-8fcc-44ed-b10d-6e4e53845d27/original=true/7a77666c-8fcc-44ed-b10d-6e4e53845d27.jpeg"
+    ],
+    "tool": "unknown_model",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/114712173"
+  },
+  {
+    "id": "civitai_122765780",
+    "prompt": "ethereal fantasy concept art of  A whimsical soft digital painting, masterpiece, high quality, innocent.\nA distant atmospheric shot with extreme depth of field blurring the far mountains, revealing a lush emerald-green valley cut through by a winding silver river surrounded by rolling hills covered in wildflowers and tall grass, pure landscape focused entirely on the interplay of light and land, lit by majestic God rays crepuscular rays breaking through the canopy creating volumetric lighting effects. Painted in Oil on canvas masterpiece in the style of Albert Bierstadt and the Hudson River School emphasizing epic scale and light. glitch art aesthetic digital artifacts vhs tracking lines retro futuristic vibe..\ncolor theme white. winter. midday. windy.\nMasterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic.\noil painting, in the style of Rembrandt,\n<lora:style_of_Rembrandt_FLUX_135:0.8>,\n<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,\n<lora:age_v1:-1>,\n<lora:113_novuschromaFLX_1:0.2> novuschroma,\n<lora:softwhim:1> whimsical,\n<lora:FS_v3:0.4> FS,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style from Renaissance period, masterful composition, Renaissance mood, renaissance oil painting, brush strokes . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy",
+    "negativePrompt": "painting, drawing, signature, watermark, ugly, off-center, deformed, cropped, frame, worst quality, low quality, lowres, JPEG artifacts, painting frame, signature, watermark, photo, photorealistic, realism, ugly, off-center, deformed, 35mm film, dslr, cropped, frame, worst quality, low quality, lowres, JPEG artifacts, photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be6e2727-a32b-47b2-8509-5a2d79e55875/original=true/be6e2727-a32b-47b2-8509-5a2d79e55875.jpeg"
+    ],
+    "tool": "flux_dev",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122765780"
+  },
+  {
+    "id": "civitai_122324299",
+    "prompt": " enchanting landscape, mountains in clouds, concept art, perfect composition, realistic oil painting,  Boris Vallejo style, Moebius style, astonishing, epic, unearthly, shining, breathtaking, action, movement, dramatic, watercolor wash, concept art by Brian Froud and Carne Griffiths, approaching perfection, pure form, intricate details, 8k post production, high resolution, hyperdetailed, trending on artstation, sharp focus, intricate details, highly detailed,\n",
+    "negativePrompt": "nsfw, porn, nudity, bare female breasts, elven ears, small people in the foreground, tiling, frayed, jagged, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, closed eyes, text, logo",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a0432683-9bbc-4cb2-a8ed-866a0bc57a49/original=true/a0432683-9bbc-4cb2-a8ed-866a0bc57a49.jpeg"
+    ],
+    "tool": "urn:air:sdxl:checkpoint:civitai:101055@128078",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122324299"
+  },
+  {
+    "id": "civitai_122242484",
+    "prompt": "ethereal fantasy concept art of  A whimsical soft digital painting, masterpiece, high quality, innocent.\nA wide-angle fisheye distortion creating a spherical world effect, showing a golden sunset over a calm harbor where the water looks like liquid molten gold, showing ancient Greek ruins on a cliff overlooking the Aegean sea at sunset, under a terrifying black storm sky with jagged lightning illuminating the white foam. Painted in the epic fantasy style of Greg Rutkowski with dramatic lighting. tilt-shift photography effect making the ships look like miniatures..\ncolor theme chrome. spring. noon. rainbow.\nMasterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic.\n <lora:style_of_Leonardo_da_Vinci_FLUX_191:1> style of Leonardo da Vinci,\n<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,\n<lora:age_v1:-1>,\n<lora:113_novuschromaFLX_1:0.2> novuschroma,\n<lora:softwhim:1> whimsical,\n<lora:FS_v3:0.4> FS, . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style from Renaissance period, masterful composition, Renaissance mood, renaissance oil painting, brush strokes",
+    "negativePrompt": "photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white, signature, watermark, photo, photorealistic, realism, ugly, off-center, deformed, 35mm film, dslr, cropped, frame, worst quality, low quality, lowres, JPEG artifacts, painting, drawing, signature, watermark, ugly, off-center, deformed, cropped, frame, worst quality, low quality, lowres, JPEG artifacts, painting frame, signature, watermark, photo, photorealistic, realism, ugly, off-center, deformed, 35mm film, dslr, cropped, frame, worst quality, low quality, lowres, JPEG artifacts",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2ee784c9-20a7-41cb-a2ad-4bc91b38278e/original=true/2ee784c9-20a7-41cb-a2ad-4bc91b38278e.jpeg"
+    ],
+    "tool": "flux_dev",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122242484"
+  },
+  {
+    "id": "civitai_122277940",
+    "prompt": "imagination, creative, interesting dynamic composition, dynamic pose, Serene magical sunrise scene, cinematic fantasy illustration: a breathtakingly beautiful girl with her black cute cat seen from behind, sitting on a thick, gnarled tree branch arching over a misty valley. the cute black cat sitting calmly beside her; long flowing brown hair gently lifted by a summer breeze, her face hidden from view, wearing a delicate very long light-blue dress that drapes and flows elegantly around the branch. The sun is just breaking the horizon, warm golden light filtering through leaves and branches, creating silky shadows, soft halation, and a mysterious glow. Rolling hills fade into layered morning mist below, dreamy and ethereal, vibrant green leaves contrasting with soft blues and warm oranges of the sky. Peaceful, romantic, whispered fantasy mood with unseen secrets, sharp focus, rich detail, harmonious composition. Style blend: photorealistic concept art with anime influence, intricate expressive linework, soft lighting with dynamic highlights, painterly yet clean, dreamlike surrealism, cinematic depth, award-winning masterpiece quality aesthetic.,dynamic composition, dynamic layout, pg-safe, many, detailed background, peacock feathers theme,pavolaris, peacock feathers,<lora:Peacock_World_Morph_pony:0.65> <lora:pavolaris:0.75>\n<lora:Peacock_World_Morph_pony:0.65> <lora:pavolaris:0.75>",
+    "negativePrompt": "bird, pony, horse, donkey, watermark, text, nsfw, worst quality, bad quality, low quality, kids, children, lowres, anatomical nonsense, artistic error, bad anatomy, interlocked fingers, extra fingers, text, artist name, signature, bad feet, extra toes, ugly, poorly drawn, censor, blurry, watermark, simple background, transparent background, old, oldest, glitch, deformed, mutated, disfigured, long body, bad hands, missing fingers, extra digit, fewer digits, cropped, very displeasing, sketch, jpeg artifacts, username, censored, bar_censor, mosaic_censor, conjoined, bad ai-generated, long neck, skin blemishes, skin spots, acne, the wrong limb, error, black line, excess hands, (nsfw:1.2), (nude:1.6), (nipple:1.2), naked",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6ecb915a-26b8-47cc-8708-3dec1e39e4b3/original=true/6ecb915a-26b8-47cc-8708-3dec1e39e4b3.jpeg"
+    ],
+    "tool": "sweethoney-mod_00001_",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122277940"
+  },
+  {
+    "id": "civitai_122765529",
+    "prompt": "ethereal fantasy concept art of  A whimsical soft digital painting, masterpiece, high quality, innocent.\nA dynamic Dutch angle shot creating a sense of unease and grand instability, depicting an autumn deciduous forest with leaves in vibrant shades of red orange and gold covering the ground like a carpet, with the wreckage of a futuristic starship that crashed centuries ago now covered in moss and rust, desolate and empty evoking a sense of ancient solitude and melancholy, under the unnatural neon glow of a cybernetic city pollution in the distance. Painted in Tonalism style emphasizing mood and shadow with a limited and harmonious color palette. chiaroscuro lighting deep blacks bright highlights high contrast dramatic mood..\ncolor theme blue and yellow. winter. dusk. cloudy sky.\nMasterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic.\noil painting, in the style of Rembrandt,\n<lora:style_of_Rembrandt_FLUX_135:0.8>,\n<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,\n<lora:age_v1:-1>,\n<lora:113_novuschromaFLX_1:0.2> novuschroma,\n<lora:softwhim:1> whimsical,\n<lora:FS_v3:0.4> FS,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style from Renaissance period, masterful composition, Renaissance mood, renaissance oil painting, brush strokes . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy",
+    "negativePrompt": "painting, drawing, signature, watermark, ugly, off-center, deformed, cropped, frame, worst quality, low quality, lowres, JPEG artifacts, painting frame, signature, watermark, photo, photorealistic, realism, ugly, off-center, deformed, 35mm film, dslr, cropped, frame, worst quality, low quality, lowres, JPEG artifacts, photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/724a559f-6cb0-4489-8ecd-851def26f8f7/original=true/724a559f-6cb0-4489-8ecd-851def26f8f7.jpeg"
+    ],
+    "tool": "flux_dev",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122765529"
+  },
+  {
+    "id": "civitai_122765779",
+    "prompt": "ethereal fantasy concept art of  A whimsical soft digital painting, masterpiece, high quality, innocent.\nA dynamic Dutch angle shot creating a sense of unease and grand instability, of a scorching endless desert with rolling golden sand dunes heat haze distorting the horizon and dry cracked earth in the foreground, silent as the grave with a haunting emptiness that permeates the scene, glowing with the bioluminescent light of strange flora in the twilight creating an alien color palette. Painted in Pre-Raphaelite landscape style with intense attention to detail bright colors and focus on nature. highly detailed 8k resolution visible brushstrokes varnish finish craquelure texture museum quality..\ncolor theme monet lavender and soft peach. spring. dawn. rain.\nMasterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic.\noil painting, in the style of Rembrandt,\n<lora:style_of_Rembrandt_FLUX_135:0.8>,\n<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,\n<lora:age_v1:-1>,\n<lora:113_novuschromaFLX_1:0.2> novuschroma,\n<lora:softwhim:1> whimsical,\n<lora:FS_v3:0.4> FS,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style from Renaissance period, masterful composition, Renaissance mood, renaissance oil painting, brush strokes . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy",
+    "negativePrompt": "painting, drawing, signature, watermark, ugly, off-center, deformed, cropped, frame, worst quality, low quality, lowres, JPEG artifacts, painting frame, signature, watermark, photo, photorealistic, realism, ugly, off-center, deformed, 35mm film, dslr, cropped, frame, worst quality, low quality, lowres, JPEG artifacts, photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2f5161f6-7d17-48da-b272-a5cba90099b5/original=true/2f5161f6-7d17-48da-b272-a5cba90099b5.jpeg"
+    ],
+    "tool": "flux_dev",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122765779"
+  },
+  {
+    "id": "civitai_122134770",
+    "prompt": "ethereal fantasy concept art of  A beautiful girl with long black hair, wearing a colorful kimono, walks through a night field, holding a Japanese paper lantern that barely dispels the darkness around her. Tall grass, wind. An endless starry sky above her head and the Milky Way crossing the sky. Low angle, dynamic picture, epic,\nextremely detailed, perfect composition, a vibrant tissue of hues and textures captured digitally, best quality, realistic, captivating, intricately detailed, hyper detailed, maximalist style, dynamic lighting, superb composition, finest details, highest aesthetics, best quality, sharp focus, high contrast, stylized, clear, colorful, ultra quality, whimsical, fantastic, splash art, intricate detailed, hyperdetailed, maximalist style, hyper detailed, maximalist style, concept art, sharp focus, harmony, serenity, calm, mysterious glow, dynamic lighting, superb composition, sharp focus, high contrast, stylized, clear, colorful, ultra quality, best quality, DB4RZ, DB4RZ style painting, in the style of cksc, a masterpiece, award winning\n <lora:FLUX-daubrez-DB4RZ-v2:0.5> <lora:Luminous_Nostalgia_Cinematic_Fantasy_Glow:0.5> <lora:MoriiMee_Gothic_Niji_Style__FLUX_LoRA_Test_2:0.8> . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy",
+    "negativePrompt": "photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d4ec85ca-6d5a-43da-9526-44c765751865/original=true/d4ec85ca-6d5a-43da-9526-44c765751865.jpeg"
+    ],
+    "tool": "flux1-dev-bnb-nf4-v2",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122134770"
+  },
+  {
+    "id": "civitai_122452825",
+    "prompt": "surrealist art anime artwork Salt flats reflecting pink horizon, frost flowers on ice, renaissance-style garden folly,,Multidimensional fantasy ecosystem containing fragmenting reality fields causing overlapping biome layers governed by ancient druidic AI constructs,swamp-claimed citadel remains where flooded throne rooms shelter electric eel courts, their algae-covered walls vibrating with peat-preserved war cries, lake,  Mechanical pilgrims with limbs transforming into tools, A lagoon holding liquefied starlight coral towers emitting radio frequencies,  black hole accretion disk as polar light show, A proliferation of ferromagnetic sunflowers tracking solar flares, years lasting minutes with hyper-evolution, rain that evaporates before landing, leaving scent-auras,,\n<lora:style_of_Rembrandt_FLUX_135:0.8>,\n<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,\n<lora:113_novuschromaFLX_1:0.2> novuschroma,\n<lora:softwhim:1> whimsical,\n<lora:FS_v3:0.4> FS,\n<lora:openart_Surreal_Anime_III_20250104_025344:0.3>, \n<lora:atomeaser_v1:0.15>,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling . anime style, key visual, vibrant, studio anime,  highly detailed . dreamlike, mysterious, provocative, symbolic, intricate, detailed, Surrealism art style, dreamlike and irrational imagery, explores the unconscious mind, juxtaposition of unlikely elements, challenges reality and logic",
+    "negativePrompt": "painting, drawing, signature, watermark, ugly, off-center, deformed, cropped, frame, worst quality, low quality, lowres, JPEG artifacts, photo, deformed, black and white, realism, disfigured, low contrast, anime, photorealistic, realistic, deformed, glitch, noisy, low contrast, signature, watermark, ugly, off-center, deformed, cropped, frame, worst quality, low quality, lowres, JPEG artifacts",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/14e66b8a-9964-48c3-869a-1cf3a31524b8/original=true/14e66b8a-9964-48c3-869a-1cf3a31524b8.jpeg"
+    ],
+    "tool": "fluxArtFusionV10Fp8_v10Fp8",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122452825"
+  },
+  {
+    "id": "civitai_122732637",
+    "prompt": "lazypos, adult, aroused, aegyosal, (CivChan, glowing purple eyes, pink hair, arrogant smile, cocky smile, maid uniform, messy bob haircut 1.2), high heel ankle boots, (scary:1.15), demented, (crazy grin:1.2), butcher (knife in hand:1.3), (blood everywhere:1.35), (blood:1.15), (maniacal laughter:1.2), (revenge:1.3), (maroon eyeshadow under eye, maroon blush makeup, gyaru makeup, eyeliner:1), (doe eyes makeup:0.5), ambient occulusion, (((1girl))), torn clothes, foreshortening, medium shot, parted lips, teeth, (head tilt:0.8) ((pink background)), (((high tech corridor background))), (dynamic lighting:1.1), (backlighting:1.4), high contrast, deep shadows, vignetting, light fall off, (harsh shadows), harsh lighting, pink theme, warm light, dark, shadow, night, (indirect lighting:1.8), film noir style, chiaroscuro lighting, cinematic lighting, rim light, rim lighting, side lighting, abstract background, (warm tones:1.1), film aesthetic, sunset, golden hour, red hues, red tones, (low contrast, weak lighting:1.2), retro aesthetic, 90s aesthetic, thin body, very tall body, medium breasts, purple lips, (white lips:0.8), natural breasts, sagging breasts, masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, intricate details, ultra-detailed, hyper-detailed, realistic, lineless, dynamic composition, dynamic pose, subsurface scattering, hyperrealistic, finely detailed eyes, sharp nose, tall nose, small nose, long neck, sharp chin, pale skin, broad shoulders, thin lips, slim lips, (long arms, long legs, very long torso, small ass, thin body:1.05), (white skin:0.9), smooth skin, matte skin, detailed skin, smooth skin, realistic skin",
+    "negativePrompt": "unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a322129a-d72a-4e9a-9fa8-518613604a3f/original=true/a322129a-d72a-4e9a-9fa8-518613604a3f.jpeg"
+    ],
+    "tool": "fubuwaMIX3DREAL_v24",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122732637"
+  },
+  {
+    "id": "civitai_122611470",
+    "prompt": "Dark unsettling cinematic surreal gothic digital painting with visible brushstrokes and layered texture, a lone wanderer walks across an endless mirror like black water plain, the surface reflects a violent storm sky with shifting fractal clouds in distorted infrared colors, unnatural scarlet, poisonous blue, neon green, a faint bioluminescent glow pulses beneath the surface like fireflies, colossal monolith fragments erupt from the mirror like skeletal organic leviathan remains, warped bone like ridges and wet stone sheen, overhead a massive shattered satellite drifts through swirling fog, ancient and silent, barely outlined against torn cloud bands, fog rolls low and emits sickly green flashes and infrared glints, reflections stretch into broken shards and bend perspective like a fever dream, wide angle low viewpoint near the reflective surface, deep atmospheric haze, sharp micro detail on textures, soft bloom on neon highlights, subtle film grain and vignette, melancholy grim beauty, high resolution cinematic lighting.",
+    "negativePrompt": "",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/41c645da-ebad-4223-bdb1-0c89cd536e58/original=true/41c645da-ebad-4223-bdb1-0c89cd536e58.jpeg"
+    ],
+    "tool": "Unknown",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122611470"
+  },
+  {
+    "id": "civitai_122562921",
+    "prompt": "score_7, score_8, score_9, \n\nserval \\(kemono friends\\), blonde hair, yellow eyes, \n:3, fang, \n\n@tsukumizu,\n\njagged lineart, visible hatching texture, hatching \\(texture\\),\n\nServal from Kemono Friends positioned in a simple indoor setting, focused on a sealed metal can of tuna held between her hands. She is leaning forward and biting the top edge of the unopened can with her visible sharp fangs, applying pressure but failing to puncture it. Her cheeks are slightly puffed from effort, eyes wide and expressive, eyebrows slightly raised, giving her an endearing and determined look. The metal can is cylindrical with a printed label clearly visible. On the label, the brand name reads “CAN’T OF TUNA” in bold, clear lettering. Next to the text is a light green fish illustration centered on the label, and the fish image is crossed out with a deep red X made of two thick diagonal lines. The can surface reflects light subtly, showing its metallic texture. Serval’s animal ears, spotted tail, and characteristic outfit are visible, consistent with her Kemono Friends design. The focus is on the interaction between her fangs and the unopened can, emphasizing her unsuccessful attempt to bite through it.",
+    "negativePrompt": "",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0b772a5d-6bb1-456c-8acc-c30bc101dddb/original=true/0b772a5d-6bb1-456c-8acc-c30bc101dddb.jpeg"
+    ],
+    "tool": "Unknown",
+    "source": "civitai",
+    "sourceUrl": "https://civitai.com/images/122562921"
+  },
+  {
+    "id": "ph_9f35d13cd13-stable-diffusion-15-strong-warrior-princess-centered-key-visual-intricate-highly-detailed-breathtaking-beauty-precise-lineart-vibrant-comprehensive-cinematic-carne-griffiths-conrad-roset",
+    "prompt": "a masterpiece, batgirl/supergirl from dc comic wearing alternate yellow costume, coy and alluring, full body, Kim Jung gi, freedom, soul, digital illustration, comic style, cyberpunk, perfect anatomy, centered, approaching perfection, dynamic, highly detailed, watercolor painting, artstation, concept art, smooth, sharp focus, illustration, art by Carne Griffiths and Wadim Kashin, unique, award winning, masterpiece",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fg85340p71q25gb6bjz8vqivdmiux&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/9f35d13cd13-stable-diffusion-15-strong-warrior-princess-centered-key-visual-intricate-highly-detailed-breathtaking-beauty-precise-lineart-vibrant-comprehensive-cinematic-carne-griffiths-conrad-roset"
+  },
+  {
+    "id": "ph_eedee759ddc-stable-diffusion-15-a-portrait-of-an-old-coal-miner-in-19th-century-beautiful-painting-with-highly-detailed-face-by-greg-rutkowski-and",
+    "prompt": "a portrait of an old coal miner in 19th century, beautiful painting with highly detailed face by greg rutkowski and magali villanueve",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F8vsajf5okvs9v0imi4jkiic3hjdw&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/eedee759ddc-stable-diffusion-15-a-portrait-of-an-old-coal-miner-in-19th-century-beautiful-painting-with-highly-detailed-face-by-greg-rutkowski-and"
+  },
+  {
+    "id": "ph_8863f6cbc15-stable-diffusion-15-hyper-realistic-painting-of-a-beautiful-girl-in-an-eva-plugsuit-hyper-detailed-anime-by-greg-rutkowski-trending-on-artstation",
+    "prompt": "Hyper realistic painting of a beautiful girl in an EVA plugsuit, hyper detailed, anime, by greg rutkowski, trending on artstation",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fg4n3boj7wkfug4mkf68fj0dcj6os&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/8863f6cbc15-stable-diffusion-15-hyper-realistic-painting-of-a-beautiful-girl-in-an-eva-plugsuit-hyper-detailed-anime-by-greg-rutkowski-trending-on-artstation"
+  },
+  {
+    "id": "ph_65f69ef422e-stable-diffusion-15-store-full-of-curious-collectibles-incredible-anime-digital-2d-animated-by-kyoto-animation-studio-ghibli-miyazaki-akira-art-style-beautiful",
+    "prompt": "store full of curious collectibles :: incredible, anime, Digital 2D, animated by Kyoto Animation, Studio Ghibli, Miyazaki, AKIRA art style, beautiful, gorgeous, dramatic lighting, rule of thirds, perfect composition, trending on ArtStation, 4k --ar 1:2 --quality 2",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fxdol66d0nh5necyeaq77qur07i05&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/65f69ef422e-stable-diffusion-15-store-full-of-curious-collectibles-incredible-anime-digital-2d-animated-by-kyoto-animation-studio-ghibli-miyazaki-akira-art-style-beautiful"
+  },
+  {
+    "id": "ph_42650b48748-stable-diffusion-15-a-portrait-of-an-old-coal-miner-in-19th-century-beautiful-painting-with-highly-detailed-face-by-greg-rutkowski-and",
+    "prompt": "a portrait of an old coal miner in 19th century, beautiful painting with highly detailed face by greg rutkowski and magali villanueve",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F23g20r9312ok51c1bv4uvsctcdo7&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/42650b48748-stable-diffusion-15-a-portrait-of-an-old-coal-miner-in-19th-century-beautiful-painting-with-highly-detailed-face-by-greg-rutkowski-and"
+  },
+  {
+    "id": "ph_7d04616cd60-stable-diffusion-15-poster-of-warrior-princess-standing-on-hill-centered-key-visual-intricate-highly-detailed-breathtaking-precise-lineart-vibrant-panoramic-cinematic-carne",
+    "prompt": "poster of warrior princess| standing on hill |centered| key visual| intricate| highly detailed| breathtaking| precise lineart| vibrant| panoramic| cinematic| Carne Griffiths| Conrad Roset",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Frr4s7i82to83u1b1xav06r3epnj0&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/7d04616cd60-stable-diffusion-15-poster-of-warrior-princess-standing-on-hill-centered-key-visual-intricate-highly-detailed-breathtaking-precise-lineart-vibrant-panoramic-cinematic-carne"
+  },
+  {
+    "id": "ph_f2225c97abd-stable-diffusion-15-sango-fantasy-fantasy-magic-intricate-sharp-focus-illustration-highly-detailed-digital-painting-concept-art-matte-artgerm-and-paul-lewin-and",
+    "prompt": ":  sango fantasy, fantasy magic,  , intricate, sharp focus, illustration, highly detailed, digital painting, concept art, matte, Artgerm and Paul lewin and kehinde wiley, masterpiece",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fqqpkrx9izcfac5jznmq1kaedoyes&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/f2225c97abd-stable-diffusion-15-sango-fantasy-fantasy-magic-intricate-sharp-focus-illustration-highly-detailed-digital-painting-concept-art-matte-artgerm-and-paul-lewin-and"
+  },
+  {
+    "id": "ph_d8e2891564d-stable-diffusion-15-high-quality-portrait-of-gordon-freeman-from-hl2-art-by-makoto-shinkai-crunchyroll-pixiv-danbooru-hd-headshot-cinematic-still-detailed",
+    "prompt": "High quality portrait of Gordon Freeman from HL2. Art by Makoto Shinkai, Crunchyroll, pixiv, danbooru, HD, headshot, cinematic still, detailed anime face, bokeh, digital art, cel shading, vivid colors, ambient lighting",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fgz3ybqf5cu7dd2s9a1bpf94y3tga&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/d8e2891564d-stable-diffusion-15-high-quality-portrait-of-gordon-freeman-from-hl2-art-by-makoto-shinkai-crunchyroll-pixiv-danbooru-hd-headshot-cinematic-still-detailed"
+  },
+  {
+    "id": "ph_be3aeffd9e6-stable-diffusion-15-long-range-view-beautiful-japanese-flower-garden-elegant-bridges-waterfalls-pink-and-white-by-akihito-yoshida-ismail-inceoglu-karol-bak",
+    "prompt": "long range view, Beautiful Japanese flower garden, elegant bridges, waterfalls, pink and white, by Akihito Yoshida, Ismail Inceoglu, Karol Bak, Airbrush, Dramatic, Panorama, Cool Color Palette, Megapixel, Lumen Reflections, insanely detailed and intricate, hypermaximalist, elegant, ornate, hyper realistic, super detailed, unreal engine",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Faqtrz9u33a0g7lu6s8jcqe2s3z31&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/be3aeffd9e6-stable-diffusion-15-long-range-view-beautiful-japanese-flower-garden-elegant-bridges-waterfalls-pink-and-white-by-akihito-yoshida-ismail-inceoglu-karol-bak"
+  },
+  {
+    "id": "ph_58dae66c5f4-stable-diffusion-15-scarlett-johansson-highly-detailed-artstation-smooth-sharp-focus-8k-art-by-art-by-artgerm-and-greg-rutkowski-and-edgar-maxence",
+    "prompt": "Scarlett Johansson, highly detailed, artstation, smooth, sharp focus, 8K, art by art by artgerm and greg rutkowski and edgar maxence.",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F6mn44zxlna8b7rd8k21ewm1rurxb&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/58dae66c5f4-stable-diffusion-15-scarlett-johansson-highly-detailed-artstation-smooth-sharp-focus-8k-art-by-art-by-artgerm-and-greg-rutkowski-and-edgar-maxence"
+  },
+  {
+    "id": "ph_2ef636592fb-stable-diffusion-15-a-ultradetailed-beautiful-panting-of-a-stylish-woman-by-conrad-roset-greg-rutkowski-and-makoto-shinkai-trending-on-artstation",
+    "prompt": "a ultradetailed beautiful panting of a stylish woman, by conrad roset, greg rutkowski and makoto shinkai, trending on artstation",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fml3rg7xmao7dnvmtmz0pfzfx9z7x&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/2ef636592fb-stable-diffusion-15-a-ultradetailed-beautiful-panting-of-a-stylish-woman-by-conrad-roset-greg-rutkowski-and-makoto-shinkai-trending-on-artstation"
+  },
+  {
+    "id": "ph_028d04e14ae-stable-diffusion-15-young-man-with-long-face-with-clean-shaven-short-beard-with-dark-hair-without-hat-without-glasses-with-t-shirt",
+    "prompt": "young man with long face, with clean shaven short beard, with dark hair, without hat, without glasses, with t-shirt, with hoodies, line art, ink, portrait, stroke only, style moebius.",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fu920v6ltyitqc23gve9n5yu1n9cy&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/028d04e14ae-stable-diffusion-15-young-man-with-long-face-with-clean-shaven-short-beard-with-dark-hair-without-hat-without-glasses-with-t-shirt"
+  },
+  {
+    "id": "ph_edd9661b619-stable-diffusion-15-detailed-and-realistic-upper-body-portrait12-of-a-woman-with-a-few-freckles08-break-round-eyes-and-short-messy-hair",
+    "prompt": "detailed and realistic (upper body portrait:1.2) of a woman with a few (freckles:0.8) BREAK round eyes and short messy hair BREAK shot outside, wearing a white t shirt, staring at camera, chapped lips BREAK soft natural lighting, portrait photography, magical photography, dramatic lighting, photo realism, ultra-detailed, intimate portrait composition, Leica 50mm, f1. 4",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F5t5nrurlg8ybqz77mylrtby1sg7d&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/edd9661b619-stable-diffusion-15-detailed-and-realistic-upper-body-portrait12-of-a-woman-with-a-few-freckles08-break-round-eyes-and-short-messy-hair"
+  },
+  {
+    "id": "ph_08be173c486-stable-diffusion-15-a-highly-detailed-matte-painting-of-a-young-boy-and-girl-at-the-bottom-of-a-huge-hill-by-studio",
+    "prompt": "a highly detailed matte painting of a young boy and girl at the bottom of a huge hill by studio ghibli, makoto shinkai, by artgerm, by wlop, by greg rutkowski, volumetric lighting, octane render, 4 k resolution, trending on artstation, masterpiece",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fpml3dtt83hwl130pvdfrnq153vgt&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/08be173c486-stable-diffusion-15-a-highly-detailed-matte-painting-of-a-young-boy-and-girl-at-the-bottom-of-a-huge-hill-by-studio"
+  },
+  {
+    "id": "ph_1f07d2d7062-stable-diffusion-15-steve-jobs-star-wars-movie-character-highly-detailed-digital-fantasy-character-painted-portrait-artstation-concept-art-hard-focus-illustrations-works",
+    "prompt": "Steve Jobs Star Wars movie character, highly detailed, digital fantasy character, painted portrait, artstation, concept art, hard focus, illustrations, works by artgerm and Greg Rutkowski, Alphonse Mucha and Craig Mullins, James Jean, Andrey Ryabovichev, Mark Simonetti and Peter Morbacher, 16k,",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F8q060ldfn4rt2lkr4zcthifnwq3p&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/1f07d2d7062-stable-diffusion-15-steve-jobs-star-wars-movie-character-highly-detailed-digital-fantasy-character-painted-portrait-artstation-concept-art-hard-focus-illustrations-works"
+  },
+  {
+    "id": "ph_5cc60dbf76a-stable-diffusion-15-baroque-rococo-architecture-architectural-photography-post-apocalyptic-new-york-hyperrealism-hyperrealistic-octane-render-cinematic-hyper-detailed-8k",
+    "prompt": "Baroque rococo architecture, architectural photography, post apocalyptic New York, hyperrealism, hyperrealistic, octane render, cinematic, hyper detailed, 8K",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fjig5foi8fh7k920flrcl96dwhabz&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/5cc60dbf76a-stable-diffusion-15-baroque-rococo-architecture-architectural-photography-post-apocalyptic-new-york-hyperrealism-hyperrealistic-octane-render-cinematic-hyper-detailed-8k"
+  },
+  {
+    "id": "ph_85aa11db8db-stable-diffusion-xl-base-09-aesthetic-painterly-style-modern-ink-asian-girl-sensual-sultry-dark-blouse-expressive-pose-urbanpunk-abstract-texture-multilayer-background-neo-expressionist",
+    "prompt": "aesthetic, painterly style, modern ink, Asian girl, sensual, sultry, dark blouse, expressive pose, urbanpunk, abstract texture multilayer background, neo-expressionist , Russ Mills, Ian Miller",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fw4dag85vpu2h95ggvvcq1g5v1wf4&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/85aa11db8db-stable-diffusion-xl-base-09-aesthetic-painterly-style-modern-ink-asian-girl-sensual-sultry-dark-blouse-expressive-pose-urbanpunk-abstract-texture-multilayer-background-neo-expressionist"
+  },
+  {
+    "id": "ph_4f09bf671ff-stable-diffusion-xl-base-09-an-image-of-a-woman-standing-straight-on-head-turned-slightly-to-her-left-looking-directly-into-the-camera-with",
+    "prompt": "An image of a woman standing straight on, head turned slightly to her left, looking directly into the camera with a confident yet curious expression. She has dark brown, wavy hair and fair skin with noticeable freckles. Her eyes are amber brown with a warm light reflecting in them. She wears a tartan plaid garment in navy blue and red with white lines, and the neckline is slightly off her right shoulder. The setting is brightly lit with natural light.",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Favg2mpaytbaed3zucz440261xu62&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/4f09bf671ff-stable-diffusion-xl-base-09-an-image-of-a-woman-standing-straight-on-head-turned-slightly-to-her-left-looking-directly-into-the-camera-with"
+  },
+  {
+    "id": "ph_e02e8fc8584-stable-diffusion-xl-base-09-bat-girl-a-masterpiece-batgirlsupergirl-from-dc-comic-wearing-alternate-yellow-costume-coy-and-alluring-full-body-kim-jung-gi-freedom-soul",
+    "prompt": "a masterpiece, batgirl/supergirl from dc comic wearing alternate yellow costume, coy and alluring, full body, Kim Jung gi, freedom, soul, digital illustration, comic style, cyberpunk, perfect anatomy, centered, approaching perfection, dynamic, highly detailed, watercolor painting, artstation, concept art, smooth, sharp focus, illustration, art by Carne Griffiths and Wadim Kashin, unique, award winning, masterpiece",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ferklkhk7nw0k92x16xzhmye4utuv&w=1920&q=75"
+    ],
+    "tool": "Stable Diffusion",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/e02e8fc8584-stable-diffusion-xl-base-09-bat-girl-a-masterpiece-batgirlsupergirl-from-dc-comic-wearing-alternate-yellow-costume-coy-and-alluring-full-body-kim-jung-gi-freedom-soul"
+  },
+  {
+    "id": "ph_67e6fb9e753-flux-flux1-dev-a-woman-with-long-brunette-hair-and-fair-skin-is-captured-in-a-candid-moment-shes-wearing-a-very-loose",
+    "prompt": "Monochromatic outdoor portrait of a woman, eyes closed, flowing hair, light dress, serene expression, gentle breeze, soft natural light.",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fjv31b50y4tcx5e83ckg96aayisju&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/67e6fb9e753-flux-flux1-dev-a-woman-with-long-brunette-hair-and-fair-skin-is-captured-in-a-candid-moment-shes-wearing-a-very-loose"
+  },
+  {
+    "id": "ph_1a4319d1210-flux-flux1-dev-experimenting-with-fluxdev-combined-with-sd15-for-face-detailer-i-am-very-happy-with-the-results-the-model-is-more-a-woman-with-wavy-dark-brown-hair-wearing-an-off-shoulder-oversized-brown-knit-sweater-she-gazes-softly-toward-the",
+    "prompt": "A woman with wavy dark brown hair, wearing an off-shoulder oversized brown knit sweater. She gazes softly toward the camera, slightly tilting her head, with her right hand gently brushing her hair. The lighting is warm, creating a cozy atmosphere.",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fok1xgi4lafiywolnckk8qb3qzt3k&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/1a4319d1210-flux-flux1-dev-experimenting-with-fluxdev-combined-with-sd15-for-face-detailer-i-am-very-happy-with-the-results-the-model-is-more-a-woman-with-wavy-dark-brown-hair-wearing-an-off-shoulder-oversized-brown-knit-sweater-she-gazes-softly-toward-the"
+  },
+  {
+    "id": "ph_c59b23ee650-flux-flux-11-pro-the-girl-takes-a-photo-with-her-phone-of-herself-in-the-mirror-she-has-24-years-old-has-straight",
+    "prompt": "the girl takes a photo with her phone of herself in the mirror, she has 24 years old, has straight brown long hair, she is posing and is wearing leggings",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F0j6k2cico5tg3omc2xb23ok9kuff&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/c59b23ee650-flux-flux-11-pro-the-girl-takes-a-photo-with-her-phone-of-herself-in-the-mirror-she-has-24-years-old-has-straight"
+  },
+  {
+    "id": "ph_193baa13e5b-flux-flux-11-pro-rpg-style-macro-a-low-quality-cctv-camera-with-a-slightly-fish-eye-lens-effect-the-cameras-timestamp-and-static",
+    "prompt": "RPG, Style: MACRO, a low-quality CCTV camera with a slightly fish-eye lens effect. The camera's timestamp and static lines are visible, contributing to the grainy, low-resolution appearance of Samantha, an intricate, attractive, 18-year-old woman with",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F2oxo0xy8iw94supm5i19ln3ywos3&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/193baa13e5b-flux-flux-11-pro-rpg-style-macro-a-low-quality-cctv-camera-with-a-slightly-fish-eye-lens-effect-the-cameras-timestamp-and-static"
+  },
+  {
+    "id": "ph_f30d79386ea-flux-flux1-dev-the-sensual-pianist",
+    "prompt": "She sits on a sleek, black piano bench, her body turned slightly to the side, showcasing the dramatic curve of her hips. Her pink latex suit clings to her body, the glittering sheen catching the soft light from the nearby window. Her fingers dance across the piano keys, but the eye is drawn to her hips, their sensual silhouette accentuated by the tight latex. Behind her, the grand piano's curves echo her own, creating a striking tableau.",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fe10vdvmvk2m4q99gx0m3iee1k28j&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/f30d79386ea-flux-flux1-dev-the-sensual-pianist"
+  },
+  {
+    "id": "ph_de1819b1b14-flux-flux-11-pro-a-photo-of-an-eccentric-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-light-blue-pajamas",
+    "prompt": "A photo of an eccentric woman sitting on top of white fluffy clouds wearing big sunglasses and light blue pajamas with yellow polka dots, she has short dark hair in a bob cut, the background is babyblue sky with white cloud formations, shot by Jimmy Marble, muted earthy colors, soft tones",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F6wryr34dlla639gjjfdrlk6bo4w6&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/de1819b1b14-flux-flux-11-pro-a-photo-of-an-eccentric-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-light-blue-pajamas"
+  },
+  {
+    "id": "ph_6b722566e8f-flux-dev-woman11-with-dark12-wavy-hair-is-totally-in-a-completely-dark11-open-room-with-the-only11-light-coming-directly11-from",
+    "prompt": "(woman:1.1) with (dark:1.2) wavy hair is totally in a completely (dark:1.1) open room with the (only:1.1) light coming (directly:1.1) from her sides from a 2 (large:1.1) (softboxes:1.1). Smiling She is wearing a BDSM (choker:1.1) and (stayups:1.1) and (holders:1.2). She is (sensual:1.4) looking and (glistening:1.4). The scene is shot with (Kodakportra800:1.1) (filmgrain:1.1) (Analogcamera:1.1) (Sharpdetails:1.1) (50mm:1.1) (carlzeiss:1.1) (planar@f4:1.1)",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fghmbqv0uhn5tqjuvatw33sz2nr7u&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/6b722566e8f-flux-dev-woman11-with-dark12-wavy-hair-is-totally-in-a-completely-dark11-open-room-with-the-only11-light-coming-directly11-from"
+  },
+  {
+    "id": "ph_946cfec1c24-flux-flux-11-pro-high-resolution-photo-of-a-angela-white-photorealistic-uhd-optimal-photography-natural-lighting-shot-on-a-sony-aiii-ar-12",
+    "prompt": "high-resolution photo of a Angela White, photorealistic, UHD, optimal photography, natural lighting, shot on a Sony A&III --ar 1:2",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fm13c37ket3ojcn9jo5emy8fpnldp&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/946cfec1c24-flux-flux-11-pro-high-resolution-photo-of-a-angela-white-photorealistic-uhd-optimal-photography-natural-lighting-shot-on-a-sony-aiii-ar-12"
+  },
+  {
+    "id": "ph_bacc1a1f331-flux-flux-11-pro-high-definition-extreme-detail-portrait-photo-a-beautiful-blonde-woman-sitting-on-a-bar-stool-at-a-local-dive-bar",
+    "prompt": "high definition, extreme detail, portrait photo, a beautiful blonde woman sitting on a bar stool at a local dive bar. She's wearing a tube dress and crossing her legs to accent her beautiful calves. Wearing black strappy stilettos. --ar 1:2",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fi9wb72euw7f90dt0h2vi81ru0kum&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/bacc1a1f331-flux-flux-11-pro-high-definition-extreme-detail-portrait-photo-a-beautiful-blonde-woman-sitting-on-a-bar-stool-at-a-local-dive-bar"
+  },
+  {
+    "id": "ph_15f3198e71e-flux-flux-11-pro-smur-fette-from-the-smurfs-beautiful-charismatic-woman-piercings-athletic-a-woman-with-a-white-dress-gorgeous-figure-interesting-shapes",
+    "prompt": "smur-fette from the smurfs, beautiful charismatic woman, piercings, athletic, a woman with a white dress, gorgeous figure, interesting shapes, full body photo shot, goth style, dark eye, in the style of jessica drossin, life-size figures, 8k sharp focus, highly detailed, photorealistic",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ffu2omfbhkvl23ahb7u8cpmisbasv&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/15f3198e71e-flux-flux-11-pro-smur-fette-from-the-smurfs-beautiful-charismatic-woman-piercings-athletic-a-woman-with-a-white-dress-gorgeous-figure-interesting-shapes"
+  },
+  {
+    "id": "ph_8fb8eb2a30c-flux-flux1-dev-experimenting-with-fluxdev-a-fun-model-to-work-with-i-am-not-an-affiliated-but-strongly-recommend-for-you-to-monochromatic-outdoor-portrait-of-a-woman-eyes-closed-flowing-hair-light-dress-serene-expression-gentle-breeze-soft-natural-light",
+    "prompt": "Monochromatic outdoor portrait of a woman, eyes closed, flowing hair, light dress, serene expression, gentle breeze, soft natural light.",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fd22kaj3r3vo1kgfswq2ce3fzippp&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/8fb8eb2a30c-flux-flux1-dev-experimenting-with-fluxdev-a-fun-model-to-work-with-i-am-not-an-affiliated-but-strongly-recommend-for-you-to-monochromatic-outdoor-portrait-of-a-woman-eyes-closed-flowing-hair-light-dress-serene-expression-gentle-breeze-soft-natural-light"
+  },
+  {
+    "id": "ph_02f9a5ea224-flux-dev-realistic-cinematic-image-with-dark-shadows-and-high-contrast-a-fit-28yo-woman-standing-on-a-sandy-beach-near-a",
+    "prompt": "Monochromatic outdoor portrait of a woman, eyes closed, flowing hair, light dress, serene expression, gentle breeze, soft natural light.",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ffd7ysdmgrssf5zsujete4z4xdo&w=1920&q=75"
+    ],
+    "tool": "Flux",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/02f9a5ea224-flux-dev-realistic-cinematic-image-with-dark-shadows-and-high-contrast-a-fit-28yo-woman-standing-on-a-sandy-beach-near-a"
+  },
+  {
+    "id": "ph_ebcc6231ec6-midjourney-6-close-up-of-a-stunning-fashion-model-ultra-realistic-portrait-shot-on-a-sony-a7iii-high-quality-ar-3564-stylize",
+    "prompt": "woman bionic ceramic glossy pink face sculpture, pushed out of the background, front view, brightly lit, ultra realistic, modern minimalism, futuristic, --style raw --ar 3:4 --s 350 --v 6.0",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F9qbfr7mlnt8sn7yp01pw02z7ez1r&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/ebcc6231ec6-midjourney-6-close-up-of-a-stunning-fashion-model-ultra-realistic-portrait-shot-on-a-sony-a7iii-high-quality-ar-3564-stylize"
+  },
+  {
+    "id": "ph_2ab02642feb-midjourney-6-a-woman-with-long-black-hair-in-a-gold-painting-in-the-style-of-charlie-bowater-dark-blue-and-dark",
+    "prompt": "a woman with long black hair in a gold painting, in the style of charlie bowater, dark blue and dark black, michael garmash, comic art, realistic color palette, dark black and beige, soft-focused realism --ar 24:37 --stylize 750 --v 6",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F50gc2ppgkgsgxnv2krblzlx7rzvs&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/2ab02642feb-midjourney-6-a-woman-with-long-black-hair-in-a-gold-painting-in-the-style-of-charlie-bowater-dark-blue-and-dark"
+  },
+  {
+    "id": "ph_f0df2fdf530-midjourney-6-chroma-portrait",
+    "prompt": "photography, portrait of contrast, profile silhouette of a woman, vibrant hot pink backdrop, visualize using a camera setup that mimics a large aperture, focusing solely on the silhouette's edge, while a low ISO maintains the richness of color without grain, photorealistic, UHD --ar 9:16 --chaos 1.7 --style raw",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F7nqvhyrmf607ngkesub1l7kxc9j3&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/f0df2fdf530-midjourney-6-chroma-portrait"
+  },
+  {
+    "id": "ph_32aa4f3bf8f-midjourney-6-a-black-and-white-photo-of-a-woman-with-shadow-in-the-style-of-minimalist-beauty-light-bronze-and-bronze",
+    "prompt": "a black and white photo of a woman with shadow., in the style of minimalist beauty, light bronze and bronze, serene faces, sharp edges, karencore, high definition, contrast shading, realism --ar 3:5 --stylize 750 --v 6.0 --style raw",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fo7zetbmbjk7fr0d6qfsdlws88i8o&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/32aa4f3bf8f-midjourney-6-a-black-and-white-photo-of-a-woman-with-shadow-in-the-style-of-minimalist-beauty-light-bronze-and-bronze"
+  },
+  {
+    "id": "ph_08f6365cc1f-midjourney-6-japanese-girl-18-21-years-old-brown-hair-high-quality-photo-portrait-shot-on-a-polaroid-camera-double-eyelid-ar",
+    "prompt": "Japanese girl, 18-21 years old, brown hair, high-quality photo portrait, shot on a Polaroid camera, double eyelid --ar 34:65 --style raw",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fxjsos7jl5jltflxms50aa37a4bw5&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/08f6365cc1f-midjourney-6-japanese-girl-18-21-years-old-brown-hair-high-quality-photo-portrait-shot-on-a-polaroid-camera-double-eyelid-ar"
+  },
+  {
+    "id": "ph_bc8c5f53f0d-midjourney-6-a-woman-with-long-wild-hair-on-a-windy-day-in-the-style-of-toy-camera-effects-haunting-elegance-frozen",
+    "prompt": "a woman with long wild hair on a windy day, in the style of toy camera effects, haunting elegance, frozen movement, captivating gaze, voigtlander bessa r2m, black paintings, new york school --ar 71:128 --stylize 750 --v 6",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fwrpbbm0g66wjerf6nluq4u0gothp&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/bc8c5f53f0d-midjourney-6-a-woman-with-long-wild-hair-on-a-windy-day-in-the-style-of-toy-camera-effects-haunting-elegance-frozen"
+  },
+  {
+    "id": "ph_abb78caf579-midjourney-6-model-portrait",
+    "prompt": "photography, orange hue, korean woman model, solid orange backdrop, using a camera setup that mimics a large aperture, f/1.4 --ar 9:16 --style raw",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fyktjuihsozyxcetxc5hsasx2wed8&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/abb78caf579-midjourney-6-model-portrait"
+  },
+  {
+    "id": "ph_01b47dfdc90-midjourney-6-red-race-car-in-the-style-of-sam-spratt-historical-illustrations-old-masters-genndy-tartakovsky-soggy-masaccio-monochromatic-realism-ar",
+    "prompt": "red race car, in the style of sam spratt, historical illustrations, old masters, genndy tartakovsky, soggy, masaccio, monochromatic realism --ar 63:128 --stylize 750 --v 6",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fluqvns7twvdbtnmwlaesatvjuqmr&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/01b47dfdc90-midjourney-6-red-race-car-in-the-style-of-sam-spratt-historical-illustrations-old-masters-genndy-tartakovsky-soggy-masaccio-monochromatic-realism-ar"
+  },
+  {
+    "id": "ph_294c17aa862-midjourney-6-a-woman-wearing-a-cropped-top-and-jeans-standing-in-front-of-the-bus-stop-in-the-style-of-oleg",
+    "prompt": "a woman wearing a cropped top and jeans standing in front of the bus stop, in the style of Oleg Oprisco, video, Jocelyn Hobbie, soft, muted tones, close up, wavy, Nick Knight --ar 36:55 --stylize 750 --v 6",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F98gc6zje8wb8m6m520cu2mvita7i&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/294c17aa862-midjourney-6-a-woman-wearing-a-cropped-top-and-jeans-standing-in-front-of-the-bus-stop-in-the-style-of-oleg"
+  },
+  {
+    "id": "ph_455ba9632b9-midjourney-6-a-young-girl-in-a-business-suit-with-a-very-angry-expression-in-the-style-of-unreal-engine-5-cartoonish",
+    "prompt": "a young girl in a business suit with a very angry expression, in the style of unreal engine 5, cartoonish caricatures, i can't believe how beautiful this is, animated gifs, life-like avian illustrations, close-up, soft, romantic scenes --ar 35:64 --stylize 750 --v 6",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F10pckza1p0gaurf4kxbsmp7d1qnp&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/455ba9632b9-midjourney-6-a-young-girl-in-a-business-suit-with-a-very-angry-expression-in-the-style-of-unreal-engine-5-cartoonish"
+  },
+  {
+    "id": "ph_734abbef34f-midjourney-52-sketches-blueprint-of-futuristic-sci-fi-huge-spacecraft-warp-engines-formulas-and-annotations-schematic-by-parts-golden-ratio-fake-detail",
+    "prompt": "sketches blueprint of futuristic sci-fi huge spacecraft, warp engines, formulas and annotations, schematic by parts, golden ratio, fake detail, trending pixiv fanbox, acrylic palette knife, style of makoto shinkai studio ghibli genshin impact james gilleard greg rutkowski chiho aoshima",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fmuyejayamebyuyjpbbrw0g0consy&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/734abbef34f-midjourney-52-sketches-blueprint-of-futuristic-sci-fi-huge-spacecraft-warp-engines-formulas-and-annotations-schematic-by-parts-golden-ratio-fake-detail"
+  },
+  {
+    "id": "ph_7e6790663a2-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-in-leather-jacket-with-headscarf-sitting-inside-vintage-convertible-car-on",
+    "prompt": "Black and white street photography of an attractive woman in leather jacket with headscarf sitting inside vintage convertible car, on the streets of London, shot by arriflex 35 BL Camera Canon K35 Prime Lenses --ar 1:2 --stylize 750",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F54xz2e9g2xcdm3f28xc308ocfug4&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/7e6790663a2-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-in-leather-jacket-with-headscarf-sitting-inside-vintage-convertible-car-on"
+  },
+  {
+    "id": "ph_a885efdb34f-midjourney-6-wide-and-low-angle-cinematic-fashion-photography-for-the-brand-uniqlo-woman-sitting-on-floor-wearing-a-uniqlo-heattech-top",
+    "prompt": "wide and low angle, cinematic, fashion photography for the brand Uniqlo. Woman sitting on floor wearing a Uniqlo heattech top, and brown chinos. The background is a gradient, red, pink and orange, studio setting\n\n\n--ar\n 9:16",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fuzz5smeabs9ptyzu8sc14l61ez71&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/a885efdb34f-midjourney-6-wide-and-low-angle-cinematic-fashion-photography-for-the-brand-uniqlo-woman-sitting-on-floor-wearing-a-uniqlo-heattech-top"
+  },
+  {
+    "id": "ph_35398996d65-midjourney-6-high-resolution-photograph-woman-stunning-use-of-shadows-in-the-syle-of-crisp-lines-and-forms-uhd-shot-on-a",
+    "prompt": "high-resolution photograph, woman, stunning use of shadows, in the syle of crisp lines and forms,  UHD, shot on a Sony A7III --ar 1:2 --style raw --stylize 250",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fx1vbmcdl3a611aymslpwjfk4keqt&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/35398996d65-midjourney-6-high-resolution-photograph-woman-stunning-use-of-shadows-in-the-syle-of-crisp-lines-and-forms-uhd-shot-on-a"
+  },
+  {
+    "id": "ph_d48a3c464ed-midjourney-52-kooky-portraits-of-90s-mall-teens-in-retro-clothing-shot-on-vhs",
+    "prompt": "Kooky portraits of 90’s mall teens in retro clothing, shot on VHS",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fyxmnjwx7akj5yh08n6h6er498wmu&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/d48a3c464ed-midjourney-52-kooky-portraits-of-90s-mall-teens-in-retro-clothing-shot-on-vhs"
+  },
+  {
+    "id": "ph_403f19fa9ee-midjourney-6-chinese-model-poses-for-a-selfie-in-the-style-of-social-media-influencers-webcam-photography-felicia-simion-photo-taken-with",
+    "prompt": "Chinese model poses for a selfie, in the style of social media influencers, webcam photography, Felicia Simion, photo taken with Provia, hinchel or, shiny --ar 68:128 --stylize 750 --v 6",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Ffkcmucr5tdx4bwgcwypx8tnhgdjr&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/403f19fa9ee-midjourney-6-chinese-model-poses-for-a-selfie-in-the-style-of-social-media-influencers-webcam-photography-felicia-simion-photo-taken-with"
+  },
+  {
+    "id": "ph_127011c5b32-midjourney-6-spacious-office-with-frontal-view-herman-miller-aeron-chairs-artemide-tolomeo-desk-lamps-captured-with-a-canon-eos-r5-50mm",
+    "prompt": "Spacious office with frontal view, Herman Miller Aeron chairs, Artemide Tolomeo desk lamps, captured with a Canon EOS R5, 50mm f/1.2 lens, balanced natural and LED lighting",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F2hvhr1d3tbo9a259m6erubbqz7fu&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/127011c5b32-midjourney-6-spacious-office-with-frontal-view-herman-miller-aeron-chairs-artemide-tolomeo-desk-lamps-captured-with-a-canon-eos-r5-50mm"
+  },
+  {
+    "id": "ph_21f6d0083d3-midjourney-niji-mode-jessica-rabbit-beautiful-charismatic-girlathletic-body-gorgeous-figure-interesting-shapes-full-body-shot-dark-eye-makeup-in-the-style-of",
+    "prompt": "Jessica Rabbit beautiful charismatic girl,athletic body, gorgeous figure, interesting shapes, full body shot, dark eye makeup, in the style of jessica drossin, --ar 51:91",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fgpkklu8h45sx206y2sezhbs4wwgz&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/21f6d0083d3-midjourney-niji-mode-jessica-rabbit-beautiful-charismatic-girlathletic-body-gorgeous-figure-interesting-shapes-full-body-shot-dark-eye-makeup-in-the-style-of"
+  },
+  {
+    "id": "ph_1b4691e84bb-midjourney-6-a-girl-in-a-purple-top-in-a-neon-city-in-the-style-of-chinapunk-iconic-album-covers-soft-focus",
+    "prompt": "a girl in a purple top in a neon city, in the style of chinapunk, iconic album covers, soft-focus portraits, luke fildes, light amber and silver, exotic, captivating lighting --ar 1:2 --stylize 750 --v 6",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fuz3llgy56lp3980u3boh0pua66ar&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/1b4691e84bb-midjourney-6-a-girl-in-a-purple-top-in-a-neon-city-in-the-style-of-chinapunk-iconic-album-covers-soft-focus"
+  },
+  {
+    "id": "ph_34e5b9b7983-midjourney-6-giraffe-in-flowers-by-artist-arne-thun-in-the-style-of-natalia-rak-8k-resolution-vintage-aesthetics-wallpaper-animated-gifs",
+    "prompt": "giraffe in flowers by artist arne thun, in the style of natalia rak, 8k resolution, vintage aesthetics, wallpaper, animated gifs, naoto hattori, highly realistic --ar 43:64 --v 6.0",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fchvp6z98z0y6e5wlif05z0yxu04w&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/34e5b9b7983-midjourney-6-giraffe-in-flowers-by-artist-arne-thun-in-the-style-of-natalia-rak-8k-resolution-vintage-aesthetics-wallpaper-animated-gifs"
+  },
+  {
+    "id": "ph_a435c81716f-midjourney-61-female-hair-photogrphy",
+    "prompt": "hair photography, woman, bob cut hair, silver color, ivory hue background, studio lighting setup, realistic details, soft highlighting natural hair texture, high-hair editorial style --ar 9:16 --quality 2 --style raw",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fgyil69md10h4a59fabsr4j9ifvsa&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/a435c81716f-midjourney-61-female-hair-photogrphy"
+  },
+  {
+    "id": "ph_0b8fb5ea2f3-midjourney-5-a-girl-with-white-hair-sitting-in-car-filled-withflowers-art-by-rinko-kawauchi-in-the-style-ofnaturalistic-poses-vacation",
+    "prompt": "a girl with white hair sitting in car filled withflowers, art by Rinko Kawauchi, in the style ofnaturalistic poses, vacation dadcore, youthfulenergy, a coolexpression, body extensions, flowersin the sky, analog film, super detail, dreamy lofiphotography, colourful, covered in flowers andvines, Inside view, shot on fujifilm XT4 --q 2 --v 5 --ar 3:4",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fcu3f6056zr51lv4j55rmuoitdgzm&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/0b8fb5ea2f3-midjourney-5-a-girl-with-white-hair-sitting-in-car-filled-withflowers-art-by-rinko-kawauchi-in-the-style-ofnaturalistic-poses-vacation"
+  },
+  {
+    "id": "ph_caba069aa34-midjourney-6-woman-bionic-ceramic-glossy-pink-face-sculpture-pushed-out-of-the-background-front-view-brightly-lit-ultra-realistic-modern-minimalism",
+    "prompt": "woman bionic ceramic glossy pink face sculpture, pushed out of the background, front view, brightly lit, ultra realistic, modern minimalism, futuristic, --style raw --ar 3:4 --s 350 --v 6.0",
+    "negativePrompt": "",
+    "images": [
+      "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fp6z0wk6ihh9hd9pbsv4nzulqe4ax&w=1920&q=75"
+    ],
+    "tool": "Midjourney",
+    "source": "prompthero",
+    "sourceUrl": "https://prompthero.com/prompt/caba069aa34-midjourney-6-woman-bionic-ceramic-glossy-pink-face-sculpture-pushed-out-of-the-background-front-view-brightly-lit-ultra-realistic-modern-minimalism"
   }
 ]
