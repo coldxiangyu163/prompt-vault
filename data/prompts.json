@@ -23965,5 +23965,34 @@
       "/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fp6z0wk6ihh9hd9pbsv4nzulqe4ax&w=1920&q=75"
     ],
     "source": "prompthero"
+  },
+  {
+    "id": "417222e25749",
+    "prompt": "<lora:gc_vintage:1> vintage <lora:Fancha_style_v.5:1> Fancha style <lora:Anime v1.3:1>  <lora:secret_grotesque_fantasy_flux1_v0.1_copy:1> secret_grotesque_fantasy",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2cc01c58-78b1-48c3-942d-99a56ac1f2d6/original=true/2cc01c58-78b1-48c3-942d-99a56ac1f2d6.jpeg"
+    ],
+    "tool": "Flux",
+    "tags": [
+      "anime",
+      "fantasy"
+    ],
+    "style": "anime",
+    "source": "civitai",
+    "createdAt": "2026-03-03T19:14:17.507Z"
+  },
+  {
+    "id": "47a0506902e9",
+    "prompt": "menchi, dog, solo, animal focus, animal, animal focus, sitting on chair, in tavern, in front of table, drinking a beer, looking depressed <lora:Menchi_-_Excel_Saga (1):1>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8babd77b-54ef-46b7-b1f0-213e056c6dc1/original=true/8babd77b-54ef-46b7-b1f0-213e056c6dc1.jpeg"
+    ],
+    "tool": "Pony Diffusion",
+    "tags": [
+      "character"
+    ],
+    "style": "mixed",
+    "source": "civitai",
+    "createdAt": "2026-03-03T19:14:17.507Z"
   }
 ]
