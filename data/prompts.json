@@ -26956,5 +26956,508 @@
     "created_at": "2026-03-03",
     "collected_at": "2026-03-04T03:55:04",
     "id": "20260304_civ_1772540781354"
+  },
+  {
+    "prompt": "Alien world, light pink skies, glass columns with white marble columns with geometric markings, fungal caps growing on the outside",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7dbc9afb-5cf9-46ee-a572-cc4610c07dfe/original=true/7dbc9afb-5cf9-46ee-a572-cc4610c07dfe.jpeg"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/123068082",
+    "author": "ajsigmaprojects958",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781355"
+  },
+  {
+    "prompt": "ANIRLEQ, blurry, chromatic aberration, skyger_style, rellahuafeng, Niji_oil_anime, 0_11Xx_B,dynamic angle,cute colors, pastel colors, bright, kawaii, sparkles,, illustrating, hyper detailed,perfect anatomy,dazzling,perfect face, very awa, masterpiece,  realistic lighting, ray tracing, ambient occlusion, soft shadows, global illumination, high poly, detailed environment, sharp and intricate details, vibrant colors, cinematic and epic atmosphere, style is ethereal and artistic, soft lighting and shadows, 4ur4_illu,shiny, masterpiece, detailed, best quality, newest), traditional media, hatching, 1girl, solo,(((multicolored eyes))),purple eyes, green eyes,blush,smile, dark background, messy background, looking at viewer, magical girl, sparkles, glitches,dynamic pose,cute pose,ancient greek clothes,laurel crown,armlet,grape head accessory, grape, vines, curly hair, messy hair, holding wine glass, dark skin, dark skinned girl, cinematic lighting. Detailed light and shadow effects highlight the texture of her clothing and hair strands, high resolution, aesthetic, excellent, medium resolution, year 2025, masterpiece, best quality, newest, highres, absurdres, incredibly absurdres, very awa, very aesthetic, extreme aesthetic, detail background\n<lora:ANIRL-EQ-000004:0.25> <lora:Skyger_Keagant_Style:0.3> <lora:rella:0.4> <lora:cknb02_stabilizer_v0.299a_fp16:0.2> <lora:Niji_oil_animme:0.2> <lora:0_11Xx_B:0.25> <lora:coll-000008:0.8>\n\nNegative prompt: low resolution, old, e621, furry, signature, username, logo, bad hands, mutated hands, worst quality, low quality,bad quality,worst detail,sketch,censor,extra fingers, six fingers, deformed hands",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/71dce7c4-557f-4256-b43c-62d4ece299a0/original=true/71dce7c4-557f-4256-b43c-62d4ece299a0.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photorealistic",
+      "fantasy",
+      "character",
+      "cinematic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/123068024",
+    "author": "cabbage522",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781356"
+  },
+  {
+    "prompt": "anime cyberpunk artwork. upper body shot of Elle, a stunning asian woman with black long wavy hair, in a black trenchcoat. Abandoned cyberpunk metro station reclaimed by nature, an overgrown train is standing on the tracks, overgrown with vines and moss intertwining with glowing fiber-optic cables and flickering neon panels. The tiled walls are cracked and stained, old graffiti glowing faintly under bioluminescent residue. Holographic billboards glitch in mid-air, projecting ghostly advertisements into the mist. Shafts of cool blue light filter through fractured ceiling panels, cutting through dense fog and illuminating drifting dust. Rusted rails run into darkness, puddles reflecting soft cyan and magenta glows. Elle stands stands near the platform edge, motionless, surrounded by silence and the hum of dying technology. Hyper-detailed cinematic lighting, 8K, volumetric light, high contrast, shallow depth of field, moody atmosphere, Unreal Engine render style, film still, anamorphic lens flare. Elle.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/374aa520-e26d-4b37-a705-5b745f0f4121/original=true/374aa520-e26d-4b37-a705-5b745f0f4121.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "sci-fi",
+      "cinematic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/123067958",
+    "author": "Corcoronel",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781357"
+  },
+  {
+    "prompt": "An archival-quality ink wash sketch on heavy, cold-pressed paper. Vertical portrait orientation. The scene is a monumental Dieselpunk metropolis inspired by Fritz Lang’s \"Metropolis\". The overall palette is a cold, monochromatic charcoal and slate-gray, punctuated by intense, isolated color tones: flickering amber, deep orange, and glowing embers from fires and flames. Dominating the hazy background is the colossal \"New Tower of Babel\". In the middle ground, a massive metallic zeppelin docks into an Art Deco skyscraper. Below, the \"Workers' Quarter\" leads into a dark chasm where the furnace-like \"Moloch\" machine erupts with vivid, isolated firelight, casting a warm glow on nearby pipes and scaffolding. A sleek, brass-accented Maschinenmensch stands in an expressionistic pose. The lighting is harsh Chiaroscuro, where cold shadows are violently cut by the localized, fiery light. Style blends Yoji Shinkawa’s mechanical grit with German Expressionism. Paper shows subtle textures, light fraying, and water stains.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c14242ea-5621-43c7-8c8a-fccd7acfcce5/original=true/c14242ea-5621-43c7-8c8a-fccd7acfcce5.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "sci-fi",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/123067115",
+    "author": "GegenDenTag",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781358"
+  },
+  {
+    "prompt": "A skeletal deer with large white antlers stands in profile, facing right. Its body is white bone, with blue, fibrous material covering the neck and back, resembling dreadlocks. The background features dark, shadowy mountains under a dark blue sky. Lighting is dramatic, highlighting the deer's form against the dark backdrop. Colors include white, blue, and dark blue. Style is photorealistic, with detailed bone structure and textured fibrous material.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e6203de3-7216-441b-8586-3b21af7de4bc/original=true/e6203de3-7216-441b-8586-3b21af7de4bc.jpeg"
+    ],
+    "tags": [
+      "landscape",
+      "photorealistic",
+      "character"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123067960",
+    "author": "bumblebeeze",
+    "tool": "SDXL",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781359"
+  },
+  {
+    "prompt": "Roshii art style: A hyper-stylized digital painting of a vintage muscle car drifting down a palm-lined avenue during a fiery sunset. The scene radiates heat and energy, with the ground reflecting streaks of red, gold, and crimson. Towering silhouettes of palm trees stretch toward the glowing orange sky, while the sun sets low on the horizon like a blazing halo. The caras chrome and paint shimmer under the intense light. The image fuses retro Americana with synthwave and vaporwave aesthetics, evoking motion, freedom, and rebellion. <lora:shiiro_E7:0.8>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/66240652-766e-4ac9-ba6d-c51ed8c17efa/original=true/66240652-766e-4ac9-ba6d-c51ed8c17efa.jpeg"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "digital-art",
+    "source_url": "https://civitai.com/images/123067952",
+    "author": "Corcoronel",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781360"
+  },
+  {
+    "prompt": "An elderly humanoid figure with wrinkled skin, large pointed ears, and a long, wrinkled trunk sits on a concrete floor. They wear a dark jacket over a yellow shirt and dark pants. Their hands rest on their lap, and a brown and black striped fur rug lies beneath them. The background is a plain gray wall. Lighting is soft, casting subtle shadows. Colors include gray, black, yellow, brown, and white. Style is photorealistic, resembling a studio portrait.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be301ad8-d6d0-4727-be48-f5c975290182/original=true/be301ad8-d6d0-4727-be48-f5c975290182.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123067844",
+    "author": "bumblebeeze",
+    "tool": "SDXL",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781361"
+  },
+  {
+    "prompt": "masterpiece, best quality, very awa, official art, flat color, illustration, ultra-detailed, 1girl, solo, delicate girl, blue hair, four ponytails, low twintails, golden eyes, very long sleeves, white theme, harbor city, harbor, long shot\n\nNegative prompt: worst quality, bad quality, worst detail, worst aesthetic, lowres,  displeasing, jpeg artifacts, noisy texture, watermark, signature, text, distortion, malformed hands, bad anatomy, bad proportions, ugly, fusion, mutation, deformed, extra fingers, missing limb, disconnected limbs, flexible deformity, fused eyes, bad tail,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec3056e3-e08e-4cc3-aa58-007bb2189bfe/original=true/ec3056e3-e08e-4cc3-aa58-007bb2189bfe.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape"
+    ],
+    "style": "digital-art",
+    "source_url": "https://civitai.com/images/123065251",
+    "author": "SAN0",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781362"
+  },
+  {
+    "prompt": "masterpiece, best quality, absurdres, highres, ultra-detailed, very aesthetic, wallpaper, 1girl, solo, hatsune miku, aqua hair, long hair, twintails, closed eyes, smile, open mouth, blush, tilted head, looking at viewer, school uniform, spread arms, incoming hug, lying, lying on leaves, from above, cowboy shot, depth of field, autumn, falling leaves, cinematic lighting, beautiful shadow, delicate girl\n\nNegative prompt: worst quality, bad quality, worst detail, worst aesthetic, lowres,  displeasing, jpeg artifacts, noisy texture, watermark, signature, text, distortion, malformed hands, bad anatomy, bad proportions, ugly, fusion, mutation, deformed, extra fingers, missing limb, disconnected limbs, flexible deformity, fused eyes, bad tail,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/039b559d-660a-4cb0-b0f2-8fc006be8cae/original=true/039b559d-660a-4cb0-b0f2-8fc006be8cae.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "cinematic"
+    ],
+    "style": "cinematic",
+    "source_url": "https://civitai.com/images/123066542",
+    "author": "SAN0",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781363"
+  },
+  {
+    "prompt": "A dramatic, dynamic Sumi-e ink wash and digital painting, depicting a mechanical/cybernetic incarnation of Batman in profile, facing to the right, on aged, textured cream-colored paper. The image embodies raw, expressive Sumi-e brushwork and intricate mechanical details. The mechanical cowl is a complex network of etched metal, exposed cables, and hydraulic pistons, with an etched crystalline visor featuring a fractured glass texture over one eye, which glows with a soft white light. The massive, heavy, shredded cape, constructed from pure kinetic ink wash, drapes and sweeps around his body, resolving into countless dynamic, unpredicatable ink splatters and stylized, jagged, bat-like fragments that create a palpable sense of movement, decay, and isolation, as requested. Interwoven within and rising from the ink splatter chaos is a massive, swirling swarm of small black bats.\nBehind Batman, explosive splashes of deep violet and black ink erupt, alongside subtle, unpredicatable golden ink drips and ochre paint splatters, integrating organically into the chaotic energy field to enhance the feeling of unraveling form. The central armored chest plate has a highly detailed, precision-engineered complex metal artifact multi-layered Batman symbol, which is rendered as the single, sharpest element in the entire piece, serving as a hard, definitive 'Bayonetta effect' accent. This ultra-sharp, hyper-detailed symbol anchors the eye with macroscopic etchings of microscopic gear systems, circuit tracery, serial numbers, and complex biomechanical glyphs, contrasting intensely with the surrounding ethereal Sumi-e ink washes and charcoal smudges, symbolizing a technical artifact embedded in a world of decay and unravelling organic form.\nDramatic chiaroscuro lighting emphasizes the intricate textures of the mechanical components and the deep, fluid ink forms. The paper texture and ink flow are prominent. The composition forces the eye to alternate between the intricate mechanical head and the hyper-detailed, precise chest symbol. The image is rendered with a visceral, raw, and powerful energy, designed to visually feel isolation and decay. The focus is critically sharp on the etched details of the chest symbol and the face.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bdb4060c-e412-4ee0-9799-17778ebff34b/original=true/bdb4060c-e412-4ee0-9799-17778ebff34b.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "sci-fi",
+      "character"
+    ],
+    "style": "digital-art",
+    "source_url": "https://civitai.com/images/123061186",
+    "author": "GegenDenTag",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781364"
+  },
+  {
+    "prompt": "A dramatic, dynamic Sumi-e ink wash and digital painting, depicting a mechanical/cybernetic incarnation of Batman in profile, facing to the right, on aged, textured cream-colored paper. The image embodies raw, expressive Sumi-e brushwork and intricate mechanical details. The mechanical cowl is a complex network of etched metal, exposed cables, and hydraulic pistons, with an etched crystalline visor featuring a fractured glass texture over one eye, which glows with a soft white light. The massive, heavy, shredded cape, constructed from pure kinetic ink wash, drapes and sweeps around his body, resolving into countless dynamic, unpredicatable ink splatters and stylized, jagged, bat-like fragments that create a palpable sense of movement, decay, and isolation, as requested. Interwoven within and rising from the ink splatter chaos is a massive, swirling swarm of small black bats.\nBehind Batman, explosive splashes of deep violet and black ink erupt, alongside subtle, unpredicatable golden ink drips and ochre paint splatters, integrating organically into the chaotic energy field to enhance the feeling of unraveling form. The central armored chest plate has a highly detailed, precision-engineered complex metal artifact multi-layered Batman symbol, which is rendered as the single, sharpest element in the entire piece, serving as a hard, definitive 'Bayonetta effect' accent. This ultra-sharp, hyper-detailed symbol anchors the eye with macroscopic etchings of microscopic gear systems, circuit tracery, serial numbers, and complex biomechanical glyphs, contrasting intensely with the surrounding ethereal Sumi-e ink washes and charcoal smudges, symbolizing a technical artifact embedded in a world of decay and unravelling organic form.\nDramatic chiaroscuro lighting emphasizes the intricate textures of the mechanical components and the deep, fluid ink forms. The paper texture and ink flow are prominent. The composition forces the eye to alternate between the intricate mechanical head and the hyper-detailed, precise chest symbol. The image is rendered with a visceral, raw, and powerful energy, designed to visually feel isolation and decay. The focus is critically sharp on the etched details of the chest symbol and the face. aspect",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2f1249c6-3c11-439e-9969-0d857ca92055/original=true/2f1249c6-3c11-439e-9969-0d857ca92055.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "sci-fi",
+      "character"
+    ],
+    "style": "digital-art",
+    "source_url": "https://civitai.com/images/123061187",
+    "author": "GegenDenTag",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781365"
+  },
+  {
+    "prompt": "A black-furred creature with upright ears and orange eyes faces forward. It wears multiple gold chains with circular medallions. The background features a carnival with red-lit structures, blurred figures in dark clothing, and a flagpole. Lighting is dim, with red lights contrasting against a muted blue-gray sky. The style is photorealistic, focusing on the creature's detailed fur and the atmospheric carnival setting.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ccf7f10-f6fe-476d-8780-c4c49f0354cb/original=true/4ccf7f10-f6fe-476d-8780-c4c49f0354cb.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic",
+      "character"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123067692",
+    "author": "bumblebeeze",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781366"
+  },
+  {
+    "prompt": "Airbrush painting.\n\nThis painting captures a large, vibrant street art mural on the side of a beige stucco building. The mural depicts a realistic, close-up image of a ginger cat with expressive green eyes and a pink nose, seemingly emerging from a torn cardboard box. The background includes a window with a white curtain, and a fire escape ladder. The scene is urban, with a clear blue sky and scattered clouds above.\n\nCartoon style.\n\nFantasy style. Vivid colours.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dfbe1b80-cefa-4809-bb16-d224fe35a561/original=true/dfbe1b80-cefa-4809-bb16-d224fe35a561.jpeg"
+    ],
+    "tags": [
+      "photorealistic",
+      "fantasy",
+      "architecture"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123067651",
+    "author": "Born_Canadian",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781367"
+  },
+  {
+    "prompt": "A grotesque humanoid figure with a textured, dark brown, wrinkled face and a long, tangled beard stands in the foreground. It has a large, red, feather-like headpiece with glowing lights. The figure wears a dark brown jacket over a dark shirt. Background shows a nighttime carnival with illuminated carousel rides and blurred people. Lighting is dim, with bright red and white lights from the rides contrasting against the dark sky. Style is photorealistic, detailed, and eerie.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4b770353-d629-4645-984c-0e4ced204fa7/original=true/4b770353-d629-4645-984c-0e4ced204fa7.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123067573",
+    "author": "bumblebeeze",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781368"
+  },
+  {
+    "prompt": "PHOENIX, BLACK BODY, BLUE FLAMES, MYSTICAL CREATURE,\n<lora:noirpopwave:0.65> <lora:phoenix:0.88>\nNOIRPOPWAVE, ILLUSTRATION, POSTER_ART, BOLD_LINEART,\nHIGH_CONTRAST, DRAMATIC_LIGHTING, COLOR_BLOCKING,\nLIMITED_PALETTE, FLAT_SHADING, GRAIN, TEXTURE, CLEAN_SHAPES,\ncreature portrait, close-up head and upper body,\nfierce expression, glowing cyan eyes,\nblack feathers with blue rim light,\nflame crest on head, dramatic shadows,\ndark atmospheric background,\nposter illustration, intense mood,\ngraphic detail on feathers\n\nNegative prompt: lowres, worst quality, low quality, blurry,\nphotorealistic, 3d render, humanoid, human,\nwarm orange colors, red flames,\ntext, watermark, soft lighting,\ndeformed beak, extra feathers",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6c5dc589-7c55-4ad9-8222-e6220916272e/original=true/6c5dc589-7c55-4ad9-8222-e6220916272e.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic",
+      "character"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123067485",
+    "author": "New_Aera",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781369"
+  },
+  {
+    "prompt": "beautiful native hawaiian 1girl, waterfall braid hair, brown hair, solo, solo focus, wearing dark blue puffer vest over hoodie, upper body portrait, <lora:Biting_Lip_v2_SDXL:1> (grllpbt, symmetrical lip bite, lip bite, upper teeth only, head tilted back:1.4) grin, indoors, dark, looking to the side, at Morning light, blurry background, bokeh, blurry",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8595ad29-14ae-48f5-b85a-1173d57e07ed/original=true/8595ad29-14ae-48f5-b85a-1173d57e07ed.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/123066923",
+    "author": "6__6",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781370"
+  },
+  {
+    "prompt": "1 girl, solo,\n\nre9_Sherry, blonde hair, short hair, blue eyes, white shirt, collared shirt, ear microphone,\n\ndark theme, indoors, office,\n\nlooking at viewer, dynamic pose, dynamic angle, portrait, close up, hdr, cinematic lighting, cinematic shadows, detailed background, realistic, very awa, masterpiece, best quality, absurdres, newest, perfect quality, intricate details, dynamic lighting, dynamic shadows, depth of field, ambient occlusion,\n\nNegative prompt: username, extra fingers, extra toes, extra toe, extra finger, extra limbs, extra limb, bad anatomy, text, watermark, signature, low quality, bad quality, patreon, patreon link, deformed, logo, instagram username, twitter username, patreon username, misaligned eyes, patreon logo, artist name, lowres, worst quality, bad quality, jpeg artifacts, conjoined, fused,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d578eb9a-8892-4ad1-89f9-c9af280e62b8/original=true/d578eb9a-8892-4ad1-89f9-c9af280e62b8.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "photorealistic",
+      "character",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123067398",
+    "author": "D_R",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781371"
+  },
+  {
+    "prompt": "PHOENIX, BLACK BODY, BLUE FLAMES, MYSTICAL CREATURE,\n<lora:noirpopwave:0.68> <lora:phoenix:0.85>\nNOIRPOPWAVE, ILLUSTRATION, POSTER_ART, GRAPHIC_DESIGN,\nBOLD_LINEART, HIGH_CONTRAST, DRAMATIC_LIGHTING,\nCOLOR_BLOCKING, LIMITED_PALETTE, FLAT_SHADING,\nGRAIN, TEXTURE, CLEAN_SHAPES,\ncreature, full wingspan spread, ascending pose,\npure black feathers with cyan blue flame edges,\ndark void background, glowing core chest,\nrising from blue flames below,\ngraphic novel cover composition,\nepic scale, centered, symmetrical,\nnegative space, cinematic\n\nNegative prompt: lowres, worst quality, low quality, blurry,\nphotorealistic, 3d render, humanoid, human,\nwarm colors, orange flames, red tones,\nbusy background, text, watermark,\nextra limbs, deformed wings",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4120e961-9c5f-4bba-9df9-94374e3bff5c/original=true/4120e961-9c5f-4bba-9df9-94374e3bff5c.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic",
+      "sci-fi",
+      "character",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123067486",
+    "author": "New_Aera",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781372"
+  },
+  {
+    "prompt": "the absolute unpredictability of shape and color.,,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5118d826-c2a1-4ef6-aa82-f3813c6985d1/original=true/5118d826-c2a1-4ef6-aa82-f3813c6985d1.jpeg"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/123067477",
+    "author": "Panychus",
+    "tool": "Flux",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781373"
+  },
+  {
+    "prompt": "masterpiece, best quality, good quality, very aesthetic, realistic, 8K, depth of field, scenery, woman, solo, face (oval face, eyebrows, eyelashes, upturned light purple eyes,thin lips, straight nose), hair (dark-brown, long), hand (5 fingers on each hand long light purple nails),  reaction (surprise), clothes (black coat, long sleeves, black skirt),  location (castle, dark aged, mystic,1 bridge, walls, blood, rotting garden,roses), object (lady bag, umbrella)\n\nNegative prompt: more then 1 bag",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a0c9ad59-858e-4dac-b941-3ad6cd34783a/original=true/a0c9ad59-858e-4dac-b941-3ad6cd34783a.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "photorealistic",
+      "character"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123067323",
+    "author": "Eqster",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781374"
+  },
+  {
+    "prompt": "(Solo, Solo girl, Solo Focus, 1girl), (smile), Full body, BREAK, Momo, Momo Velia Deviluke, no pupils, hair between eyes, short hair, pink hair, purple eyes, hair ornament, demon tail, BREAK, MomoCasualTwo, collarbone, frilled shirt, green shirt, black ribbon, short sleeves, miniskirt, white skirt, BREAK, (playing violin:1.3), holding violin bow, Standing, BREAK, (vast ancient library interior:1.3), dark gothic atmosphere, dimly lit by thousands of flickering candles, warm candlelight glow, dramatic deep shadows, chiaroscuro lighting, (towering dusty wooden bookshelves overflowing with old crumbling books:1.2), massive stone arches, vaulted ceiling, cobwebs, wax drippings on worn tables, ornate candelabras, mysterious, cinematic shot, (huge gothic glass windows showing a cloudy night sky, moonlight, moon and distant buildings:1.2), BREAK, ((immersive environment)), (masterpiece, best quality, very aesthetic), (lazypos, lazyup, high detail, subtle, high contrast, colorful depth, chiaroscuro, impasto), vignetting, depth of field, volumetric lighting, (best quality), (highres), ultra-detailed, illustration, raytracing, (cinematic lighting, colorful refractions), (best illumination, best shadow), high resolution, incredibly detailed background, 8k resolution,\n<lora:Smooth Lighting Enhancer - Efeitos Visuais Versão 1.0 (Illustrious) DigitalPastel:0.64>,\n<lora:Momo Velia Deviluke - To LOVE-Ru Versão 1.0 (Illustrious) Autor LittleJelly:0.72>\n\nNegative prompt: (worst quality, low quality, normal quality:1.2), (bad anatomy, bad proportions:1.2), blurry, text, watermark, signature, poorly drawn face, deformed, mutated hands, missing fingers, extra fingers, bad hands, fused fingers, (broken violin, floating bow, missing strings:1.2), jpeg artifacts, bad feet, cloned face, ugly",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/34a86e12-1a6b-4f4d-9075-944a7f80c327/original=true/34a86e12-1a6b-4f4d-9075-944a7f80c327.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "architecture",
+      "character",
+      "cinematic"
+    ],
+    "style": "digital-art",
+    "source_url": "https://civitai.com/images/123067294",
+    "author": "Signor_Fantasma",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781375"
+  },
+  {
+    "prompt": "Masterpiece, top quality, amazing quality, Score_9, Score_8_up, Score_7_up, core_9, Score_8_up, Score_7_up, female, alone, solo,\nBREAK \nLong hair, red hair, bun, ponytail (red eyes: 1.2),\nShort skirt, brown plaid skirt, white shirt, green tie,\npretty smile, standing in a park, Looking at the viewer,\nBREAK photorealistic, beautiful detailed eyes, detailed skin, detailed hair, volumetric lighting, dappled light, light particles, dramatic shadows, cinematic lighting, photo background, depth of field\n\nNegative prompt: bad quality, worst quality, worst detail, sketch, censored, censored, 3d, realistic, subtitles, english text",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0016103d-4d4d-4ae9-b9a7-f858c8c59e2a/original=true/0016103d-4d4d-4ae9-b9a7-f858c8c59e2a.jpeg"
+    ],
+    "tags": [
+      "photorealistic",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123067382",
+    "author": "Anonimo049J",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781376"
+  },
+  {
+    "prompt": "masterpiece, best quality, detailed, from side, side view, upper body, 1girl, solo, LiliT8, blonde hair, long hair, hime cut, blue eyes, makeup, mature female, perfect body, beautiful face, beautiful eyes, beautiful nose, beautiful mouth, pink lips, large breasts, narrow waist, wide hips, T8dress, frilled dress, pink dress, short sleeves, white gloves, red bow, red ascot, fingerless gloves, seduced face, looking at viewer, seductive look, seductive smile, dynamic pose, black background, digital art, detailed painting, dynamic lighting, vivid colors, anime coloring\n\nNegative prompt: lowres, worst quality, low quality, bad anatomy, bad proportions, bad hands, watermark, censored, jpeg artifacts",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0d184ea3-d012-4ce3-9988-53646a778d22/original=true/0d184ea3-d012-4ce3-9988-53646a778d22.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/123067141",
+    "author": "explicatus2654",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781377"
+  },
+  {
+    "prompt": "Masterpiece, top quality, amazing quality, Score_9, Score_8_up, Score_7_up, core_9, Score_8_up, Score_7_up, female, alone, solo,\nBREAK \nLong hair, red hair, bun, ponytail (red eyes: 1.2),\nLooking at the viewer, intense gaze, crazy smile, yandere, holding a knife,\nBREAK photorealistic, beautiful detailed eyes, detailed skin, detailed hair, volumetric lighting, dappled light, light particles, dramatic shadows, cinematic lighting, photo background, depth of field\n\nNegative prompt: bad quality, worst quality, worst detail, sketch, censored, censored, 3d, realistic, subtitles, english text",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/59bd8d8b-dab1-470c-abee-591c7c4fa2d1/original=true/59bd8d8b-dab1-470c-abee-591c7c4fa2d1.jpeg"
+    ],
+    "tags": [
+      "photorealistic",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123067295",
+    "author": "Anonimo049J",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781378"
+  },
+  {
+    "prompt": "score_9, score_8_up, score_7_up,  1 girl, petite, small body, Korean, 19yo, Bracelet, hairpin, long legs, perfect legs,  \nbrunette hair, brunette long hair, braids, straight hair,  red sweater, red skirt, skirt, plaid skirt, white loose socks, black footwear,\n<lora:DRKWB:0.4> <lora:SketchStyle:0.8>,  hoop earrings, basement, standing,  low angle\n\nNegative prompt: bad, bad hands, bad feet, bad anatomy, source_pony, source_furry, visor, tanlines, deformed, bad, low quality, eyes, white skin girl, 2 girls,more than 1 girl, more than 1 boy, 2 boys, clone, clones, multiple of same character, multiple girls,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fef3768b-9e71-4447-83fe-c9c332ab2198/original=true/fef3768b-9e71-4447-83fe-c9c332ab2198.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/123067172",
+    "author": "inserttam",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781379"
+  },
+  {
+    "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting), best quality, very aesthetic, realistic, 8k, 1girl ,detailed background, incredibly absurdres, newest, <lora:Artstyle__Psyk323:1>, <lora:PetraStyle:0.65>, <lora:rakugakingu:0.55>, <lora:ponyv4_noob1_2_adamW-000017:0.45>, <lora:aosiai123_style:0.65>, <lora:zy_illustrious_Realism_Enhancer_v1:0.55>,<lora:add-detail-xl:2.5>, <lora:USNR STYLE_XL_loha:0.65>, (chiaroscuro,high contrast:0.5), <lora:lightingSlider:0.5>, USNR,\n1girl, very long red hair in low side ponytail, brown eyes, medium breasts, cropped hoodie and shorts, leaning slightly forward against car hood with one knee bent inward, torso_shot, smirk, nose blush\n\nNegative prompt: worst quality, low quality, displeasing, text, watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, extra finger, bad proportions,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9bd1a8a8-7d67-454b-8d0e-5f0924d4128f/original=true/9bd1a8a8-7d67-454b-8d0e-5f0924d4128f.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "photorealistic",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/123067198",
+    "author": "Poyomi",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781380"
+  },
+  {
+    "prompt": "masterpiece, best quality, absurdres, highres, very aesthetic, high quality, detailed, insanely detailed, beautiful, very awa, anime screencap, anime coloring, m3ggf, 1girl, solo, brown hair, official style, (chubby:0.9) glasses, (saggy breasts:0.7), medium-small breasts, medium lips, looking at viewer, popsicle, licking, tank top, midriff, short shorts, outdoors, sweat, (seductive:1.3), wet shirt\n\nNegative prompt: lowres, bad quality, worst quality, bad anatomy, sketch, jpeg artifacts, ugly, poorly drawn, blurry, transparent background, tears, censored, simple background, artist name, signature, watermark,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/95958554-8c8b-4d92-ab5d-5dc46229cdba/original=true/95958554-8c8b-4d92-ab5d-5dc46229cdba.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/123066941",
+    "author": "luketw71810",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781381"
+  },
+  {
+    "prompt": "A vintage 1950s pin-up poster depicting a beautiful and talented schoolteacher in a retro classroom. Dressed in a high-waisted pencil skirt, seamed stockings, and an elegant low-cut cardigan, she holds a wooden pointer. She points to a large green chalkboard covered in elegant, intricate, and ornate cursive calligraphy. The writing appears to be a mysterious, ancient script. At the top of the chalkboard, in large, vintage font, is the title \"CURSIVE: THE LOST ART.\" Below the chalkboard is a small, humorous caption: \"Can you crack the code?\" High quality, warm, nostalgic colors, Gil Elvgren's art style, and textures.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b91d604d-ffb9-46ed-a636-799635a92995/original=true/b91d604d-ffb9-46ed-a636-799635a92995.jpeg"
+    ],
+    "tags": [
+      "architecture",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/123066711",
+    "author": "yuranart",
+    "tool": "SDXL",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-04T03:58:19",
+    "id": "20260304_civ_1772540781382"
   }
 ]
