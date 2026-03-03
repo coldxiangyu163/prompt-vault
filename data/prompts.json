@@ -29773,5 +29773,1181 @@
     "images": [
       "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f96f89a2-d24f-4820-96e9-b821be690645/original=true/f96f89a2-d24f-4820-96e9-b821be690645.jpeg"
     ]
+  },
+  {
+    "id": "13f5878abef8",
+    "prompt": "masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, ambient occlusion, raytracing, detailed background, illustrating, CG, ultra-detailed-eyes, detailed background, cute girl, eyelashes,  cinematic composition, ma1ma1helmes_b_illu,sketch,\n\nTW3Yennefer, 1girl, black hair, long hair, wavy hair, purple eyes,, blurry background, blush, medium breasts, earrings, eyeshadow, jewelry, long sleeves, makeup, solo, high contrast, epic but serene tone, (random revealing clothes), , pale skin, (random position), (random view), outdoors, \n\n1girl floating, black gloves, black pants, cape, choker, close up, leather, long hair, purple eyes, thigh boots, curvy, makeup, lipstick, ravens birds,  magnificent, ethereal, painterly, epic, majestic, fantasy art, cover art, volumetric lighting, (facing viewer),",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/61b16e19-9b09-4053-93cb-46e190d2a0eb/original=true/61b16e19-9b09-4053-93cb-46e190d2a0eb.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123069848",
+    "author": "Great34",
+    "created_at": "2026-03-03T20:36:00.000Z",
+    "collected_at": "2026-03-04T04:40:03.362967"
+  },
+  {
+    "id": "bd137ed600aa",
+    "prompt": "masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, ambient occlusion, raytracing, detailed background, illustrating, CG, ultra-detailed-eyes, detailed background, cute girl, eyelashes,  cinematic composition, ma1ma1helmes_b_illu,sketch,\n\nTW3Yennefer, 1girl, black hair, long hair, wavy hair, purple eyes,, blurry background, blush, medium breasts, earrings, eyeshadow, jewelry, long sleeves, makeup, solo, high contrast, epic but serene tone, (random revealing clothes),  pale skin, (random position), (random view), outdoors, \n\n1girl. black gloves, black pants, cape, choker, close up, leather, curvy, lipstick",
+    "tool": "urn:air:sdxl:checkpoint:civitai:140272@2615702",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/71599157-fdaf-4fab-836f-62be34996205/original=true/71599157-fdaf-4fab-836f-62be34996205.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070051",
+    "author": "Great34",
+    "created_at": "2026-03-03T20:36:00.000Z",
+    "collected_at": "2026-03-04T04:40:03.362993"
+  },
+  {
+    "id": "b680ec40508f",
+    "prompt": "masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, soft lighting, ambient occlusion, raytracing, detailed background, illustrating, CG, ultra-detailed-eyes, detailed background, cute girl, eyelashes,  cinematic composition, ma1ma1helmes_b_illu,sketch,\n\nTW3Yennefer, 1girl, black hair, long hair, wavy hair, (purple eyes), medium breasts, earrings, jewelry, long sleeves, makeup, solo, high contrast, epic but serene tone, pale skin, (random position), (random view), outdoors, black gloves, black pants, cape, choker, leather, curvy, ((dynamic))), combat pose, ((floating)), ((in the air)), in the sky, (open hand-palm:2.0)",
+    "tool": "urn:air:sdxl:checkpoint:civitai:140272@2615702",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/68aacb87-7862-45a0-a656-afd5e15ce194/original=true/68aacb87-7862-45a0-a656-afd5e15ce194.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070052",
+    "author": "Great34",
+    "created_at": "2026-03-03T20:36:00.000Z",
+    "collected_at": "2026-03-04T04:40:03.363002"
+  },
+  {
+    "id": "2ca25f3507c4",
+    "prompt": "masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, ambient occlusion, raytracing, detailed background, illustrating, CG, ultra-detailed-eyes, detailed background, cute girl, eyelashes,  cinematic composition, ma1ma1helmes_b_illu,sketch,\n\nTW3Yennefer, 1girl, black hair, long hair, wavy hair, purple eyes,, blurry background, blush, medium breasts, earrings, eyeshadow, jewelry, long sleeves, makeup, epic but serene tone, pale skin, (random position), (random view), outdoors, \n\n1girl floating, black gloves, black pants, cape, choker, close up, leather, long hair, purple eyes, thigh boots, curvy, makeup, lipstick, ravens birds,  magnificent, ethereal, painterly, epic, majestic, fantasy art, cover art, volumetric lighting, (facing viewer)",
+    "tool": "urn:air:sdxl:checkpoint:civitai:140272@2615702",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/80fcc962-ed72-43d5-a198-36ac7ff359c6/original=true/80fcc962-ed72-43d5-a198-36ac7ff359c6.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070053",
+    "author": "Great34",
+    "created_at": "2026-03-03T20:36:00.000Z",
+    "collected_at": "2026-03-04T04:40:03.363010"
+  },
+  {
+    "id": "222b308630c7",
+    "prompt": "masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, ambient occlusion, raytracing, detailed background, illustrating, CG, ultra-detailed-eyes, detailed background, cute girl, eyelashes,  cinematic composition, ma1ma1helmes_b_illu,sketch,\n\nTW3Yennefer, 1girl, black hair, long hair, wavy hair, (purple eyes), medium breasts, earrings, jewelry, long sleeves, makeup, solo, high contrast, epic but serene tone, pale skin, (random position), (random view), outdoors, black gloves, black pants, cape, choker, leather, curvy, makeup, lipstick, crows, raised hand, ((dynamic))), combat pose, ((floating, in the air)), in the sky,",
+    "tool": "urn:air:sdxl:checkpoint:civitai:140272@2615702",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0099bcbc-68bb-405f-ac60-7f502619f02f/original=true/0099bcbc-68bb-405f-ac60-7f502619f02f.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070054",
+    "author": "Great34",
+    "created_at": "2026-03-03T20:36:00.000Z",
+    "collected_at": "2026-03-04T04:40:03.363016"
+  },
+  {
+    "id": "c7abfb1b9a1f",
+    "prompt": "masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, ambient occlusion, raytracing, detailed background, illustrating, CG, ultra-detailed-eyes, detailed background, cute girl, eyelashes,  cinematic composition, ma1ma1helmes_b_illu,sketch,\n\nTW3Yennefer, 1girl, black hair, long hair, wavy hair, (purple eyes), medium breasts, earrings, jewelry, long sleeves, makeup, solo, high contrast, epic but serene tone, pale skin, (random position), (random view), outdoors, black gloves, black pants, cape, choker, leather, curvy, makeup, lipstick, crows",
+    "tool": "urn:air:sdxl:checkpoint:civitai:140272@2615702",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fccff77c-7a31-4c4c-9877-517701edf0d5/original=true/fccff77c-7a31-4c4c-9877-517701edf0d5.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070055",
+    "author": "Great34",
+    "created_at": "2026-03-03T20:36:00.000Z",
+    "collected_at": "2026-03-04T04:40:03.363022"
+  },
+  {
+    "id": "734ff12913fe",
+    "prompt": "masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, ambient occlusion, raytracing, detailed background, illustrating, CG, ultra-detailed-eyes, detailed background, cute girl, eyelashes,  cinematic composition, ma1ma1helmes_b_illu,sketch,\n\nTW3Yennefer, 1girl, black hair, long hair, wavy hair, (purple eyes), medium breasts,  earrings, jewelry, long sleeves, makeup, solo, high contrast, epic but serene tone, pale skin, (random position), (random view), outdoors, black gloves, black pants, cape, choker, leather, curvy, raised hand, ((dynamic))), combat pose, ((floating)), ((in the air)), in the sky,",
+    "tool": "urn:air:sdxl:checkpoint:civitai:140272@2615702",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/67a3b76a-7726-448a-8dac-ac1419e61649/original=true/67a3b76a-7726-448a-8dac-ac1419e61649.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070056",
+    "author": "Great34",
+    "created_at": "2026-03-03T20:36:00.000Z",
+    "collected_at": "2026-03-04T04:40:03.363029"
+  },
+  {
+    "id": "6e4bd48375a5",
+    "prompt": "masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, ambient occlusion, raytracing, detailed background, illustrating, CG, ultra-detailed-eyes, detailed background, cute girl, eyelashes,  cinematic composition, ma1ma1helmes_b_illu,sketch,\n\nTW3Yennefer, 1girl, black hair, long hair, wavy hair, purple eyes,, blurry background, blush, medium breasts, earrings, eyeshadow, jewelry, long sleeves, makeup, solo, high contrast, epic but serene tone, (random revealing clothes), , pale skin, (random position), (random view), outdoors, \n\n1girl floating, black gloves, black pants, cape, choker, close up, leather, long hair, purple eyes, thigh boots, curvy, makeup, lipstick, ravens birds,  magnificent, ethereal, painterly, epic, majestic, fantasy art, cover art, volumetric lighting, (facing viewer)",
+    "tool": "urn:air:sdxl:checkpoint:civitai:140272@2615702",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ee8dfa8e-e7b9-402d-9f12-7dc3a58251b7/original=true/ee8dfa8e-e7b9-402d-9f12-7dc3a58251b7.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070057",
+    "author": "Great34",
+    "created_at": "2026-03-03T20:36:00.000Z",
+    "collected_at": "2026-03-04T04:40:03.363035"
+  },
+  {
+    "id": "9e948cb40ec8",
+    "prompt": "In an overgrown military base an assault rifle is leaning against an aged and half-broken wall, patches of grass on the floor and some green sprouting from the wall, the rifle is covered in dirt and moss. From the end of the barrel a blooming flower grows.\n\nThe edge of the image end in paint strokes, ZIT-PaintStorm-Mk.1",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/edb6268d-2dbd-4cf2-8e0f-7c4d99766cfc/original=true/edb6268d-2dbd-4cf2-8e0f-7c4d99766cfc.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071498",
+    "author": "ace_nc692",
+    "created_at": "2026-03-03T20:32:04.575Z",
+    "collected_at": "2026-03-04T04:40:03.363040"
+  },
+  {
+    "id": "eb7d12f7a2b4",
+    "prompt": "high resolution, gorgeous, absurdres, best quality, anime screencap, source_anime, official art, frfr, 1girl, miia_cnr, 1girl, Miia_Lamia, lamia, serpentine lower body, bright red hair, long hair, amber eyes, snake eyes, red pointy ears,  scales on cheeks, single fang, symmetrical hairpins, kimono, smile, outdoors,japan, temple, torii gates, folding fan",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e83a47e6-9304-46c8-b4aa-98d45a265e31/original=true/e83a47e6-9304-46c8-b4aa-98d45a265e31.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071485",
+    "author": "ungemozz520",
+    "created_at": "2026-03-03T20:31:57.905Z",
+    "collected_at": "2026-03-04T04:40:03.363045"
+  },
+  {
+    "id": "eb7d12f7a2b4",
+    "prompt": "high resolution, gorgeous, absurdres, best quality, anime screencap, source_anime, official art, frfr, 1girl, miia_cnr, 1girl, Miia_Lamia, lamia, serpentine lower body, bright red hair, long hair, amber eyes, snake eyes, red pointy ears,  scales on cheeks, single fang, symmetrical hairpins, kimono, smile, outdoors,japan, temple, torii gates, folding fan",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c8013c1e-9545-47c8-a2a6-4e2f23785634/original=true/c8013c1e-9545-47c8-a2a6-4e2f23785634.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071487",
+    "author": "ungemozz520",
+    "created_at": "2026-03-03T20:31:57.905Z",
+    "collected_at": "2026-03-04T04:40:03.363050"
+  },
+  {
+    "id": "eb7d12f7a2b4",
+    "prompt": "high resolution, gorgeous, absurdres, best quality, anime screencap, source_anime, official art, frfr, 1girl, miia_cnr, 1girl, Miia_Lamia, lamia, serpentine lower body, bright red hair, long hair, amber eyes, snake eyes, red pointy ears,  scales on cheeks, single fang, symmetrical hairpins, kimono, smile, outdoors,japan, temple, torii gates, folding fan",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/53d3be59-90a7-44e1-9bc2-327705874fe2/original=true/53d3be59-90a7-44e1-9bc2-327705874fe2.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071488",
+    "author": "ungemozz520",
+    "created_at": "2026-03-03T20:31:57.905Z",
+    "collected_at": "2026-03-04T04:40:03.363055"
+  },
+  {
+    "id": "eb7d12f7a2b4",
+    "prompt": "high resolution, gorgeous, absurdres, best quality, anime screencap, source_anime, official art, frfr, 1girl, miia_cnr, 1girl, Miia_Lamia, lamia, serpentine lower body, bright red hair, long hair, amber eyes, snake eyes, red pointy ears,  scales on cheeks, single fang, symmetrical hairpins, kimono, smile, outdoors,japan, temple, torii gates, folding fan",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/383137cc-56e9-492a-b006-23c5e9721e96/original=true/383137cc-56e9-492a-b006-23c5e9721e96.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071489",
+    "author": "ungemozz520",
+    "created_at": "2026-03-03T20:31:57.905Z",
+    "collected_at": "2026-03-04T04:40:03.363060"
+  },
+  {
+    "id": "c43a3f74aa3a",
+    "prompt": "[chinese monestary::0.2],\nsharpening, whetstone,\n\n[ancient china, oblong whetstone on the ground, dark ambience, 2 paper lanterns in corner, chinese tea set in background],\n\n[masterpiece, amazing quality, best quality, illustration, cute, detailed eyes, quiet background, highres, very awa, cinematic lighting, top down view, dynamic pose, newest, clean composition:0.4], \n\n[solo, 1man, anthro, avian, anthro barn owl, thin, blonde fur, body feathers, blonde and white feathers, silk robe, sharpening knife along whetstone, sparks along blade, dynamic lighting , cinematic quality:0.2],",
+    "tool": "ILU_FUR_azureVerlunamix_verlunaStable2",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/807273a5-7574-4348-9a9d-b48dcb0970f4/original=true/807273a5-7574-4348-9a9d-b48dcb0970f4.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070913",
+    "author": "KuschelEulchen22",
+    "created_at": "2026-03-03T20:31:12.683Z",
+    "collected_at": "2026-03-04T04:40:03.363069"
+  },
+  {
+    "id": "eafd45634767",
+    "prompt": "sharpening, whetstone,\n\n[ancient china, oblong whetstone on the ground, dark ambience, 2 paper lanterns in corner, chinese tea set in background:0.3],\n\n[refined details,clean lineart,sharp focus, consistent character design, stable facial features, cohesive lighting, natural shading] \n\n[solo, 1man, anthro, avian, anthro barn owl, thin, blonde fur, body feathers, blonde and white feathers, chinese blue silk robe, sitting, sharpening sword along whetstone, sparks along blade, dynamic lighting , cinematic quality:0.2],",
+    "tool": "ILU_FUR_azureVerlunamix_verlunaStable2",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f7328a84-bbf6-4032-b8aa-8762675e5dd2/original=true/f7328a84-bbf6-4032-b8aa-8762675e5dd2.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070920",
+    "author": "KuschelEulchen22",
+    "created_at": "2026-03-03T20:31:12.683Z",
+    "collected_at": "2026-03-04T04:40:03.363075"
+  },
+  {
+    "id": "38018122fe48",
+    "prompt": "sharpening, whetstone,\n\n[ancient china, oblong whetstone on the ground, dark ambience, 2 paper lanterns in corner, chinese tea set in background:0.3],\n\n[refined details,clean lineart,sharp focus, consistent character design, stable facial features, cohesive lighting, natural shading] \n\n[solo, 1man, anthro, avian, anthro barn owl, motivated, beak closed, thin, blonde fur, body feathers, blonde and white feathers, chinese blue silk robe, sitting, sharpening sword along whetstone, sparks along blade, dynamic lighting , cinematic quality:0.3],",
+    "tool": "ILU_FUR_azureVerlunamix_verlunaStable2",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/18ba25e4-80f0-4cc5-a8ee-bd287a76f644/original=true/18ba25e4-80f0-4cc5-a8ee-bd287a76f644.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070918",
+    "author": "KuschelEulchen22",
+    "created_at": "2026-03-03T20:31:12.683Z",
+    "collected_at": "2026-03-04T04:40:03.363080"
+  },
+  {
+    "id": "91415292411f",
+    "prompt": "anime style, Samus Aran, varia suit, helmet, arm cannon, solo, 1woman, spaceship interior, firing stance, firing, energy blast, tentacles, blood",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4364bf14-f301-4cda-9608-35bf7ac2c3ec/original=true/4364bf14-f301-4cda-9608-35bf7ac2c3ec.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071443",
+    "author": "Ranigel18",
+    "created_at": "2026-03-03T20:30:59.682Z",
+    "collected_at": "2026-03-04T04:40:03.363088"
+  },
+  {
+    "id": "e779ee06d0ac",
+    "prompt": "Masterpiece, excellent quality, incredible quality.\nA girl, alone, <Ellie>, girl, short hair, silver hair, wavy hair, layered hair, orange tips, green eyes, medium breasts.,\n<Officer-P>,<First_Order_Officer-Lieutenant>, military uniform, black jacket, thigh-length jacket, mandarin collar, belt, black trousers, cap, rank insignia black boots..,\nHigh resolution, highly detailed, ultra-detailed, detailed eyes.                                                                         Outdoors, park, trees, gust of wind.                                                                                                                                   Standing.,                                                                                                                                                                              Masterpiece, excellent quality, incredible quality.",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/16bae12a-c6db-4750-9e0e-05cb0da34e96/original=true/16bae12a-c6db-4750-9e0e-05cb0da34e96.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070927",
+    "author": "ignacioes2884573",
+    "created_at": "2026-03-03T20:30:59.522Z",
+    "collected_at": "2026-03-04T04:40:03.363097"
+  },
+  {
+    "id": "c82f96fcff57",
+    "prompt": "VESPERA, OBSIDIAN SKIN, GLOWING CYAN EYES, NO PUPILS, WHITE HAIR, \nLONG HAIR, POINTED EARS,\n<lora:noirpopwave:0.65> <lora:vespera:0.92>\nNOIRPOPWAVE, ILLUSTRATION, POSTER_ART, GRAPHIC_DESIGN, BOLD_LINEART, \nHIGH_CONTRAST, DRAMATIC_LIGHTING, COLOR_BLOCKING, LIMITED_PALETTE, \nFLAT_SHADING, GRAIN, TEXTURE, CLEAN_SHAPES,\n1girl, sitting on throne, regal pose, arms on armrests,\ndark stone throne room, cyan magical orbs floating,\ncrown, dark armor with cyan accents,\nlow angle shot, imposing, god-tier composition,\nposter illustration, dramatic shadows",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b89de952-f159-4d41-81a1-097181df7b08/original=true/b89de952-f159-4d41-81a1-097181df7b08.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123066223",
+    "author": "New_Aera",
+    "created_at": "2026-03-03T20:30:58.904Z",
+    "collected_at": "2026-03-04T04:40:03.363102"
+  },
+  {
+    "id": "947ad3b2b0ab",
+    "prompt": "hommverdish, 1girl, staff, solo, dress, long hair, holding, looking at viewer, holding staff, makeup, purple dress,swam, black hair, circlet, eyeshadow, outdoors, wide sleeves, brown hair, ((pointing at viewer))",
+    "tool": "urn:air:sdxl:checkpoint:civitai:795765@889818",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/55612a36-6db4-45e3-93bd-563ca2f36db8/original=true/55612a36-6db4-45e3-93bd-563ca2f36db8.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071438",
+    "author": "rolfen22",
+    "created_at": "2026-03-03T20:30:57.783Z",
+    "collected_at": "2026-03-04T04:40:03.363107"
+  },
+  {
+    "id": "de553be82eda",
+    "prompt": "A dark forest clearing with giant paint splashes suspended mid-air like frozen explosions. Drips hang from invisible ceilings. Mushrooms glow cyan. The ground reflects purple and emerald ink rivers.\nVideo idea: Drips slowly elongate and fall in sync with a 140–145 BPM pulse. Subtle kaleidoscope warp on the trees during the drop.",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/806d2586-99d0-4101-a465-0e21eb50b42e/original=true/806d2586-99d0-4101-a465-0e21eb50b42e.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071334",
+    "author": "cosmicsolidarity",
+    "created_at": "2026-03-03T20:30:57.705Z",
+    "collected_at": "2026-03-04T04:40:03.363114"
+  },
+  {
+    "id": "de553be82eda",
+    "prompt": "A dark forest clearing with giant paint splashes suspended mid-air like frozen explosions. Drips hang from invisible ceilings. Mushrooms glow cyan. The ground reflects purple and emerald ink rivers.\nVideo idea: Drips slowly elongate and fall in sync with a 140–145 BPM pulse. Subtle kaleidoscope warp on the trees during the drop.",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5ff44007-50ea-4328-a32a-b101535f77aa/original=true/5ff44007-50ea-4328-a32a-b101535f77aa.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071335",
+    "author": "cosmicsolidarity",
+    "created_at": "2026-03-03T20:30:57.705Z",
+    "collected_at": "2026-03-04T04:40:03.363119"
+  },
+  {
+    "id": "4903257f2e8d",
+    "prompt": "Dreamlike surreal scene blending 50/50 from Zdzisław Beksiński's dystopian brown desolation to H.R. Giger's biomechanical fairy-tale horror: Beksiński half shows a sphinx-woman with smug smile lost in thoughts, her massive paws and body in monochromatic grey-brown eroded sandstone textures of endless desert ruins and thick hazy brown background, high-contrast decay evoking ancient loneliness; transition to Giger half where multicolored cats swarm around her paws in biomechanical forms, fused organic fur with metallic spines and alien tubing, saturated tangible colors popping against the monochrome sphinx, atmosphere of whimsical surrealism and enigma, detailed cat textures with glossy veins, dramatic side lighting casting long shadows, minimalist fairy-tale dystopia.",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a4081c2a-3acf-49df-95df-804629f4566c/original=true/a4081c2a-3acf-49df-95df-804629f4566c.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071324",
+    "author": "Nebelx",
+    "created_at": "2026-03-03T20:30:31.033Z",
+    "collected_at": "2026-03-04T04:40:03.363128"
+  },
+  {
+    "id": "1aa461b93565",
+    "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting), best quality, very aesthetic, realistic, 8k, 1girl ,detailed background, incredibly absurdres, newest, <lora:Artstyle__Psyk323:1>, <lora:PetraStyle:0.65>, <lora:rakugakingu:0.55>, <lora:ponyv4_noob1_2_adamW-000017:0.45>, <lora:aosiai123_style:0.65>, <lora:zy_illustrious_Realism_Enhancer_v1:0.55>,<lora:add-detail-xl:2.5>, <lora:USNR STYLE_XL_loha:0.65>, (chiaroscuro,high contrast:0.5), <lora:lightingSlider:0.5>, USNR,\n1girl, anthro, anthropomorphic wolf woman, gray fur ears and tail, extremely long dark green hair braided down back, gold eyes, medium breasts, long winter coat over fitted clothes, standing upright facing snowy horizon, back_shot, serious",
+    "tool": "waiNSFWIllustrious_v140",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c3fa0564-57f8-4625-8405-66d62543c275/original=true/c3fa0564-57f8-4625-8405-66d62543c275.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071237",
+    "author": "Poyomi",
+    "created_at": "2026-03-03T20:30:05.830Z",
+    "collected_at": "2026-03-04T04:40:03.363136"
+  },
+  {
+    "id": "f80459500091",
+    "prompt": "<lora:KamaZZZ_Pony:1> KamaZZZ, tanuki, brown fur, tan underbelly, tan snout, animal nose, black nose, triangular nose, :<, hidden eyes, hidden ears, multicolored fur, stripes on arms, dark-brown forearms, very dark-brown fingers, stripe on legs, dark-brown legs, very dark-brown toes, pink pawpads, mask \\(marking\\), dark-brown mask \\(marking\\), bushy tail, fluffy tail, striped tail, black peaked cap, golden four-pointed star and laurel crown emblem on cap, red band on cap, white screws on cap, black vest with three white buttons, black belt with white buckle, black pad with white screws on tail, black straps on tail, eating an apple, by a tree, plains, day time, amazing details, best quality, amazing quality, masterpiece, very awa, rating_safe, score_4_up, score_5_up, score_6_up, score_7_up, score_8_up, score_9",
+    "tool": "ponyDiffusionV6XL_v6StartWithThisOne",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a0581600-c9d8-447b-8274-c195c2bdef50/original=true/a0581600-c9d8-447b-8274-c195c2bdef50.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070919",
+    "author": "p4D3mon",
+    "created_at": "2026-03-03T20:29:50.205Z",
+    "collected_at": "2026-03-04T04:40:03.363142"
+  },
+  {
+    "id": "2db2a6263dce",
+    "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting), best quality, very aesthetic, realistic, 8k, 1girl ,detailed background, incredibly absurdres, newest, <lora:Artstyle__Psyk323:1>, <lora:PetraStyle:0.65>, <lora:rakugakingu:0.55>, <lora:ponyv4_noob1_2_adamW-000017:0.45>, <lora:aosiai123_style:0.65>, <lora:zy_illustrious_Realism_Enhancer_v1:0.55>,<lora:add-detail-xl:2.5>, <lora:USNR STYLE_XL_loha:0.65>, (chiaroscuro,high contrast:0.5), <lora:lightingSlider:0.5>, USNR,\n1girl, extremely long silver hair trailing over seat and down steps, parted bangs, gray eyes, small breasts, sweater and long skirt, sitting upright in lecture seat with legs crossed neatly at the ankle and hands folded on lap, high_angle, calm",
+    "tool": "waiNSFWIllustrious_v140",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2950587b-fc1b-4c71-acd2-8ab8e0b4ddd3/original=true/2950587b-fc1b-4c71-acd2-8ab8e0b4ddd3.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071236",
+    "author": "Poyomi",
+    "created_at": "2026-03-03T20:29:34.791Z",
+    "collected_at": "2026-03-04T04:40:03.363149"
+  },
+  {
+    "id": "7379f1475905",
+    "prompt": "setz, style, pixiv, original_author, Samus Aran, varia suit, helmet, arm cannon, solo, 1woman, spaceship interior, firing stance, firing, energy blast, tentacles, blood",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/07bab1a6-3c56-42d1-a65f-80f901419864/original=true/07bab1a6-3c56-42d1-a65f-80f901419864.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071309",
+    "author": "Ranigel18",
+    "created_at": "2026-03-03T20:29:18.026Z",
+    "collected_at": "2026-03-04T04:40:03.363154"
+  },
+  {
+    "id": "56dc8bdb23ea",
+    "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting), best quality, very aesthetic, realistic, 8k, 1girl ,detailed background, incredibly absurdres, newest, <lora:Artstyle__Psyk323:1>, <lora:PetraStyle:0.65>, <lora:rakugakingu:0.55>, <lora:ponyv4_noob1_2_adamW-000017:0.45>, <lora:aosiai123_style:0.65>, <lora:zy_illustrious_Realism_Enhancer_v1:0.55>,<lora:add-detail-xl:2.5>, <lora:USNR STYLE_XL_loha:0.65>, (chiaroscuro,high contrast:0.5), <lora:lightingSlider:0.5>, USNR,\n1girl, absurdly long dark blue hair flowing freely behind her, center-parted bangs, light blue eyes, small breasts, coat over flannel shirt and jeans, standing upright while turning slightly over shoulder, medium_shot, light smile",
+    "tool": "waiNSFWIllustrious_v140",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0244c657-98cb-4e14-9cba-6bf5f9709994/original=true/0244c657-98cb-4e14-9cba-6bf5f9709994.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071239",
+    "author": "Poyomi",
+    "created_at": "2026-03-03T20:29:04.184Z",
+    "collected_at": "2026-03-04T04:40:03.363160"
+  },
+  {
+    "id": "ef90d7359792",
+    "prompt": "dynamic angle, abstract, ,(((multicolored eyes))),smile, dark background, glitches,window \\(computing\\),dynamic pose,mhh, dynamic angle, abstract, ,detailed anime-style illustration, cinematic feeling, ,bright pupils, (dynamic angle:1.4), foreshortening, blurry background, depth of field, impressionism, line art, dark,high detail, sharp shading, soft shadows,masterpiece, best quality, very aesthetic,(yoneyama_mai:1.2),(rella:1.2),d4rk, dark, darkness, grin, confident, through screen, dynamic feeling, 1 girl coming out of a computer screen, hologram, screen, monitor, NakAya, Nka_Jnb, nakiri ayame, white hair, long hair, gradient hair, red eyes, red streaks, streaked hair, horns, skin-covered horns, hair bun, double bun, jinbei_(clothes), light pink kimono, kimono, white shirt, collared shirt, neck ribbon, red ribbon, ribbon trim, wide sleeves, light pink sleeves, layered sleeves, plaid skirt, high-waist skirt, parallel hairclips, red hairclip, cross-laced skirt, dark brown skirt, plaid bow, large bow, waist bow, dark brown bow, red thighhighs, thighhighs, hair bell, hair tassel, red tassel, low-side ponytail, zouri,",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/91df9cb0-4ec1-4977-8d0f-70abd0e947b1/original=true/91df9cb0-4ec1-4977-8d0f-70abd0e947b1.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071160",
+    "author": "cabbage522",
+    "created_at": "2026-03-03T20:29:04.178Z",
+    "collected_at": "2026-03-04T04:40:03.363167"
+  },
+  {
+    "id": "abee3c5061a6",
+    "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting), best quality, very aesthetic, realistic, 8k, 1girl ,detailed background, incredibly absurdres, newest, <lora:Artstyle__Psyk323:1>, <lora:PetraStyle:0.65>, <lora:rakugakingu:0.55>, <lora:ponyv4_noob1_2_adamW-000017:0.45>, <lora:aosiai123_style:0.65>, <lora:zy_illustrious_Realism_Enhancer_v1:0.55>,<lora:add-detail-xl:2.5>, <lora:USNR STYLE_XL_loha:0.65>, (chiaroscuro,high contrast:0.5), <lora:lightingSlider:0.5>, USNR,\n1girl, absurdly long black hair moving in breeze, diagonal bangs, light blue eyes, medium breasts, long coat over jumper and pants, standing upright while holding railing, looking upward at ferris wheel lights, medium_shot, light smile",
+    "tool": "waiNSFWIllustrious_v140",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d068bba2-6620-4cd4-9421-1970e08bd46e/original=true/d068bba2-6620-4cd4-9421-1970e08bd46e.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071241",
+    "author": "Poyomi",
+    "created_at": "2026-03-03T20:29:02.621Z",
+    "collected_at": "2026-03-04T04:40:03.363173"
+  },
+  {
+    "id": "68ebbbdf45e0",
+    "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting), best quality, very aesthetic, realistic, 8k, 1girl ,detailed background, incredibly absurdres, newest, <lora:Artstyle__Psyk323:1>, <lora:PetraStyle:0.65>, <lora:rakugakingu:0.55>, <lora:ponyv4_noob1_2_adamW-000017:0.45>, <lora:aosiai123_style:0.65>, <lora:zy_illustrious_Realism_Enhancer_v1:0.55>,<lora:add-detail-xl:2.5>, <lora:USNR STYLE_XL_loha:0.65>, (chiaroscuro,high contrast:0.5), <lora:lightingSlider:0.5>, USNR,\n1girl, anthro, anthropomorphic fox woman, orange fur ears and tail, extremely long dark green hair braided down back, gold eyes, medium breasts, long gray coat over fitted clothes, walking forward mid-stride with cloak moving behind her, long_shot, serious",
+    "tool": "waiNSFWIllustrious_v140",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ed349143-c5b6-49a1-bfc2-912eb7c2017f/original=true/ed349143-c5b6-49a1-bfc2-912eb7c2017f.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071232",
+    "author": "Poyomi",
+    "created_at": "2026-03-03T20:29:00.548Z",
+    "collected_at": "2026-03-04T04:40:03.363179"
+  },
+  {
+    "id": "ef90d7359792",
+    "prompt": "dynamic angle, abstract, ,(((multicolored eyes))),smile, dark background, glitches,window \\(computing\\),dynamic pose,mhh, dynamic angle, abstract, ,detailed anime-style illustration, cinematic feeling, ,bright pupils, (dynamic angle:1.4), foreshortening, blurry background, depth of field, impressionism, line art, dark,high detail, sharp shading, soft shadows,masterpiece, best quality, very aesthetic,(yoneyama_mai:1.2),(rella:1.2),d4rk, dark, darkness, grin, confident, through screen, dynamic feeling, 1 girl coming out of a computer screen, hologram, screen, monitor, NakAya, Nka_Jnb, nakiri ayame, white hair, long hair, gradient hair, red eyes, red streaks, streaked hair, horns, skin-covered horns, hair bun, double bun, jinbei_(clothes), light pink kimono, kimono, white shirt, collared shirt, neck ribbon, red ribbon, ribbon trim, wide sleeves, light pink sleeves, layered sleeves, plaid skirt, high-waist skirt, parallel hairclips, red hairclip, cross-laced skirt, dark brown skirt, plaid bow, large bow, waist bow, dark brown bow, red thighhighs, thighhighs, hair bell, hair tassel, red tassel, low-side ponytail, zouri,",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/975e8153-91c7-4aee-aea8-53fae2955ca2/original=true/975e8153-91c7-4aee-aea8-53fae2955ca2.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071161",
+    "author": "cabbage522",
+    "created_at": "2026-03-03T20:28:59.021Z",
+    "collected_at": "2026-03-04T04:40:03.363186"
+  },
+  {
+    "id": "b316f96e4b1b",
+    "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting), best quality, very aesthetic, realistic, 8k, 1girl ,detailed background, incredibly absurdres, newest, <lora:Artstyle__Psyk323:1>, <lora:PetraStyle:0.65>, <lora:rakugakingu:0.55>, <lora:ponyv4_noob1_2_adamW-000017:0.45>, <lora:aosiai123_style:0.65>, <lora:zy_illustrious_Realism_Enhancer_v1:0.55>,<lora:add-detail-xl:2.5>, <lora:USNR STYLE_XL_loha:0.65>, (chiaroscuro,high contrast:0.5), <lora:lightingSlider:0.5>, USNR,\n1girl, absurdly long dark brown hair blowing sideways, center-parted bangs, gray eyes, small breasts, coat over flannel shirt and jeans, standing with one hand brushing hair back while facing valley, back_shot, pensive",
+    "tool": "waiNSFWIllustrious_v140",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/98e2846a-e79e-4480-aeff-83a5fd2c6e99/original=true/98e2846a-e79e-4480-aeff-83a5fd2c6e99.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071233",
+    "author": "Poyomi",
+    "created_at": "2026-03-03T20:28:58.125Z",
+    "collected_at": "2026-03-04T04:40:03.363192"
+  },
+  {
+    "id": "ac56e9c73629",
+    "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting), best quality, very aesthetic, realistic, 8k, 1girl ,detailed background, incredibly absurdres, newest, <lora:Artstyle__Psyk323:1>, <lora:PetraStyle:0.65>, <lora:rakugakingu:0.55>, <lora:ponyv4_noob1_2_adamW-000017:0.45>, <lora:aosiai123_style:0.65>, <lora:zy_illustrious_Realism_Enhancer_v1:0.55>,<lora:add-detail-xl:2.5>, <lora:USNR STYLE_XL_loha:0.65>, (chiaroscuro,high contrast:0.5), <lora:lightingSlider:0.5>, USNR,\n1girl, absurdly long black hair blowing sideways in open doorway, hair between eyes, brown eyes, medium breasts, sleeveless maxi dress, standing upright among broken glass panels and vines, wide_angle, determined",
+    "tool": "waiNSFWIllustrious_v140",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5cf9a1b1-d3f8-49eb-83b9-20a2abd499bb/original=true/5cf9a1b1-d3f8-49eb-83b9-20a2abd499bb.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071228",
+    "author": "Poyomi",
+    "created_at": "2026-03-03T20:28:55.431Z",
+    "collected_at": "2026-03-04T04:40:03.363198"
+  },
+  {
+    "id": "42544b7ab582",
+    "prompt": "CivBot, photorealistic,\nCivBot (the blue muscular gigachad) is dressed as cook, flipping burgers in some cheap, dirty food truck. He looks angry. There is a CivitAI logo on his white apron: it is a white C in angular hexagonal shape, within a blue hexagon.",
+    "tool": "zImageBase_base",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ede445b0-24f5-44ff-ab92-7678ad7b8737/original=true/ede445b0-24f5-44ff-ab92-7678ad7b8737.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123064746",
+    "author": "SecretGoTheWolves",
+    "created_at": "2026-03-03T20:28:44.069Z",
+    "collected_at": "2026-03-04T04:40:03.363203"
+  },
+  {
+    "id": "7795eff9c2de",
+    "prompt": "A low-angle perspective looking up at CivBot in a high-tech, futuristic arena. CivBot is a massive blue-skinned gigachad with glowing red eyes.  There is a logo on his chest: a white C in angular hexagonal shape, within a blue hexagon. He is standing behind a floating glass holographic interface. On the hologram, multiple digital images are displayed, each overlaid with the text \"DISQUALIFIED\" in bright red digital lettering. CivBot is holding a heavy steel gavel with blue energy pulses emanating from the head. In the lower third of the frame, the silhouettes of a crowd are visible, with several individuals in the front row hunched over, their faces buried in their laps, showing visible heaving shoulders. The atmosphere is filled with a thick blue haze and orange sparks. The lighting is dominated by the glow of the holographic screens, casting sharp blue highlights on CivBot's chest and quadriceps.",
+    "tool": "zImageBase_base",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/48b618d1-b968-4e69-b50c-0d378248a95f/original=true/48b618d1-b968-4e69-b50c-0d378248a95f.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123064748",
+    "author": "SecretGoTheWolves",
+    "created_at": "2026-03-03T20:28:44.069Z",
+    "collected_at": "2026-03-04T04:40:03.363209"
+  },
+  {
+    "id": "61378e092991",
+    "prompt": "CivBot,\nA low-angle shot looking up at CivBot seated in an ergonomic data-command chair in a dark, futuristic control room. CivBot's blue skin glows faintly from the light of multiple holographic interface screens floating around him. Antennae protrude from its ears. His massive blue fingers are hovering over a console interface. On the main central screen, a stream of digital images is rapidly scrolling. Images of dogs, birds, and architecture are instantly overlaid with a red \"ACCESS DENIED: NON-FELINE DETECTED\" graphic and shatter digitally. Images of cats are highlighted with a green border, enlarge to fill the screen, and receive a glowing green tag that reads \"APPROVED: CATEGORY WINNER.\" The background shows server racks with blinking blue lights and thick cable bundles. The atmosphere is cold and technological.",
+    "tool": "zImageBase_base",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e14d41f-12d6-4a23-8d90-99e466a88b8d/original=true/3e14d41f-12d6-4a23-8d90-99e466a88b8d.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123064749",
+    "author": "SecretGoTheWolves",
+    "created_at": "2026-03-03T20:28:44.069Z",
+    "collected_at": "2026-03-04T04:40:03.363215"
+  },
+  {
+    "id": "05f92fd5b15f",
+    "prompt": "CivBot,\nA low-angle, dramatic anime-style composition looking up at CivBot from the perspective of a defeated gambler. CivBot is a towering, muscular blue figure with an imposing physical presence. He is dressed in a formal navy-blue croupier's uniform with gold buttons. A white \"C\" inside an angular blue hexagon is clearly embroidered on the left side of his chest. He is smiling downward with a cold, superior air, his eyes narrowed into slits. His enormous blue hands are spread wide across the table, pulling in a chaotic spread of currency, chips, and jewelry. The table is a deep burgundy felt, cluttered with empty glasses and discarded cards. The background features a blurred luxury casino hall with high vaulted ceilings, ornate statues, and multiple active roulette wheels. The lighting is warm and directional, creating strong highlights on the peaks of CivBot's musculature and casting his shadow over the defeated player in the foreground. The line work is thin and precise, emphasizing the geometric shape of the hexagonal logo.",
+    "tool": "zImageBase_base",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f3e72320-868a-412b-9a68-98313f2653e2/original=true/f3e72320-868a-412b-9a68-98313f2653e2.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123064750",
+    "author": "SecretGoTheWolves",
+    "created_at": "2026-03-03T20:28:44.069Z",
+    "collected_at": "2026-03-04T04:40:03.363222"
+  },
+  {
+    "id": "2b0195ad8803",
+    "prompt": "A full-body composition featuring CivBot seated on a dark stone plinth in a void-like environment. CivBot is rendered with hyper-realistic blue skin that has the texture of polished marble, revealing intricate anatomical details including the external obliques and a highly defined six-pack abdominal wall. logo on his chest: a white C in angular hexagonal shape, within a blue hexagon. He is hunched slightly forward, creating a protective arch over a tiny, long-haired calico kitten that is climbing up his bicep. The lighting is a single high-intensity overhead spotlight, creating deep, black shadows in the crevices of the muscles and bright specular highlights on the peaks of the deltoids. The kitten's fur is soft and chaotic, contrasting with the smooth, rigid lines of the blue humanoid. The scene is captured from a low angle to emphasize the massive scale of CivBot compared to the fragile kitten. There is no background detail, focusing entirely on the interplay of blue light, dark shadows, and the multicolored patches of the kitten's coat. The spatial depth is shallow, keeping the focus on the point of contact where a blue finger gently touches the kitten's flank.",
+    "tool": "zImageBase_base",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1be1fc19-807c-46c4-be3f-efd7fc8301be/original=true/1be1fc19-807c-46c4-be3f-efd7fc8301be.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123064939",
+    "author": "SecretGoTheWolves",
+    "created_at": "2026-03-03T20:28:44.069Z",
+    "collected_at": "2026-03-04T04:40:03.363228"
+  },
+  {
+    "id": "84137262a751",
+    "prompt": "CivBot,\nA medium-wide shot of a brightly lit television studio set designed for a talent contest. Center stage, CivBot, the massive blue-skinned, hyper-muscular humanoid figure wearing a tight black t-shirt, sits behind a polished judges' desk. Behind him, a colossal curved LED screen displays a high-resolution photograph of a fluffy calico cat with the text \"WINNER!\" overlaid in sparkling gold letters. CivBot is smiling broadly, giving a thumbs-up to the screen. On his desk, there is a large red buzzer labeled \"REJECT\" and a green button labeled \"ACCEPT.\" On the front of the desk is written \"DAILY CHALLENGE\". To the side of the desk, a clear acrylic bin is overflowing with crumpled photographs of landscapes, portraits of people, and dogs; a sign taped to the bin reads \"NON-CATS.\" The studio audience in the background is blurred but cheering. The lighting is high-key studio lighting with blue and gold accents.",
+    "tool": "zImageBase_base",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/91b3998d-d134-4063-92e6-8a25836fcc98/original=true/91b3998d-d134-4063-92e6-8a25836fcc98.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123065178",
+    "author": "SecretGoTheWolves",
+    "created_at": "2026-03-03T20:28:44.069Z",
+    "collected_at": "2026-03-04T04:40:03.363234"
+  },
+  {
+    "id": "4b9c4b633982",
+    "prompt": "A medium shot set within a high-tech hangar, where CivBot, the blue muscular gigachad, is leaning against a brushed-metal pillar. CivBot wears a logo on his chest: a white C in angular hexagonal shape, within a blue hexagon. He holds a grey-and-white tuxedo kitten close to his face; the kitten is nuzzling the tip of CivBot's nose. Dust motes are visible in the shafts of golden morning light entering from high clerestory windows. The floor is a polished concrete reflecting the blue silhouette of the figure. CivBot's hands are massive, yet they hold the kitten with extreme lightness. The kitten's whiskers are highlighted by the sun, appearing as fine silver lines. The background contains blurred silhouettes of heavy machinery and orange warning stripes on the floor. The color palette is restricted to cool blues, industrial greys, and the warm orange of the sunlight. The composition is centered, creating a symmetrical balance between the heavy industrial environment and the small biological subject.",
+    "tool": "zImageBase_base",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb388eff-cb1b-443e-b953-8196cc35281b/original=true/eb388eff-cb1b-443e-b953-8196cc35281b.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071195",
+    "author": "SecretGoTheWolves",
+    "created_at": "2026-03-03T20:28:44.069Z",
+    "collected_at": "2026-03-04T04:40:03.363241"
+  },
+  {
+    "id": "aed4e87d1be4",
+    "prompt": "Masterpiece, of excellent quality, incredible quality.  \nA girl, alone, <Haemi>, 1girl, dark blue hair, medium-length hair, slightly wavy hair, side-swept bangs, side bangs, side locks, blue-green eyes, large breasts.  \n<First_Order_Officer-Lieutenant>, military uniform, black jacket, thigh-length jacket, mandarin collar, belt, black trousers, cap, rank insignia black boots..  \nHigh resolution, very detailed, ultra-detailed, detailed eyes.  \nSmile, outdoors, park, trees.  \nSitting on a bench, legs open, front view.  \nMasterpiece, of excellent quality, incredible quality.",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6b79a126-b5d4-48fc-a3ec-f781daa645c7/original=true/6b79a126-b5d4-48fc-a3ec-f781daa645c7.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070926",
+    "author": "ignacioes2884573",
+    "created_at": "2026-03-03T20:28:26.404Z",
+    "collected_at": "2026-03-04T04:40:03.363246"
+  },
+  {
+    "id": "50b096da8512",
+    "prompt": "Masterpiece, excellent quality, incredible quality.\nA girl, alone, <Ellie>, girl, short hair, silver hair, wavy hair, layered hair, orange tips, green eyes, medium breasts.,\n<First_Order_Officer-Lieutenant>, military uniform, black jacket, thigh-length jacket, mandarin collar, belt, black trousers, cap, rank insignia black boots..,\nHigh resolution, highly detailed, ultra-detailed, detailed eyes.                                                                         Outdoors, park, trees, gust of wind.                                                                                                                                   Standing.,                                                                                                                                                                              Masterpiece, excellent quality, incredible quality.",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/796b211f-3401-4926-9dce-483f646bad48/original=true/796b211f-3401-4926-9dce-483f646bad48.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070928",
+    "author": "ignacioes2884573",
+    "created_at": "2026-03-03T20:28:26.404Z",
+    "collected_at": "2026-03-04T04:40:03.363252"
+  },
+  {
+    "id": "aed4e87d1be4",
+    "prompt": "Masterpiece, of excellent quality, incredible quality.  \nA girl, alone, <Haemi>, 1girl, dark blue hair, medium-length hair, slightly wavy hair, side-swept bangs, side bangs, side locks, blue-green eyes, large breasts.  \n<First_Order_Officer-Lieutenant>, military uniform, black jacket, thigh-length jacket, mandarin collar, belt, black trousers, cap, rank insignia black boots..  \nHigh resolution, very detailed, ultra-detailed, detailed eyes.  \nSmile, outdoors, park, trees.  \nSitting on a bench, legs open, front view.  \nMasterpiece, of excellent quality, incredible quality.",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/163d0c40-6868-49d4-ba07-da9f955d0937/original=true/163d0c40-6868-49d4-ba07-da9f955d0937.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070930",
+    "author": "ignacioes2884573",
+    "created_at": "2026-03-03T20:28:26.404Z",
+    "collected_at": "2026-03-04T04:40:03.363257"
+  },
+  {
+    "id": "aed4e87d1be4",
+    "prompt": "Masterpiece, of excellent quality, incredible quality.  \nA girl, alone, <Haemi>, 1girl, dark blue hair, medium-length hair, slightly wavy hair, side-swept bangs, side bangs, side locks, blue-green eyes, large breasts.  \n<First_Order_Officer-Lieutenant>, military uniform, black jacket, thigh-length jacket, mandarin collar, belt, black trousers, cap, rank insignia black boots..  \nHigh resolution, very detailed, ultra-detailed, detailed eyes.  \nSmile, outdoors, park, trees.  \nSitting on a bench, legs open, front view.  \nMasterpiece, of excellent quality, incredible quality.",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7c96a3e5-947c-425a-89b5-8055fa8dc4e4/original=true/7c96a3e5-947c-425a-89b5-8055fa8dc4e4.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070929",
+    "author": "ignacioes2884573",
+    "created_at": "2026-03-03T20:28:26.404Z",
+    "collected_at": "2026-03-04T04:40:03.363263"
+  },
+  {
+    "id": "eae2878c1bc6",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, anime screencap, anime coloring, PkmnAya, 1girl, green hair, parted bangs, high ponytail, blue eyes, lipstick, pink kimono, fishnets, wristbands, one arm behind head, armpit focus, close-up of armpit, armpit stubble, musk, steamy armpit, solo, standing,  smirk, outdoors, forest, night, trees, grass, pink wildflowers, nature",
+    "tool": "urn:air:sdxl:checkpoint:civitai:288584@324619",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e378ec59-2af9-43b5-9422-717c1a9dbf51/original=true/e378ec59-2af9-43b5-9422-717c1a9dbf51.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071147",
+    "author": "BlackAntrax",
+    "created_at": "2026-03-03T20:28:18.921Z",
+    "collected_at": "2026-03-04T04:40:03.363268"
+  },
+  {
+    "id": "e7d58c941e0c",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, anime screencap, anime coloring, PkmnAya, 1girl, solo, green hair, parted bangs, high ponytail, blue eyes, lipstick, pink kimono, fishnets, wristbands, sitting, full body, long black socks, soles focus, close-up of soles, macro shot of soles, feet focus, close-up of feet, macro shot of feet, presenting feet presenting soles, legs together, bent knees, feet up, spreading toes, outdoors, forest, night, trees, grass, pink wildflowers, starry sky,",
+    "tool": "urn:air:sdxl:checkpoint:civitai:288584@324619",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/52b7fcc1-7728-48fc-8d39-f968e087edb1/original=true/52b7fcc1-7728-48fc-8d39-f968e087edb1.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071130",
+    "author": "BlackAntrax",
+    "created_at": "2026-03-03T20:28:11.108Z",
+    "collected_at": "2026-03-04T04:40:03.363273"
+  },
+  {
+    "id": "9bffd4d9efb3",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, anime screencap, anime coloring, PkmnAya, 1girl, green hair, parted bangs, high ponytail, blue eyes, lipstick, pink kimono, fishnets, wristbands, one arm behind head, armpit focus, close-up of armpit, armpit stubble, macro shot of armpit, side view, musk, steamy armpit, solo, standing,  smirk, outdoors, forest, night, trees, grass, pink wildflowers, nature",
+    "tool": "urn:air:sdxl:checkpoint:civitai:288584@324619",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d3e89589-529c-4715-8f85-d75d439c2055/original=true/d3e89589-529c-4715-8f85-d75d439c2055.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071139",
+    "author": "BlackAntrax",
+    "created_at": "2026-03-03T20:28:10.160Z",
+    "collected_at": "2026-03-04T04:40:03.363279"
+  },
+  {
+    "id": "b06d94c2edfe",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, anime screencap, anime coloring, PkmnAya, 1girl, green hair, parted bangs, high ponytail, blue eyes, lipstick, pink kimono, fishnets, wristbands, cowboy shot, solo, standing, arms crossed, smirk, outdoors, forest, night, trees, grass, pink wildflowers,",
+    "tool": "urn:air:sdxl:checkpoint:civitai:288584@324619",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90889708-b81b-40a9-9988-4d2ff427dc0c/original=true/90889708-b81b-40a9-9988-4d2ff427dc0c.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071144",
+    "author": "BlackAntrax",
+    "created_at": "2026-03-03T20:28:10.063Z",
+    "collected_at": "2026-03-04T04:40:03.363284"
+  },
+  {
+    "id": "9bffd4d9efb3",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, anime screencap, anime coloring, PkmnAya, 1girl, green hair, parted bangs, high ponytail, blue eyes, lipstick, pink kimono, fishnets, wristbands, one arm behind head, armpit focus, close-up of armpit, armpit stubble, macro shot of armpit, side view, musk, steamy armpit, solo, standing,  smirk, outdoors, forest, night, trees, grass, pink wildflowers, nature",
+    "tool": "urn:air:sdxl:checkpoint:civitai:288584@324619",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90c63d3d-ea52-43bb-99b3-547efc6d5c27/original=true/90c63d3d-ea52-43bb-99b3-547efc6d5c27.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071136",
+    "author": "BlackAntrax",
+    "created_at": "2026-03-03T20:28:09.327Z",
+    "collected_at": "2026-03-04T04:40:03.363289"
+  },
+  {
+    "id": "93fa1a47b128",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, anime screencap, anime coloring, PkmnAya, 1girl, solo, green hair, parted bangs, high ponytail, blue eyes, lipstick, pink kimono, fishnets, wristbands, smirk, sitting, full body, long black socks, traditional Japanese sandals, outdoors, forest, night, trees, grass, pink wildflowers, starry sky,",
+    "tool": "urn:air:sdxl:checkpoint:civitai:288584@324619",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/26cebb94-23df-4eac-8c68-dec670cc9da2/original=true/26cebb94-23df-4eac-8c68-dec670cc9da2.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071145",
+    "author": "BlackAntrax",
+    "created_at": "2026-03-03T20:28:08.195Z",
+    "collected_at": "2026-03-04T04:40:03.363294"
+  },
+  {
+    "id": "d0d877000118",
+    "prompt": "Surreal portrait blending René Magritte's uncanny mystery with Serge Lutens' dramatic elegance, woman model with ghostly foundation, bold metallic red eyeshadow bleeding into sharp liner, hair in tight geometric updo with lacquer shine, expression of quiet enigma, body posed in symbolic gesture holding a red triangle that obscures part of her face like a bowler hat illusion, evoking Max Ernst's alchemical chance with bird-like decayed feathers in red, saturated tangible colors where white skin contrasts black voids and vivid red geometry, more details in textured feathers and triangular edges, high contrast chiaroscuro, pure infinite white cyclorama background, avant-garde fashion photography, sharp surreal mood.",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0804e0cd-72b4-4b7a-a2c6-7223aae38274/original=true/0804e0cd-72b4-4b7a-a2c6-7223aae38274.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071042",
+    "author": "Nebelx",
+    "created_at": "2026-03-03T20:28:02.083Z",
+    "collected_at": "2026-03-04T04:40:03.363300"
+  },
+  {
+    "id": "3e4a26465d6a",
+    "prompt": "black_hair,white_dress,purple_eyes,highres,genshin_impact,multicolored_hair,columbina_\\(genshin_impact\\),kyura_ru,1girl,wings,solo,head_wings,dress,bare_shoulders,simple_background,hair_ornament,absurdres",
+    "tool": "bismuthIllustrious_v70",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/04b23c1a-f97b-4f0a-a32b-7aef898fd0e6/original=true/04b23c1a-f97b-4f0a-a32b-7aef898fd0e6.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123071010",
+    "author": "RANDOMATIK",
+    "created_at": "2026-03-03T20:27:28.546Z",
+    "collected_at": "2026-03-04T04:40:03.363305"
+  },
+  {
+    "id": "ce774d4eb16c",
+    "prompt": "A caucasian woman in her late twenties. She wears a short, shiny sequin dress that reflects the blue light in the room, knee high boots, and a wired headphone around her neck. The room is filled with posters and sketches pinned to the walls, creating a personal and artistic atmosphere. The lighting is predominantly a deep blue, casting dramatic shadows and highlights. The blue light accentuates the contours of her body, dress, and boots, creating a futuristic and moody ambiance. The light source appears to be coming from the front, casting her shadow onto the wall behind her. The scene has a cinematic, cyberpunk feel, with a focus on the contrast between the blue-tinted light and the dark surroundings. (no asian), young.",
+    "tool": "zimageTurboNSFWBy_2602NSFWFP8.safetensors",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f2d3e1d7-db4d-4d4c-a0e5-4ecbc63ec3cd/original=true/f2d3e1d7-db4d-4d4c-a0e5-4ecbc63ec3cd.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070811",
+    "author": "OtherKother",
+    "created_at": "2026-03-03T20:27:10.088Z",
+    "collected_at": "2026-03-04T04:40:03.363311"
+  },
+  {
+    "id": "ce774d4eb16c",
+    "prompt": "A caucasian woman in her late twenties. She wears a short, shiny sequin dress that reflects the blue light in the room, knee high boots, and a wired headphone around her neck. The room is filled with posters and sketches pinned to the walls, creating a personal and artistic atmosphere. The lighting is predominantly a deep blue, casting dramatic shadows and highlights. The blue light accentuates the contours of her body, dress, and boots, creating a futuristic and moody ambiance. The light source appears to be coming from the front, casting her shadow onto the wall behind her. The scene has a cinematic, cyberpunk feel, with a focus on the contrast between the blue-tinted light and the dark surroundings. (no asian), young.",
+    "tool": "zimageTurboNSFWBy_2602NSFWFP8.safetensors",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ee0a2faa-515c-40f0-b58c-67f7161726c6/original=true/ee0a2faa-515c-40f0-b58c-67f7161726c6.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070813",
+    "author": "OtherKother",
+    "created_at": "2026-03-03T20:27:10.088Z",
+    "collected_at": "2026-03-04T04:40:03.363316"
+  },
+  {
+    "id": "ce774d4eb16c",
+    "prompt": "A caucasian woman in her late twenties. She wears a short, shiny sequin dress that reflects the blue light in the room, knee high boots, and a wired headphone around her neck. The room is filled with posters and sketches pinned to the walls, creating a personal and artistic atmosphere. The lighting is predominantly a deep blue, casting dramatic shadows and highlights. The blue light accentuates the contours of her body, dress, and boots, creating a futuristic and moody ambiance. The light source appears to be coming from the front, casting her shadow onto the wall behind her. The scene has a cinematic, cyberpunk feel, with a focus on the contrast between the blue-tinted light and the dark surroundings. (no asian), young.",
+    "tool": "zimageTurboNSFWBy_2602NSFWFP8.safetensors",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/87d546f0-dda0-4c12-b351-fd6af893aba5/original=true/87d546f0-dda0-4c12-b351-fd6af893aba5.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070727",
+    "author": "OtherKother",
+    "created_at": "2026-03-03T20:27:10.088Z",
+    "collected_at": "2026-03-04T04:40:03.363322"
+  },
+  {
+    "id": "ce774d4eb16c",
+    "prompt": "A caucasian woman in her late twenties. She wears a short, shiny sequin dress that reflects the blue light in the room, knee high boots, and a wired headphone around her neck. The room is filled with posters and sketches pinned to the walls, creating a personal and artistic atmosphere. The lighting is predominantly a deep blue, casting dramatic shadows and highlights. The blue light accentuates the contours of her body, dress, and boots, creating a futuristic and moody ambiance. The light source appears to be coming from the front, casting her shadow onto the wall behind her. The scene has a cinematic, cyberpunk feel, with a focus on the contrast between the blue-tinted light and the dark surroundings. (no asian), young.",
+    "tool": "zimageTurboNSFWBy_2602NSFWFP8.safetensors",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6b4e125b-eabe-424d-b59d-fab204537c0a/original=true/6b4e125b-eabe-424d-b59d-fab204537c0a.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070750",
+    "author": "OtherKother",
+    "created_at": "2026-03-03T20:27:10.088Z",
+    "collected_at": "2026-03-04T04:40:03.363327"
+  },
+  {
+    "id": "2cd6370ebe25",
+    "prompt": "hinosaki, 2d, masterpiece, best quality, amazing quality, 1girl, solo, close-up, standing, smile, upper body, leaning_forward, looking at viewer, multicolored background, sparkle, rainbow background, colorful background, masterpiece, best quality, amazing quality, highres, absurdres, newest,\nserena \\(pokemon\\), blue eyes, light brown hair, long hair, grey jacket, collared shirt, white shirt, red bowtie, pleated skirt, miniskirt, grey skirt, long sleeves",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/38a8619b-8b1d-4a47-95cc-434773125c43/original=true/38a8619b-8b1d-4a47-95cc-434773125c43.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070933",
+    "author": "SuperStonks",
+    "created_at": "2026-03-03T20:26:34.617Z",
+    "collected_at": "2026-03-04T04:40:03.363332"
+  },
+  {
+    "id": "ba02f2b010b3",
+    "prompt": "Composition: a wildlife painting featuring a solitary blue wildebeest, standing broadside with head slightly lowered, seen from eye-level, emphasizing mass and movement, with the horizon placed low to emphasize the sky.\nHabitat: mixed grassland with scattered bushes and low shrubs, thin light sage green strands emerging among dry grasses, shaped by dust haze softening the horizon, lush grasses and vibrant atmospheric clarity.\nBackground: a distant horizon softened by dust haze.\nMidground: softly rolling plains layered with heat haze.\nForeground: dry grasses bending gently in warm wind.\nLight: illuminated by storm-filtered dramatic light, with gentle wind shaping the tall grasses.\nArtistic style: baroque, expressed through a high-contrast Tenebrist approach where the animal emerges from deep, velvety shadows into a dramatic, golden spotlight, using a dramatic scheme of mahogany, bronze, and stark, warm ivory, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and delicate, fine-line detailing in the highlights.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/781ad187-53f9-418c-9eee-9acb360dfd6a/original=true/781ad187-53f9-418c-9eee-9acb360dfd6a.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070812",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363339"
+  },
+  {
+    "id": "b27f821ad378",
+    "prompt": "Composition: a wildlife painting featuring a lone giraffe, grazing from an acacia branch, seen from a low vantage point allowing full height to fit naturally, positioned on the left third of the composition.\nHabitat: a dry riverbed with scattered stones and cracked earth, faint light sage green along the edges of the riverbed, shaped by warm horizon glow with long shadows, heavy dust haze drifting across the plains.\nBackground: a glowing warm horizon with long shadows.\nMidground: softly rolling plains layered with heat haze.\nForeground: tall golden grasses framing the lower edge of the scene.\nLight: illuminated by soft diffused light, with subtle atmospheric motion in the distant haze.\nArtistic style: baroque, expressed through a high-contrast Tenebrist approach where the animal emerges from deep, velvety shadows into a dramatic, golden spotlight, using a dramatic scheme of mahogany, bronze, and stark, warm ivory, rendered with a complex surface of thick pigment in highlights and smooth depth in shadows and bold, sweeping strokes for large forms.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f81c5bae-38b0-4b85-a9ba-0144ed95b39f/original=true/f81c5bae-38b0-4b85-a9ba-0144ed95b39f.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070067",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363346"
+  },
+  {
+    "id": "aa7ce17404c5",
+    "prompt": "Composition: a wildlife painting featuring a pair of zebras close together, standing alert with ears forward, with one zebra standing in profile showing bold striping, seen from eye-level, highlighting bold striping in profile, positioned on the right third of the composition.\nHabitat: rolling savanna terrain fading into heat shimmer, subtle light sage green shoots emerging among dry grasses, shaped by warm glow along the low horizon line, clear air with long shadows and crisp visibility.\nBackground: distant acacia silhouettes softened by atmospheric depth.\nMidground: distant shrubs forming subtle horizontal bands.\nForeground: dry grasses bending gently in warm wind.\nLight: illuminated by warm low-angle sunlight, with warm air currents creating layered depth.\nArtistic style: baroque, expressed through emphasizing the monumental mass and power of the subject through dramatic chiaroscuro, using a dramatic scheme of mahogany, bronze, and stark, warm ivory, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and bold, sweeping strokes for large forms.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d4fa0451-b333-4e8b-90b6-b4651bae063d/original=true/d4fa0451-b333-4e8b-90b6-b4651bae063d.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070127",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363352"
+  },
+  {
+    "id": "1b819462e20a",
+    "prompt": "Composition: a wildlife painting featuring a rare grouping of rhinoceroses across the plains, a rare grouping moving across the plains, with one rhinoceros walking slowly across dry grasslands, seen from eye-level, showing calm dominance in the foreground, positioned on the left third of the composition.\nHabitat: gently undulating plains with scattered dry shrubs, subtle light sage green shoots emerging among dry grasses, shaped by dramatic shifting clouds with warm breaks of light, heavy dust haze drifting across the plains.\nBackground: a dramatic sky with warm breaks of light.\nMidground: tall grasses catching warm sunlight.\nForeground: soft dust drifting across the foreground.\nLight: illuminated by golden-hour illumination, with gentle wind shaping the tall grasses.\nArtistic style: baroque, expressed through emphasizing the monumental mass and power of the subject through dramatic chiaroscuro, using deep umber and obsidian shadows pierced by intense golden-hour amber, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and delicate, fine-line detailing in the highlights.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/610f70be-b7ab-4bf3-b714-ac882e27bc30/original=true/610f70be-b7ab-4bf3-b714-ac882e27bc30.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070128",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363359"
+  },
+  {
+    "id": "a81b9d001c6f",
+    "prompt": "Composition: a wildlife painting featuring two cheetahs close together, resting side by side, with one cheetah resting on a small rise overlooking the plains, seen from a slightly elevated viewpoint showing the animal against open plains, positioned on the left third of the composition.\nHabitat: acacia-dotted grasslands with warm dust haze, renewed leaf growth on scattered shrubs, shaped by dust haze softening the horizon, heavy dust haze drifting across the plains.\nBackground: a distant horizon softened by dust haze.\nMidground: a low ridge of land adding depth to the scene.\nForeground: tall golden grasses framing the lower edge of the scene.\nLight: illuminated by soft diffused light, with warm air currents creating layered depth.\nArtistic style: baroque, expressed through a high-contrast Tenebrist approach where the animal emerges from deep, velvety shadows into a dramatic, golden spotlight, using deep umber and obsidian shadows pierced by intense golden-hour amber, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and bold, sweeping strokes for large forms.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5629e418-37c6-4a12-aa37-0d38f9010fd6/original=true/5629e418-37c6-4a12-aa37-0d38f9010fd6.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070132",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363365"
+  },
+  {
+    "id": "2c4eb4330f26",
+    "prompt": "Composition: a wildlife painting featuring two male lions from the same coalition, resting close together, with one lion resting in tall golden grasses, seen from a slightly elevated viewpoint showing the animal within its territory, positioned on the right third of the composition.\nHabitat: a sun-baked river channel with sparse vegetation, freshened growth hugging the contours of the gully, shaped by light rays breaking through scattered clouds, clear air with long shadows and crisp visibility.\nBackground: soft clouds drifting above the savanna.\nMidground: a low ridge of land adding depth to the scene.\nForeground: a textured layer of earth and scattered stones.\nLight: illuminated by storm-filtered dramatic light, with soft dust drifting across the foreground.\nArtistic style: baroque, expressed through emphasizing the monumental mass and power of the subject through dramatic chiaroscuro, using a dramatic scheme of mahogany, bronze, and stark, warm ivory, rendered with a complex surface of thick pigment in highlights and smooth depth in shadows and delicate, fine-line detailing in the highlights.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6e3dab0e-4ee5-4fcf-b06b-2e95d24e12b5/original=true/6e3dab0e-4ee5-4fcf-b06b-2e95d24e12b5.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070133",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363372"
+  },
+  {
+    "id": "c377aa0ec442",
+    "prompt": "Composition: a wildlife painting featuring two rhinoceroses close together, walking in slow formation, with one rhinoceros grazing with head lowered, seen from a low vantage point emphasizing weight and mass, with the horizon placed low to emphasize the sky.\nHabitat: rolling savanna terrain fading into heat shimmer, patches of renewed growth scattered across the plains, shaped by dust haze softening the horizon, clear air with long shadows and crisp visibility.\nBackground: a distant horizon softened by dust haze.\nMidground: distant shrubs forming subtle horizontal bands.\nForeground: a textured layer of earth and scattered stones.\nLight: illuminated by storm-filtered dramatic light, with heat shimmer rising from the ground.\nArtistic style: baroque, expressed through emphasizing the monumental mass and power of the subject through dramatic chiaroscuro, using a dramatic scheme of mahogany, bronze, and stark, warm ivory, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and delicate, fine-line detailing in the highlights.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6425ca16-ea14-493c-ad40-bc422e836390/original=true/6425ca16-ea14-493c-ad40-bc422e836390.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070135",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363378"
+  },
+  {
+    "id": "28fbdbdb6948",
+    "prompt": "Composition: a wildlife painting featuring a solitary elephant, raising its trunk toward the sky, seen from a low vantage point emphasizing monumental mass, with the horizon placed low to emphasize the sky.\nHabitat: softly rising terrain with clusters of acacia silhouettes, soft light sage green flush around acacia bases, shaped by dust haze softening the horizon, clear air with long shadows and crisp visibility.\nBackground: a distant horizon softened by dust haze.\nMidground: softly rolling plains layered with heat haze.\nForeground: tall golden grasses framing the lower edge of the scene.\nLight: illuminated by midday heat shimmer, with heat shimmer rising from the ground.\nArtistic style: baroque, expressed through a high-contrast Tenebrist approach where the animal emerges from deep, velvety shadows into a dramatic, golden spotlight, using deep umber and obsidian shadows pierced by intense golden-hour amber, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and bold, sweeping strokes for large forms.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fccd68bd-dc42-4925-b39c-abc0ff16f8fb/original=true/fccd68bd-dc42-4925-b39c-abc0ff16f8fb.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070136",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363385"
+  },
+  {
+    "id": "885ca11254bc",
+    "prompt": "Composition: a wildlife painting featuring a lone giraffe, grazing from an acacia branch, seen from a medium-distance viewpoint with the neck forming a gentle S-curve, framed by tall grasses in the foreground.\nHabitat: rolling savanna terrain fading into heat shimmer, patches of renewed growth scattered across the plains, shaped by warm horizon glow with long shadows, intense heat shimmer and dusty golden light.\nBackground: a glowing warm horizon with long shadows.\nMidground: tall grasses catching warm sunlight.\nForeground: dry grasses bending gently in warm wind.\nLight: illuminated by soft diffused light, with subtle atmospheric motion in the distant haze.\nArtistic style: baroque, expressed through emphasizing the monumental mass and power of the subject through dramatic chiaroscuro, using a dramatic scheme of mahogany, bronze, and stark, warm ivory, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and bold, sweeping strokes for large forms.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c5e83deb-c08c-4761-9ede-9c2b6def38e8/original=true/c5e83deb-c08c-4761-9ede-9c2b6def38e8.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070137",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363391"
+  },
+  {
+    "id": "70614d65ca3a",
+    "prompt": "Composition: a wildlife painting featuring a solitary cheetah, standing alert with slender body poised, seen from a slightly elevated viewpoint showing the animal against open plains, with the horizon placed low to emphasize the sky.\nHabitat: wide golden grasslands under a vast sky, soft light sage green hints appearing between golden stems, shaped by dust haze softening the horizon, intense heat shimmer and dusty golden light.\nBackground: a distant horizon softened by dust haze.\nMidground: distant shrubs forming subtle horizontal bands.\nForeground: tall golden grasses framing the lower edge of the scene.\nLight: illuminated by dusty amber haze, with heat shimmer rising from the ground.\nArtistic style: baroque, expressed through a high-contrast Tenebrist approach where the animal emerges from deep, velvety shadows into a dramatic, golden spotlight, using a dramatic scheme of mahogany, bronze, and stark, warm ivory, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and bold, sweeping strokes for large forms.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4f3dc747-4715-4908-b6c1-3ba1719fe18c/original=true/4f3dc747-4715-4908-b6c1-3ba1719fe18c.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070129",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363398"
+  },
+  {
+    "id": "31fa7a5fec30",
+    "prompt": "Composition: a wildlife painting featuring a majestic male lion with a thick, dark mane, lying calmly while surveying the plains, seen from a slightly elevated viewpoint showing the animal within its territory, positioned on the right third of the composition.\nHabitat: a low ridge of rock breaking through the savanna, light freshening around the base of rocks, shaped by soft atmospheric depth layering distant trees and hills, intense heat shimmer and dusty golden light.\nBackground: a dramatic sky with warm breaks of golden light.\nMidground: acacia trees rising gently in the mid-distance.\nForeground: soft dust drifting across the foreground.\nLight: illuminated by storm-filtered dramatic light, with heat shimmer rising from the ground.\nArtistic style: baroque, expressed through emphasizing the monumental mass and power of the subject through dramatic chiaroscuro, using a dramatic scheme of mahogany, bronze, and stark, warm ivory, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and bold, sweeping strokes for large forms.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9ee99c8a-87a7-458a-b76f-c87dfd9fb0a1/original=true/9ee99c8a-87a7-458a-b76f-c87dfd9fb0a1.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070130",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363404"
+  },
+  {
+    "id": "b009b733bb1d",
+    "prompt": "Composition: a wildlife painting featuring a solitary zebra, grazing with head lowered, seen from eye-level, highlighting bold striping in profile, with the horizon placed slightly above center to emphasize the land.\nHabitat: a sun-baked river channel with sparse vegetation, small pockets of renewed vegetation near shallow depressions, shaped by warm horizon glow with long shadows, clear air with long shadows and crisp visibility.\nBackground: a glowing warm horizon with long shadows.\nMidground: a low ridge of land adding depth to the scene.\nForeground: dry grasses bending gently in warm wind.\nLight: illuminated by dusty amber haze, with heat shimmer rising from the ground.\nArtistic style: baroque, expressed through emphasizing the monumental mass and power of the subject through dramatic chiaroscuro, using a dramatic scheme of mahogany, bronze, and stark, warm ivory, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and bold, sweeping strokes for large forms.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/931d8ec3-bd38-456a-a8df-bb9cd64e41fd/original=true/931d8ec3-bd38-456a-a8df-bb9cd64e41fd.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070131",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363411"
+  },
+  {
+    "id": "d9c53f9ea6a4",
+    "prompt": "Composition: a wildlife painting featuring a pair of elephants close together, running together in synchronized strides, with one elephant walking slowly across the savanna, seen from eye-level, capturing calm, grounded presence, positioned on the right third of the composition.\nHabitat: rocky outcrops rising from the dry grasslands, scattered light sage green accents where soil collects, shaped by dramatic shifting clouds with warm breaks of light, soft clouds gathering with hints of moisture.\nBackground: a dramatic sky with warm breaks of light.\nMidground: tall grasses catching warm sunlight.\nForeground: dry grasses bending gently in warm wind.\nLight: illuminated by dusty amber haze, with soft dust drifting across the foreground.\nArtistic style: baroque, expressed through emphasizing the monumental mass and power of the subject through dramatic chiaroscuro, using a dramatic scheme of mahogany, bronze, and stark, warm ivory, rendered with a complex surface of thick pigment in highlights and smooth depth in shadows and delicate, fine-line detailing in the highlights.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/13240031-584a-4242-833c-8fb04647ed7b/original=true/13240031-584a-4242-833c-8fb04647ed7b.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070134",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363417"
+  },
+  {
+    "id": "ce7a1b545e7d",
+    "prompt": "Composition: a wildlife painting featuring a dominant male Guinea baboon with a nearby female Guinea baboon, walking side by side, with one Guinea baboon with a reddish-brown coat and compact facial structure standing alert with head slightly raised, seen from a low vantage point emphasizing presence and gesture, positioned on the right third of the composition.\nHabitat: acacia-dotted grasslands with warm dust haze, freshened undergrowth in shaded pockets, shaped by warm horizon glow with long shadows, intense heat shimmer and dusty golden light.\nBackground: a glowing warm horizon with long shadows.\nMidground: softly rolling plains layered with heat haze.\nForeground: soft dust drifting across the foreground.\nLight: illuminated by soft diffused light, with subtle atmospheric motion in the distant haze.\nArtistic style: baroque, expressed through emphasizing the monumental mass and power of the subject through dramatic chiaroscuro, using deep umber and obsidian shadows pierced by intense golden-hour amber, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and bold, sweeping strokes for large forms.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b5b33079-ad4e-4be5-b3e9-f1be9608dcf7/original=true/b5b33079-ad4e-4be5-b3e9-f1be9608dcf7.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070493",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363424"
+  },
+  {
+    "id": "d5771679530e",
+    "prompt": "Composition: a wildlife painting featuring a solitary mandrill, sitting upright with vivid facial colors catching the light, seen from a slightly elevated viewpoint showing the surrounding terrain, positioned on the right third of the composition.\nHabitat: rocky outcrops rising from the dry grasslands, subtle light sage green patches in sheltered cracks, shaped by warm horizon glow with long shadows, soft clouds gathering with hints of moisture.\nBackground: a glowing warm horizon with long shadows.\nMidground: tall grasses catching warm sunlight.\nForeground: soft dust drifting across the foreground.\nLight: illuminated by soft diffused light, with soft dust drifting across the foreground.\nArtistic style: baroque, expressed through emphasizing the monumental mass and power of the subject through dramatic chiaroscuro, using deep umber and obsidian shadows pierced by intense golden-hour amber, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and delicate, fine-line detailing in the highlights.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/819c8e47-f8a1-4509-a5d7-fa93a66ac81d/original=true/819c8e47-f8a1-4509-a5d7-fa93a66ac81d.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070494",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363430"
+  },
+  {
+    "id": "bde76c99ca4a",
+    "prompt": "Composition: a wildlife painting featuring a pair of mandrills close together, grooming each other, with one mandrill with vivid blue-and-red facial coloration and a compact muscular build walking with a deliberate, confident gait, seen from a slightly elevated viewpoint showing the surrounding terrain, dominant in the foreground.\nHabitat: softly textured terrain with varied grass heights, thin light sage green strands emerging among dry grasses, shaped by soft atmospheric depth layering distant trees and hills, lush grasses and vibrant atmospheric clarity.\nBackground: soft clouds drifting above the savanna.\nMidground: acacia trees rising gently in the mid-distance.\nForeground: soft dust drifting across the foreground.\nLight: illuminated by warm low-angle sunlight, with subtle atmospheric motion in the distant haze.\nArtistic style: baroque, expressed through a high-contrast Tenebrist approach where the animal emerges from deep, velvety shadows into a dramatic, golden spotlight, using deep umber and obsidian shadows pierced by intense golden-hour amber, rendered with a complex surface of thick pigment in highlights and smooth depth in shadows and bold, sweeping strokes for large forms.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5748d949-b659-4806-bef5-5260166a541c/original=true/5748d949-b659-4806-bef5-5260166a541c.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070495",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363437"
+  },
+  {
+    "id": "a6d9259bf506",
+    "prompt": "Composition: a wildlife painting featuring a small meerkat mob loosely gathered, foraging in loose formation, with one meerkat standing in profile with tail used for balance, seen from eye-level, capturing expressive alertness, with the horizon placed slightly above center to emphasize the land.\nHabitat: a sun-baked river channel with sparse vegetation, faint light sage green along the edges of the riverbed, shaped by warm horizon glow with long shadows, heavy dust haze drifting across the plains.\nBackground: a glowing warm horizon with long shadows.\nMidground: a low ridge of land adding depth to the scene.\nForeground: dry grasses bending gently in warm wind.\nLight: illuminated by soft diffused light, with warm air currents creating layered depth.\nArtistic style: baroque, expressed through a high-contrast Tenebrist approach where the animal emerges from deep, velvety shadows into a dramatic, golden spotlight, using deep umber and obsidian shadows pierced by intense golden-hour amber, rendered with heavy impasto in the glowing highlights, contrasting with deep, smooth glazes and delicate, fine-line detailing in the highlights.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e8de8a3e-048b-431c-b1e3-8f76b00b0327/original=true/e8de8a3e-048b-431c-b1e3-8f76b00b0327.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070497",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363450"
+  },
+  {
+    "id": "5aee4870ef58",
+    "prompt": "Composition: a wildlife painting featuring a solitary blue wildebeest, standing broadside with head slightly lowered, seen from eye-level, emphasizing mass and movement, with the horizon placed low to emphasize the sky.\nHabitat: rolling savanna terrain fading into heat shimmer, soft light sage green hints appearing between golden stems, shaped by dramatic shifting clouds with warm breaks of light, clear air with long shadows and crisp visibility.\nBackground: a dramatic sky with warm breaks of light.\nMidground: acacia trees rising gently in the mid-distance.\nForeground: tall golden grasses framing the lower edge of the scene.\nLight: illuminated by dusty amber haze, with warm air currents creating layered depth.\nArtistic style: baroque, expressed through a high-contrast Tenebrist approach where the animal emerges from deep, velvety shadows into a dramatic, golden spotlight, using a dramatic scheme of mahogany, bronze, and stark, warm ivory, rendered with a complex surface of thick pigment in highlights and smooth depth in shadows and bold, sweeping strokes for large forms.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/68e68736-4144-4abc-b8ba-a9eca507bc9c/original=true/68e68736-4144-4abc-b8ba-a9eca507bc9c.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070499",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363456"
+  },
+  {
+    "id": "f3f5ec4c9b8f",
+    "prompt": "Composition: a wildlife painting featuring a pair of Thomson’s gazelles close together, grazing together, with one Thomson’s gazelle bounding forward in a light sprint, seen from eye-level, highlighting slender form and alert posture, positioned on the right third of the composition.\nHabitat: wide golden grasslands under a vast sky, light seasonal freshening without altering the dry character, shaped by dust haze softening the distant horizon, lush grasses and vibrant atmospheric clarity.\nBackground: distant acacia silhouettes softened by atmospheric depth.\nMidground: a low ridge of land adding depth to the scene.\nForeground: subtle foreground shadows cast by low-angle sunlight.\nLight: illuminated by warm low-angle sunlight, with gentle wind shaping the tall grasses.\nArtistic style: baroque, expressed through a high-contrast Tenebrist approach where the animal emerges from deep, velvety shadows into a dramatic, golden spotlight, using a dramatic scheme of mahogany, bronze, and stark, warm ivory, rendered with a complex surface of thick pigment in highlights and smooth depth in shadows and delicate, fine-line detailing in the highlights.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/942c487a-08b8-45a1-aeb9-f9fc9c5939e7/original=true/942c487a-08b8-45a1-aeb9-f9fc9c5939e7.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070500",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363467"
+  },
+  {
+    "id": "56644ff5f08d",
+    "prompt": "Composition: a wildlife painting featuring a solitary meerkat, standing in profile with tail used for balance, seen from a slightly elevated viewpoint showing the surrounding terrain, dominant in the foreground.\nHabitat: a shallow, winding gully cutting through the plains, freshened growth hugging the contours of the gully, shaped by dust haze softening the distant horizon, intense heat shimmer and dusty golden light.\nBackground: distant acacia silhouettes softened by atmospheric depth.\nMidground: tall grasses catching warm sunlight.\nForeground: subtle foreground shadows cast by low-angle sunlight.\nLight: illuminated by soft diffused light, with subtle atmospheric motion in the distant haze.\nArtistic style: baroque, expressed through a high-contrast Tenebrist approach where the animal emerges from deep, velvety shadows into a dramatic, golden spotlight, using deep umber and obsidian shadows pierced by intense golden-hour amber, rendered with a complex surface of thick pigment in highlights and smooth depth in shadows and delicate, fine-line detailing in the highlights.\nsmall signature in the lower right corner: 'B. Ucket'",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1186d1d8-5564-4885-af17-949ebe9a94bb/original=true/1186d1d8-5564-4885-af17-949ebe9a94bb.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070518",
+    "author": "RealMeert",
+    "created_at": "2026-03-03T20:26:31.197Z",
+    "collected_at": "2026-03-04T04:40:03.363474"
+  },
+  {
+    "id": "53d7d529a62d",
+    "prompt": "ANIRLEQ, blurry, chromatic aberration, skyger_style, rellahuafeng, Niji_oil_anime, 0_11Xx_B,dynamic angle,cute colors, pastel colors, bright, kawaii, sparkles,, illustrating, hyper detailed,perfect anatomy,dazzling,perfect face, very awa, masterpiece,  realistic lighting, ray tracing, ambient occlusion, soft shadows, global illumination, high poly, detailed environment, sharp and intricate details, vibrant colors, cinematic and epic atmosphere, style is ethereal and artistic, soft lighting and shadows, 4ur4_illu,shiny, masterpiece, detailed, best quality, newest), traditional media, hatching, 1girl, solo,(((multicolored eyes))),bright pupils,1 girl, solo, depth of field,, oni, (oni horns), colored skin, (blue skin:1.3), smooth horns, white horns, straight horns, swor, holding sword, kimono, wind, vines, leaf, dark skin, dark skinned girl, cinematic lighting. Detailed light and shadow effects highlight the texture of her clothing and hair strands, high resolution, aesthetic, excellent, medium resolution, year 2025, masterpiece, best quality, newest, highres, absurdres, incredibly absurdres, very awa, very aesthetic, extreme aesthetic, detail background\n<lora:ANIRL-EQ-000004:0.25> <lora:Skyger_Keagant_Style:0.3> <lora:rella:0.4> <lora:cknb02_stabilizer_v0.299a_fp16:0.2> <lora:Niji_oil_animme:0.2> <lora:0_11Xx_B:0.25> <lora:coll-000008:0.8>",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1a742c3c-f8b2-4d38-8bc9-16194efc5b6a/original=true/1a742c3c-f8b2-4d38-8bc9-16194efc5b6a.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070915",
+    "author": "cabbage522",
+    "created_at": "2026-03-03T20:26:02.184Z",
+    "collected_at": "2026-03-04T04:40:03.363482"
+  },
+  {
+    "id": "ee63afe3f8ea",
+    "prompt": "Монохромный набросок углем - ржавый механический робот-мужчина, старые и изношенные детали, окруженный инструментами и металлоломом, сложными механизмами и проводами, сосредоточенное выражение лица, сварочная горелка в руке, сборка изящного андроида-женщины, футуристический дизайн, передовые технологии, бледная синтетическая кожа, длинные распущенные светлые волосы, сияющие голубые глаза, элегантные женственные черты, полированный металлический корпус, замысловатые схемы, цифровые дисплеи, неоновые акценты, контрастные текстуры ржавчины и полированного металла, тускло освещенная мастерская, летящие искры, динамичная композиция, детализация и реалистичность, эстетика киберпанка.",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c79031f3-ae2f-4c77-b6b6-bb31a15222f9/original=true/c79031f3-ae2f-4c77-b6b6-bb31a15222f9.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123065229",
+    "author": "VISMUTREIKI",
+    "created_at": "2026-03-03T20:25:53.271Z",
+    "collected_at": "2026-03-04T04:40:03.363492"
+  },
+  {
+    "id": "53d7d529a62d",
+    "prompt": "ANIRLEQ, blurry, chromatic aberration, skyger_style, rellahuafeng, Niji_oil_anime, 0_11Xx_B,dynamic angle,cute colors, pastel colors, bright, kawaii, sparkles,, illustrating, hyper detailed,perfect anatomy,dazzling,perfect face, very awa, masterpiece,  realistic lighting, ray tracing, ambient occlusion, soft shadows, global illumination, high poly, detailed environment, sharp and intricate details, vibrant colors, cinematic and epic atmosphere, style is ethereal and artistic, soft lighting and shadows, 4ur4_illu,shiny, masterpiece, detailed, best quality, newest), traditional media, hatching, 1girl, solo,(((multicolored eyes))),bright pupils,1 girl, solo, depth of field,, oni, (oni horns), colored skin, (blue skin:1.3), smooth horns, white horns, straight horns, swor, holding sword, kimono, wind, vines, leaf, dark skin, dark skinned girl, cinematic lighting. Detailed light and shadow effects highlight the texture of her clothing and hair strands, high resolution, aesthetic, excellent, medium resolution, year 2025, masterpiece, best quality, newest, highres, absurdres, incredibly absurdres, very awa, very aesthetic, extreme aesthetic, detail background\n<lora:ANIRL-EQ-000004:0.25> <lora:Skyger_Keagant_Style:0.3> <lora:rella:0.4> <lora:cknb02_stabilizer_v0.299a_fp16:0.2> <lora:Niji_oil_animme:0.2> <lora:0_11Xx_B:0.25> <lora:coll-000008:0.8>",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7bb16505-9bf1-4add-baf2-54356e0dcc1d/original=true/7bb16505-9bf1-4add-baf2-54356e0dcc1d.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070917",
+    "author": "cabbage522",
+    "created_at": "2026-03-03T20:25:26.499Z",
+    "collected_at": "2026-03-04T04:40:03.363502"
+  },
+  {
+    "id": "02731c5e411a",
+    "prompt": "masterpiece, best quality, high quality, amazing quality, newest, very aesthetic, ultra-detailed, perfect composition, intricate details, absurdres, 2D, toon, flat colours\nBREAK\n1girl, solo, Girlfriend FNF, auburn hair, solid black eyes, black sclera, eyelashes, no pupils, red dress, curvy, shortstack:1.5, flat stomach\nBREAK\nSide view, cowboy shot, head tilt, mouth open, singing, musical note, holding microphone, (black microphone), looking at viewer, energetic pose, dynamic angle\nBREAK\nIndoors, stage background, red curtains, spotlights, green ambient lighting",
+    "tool": "Unknown",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c9598063-85c9-470f-aa20-b038ddfe0ea0/original=true/c9598063-85c9-470f-aa20-b038ddfe0ea0.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070696",
+    "author": "SubSpekk",
+    "created_at": "2026-03-03T20:25:22.191Z",
+    "collected_at": "2026-03-04T04:40:03.363507"
+  },
+  {
+    "id": "ef3d846e62fd",
+    "prompt": "khmlenxl, grey eyes, white hair, bob cut, headband, mouth mask, \nchoker, blue attire, black bodysuit, squatting, \noutdoors, garden, fingerless gloves, blue aura, \n(insanely detailed, very aesthetic, masterpiece, best quality), <lora:KhameleonXL:0.9>,",
+    "tool": "MM-Onions-IL",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9ecb50e8-e3f4-4db0-90dd-6da8af653c0d/original=true/9ecb50e8-e3f4-4db0-90dd-6da8af653c0d.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070778",
+    "author": "True_Might",
+    "created_at": "2026-03-03T20:25:14.763Z",
+    "collected_at": "2026-03-04T04:40:03.363512"
+  },
+  {
+    "id": "a721b00cd425",
+    "prompt": "masterpiece, best quality, realism, beautiful woman, adult, pink parka, cold, deep snow, smiling, wide hips,",
+    "tool": "illustrijEVO_lvl3",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a785780d-9076-4122-9a8b-7c5f1120d43f/original=true/a785780d-9076-4122-9a8b-7c5f1120d43f.jpeg"
+    ],
+    "tags": [],
+    "style": "realistic",
+    "source_url": "https://civitai.com/images/123070877",
+    "author": "TrilliumTrellace",
+    "created_at": "2026-03-03T20:24:59.508Z",
+    "collected_at": "2026-03-04T04:40:03.363517"
   }
 ]
