@@ -15548,5 +15548,264 @@
     "created_at": "2025-05-08",
     "collected_at": "2026-03-02T21:59:29",
     "id": "20260302_civ2_943"
+  },
+  {
+    "prompt": "An ultra-detailed cinematic macro portrait of a bumblebee suspended mid-air yet posed in a distinctly human defensive stance, as if braced for impact against a powerful incoming force. Though hovering, its posture conveys grounded resistance â hind legs extended downward and slightly apart as if planted against invisible ground, joints flexed and tensed. The mid-legs angle outward for balance and stability, reinforcing the sense of physical bracing despite being airborne.\nIts dense black and golden-yellow fur is rendered with extreme microscopic fidelity â individual strands layered naturally with subtle variation in length and density, catching soft specular highlights. Fine golden pollen grains cling organically to the thorax and leg joints. The abdomen shows realistic segmentation and gentle curvature, maintaining anatomical authenticity while supporting the anthropomorphic pose.\nThe beeâs glossy compound eyes are deep obsidian with faint sapphire and emerald iridescence reflecting the magical energy ahead. Its gaze is fierce and unwavering, locked forward with disciplined intensity. Antennae sweep slightly backward, reacting to the force of the spell discharge. The translucent wings extend behind in a powerful stabilizing spread, their delicate membranes etched with intricate vein structures; subtle motion blur at the tips conveys rapid vibration counteracting recoil.\nThe foremost right leg (closest to the head) is fully outstretched, gripping a proportionally accurate miniature wand no longer than its foreleg. The wand is simple, smooth matte dark wood with faint natural grain, lightweight and realistically scaled to the beeâs size. It is aimed directly forward with precision. The foremost left leg is raised above the beeâs head in a dramatic counterbalancing gesture, elbow joint bent slightly, as if channeling additional force into the spell or shielding itself from backlash â a heroic, duelist-like silhouette translated into insect anatomy.\nFrom the wandâs tip erupts a concentrated arcane blast that expands into a luminous defensive barrier. Concentric rings of sapphire and pale silver energy rotate with geometric precision, layered with glowing protective glyphs. The shield radiates outward in smooth, controlled expansion, with crackling filaments of energy arcing across its surface. Tiny sparks scatter forward, dissipating naturally into the air.\nColored smoke swirls dynamically around the beeâs lower body and behind the shield â deep indigo, muted violet, and faint teal vapors curling as if pushed back by the force of the magic. The environment is an enchanted twilight meadow rendered in creamy macro bokeh; blurred wildflowers and tall grasses provide atmospheric depth. Floating pollen and dust particles drift through subtle volumetric light rays cutting across the frame.\nLighting is dramatic and high-contrast: a cool frontal key light illuminates the beeâs face, outstretched leg, and wand, while a warm golden rim light traces the fur edges and wing contours, enhancing dimensional separation. The glowing shield acts as a powerful secondary light source, casting shifting blue highlights and soft reflections across the beeâs textured thorax and abdomen. Captured on a 100mm macro lens with shallow depth of field, focus is razor-sharp on the beeâs eyes and forward-pointing wand, with smooth falloff toward wings and background. Fine cinematic film grain, gentle chromatic aberration at the edges, and restrained bloom around the magical energy complete the polished fantasy realism aesthetic. The color grading balances cool sapphire and steel-blue tones against warm honey-gold fur, evoking a heroic, defensive, high-stakes magical confrontation.\nmasterpiece, best quality, ultra-detailed textures, 8k resolution, professional colour grading, high dynamic range, photorealistic macro fantasy artwork\n\nNegative prompt: low quality, low resolution, blurry, out of focus, bad anatomy, incorrect insect anatomy, malformed legs, extra legs, extra wings, distorted proportions, oversized wand, stiff pose, cartoonish style, excessive glow, oversaturated colors, flat lighting, harsh shadows, jpeg artifacts, watermark, text, logo",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7175fb39-a996-470d-b95d-d4b628be00c0/original=true/7175fb39-a996-470d-b95d-d4b628be00c0.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic",
+      "fantasy",
+      "character",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/120924157",
+    "author": "DungeonsAndDosages",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_944"
+  },
+  {
+    "prompt": "remove the two little holes in the cow's muzzle (marked in red)",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/231d7cd3-2c25-4524-9064-04bde048e074/original=true/231d7cd3-2c25-4524-9064-04bde048e074.jpeg"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/122594153",
+    "author": "UnstableGen",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_945"
+  },
+  {
+    "prompt": "Generate me a funny image of a spartan cats in a phalanx line at Thermopolis, They are in a shield wall with spears in greek armor.   8k, uhd, high quality, depth of field,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ddb28a95-f044-41e3-acee-7fb2e113a2b0/original=true/ddb28a95-f044-41e3-acee-7fb2e113a2b0.jpeg"
+    ],
+    "tags": [
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/122306775",
+    "author": "Eva4321",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_946"
+  },
+  {
+    "prompt": "Ultra-wide rural panorama at misty dawn: a cluster of weathered thatched-roof farmhouses with wooden beams and mossy shingles perched on gentle rolling hills, narrow dirt paths lined with wildflowers connecting tiny rice paddies and vegetable patches, ancient gnarled cherry trees dotting the landscape, distant layered misty mountain ranges fading into soft blue infinity, faint smoke rising from stone chimneys, extreme atmospheric depth and grand scale, soft anime-style landscape painting aesthetic, rich textured painterly brushwork merged with glowing digital rendering, rustic serene majesty, gentle golden morning light filtering through fog",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3086d0ae-4916-4566-8c43-f2a30cfe512f/original=true/3086d0ae-4916-4566-8c43-f2a30cfe512f.jpeg"
+    ],
+    "tags": [
+      "landscape",
+      "anime",
+      "architecture"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/122386233",
+    "author": "Razane",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_947"
+  },
+  {
+    "prompt": "A hyper-detailed, photorealistic close-up of a small rat sitting beside a wooden bowl overflowing with bright red super-hot chilies. The rat is holding a half-eaten chili pepper in its tiny paws, mid-reaction. Its eyes are extremely blood-shot, veiny, wide, and bulging in panic. The rat’s mouth is open in a dramatic, over-the-top scream; its tongue is hanging out, glowing red from the heat. Sweat is pouring down its fur, droplets flying. Tears stream down its cheeks. Its whiskers are frazzled, its fur puffed from shock. The expression is exaggerated and comically desperate, like it just bit into the hottest pepper on Earth. Vibrant lighting, shallow depth of field, sharp texture details, hilarious chaotic energy, cinematic photorealism",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82013cea-cc2b-45b7-b1ea-312f0d1c273c/original=true/82013cea-cc2b-45b7-b1ea-312f0d1c273c.jpeg"
+    ],
+    "tags": [
+      "photorealistic",
+      "character",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/122594497",
+    "author": "UnstableGen",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_948"
+  },
+  {
+    "prompt": "Perfect picture of old japanese castle with white walls nearby forest hills, huge fog around it, early morning, 3/4 view, dynamic picture, no sun, gray sky.. \nextremely detailed, perfect composition, a vibrant tissue of hues and textures captured digitally, best quality, realistic, captivating, intricately detailed, hyper detailed, maximalist style, dynamic lighting, superb composition, finest details, highest aesthetics, best quality, sharp focus, high contrast, stylized, clear, colorful, ultra quality, whimsical, fantastic, splash art, intricate detailed, hyperdetailed, maximalist style, hyper detailed, maximalist style, concept art, sharp focus, harmony, serenity, calm, mysterious glow, dynamic lighting, superb composition, sharp focus, high contrast, stylized, clear, colorful, ultra quality, best quality, DB4RZ, DB4RZ style painting, in the style of cksc, a masterpiece, award winning\n <lora:FLUX-daubrez-DB4RZ-v2:0.5> <lora:Luminous_Nostalgia_Cinematic_Fantasy_Glow:0.5> <lora:MoriiMee_Gothic_Niji_Style__FLUX_LoRA_Test_2:0.8>",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e908217e-de3c-4f9f-8443-f04a2cef1141/original=true/e908217e-de3c-4f9f-8443-f04a2cef1141.jpeg"
+    ],
+    "tags": [
+      "landscape",
+      "photorealistic",
+      "fantasy",
+      "character",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/122134745",
+    "author": "Irrator",
+    "tool": "Flux",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_949"
+  },
+  {
+    "prompt": "<lora:Menchi_-_Excel_Saga (1):1>,  menchi, dog, no humans, spotlight, microphone, microphone stand, sitting, music, animal, instrument, stage, animal focus, solo, sheet music on stand, standing in front of microphone",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2e74b6d3-f810-43de-a24f-90cbfab6e8b2/original=true/2e74b6d3-f810-43de-a24f-90cbfab6e8b2.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/122486668",
+    "author": "Crappybarelle",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_950"
+  },
+  {
+    "prompt": "<lora:DetailerILv2-000008:0.67>\n\nNegative prompt: ai-generated, ai-assisted, stable diffusion, nai diffusion, worst quality, worst aesthetic, bad quality, normal quality, average quality, oldest, old, early, very displeasing, displeasing, adversarial noise, unknown artist, banned artist, what, off-topic, artist request, text, artist name, signature, username, logo, watermark, copyright name, copyright symbol, resized, downscaled, source larger, low quality, lowres, jpeg artifacts, compression artifacts, blurry, artistic error, bad anatomy, bad hands, bad feet, disfigured, deformed, extra digits, fewer digits, missing fingers, censored, bar censor, mosaic censoring, missing, extra, fewer, bad, hyper, error, ugly, worst, tagme, unfinished, bad proportions, bad perspective, aliasing, simple background, asymmetrical, monochrome, sketch, concept art, flat color, flat colors, simple shading, jaggy lines, traditional media \\(artwork\\), microsoft paint \\(artwork\\), ms paint \\(medium\\), unclear, photo, icon, multiple views, sequence, comic, 2koma, 4koma, multiple images, turnaround, collage, panel skew, letterboxed, framed, border, speech bubble, 3d, lossy-lossless, scan artifacts, out of frame, cropped",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cd7d4f2f-eb98-411c-9b31-d82cbdee9702/original=true/cd7d4f2f-eb98-411c-9b31-d82cbdee9702.jpeg"
+    ],
+    "tags": [
+      "landscape",
+      "photorealistic",
+      "character"
+    ],
+    "style": "concept-art",
+    "source_url": "https://civitai.com/images/122562017",
+    "author": "valerie_4659",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_951"
+  },
+  {
+    "prompt": "The Scooby gang as a group of paranormal investigators, Fred and Shaggy wearing tactical military gear, Daphne wearing a business suit and Velma as the typical nerdy girl, a text says \"SCOOBY DOO: SCP OPERATIONS\"",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d215c6ab-cc6c-42cf-8951-38a8f2524c45/original=true/d215c6ab-cc6c-42cf-8951-38a8f2524c45.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/122578775",
+    "author": "ElPolloloco2999",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_952"
+  },
+  {
+    "prompt": "Generate me a funny image of a cat dressed in  like marty mcfly from back to the future. They are pulling up their 80s style sunglasses and looking at their watch. Next to him is a white cat dressed in a white jumpsuit with crazy wild white hair like Dr. Emmitt Brown. They are standing next to the Delorean time machine car with a streak of fire behind it. The top of the movie says \"Cat to the Future\" in the Back to the Future movie font. realistic,  8k, uhd, high quality, depth of field,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/19806cd2-51b7-40ab-ac5f-417a984b6520/original=true/19806cd2-51b7-40ab-ac5f-417a984b6520.jpeg"
+    ],
+    "tags": [
+      "photorealistic",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/122516981",
+    "author": "Eva4321",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_953"
+  },
+  {
+    "prompt": "He is holding two green glowing swords- also the part marked in red needs to be fixed",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a3482a72-d168-41bd-b9fc-4317a20330e7/original=true/a3482a72-d168-41bd-b9fc-4317a20330e7.jpeg"
+    ],
+    "tags": [
+      "fantasy"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/122593888",
+    "author": "UnstableGen",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_954"
+  },
+  {
+    "prompt": "Realistic image inside a KFC restaurant. Ronald Mcdonald and Wendy Thomas wearing their iconic outfits are sitting on a table with a KFC chicken bucket and a Pepsi and a small business card like the reference image. They are looking at the card with a puzzled expression. Ronald and Wendy both have red kiss marks all over their faces. On the background behind the counter colonel Sanders wearing his iconic outfit and an apron is looking at Ronald and Wendy with his arms crossed and with a judgmental expression.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cd341d91-49b6-4dbf-b9fb-468a7f446f35/original=true/cd341d91-49b6-4dbf-b9fb-468a7f446f35.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/122344149",
+    "author": "booksung007",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_955"
+  },
+  {
+    "prompt": "Majestic downward vista into a secluded rural basin at early autumn: traditional timber-framed houses with steeply pitched thatched roofs half-hidden by tall bamboo groves and maple trees turning crimson, stepped rice terraces cascading down misty slopes, narrow stone paths and wooden gates leading to small shrines, faint morning mist clinging to the valley floor, towering distant mountains piercing through layered haze, ultra-wide perspective emphasizing overwhelming natural and human harmony, soft anime-style rural painting aesthetic, lush textured brush details combined with crisp ethereal digital rendering, rustic tranquil grandeur, diffused cool morning light",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d4726b17-51bf-40a3-baa7-998a3f4e5899/original=true/d4726b17-51bf-40a3-baa7-998a3f4e5899.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "architecture"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/122386360",
+    "author": "Razane",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_956"
+  },
+  {
+    "prompt": "<lora:Rogue80sIllustrious1.0JLFO-000015:0.85>  r0gue, 1girl, retro artstyle, bodysuit, white hair, red hair, jacket, multicolored hair, long hair, solo, gloves, yellow bodysuit, headband, two-tone hair, belt, green bodysuit,smile, makeup, lipstick, breasts,clenched hand, looking at viewer, hand on own hip, cowboy shot, simple background,, masterpiece, best quality, amazing quality, very aesthetic, absurdres\n\nNegative prompt: patreon username, patreon logo, artist name, signature,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bcc128fd-90bd-4d08-a4e6-0372b128820c/original=true/bcc128fd-90bd-4d08-a4e6-0372b128820c.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/122470737",
+    "author": "JLFO",
+    "tool": "SDXL",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-03T17:24:35",
+    "source_name": "civitai",
+    "id": "20260303_civ_957"
   }
 ]
