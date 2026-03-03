@@ -15807,5 +15807,1365 @@
     "collected_at": "2026-03-03T17:24:35",
     "source_name": "civitai",
     "id": "20260303_civ_957"
+  },
+  {
+    "id": "civitai-122367300",
+    "prompt": "\"(masterpiece, best quality, high quality, highres), very awa, highres, absurdres, \n(pikaole:0.6), (akaya shiki:0.7), \n(no humans:1.1), (cute:1.2), comfy, solo, cozy, \n(rabbit:1.1), \n(evening crossword, indoors, pencil tapping, reading glasses, coffee refill, satisfied, :0.8), \ndepth of field, cinematic, beautiful background, \"",
+    "negativePrompt": "bad quality, worst quality, worst detail, censor, lowres, worst aesthetic, bad anatomy, signature, watermark, logo, \n(hair:1.2), (furry:1.2),",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a2fce49f-c542-4e75-b142-d4c14e6062c2/original=true/a2fce49f-c542-4e75-b142-d4c14e6062c2.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122367301",
+    "prompt": "\"(masterpiece, best quality, high quality, highres), very awa, highres, absurdres, \n(MRN0093:0.8), (azasuke:0.8), \n(no humans:1.1), (cute:1.2), comfy, solo, cozy, \n(fox:1.1), \n(living room, indoor picnic, checkered blanket, sandwiches, soft music, playful, :0.8), \ndepth of field, cinematic, beautiful background, \"",
+    "negativePrompt": "bad quality, worst quality, worst detail, censor, lowres, worst aesthetic, bad anatomy, signature, watermark, logo, \n(hair:1.2), (furry:1.2),",
+    "tool": "Stable Diffusion",
+    "category": "Architecture",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/139fc63c-ac8b-4edd-9adc-9e186f079543/original=true/139fc63c-ac8b-4edd-9adc-9e186f079543.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122367302",
+    "prompt": "\"(masterpiece, best quality, high quality, highres), very awa, highres, absurdres, \n(inutose:0.6), (Rewrite:0.8), \n(no humans:1.1), (cute:1.2), comfy, solo, cozy, \n(goat:1.1), \n(river rocks, skipping stones, sunhat, summer heat, bare feet, cool water splash, :0.8), \ndepth of field, cinematic, beautiful background, \"",
+    "negativePrompt": "bad quality, worst quality, worst detail, censor, lowres, worst aesthetic, bad anatomy, signature, watermark, logo, \n(hair:1.2), (furry:1.2),",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a5a1f138-9f68-4e77-bad6-2606129cec1d/original=true/a5a1f138-9f68-4e77-bad6-2606129cec1d.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122367303",
+    "prompt": "\"(masterpiece, best quality, high quality, highres), very awa, highres, absurdres, \n(arisaka ako:0.9), (kyouchi:0.9), \n(no humans:1.1), (cute:1.2), comfy, solo, cozy, \n(red panda:1.1), \n(afternoon tea, tiered tray, scones, clinking cups, lace doily, polite chat, refined, pleasant, :0.8), \ndepth of field, cinematic, beautiful background, \"",
+    "negativePrompt": "bad quality, worst quality, worst detail, censor, lowres, worst aesthetic, bad anatomy, signature, watermark, logo, \n(hair:1.2), (furry:1.2),",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1a2b6a50-ff40-49d8-8f06-ad9aa4b94168/original=true/1a2b6a50-ff40-49d8-8f06-ad9aa4b94168.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122367304",
+    "prompt": "\"(masterpiece, best quality, high quality, highres), very awa, highres, absurdres, \nchii-kun \\(seedyoulater\\), (nozz177:0.7), \n(no humans:1.1), (cute:1.2), comfy, solo, cozy, \n(hippo:1.1), \n(beach at low tide, bare feet in wet sand, wool scarf, seashells, distant gulls, :0.8), \ndepth of field, cinematic, beautiful background, \"",
+    "negativePrompt": "bad quality, worst quality, worst detail, censor, lowres, worst aesthetic, bad anatomy, signature, watermark, logo, \n(hair:1.2), (furry:1.2),",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6429779b-c605-47aa-b76a-72336238da48/original=true/6429779b-c605-47aa-b76a-72336238da48.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122367305",
+    "prompt": "\"(masterpiece, best quality, high quality, highres), very awa, highres, absurdres, \n(naguru \\(cyoroama\\):0.8), (corn kuten:0.7), \n(no humans:1.1), (cute:1.2), comfy, solo, cozy, \n(catfish:1.1), \n(forest bench in rain, wool wrap, hot tea, listening to drops on leaves, quiet, :0.8), \ndepth of field, cinematic, beautiful background, \"",
+    "negativePrompt": "bad quality, worst quality, worst detail, censor, lowres, worst aesthetic, bad anatomy, signature, watermark, logo, \n(hair:1.2), (furry:1.2),",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/889eaba9-d146-49bb-ae12-4cacda2a341c/original=true/889eaba9-d146-49bb-ae12-4cacda2a341c.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122957534",
+    "prompt": "portrait, angry, frown, teeth, (showing claws:1.2), looking at viewer, \n1girl, faerie dragon, dragon, feral, purple scales, antennae, blue eyes, yellow sclera, white claws, yellow accents, (yellow underbelly:0.8), insect wings, tail, long eyelashes, beautifull,\nelectrokinesis, elemental manipulation, \n forest background,\n lazypos, (2d, anime coloring, anime screenshot:1.3), \n<lora:Faerie Dragon v2 Illust:0.8>",
+    "negativePrompt": "lazyhand,  lazyneg, ears, horns, symmetry, wide angle, tilt trees, ugly,",
+    "tool": "SDXL",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/645b30a3-66df-43ee-81e5-1affd7abc04d/original=true/645b30a3-66df-43ee-81e5-1affd7abc04d.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123026282",
+    "prompt": "masterpiece, best quality, ultra detailed, 8k, strong side lighting with deep shadows, chiaroscuro effect,\n1girl solo, Adult girl, PollyRH, short hair, bobcut, black hair, bangs, green eyes, very small breasts, slim, pale skin, Red lipgloss,\n fashion photography, runway fashion show, fashion runway, catwalk stage, dramatic runway lighting, fashion event atmosphere,\n\noversized pinstripe blazer worn as dress, black pinstripe blazer, tailored blazer dress, structured shoulders, white dress shirt un",
+    "negativePrompt": "score_6, score_5, score_4, source_pony, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, extra hands, extra",
+    "tool": "SDXL",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09350cda-2a8e-4e01-acff-47d3556462a3/original=true/09350cda-2a8e-4e01-acff-47d3556462a3.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123026336",
+    "prompt": "masterpiece, best quality, ultra detailed, 8k, strong side lighting with deep shadows, chiaroscuro effect,\n1girl solo, Adult girl, PollyRH, short hair, bobcut, black hair, bangs, green eyes, very small breasts, slim, pale skin, Red lipgloss,\n fashion photography, runway fashion show, fashion runway, catwalk stage, dramatic runway lighting, fashion event atmosphere,\noversized pinstripe blazer worn as dress, black pinstripe blazer, tailored blazer dress, structured shoulders, white dress shirt und",
+    "negativePrompt": "score_6, score_5, score_4, source_pony, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, extra hands, extra",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/864d6338-ec7d-4fd2-b7f7-7a8b03ac7f76/original=true/864d6338-ec7d-4fd2-b7f7-7a8b03ac7f76.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123026363",
+    "prompt": "masterpiece, best quality, ultra detailed, 8k, strong side lighting with deep shadows, chiaroscuro effect,\n1girl solo, Adult girl, PollyRH, short hair, bobcut, black hair, bangs, green eyes, very small breasts, slim, pale skin, Red lipgloss,\n fashion photography, runway fashion show, fashion runway, catwalk stage, dramatic runway lighting, fashion event atmosphere,\noversized pinstripe blazer worn as dress, black pinstripe blazer, tailored blazer dress, structured shoulders, white dress shirt und",
+    "negativePrompt": "score_6, score_5, score_4, source_pony, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, extra hands, extra",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/39efb56c-7546-4771-9a0f-600ef4088851/original=true/39efb56c-7546-4771-9a0f-600ef4088851.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123026366",
+    "prompt": "masterpiece, best quality, ultra detailed, 8k, strong side lighting with deep shadows, chiaroscuro effect,\n1girl solo, Adult girl, PollyRH, short hair, bobcut, black hair, bangs, green eyes, very small breasts, slim, pale skin, Red lipgloss,\n fashion photography, runway fashion show, fashion runway, catwalk stage, dramatic runway lighting, fashion event atmosphere,\noversized pinstripe blazer worn as dress, black pinstripe blazer, tailored blazer dress, structured shoulders, white dress shirt und",
+    "negativePrompt": "score_6, score_5, score_4, source_pony, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, extra hands, extra",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/920247c8-8741-46fc-96cd-058687ec3df5/original=true/920247c8-8741-46fc-96cd-058687ec3df5.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122948067",
+    "prompt": "masterpiece, best quality, 1girl, solo, yennefer of vengerberg, long hair, black hair, policewoman, police uniform, collared shirt, blue shirt, police hat, peaked cap, armband, outdoors, sky, night, shadow, scenery, reflection, reflective floor, building, against wall, from side, hands on hips, full body, legs apart, purple eyes, mole under mouth, necktie, pants, blue pants, belt, belt pouch, white gloves, high heels, black footwear, wide shot, bloom, backlighting, looking at viewer, v-shaped ey",
+    "negativePrompt": "worst quality, low quality, bad anatomy, watermark, censored, flat color, simple background, anime screenshot, sepia, 3d, water,",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44cc33a6-2921-4cce-8a82-63dcdd009729/original=true/44cc33a6-2921-4cce-8a82-63dcdd009729.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122948069",
+    "prompt": "masterpiece, best quality, solo, 1boy, admnt, mature male, tall, pale skin, bald, sukajan, delinquent, open jacket, black tank top, print jacket, blue jacket, bare shoulders, eyewear on head, sunglasses, (graffiti:1.1), music, playing instrument, holding, holding instrument, yellow eyes, jeans, torn jeans, electric guitar, guitar, holding guitar, bloom, sidelighting, looking down, standing, guitar strap, closed mouth",
+    "negativePrompt": "worst quality, low quality, bad anatomy, watermark, censored, flat color, simple background, anime screenshot, sepia,",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a7f453e6-3e40-4a5c-aee1-7b5ab45aa842/original=true/a7f453e6-3e40-4a5c-aee1-7b5ab45aa842.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123026771",
+    "prompt": "jungle, sunshine, vine, Moss, Debris, Ruins, High Quality, 8K, Detail 、、、 Handsome Boy, Curiosity, Explorer, Adventure, Manga Style, Delicate Line Art, Soft Shading, Japanese Girl Cartoon Illustration, Sketch, Handsome Anime Boy,\nusnr, momosp,  Cut3_style, cutecore, decora,",
+    "negativePrompt": "mother\nwatermark:1.4,Copyright:1.4, text:1.4, letters:1.4, words:1.4, signature, \n\n\n\npointed ears,\n(((\nthree fingers, four fingers, six fingers, seven fingers, extra fingers, missing fingers, fused fingers, deformed fingers, ugly fingers,\n\ndeformed hands, bad hands, worst time, worst hands, wrong ha",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4fdc183f-421f-44d4-a2ff-0757e734b920/original=true/4fdc183f-421f-44d4-a2ff-0757e734b920.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029817",
+    "prompt": "artist_name, 748cmstyle,masterpiece, mid, best quality, amazing quality, absurdres, volumetric lighting, newest, highres, shading, intricate details, perfect shadows, light bloom, dramatic light masterpiece, best quality, very aesthetic, 1girl, pink eyes, black hair, streaked hair, taking selfie, selfie, selfie stick, pout, >_<, jeans, contrapposto, loose belt, shoulder bag, short, skinny, wide hips, bare shoulders, leaning to the side, loose shirt, rabbit earmuffs, arm warmers, suggestive, teas",
+    "negativePrompt": "bad quality, worst quality, worst detail, sketch, bad hands, bad anatomy, extra fingers, deformed, artist name, watermark, signature, patreon, twitter username",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/84cd146a-a08c-4536-a686-6a7f5bda864c/original=true/84cd146a-a08c-4536-a686-6a7f5bda864c.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029816",
+    "prompt": "artist_name, 748cmstyle,masterpiece, mid, best quality, amazing quality, absurdres, volumetric lighting, newest, highres, shading, intricate details, perfect shadows, light bloom, dramatic light masterpiece, best quality, very aesthetic, 1girl, pink eyes, black hair, streaked hair, selfie stick, pout, >_<, jeans, contrapposto, loose belt, shoulder bag, short, skinny, wide hips, bare shoulders, leaning to the side, loose shirt, rabbit earmuffs, arm warmers, suggestive, teasing, presenting, sexual",
+    "negativePrompt": "bad quality, worst quality, worst detail, sketch, bad hands, bad anatomy, extra fingers, deformed, artist name, watermark, signature, patreon, twitter username",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/534c47c6-f410-407b-a2b5-b4365f63f45b/original=true/534c47c6-f410-407b-a2b5-b4365f63f45b.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029639",
+    "prompt": "(insanely detailed, masterpiece, best quality, realistic, 3d, HDR, photo, cinematic lighting, dynamic shadows, high quality, amazing quality), detailed parts, intricate details, masterpiece, (Woven wookiee hair chibi cute gangster skeleton made of Woven wookiee hair :1.4), (Woven wookiee hair chibi cute gangster skeleton standing on pedestal, model pose:1.4), (cowboy shot, close view:1.4), ( Japanese cherry blossom forest, Japanese cherry blossom trees, pink leaves on trees, wind blows leaves, m",
+    "negativePrompt": "lowres, worst quality, low quality, bad quality, jpeg artifacts, signature, watermark, text, logo, username, blurry, deformed, ugly, disfigured, bad anatomy, extra limbs, missing limbs, fused fingers, too many fingers, extra fingers, malformed hands, poorly drawn hands, bad hands, mutated hands, lon",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cafe1f94-ca8a-4a26-86eb-7ebfcb88668c/original=true/cafe1f94-ca8a-4a26-86eb-7ebfcb88668c.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029812",
+    "prompt": "Harpy, blue and green, two tones skin, colored winged arms , huge wings, (bird-like fluffy legs, thin bird-like feet), in a forest, one foot behind, thin waist, abstract theme, (white tunic), smile, from below, in midair, bent forward, outstretched foot, ((solo)), harpy bird-like tail",
+    "negativePrompt": "Low quality, lineart, feet together, text, exposed breast, bad face, bad mouth, bad nose, (bad eye), ((beak, bird head)), 3d, sketch, hand, fingers,ac_neg1, blur, bad mouth, boots",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8adbb1f8-7a0f-4cb5-a652-fd7fea4f3f7e/original=true/8adbb1f8-7a0f-4cb5-a652-fd7fea4f3f7e.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029755",
+    "prompt": "made of w00kiee, car,",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e42ff289-84b6-4387-bd06-dfec4ab0316d/original=true/e42ff289-84b6-4387-bd06-dfec4ab0316d.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029708",
+    "prompt": "masterpiece, best quality, photography style, a raccoon, animal, fluffy, holding a peanut in its mouth, eating, sitting on a concrete step, scattered autumn leaves, in front of a wicker basket, full of peanuts and chestnuts,  soft blue light, shiny fur,\ndetailed eyes, cinematic color grading, dynamic pose, dramatic angle, dutch angle, cinematic lighting, depth of field, surreal,dramatic lighting,",
+    "negativePrompt": "bad quality, worst quality, worst detail,\n, bad anatomy, watermark, text,ac_neg1",
+    "tool": "Stable Diffusion",
+    "category": "Animals",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1090e5e5-04ad-4ee0-b40f-691854b6b606/original=true/1090e5e5-04ad-4ee0-b40f-691854b6b606.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029709",
+    "prompt": "Harpy female, blue and green, two tones skin, colored winged arms , huge wings, (colored bird-like legs), in a forest, one foot behind, thin waist, abstract theme, (white tunic), smile, from below, in midair, bent midsection, IllustriousQual, ((solo))",
+    "negativePrompt": "Low quality, lineart, feet together, text, exposed breast, bad face, bad mouth, bad nose, bad eyes, ((beak, bird head)), 3d, sketch, hand, fingers,ac_neg1",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f197a300-5ac7-49b7-8986-7055ebfa0435/original=true/f197a300-5ac7-49b7-8986-7055ebfa0435.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029710",
+    "prompt": "masterpiece, best quality, photography style, a raccoon, holding a peanur in its mouth, sitting on a concrete step, scattered autumn leaves, in front of a wicker basket, full of peanuts and chestnuts,  soft blue light, shiny fur,\ndetailed eyes, cinematic color grading, dynamic pose, dramatic angle, dutch angle, cinematic lighting, depth of field, surreal,dramatic lighting,",
+    "negativePrompt": "bad quality, worst quality, worst detail,\n, bad anatomy, watermark, text,ac_neg1",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/079e8347-4aec-4c9d-ba5b-1d507b569086/original=true/079e8347-4aec-4c9d-ba5b-1d507b569086.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029711",
+    "prompt": "forest, some rock, musk, dappled light, sunset, waterfalls in the sky, cliff on the sea, one colored butterfly in midair, 1 dragon girl, (female focus),(adventure),IllusP0s,\n best quality, amazing quality, very aesthetic,atmospheric perspective , depth of field, very awa, very detailed face, very detailed mouth, side view, \n(Wavern) \\(bakugan\\), (white) and pink, (large protruding white scales), digitigrade, dragon tail, (dragon wings), focused, (huge wings female:1.5), looking ahead, open mouth",
+    "negativePrompt": "lowres, (worst quality, bad quality:1.2), bad anatomy, jpeg artifact, text, signature, username,IllusN3g, symmetrical pose, not symmetrical body, nipple, exposed breast, explicit, nsfw, exposed butt, boring composition,   wing attached to chest, bad anatomy wing, extra wing, (extra leg, fused), bad ",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ae4247c-d91d-4d99-a1f0-763d94c2544a/original=true/4ae4247c-d91d-4d99-a1f0-763d94c2544a.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029713",
+    "prompt": "forest, some rock, musk, dappled light, sunset, waterfalls in the sky, cliff on the sea, one colored butterfly in midair, 1 dragon girl, (female focus),(adventure),IllusP0s,\n best quality, amazing quality, very aesthetic,atmospheric perspective , depth of field, very awa, very detailed face, very detailed mouth, side view, \n(Wavern) \\(bakugan\\), (white) and pink, (large protruding white scales), digitigrade, dragon tail, (dragon wings), focused, (huge wings female:1.5), looking ahead, open mouth",
+    "negativePrompt": "lowres, (worst quality, bad quality:1.2), bad anatomy, jpeg artifact, text, signature, username,IllusN3g, symmetrical pose, nipple, exposed breast, explicit, nsfw, exposed butt, boring composition,  abstract background,  wing attached to chest, bad anatomy wing, extra wing, (extra leg, fused), bad t",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/49a053c2-b689-429d-9ed3-dc313f14d9e4/original=true/49a053c2-b689-429d-9ed3-dc313f14d9e4.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029721",
+    "prompt": "Harpy female, blue and green, two tones winged arms , huge wings, long feathers back, (colored bird-like legs), in a forest, one foot behind, bold lines, thin waist, abstract feathers, (white tunic), smile, from below, in midair, bent midsection, IllustriousQual",
+    "negativePrompt": "Low quality, lineart, feet together, text, exposed breast, bad face, bad mouth, bad nose, bad eyes, ((beak, bird head)), 3d, sketch, hand, fingers,ac_neg1",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d290caf5-7156-47ec-91f3-891b392079a3/original=true/d290caf5-7156-47ec-91f3-891b392079a3.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029722",
+    "prompt": "Harpy female, green feathers, two tones feathers, long feathers, huge wings, long feathers back, ( bird-like legs), in a forest, one foot behind, bold lines, thin waist, abstract feathers, (tunic), clothes, smile, from below, in midair, bent midsection, IllustriousQual",
+    "negativePrompt": "Low quality, lineart, feet together, text, exposed breast, bad face, bad mouth, bad nose, bad eyes, ((beak, bird head)), 3d, sketch, hand, fingers,ac_neg1",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9f10f5c6-32a8-47a1-8c91-992a90c8bf1c/original=true/9f10f5c6-32a8-47a1-8c91-992a90c8bf1c.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029707",
+    "prompt": "Asian, bangs, ponytail, red cheerleader outfit, detailed face, masterpiece, best quality, football field, people watching in the background, red pom poms, football players, white gloves, finger heart, pout, smiling, wink, peace sign, close-up, upper body only, blow kiss,flirtious sfw,skin_texture",
+    "negativePrompt": "Bad quality, worst quality, naked, nudity, cleavage, hips, missing fingers",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fd11e80a-e85c-4fcc-be74-93d4361d54c4/original=true/fd11e80a-e85c-4fcc-be74-93d4361d54c4.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029658",
+    "prompt": "parametersscore_9,score_8_up,score_7_up,source_anime,best quality,8k,super fine illustration,very detailed,highly detailed texture,highly detailed face,perfect face,(perfect eyes:1.2),depth of field,perfect soft lighting,best shadows,perfect reflections,volumetric,detailed image,highresolution,uncensored,(score_9, score_8, score_7),high contract, chiaroscuro,masterwork, beautiful face, detailed face,  masterpiece,best quality,very aesthetic,amazing quality,Glossy shadow gradient for skin,volumet",
+    "negativePrompt": "low quality , worst quality, bad anatomy,bad proportions,  extra legs, deformed anatomy, messy color, deformed fingers, bad, distracted, hyperrealistic,source_furry, source_pony, source_cartoon, extra arms,blurry,  extra finger,zPDXLpg-neg,missing fingers,too many fingers,extra fingers,, extra limbs",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb253d61-2f6e-4631-863a-505581637b6a/original=true/eb253d61-2f6e-4631-863a-505581637b6a.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122505083",
+    "prompt": "absurdres, detailed, 1girl, solo_focus, <lora:ILDOAHelena:0.3761101088231078>DOAHelena, blonde_hair, long_hair, ponytail, blue_eyes, hair bow, eye_focus, parted_lips, collarbone, neck, (narrow_waist:0.6), contrapposto, marijuana, fiction_aspects, <lora:add-detail-xl:0.9340651958417007> <lora:Akabur_IllustriousV1:0.7021313182073067>akaburstyle, sharp focus zPDXLxxx sharp_LASCALAE ultra sharp, <lora:500SharpCivitai_Lascalae:0.6237880777661847> <lora:zy_Detailed_Backgrounds_v1:0.5522461250411279> n",
+    "negativePrompt": "expressionless, bad shadow, disconnected shadow, doubled shadows, shadow overlap, low quality shadows, fake shadows, wrong lighting, inconsistent light source, conflicting light angle, unnatural light reflection, wrong lighting, impossible object, impossible geometry, symmetry, mirror image, what, s",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b0cecb4b-64d3-4055-87af-d4ddc5967eae/original=true/b0cecb4b-64d3-4055-87af-d4ddc5967eae.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122505097",
+    "prompt": "absurdres, detailed, 1girl, solo_focus, <lora:ILFMMorgana:0.4954913348209345>FMMorgana, red_hair, twin braids, green_eyes, eye_focus, parted_lips, collarbone, neck, (narrow_waist:0.6), shushing, bellflower, story_pieces, <lora:add-detail-xl:0.9551351165166082> <lora:Akabur_IllustriousV1:0.7948805525667078>akaburstyle, sharp focus zPDXLxxx sharp_LASCALAE ultra sharp, <lora:500SharpCivitai_Lascalae:0.6237880777661847> <lora:zy_Detailed_Backgrounds_v1:0.5522461250411279> newest, detailed_background",
+    "negativePrompt": "expressionless, bad shadow, disconnected shadow, doubled shadows, shadow overlap, low quality shadows, fake shadows, wrong lighting, inconsistent light source, conflicting light angle, unnatural light reflection, wrong lighting, impossible object, impossible geometry, symmetry, mirror image, what, s",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ab53c536-2ed7-408e-99ad-1fcd90288df1/original=true/ab53c536-2ed7-408e-99ad-1fcd90288df1.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122505014",
+    "prompt": "absurdres, detailed, 1girl, solo_focus, princess_rosalina, blonde_hair, blue_eyes, hair_over_one_eye, half_updo, long_bangs, pink_lips, long_dress, off-shoulder_dress, white_trim, long_sleeves, wide_sleeves, two-tone_dress, chest_jewel, embroidered_dress, star \\(symbol\\), eye_focus, parted_lips, collarbone, neck, (narrow_waist:0.6), hand_on_own_stomach, tiger_lily, anecdote_features, <lora:add-detail-xl:1.1578765900946566> <lora:Akabur_IllustriousV1:0.8801459056460018>akaburstyle, sharp focus zP",
+    "negativePrompt": "expressionless, bad shadow, disconnected shadow, doubled shadows, shadow overlap, low quality shadows, fake shadows, wrong lighting, inconsistent light source, conflicting light angle, unnatural light reflection, wrong lighting, impossible object, impossible geometry, symmetry, mirror image, what, s",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fa1be416-57f4-4bdd-9835-2cde45b229f5/original=true/fa1be416-57f4-4bdd-9835-2cde45b229f5.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122505041",
+    "prompt": "absurdres, detailed, 1girl, solo_focus, <lora:ILVPLenneth:0.5950315699997093>VPLenneth, long_hair, single braid, blue hair, blue_eyes, breastplate, pauldrons, armored_boots, medium_skirt, white_skirt, vambraces, winged_helmet, eye_focus, parted_lips, collarbone, neck, (narrow_waist:0.6), hand_in_own_hair, eustoma_\\(lisianthus\\), story-telling_features, <lora:add-detail-xl:1.0908085569656658> <lora:Akabur_IllustriousV1:0.9283359913492741>akaburstyle, sharp focus zPDXLxxx sharp_LASCALAE ultra shar",
+    "negativePrompt": "expressionless, bad shadow, disconnected shadow, doubled shadows, shadow overlap, low quality shadows, fake shadows, wrong lighting, inconsistent light source, conflicting light angle, unnatural light reflection, wrong lighting, impossible object, impossible geometry, symmetry, mirror image, what, s",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ab571a7d-ab29-4f48-a3ba-2cea277c24b5/original=true/ab571a7d-ab29-4f48-a3ba-2cea277c24b5.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122505046",
+    "prompt": "absurdres, detailed, 1girl, solo_focus, <lora:ILDOAHelena:0.4410153472633359>DOAHelena, blonde_hair, long_hair, ponytail, blue_eyes, hair bow, eye_focus, parted_lips, collarbone, neck, (narrow_waist:0.6), seiza, begonia, story-telling_elements, <lora:add-detail-xl:0.8091835403536979> <lora:Akabur_IllustriousV1:0.8238546974119489>akaburstyle, sharp focus zPDXLxxx sharp_LASCALAE ultra sharp, <lora:500SharpCivitai_Lascalae:0.6237880777661847> <lora:zy_Detailed_Backgrounds_v1:0.5522461250411279> new",
+    "negativePrompt": "expressionless, bad shadow, disconnected shadow, doubled shadows, shadow overlap, low quality shadows, fake shadows, wrong lighting, inconsistent light source, conflicting light angle, unnatural light reflection, wrong lighting, impossible object, impossible geometry, symmetry, mirror image, what, s",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0f68faba-16bd-495c-8b82-7c4900ebbb7b/original=true/0f68faba-16bd-495c-8b82-7c4900ebbb7b.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122505221",
+    "prompt": "absurdres, detailed, 1girl, solo_focus, sonya_blade, bob_cut, blonde_hair, high_ponytail, blue_eyes, pink_lips, skin_tight, bodysuit, sneakers, knee_pads, thigh_strap, utility_belt, high_collar, sleeveless, arm_strap, headband, two-tone_bodysuit, green_bodysuit, black_bodysuit, eye_focus, parted_lips, collarbone, neck, (narrow_waist:0.6), v_arms, philodendron, plot_aspects, <lora:add-detail-xl:1.1596867366327945> <lora:Akabur_IllustriousV1:0.7743187269143341>akaburstyle, sharp focus zPDXLxxx sha",
+    "negativePrompt": "expressionless, bad shadow, disconnected shadow, doubled shadows, shadow overlap, low quality shadows, fake shadows, wrong lighting, inconsistent light source, conflicting light angle, unnatural light reflection, wrong lighting, impossible object, impossible geometry, symmetry, mirror image, what, s",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c7918a94-6f49-4072-8055-565a8806a297/original=true/c7918a94-6f49-4072-8055-565a8806a297.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122505232",
+    "prompt": "absurdres, detailed, 1girl, solo_focus, kairi_\\(kingdom_hearts\\), hair_between_eyes, brown_hair, straight_hair, short_hair, blue_eyes, pink_lips, eye_focus, parted_lips, collarbone, neck, (narrow_waist:0.6), seiza, azalea, fiction_content, <lora:add-detail-xl:1.1444553912915107> <lora:Akabur_IllustriousV1:0.7752058712294394>akaburstyle, sharp focus zPDXLxxx sharp_LASCALAE ultra sharp, <lora:500SharpCivitai_Lascalae:0.6237880777661847> <lora:zy_Detailed_Backgrounds_v1:0.5522461250411279> newest, ",
+    "negativePrompt": "expressionless, bad shadow, disconnected shadow, doubled shadows, shadow overlap, low quality shadows, fake shadows, wrong lighting, inconsistent light source, conflicting light angle, unnatural light reflection, wrong lighting, impossible object, impossible geometry, symmetry, mirror image, what, s",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/22d05039-17cd-4e21-ba37-3f4ce52a7d82/original=true/22d05039-17cd-4e21-ba37-3f4ce52a7d82.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122505249",
+    "prompt": "absurdres, detailed, 1girl, solo_focus, zone-tan, purple_hair, blue_eyes, long_hair, long_bangs, hair_over_one_eye, pink_lips, long_sleeves, off-shoulder_dress, black_leggings, knee_boots, purple_shirt, eye_focus, parted_lips, collarbone, neck, (narrow_waist:0.6), contrapposto, bonsai, story telling_content, <lora:add-detail-xl:0.8555460098204581> <lora:Akabur_IllustriousV1:0.8898765756409476>akaburstyle, sharp focus zPDXLxxx sharp_LASCALAE ultra sharp, <lora:500SharpCivitai_Lascalae:0.623788077",
+    "negativePrompt": "expressionless, bad shadow, disconnected shadow, doubled shadows, shadow overlap, low quality shadows, fake shadows, wrong lighting, inconsistent light source, conflicting light angle, unnatural light reflection, wrong lighting, impossible object, impossible geometry, symmetry, mirror image, what, s",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/74ae1c4f-14e8-45ab-a1f2-4939d4532b78/original=true/74ae1c4f-14e8-45ab-a1f2-4939d4532b78.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122505275",
+    "prompt": "absurdres, detailed, 1girl, solo_focus, <lora:ILVPLenneth:0.22082154307275428>VPLenneth, long_hair, single braid, blue hair, blue_eyes, breastplate, pauldrons, armored_boots, medium_skirt, white_skirt, vambraces, winged_helmet, eye_focus, parted_lips, collarbone, neck, (narrow_waist:0.6), top-down_bottom-up, poppy, storytelling_contents, <lora:add-detail-xl:0.7797663901506127> <lora:Akabur_IllustriousV1:0.7326632525956263>akaburstyle, sharp focus zPDXLxxx sharp_LASCALAE ultra sharp, <lora:500Sha",
+    "negativePrompt": "expressionless, bad shadow, disconnected shadow, doubled shadows, shadow overlap, low quality shadows, fake shadows, wrong lighting, inconsistent light source, conflicting light angle, unnatural light reflection, wrong lighting, impossible object, impossible geometry, symmetry, mirror image, what, s",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/480f7c6c-d60c-469f-8fca-7d220dbfe324/original=true/480f7c6c-d60c-469f-8fca-7d220dbfe324.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122505302",
+    "prompt": "absurdres, detailed, 1girl, solo_focus, <lora:NM_Sam_DP_ill:0.6202770928918704>NM_Sam_DP, dark skin, dark-skinned_female, purple eyes, black_hair, bob cut, short hair, bangs, blunt bangs, eye_focus, parted_lips, collarbone, neck, (narrow_waist:0.6), seiza, iris, chronicle_details, <lora:add-detail-xl:0.8471631394633791> <lora:Akabur_IllustriousV1:0.8800144371832668>akaburstyle, sharp focus zPDXLxxx sharp_LASCALAE ultra sharp, <lora:500SharpCivitai_Lascalae:0.6237880777661847> <lora:zy_Detailed_B",
+    "negativePrompt": "expressionless, bad shadow, disconnected shadow, doubled shadows, shadow overlap, low quality shadows, fake shadows, wrong lighting, inconsistent light source, conflicting light angle, unnatural light reflection, wrong lighting, impossible object, impossible geometry, symmetry, mirror image, what, s",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e775c185-4969-42be-ab9e-8e5877415295/original=true/e775c185-4969-42be-ab9e-8e5877415295.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122505309",
+    "prompt": "absurdres, detailed, 1girl, solo_focus, helen_parr, the_incredibles, brown_hair, bob_cut, brown_eyes, swept_bangs, red_lips, skin_tight, bodysuit, eye_focus, parted_lips, collarbone, neck, (narrow_waist:0.6), contrapposto, lavender, narrative_items, <lora:add-detail-xl:0.8620998681530491> <lora:Akabur_IllustriousV1:0.855366383015089>akaburstyle, sharp focus zPDXLxxx sharp_LASCALAE ultra sharp, <lora:500SharpCivitai_Lascalae:0.6237880777661847> <lora:zy_Detailed_Backgrounds_v1:0.5522461250411279>",
+    "negativePrompt": "expressionless, bad shadow, disconnected shadow, doubled shadows, shadow overlap, low quality shadows, fake shadows, wrong lighting, inconsistent light source, conflicting light angle, unnatural light reflection, wrong lighting, impossible object, impossible geometry, symmetry, mirror image, what, s",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/02c5ff74-b5a9-400c-9e30-e163b6d17786/original=true/02c5ff74-b5a9-400c-9e30-e163b6d17786.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122505315",
+    "prompt": "absurdres, detailed, 1girl, solo_focus, <lora:ILDOATina:0.342970682442731>DOATina, blonde_hair, blue_eyes, short hair, eye_focus, parted_lips, collarbone, neck, (narrow_waist:0.6), hand_on_own_stomach, potted_plant, story_elements, <lora:add-detail-xl:0.8683202908829435> <lora:Akabur_IllustriousV1:0.7558564737834823>akaburstyle, sharp focus zPDXLxxx sharp_LASCALAE ultra sharp, <lora:500SharpCivitai_Lascalae:0.6237880777661847> <lora:zy_Detailed_Backgrounds_v1:0.5522461250411279> newest, detailed",
+    "negativePrompt": "expressionless, bad shadow, disconnected shadow, doubled shadows, shadow overlap, low quality shadows, fake shadows, wrong lighting, inconsistent light source, conflicting light angle, unnatural light reflection, wrong lighting, impossible object, impossible geometry, symmetry, mirror image, what, s",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/57521c14-8820-4968-9f92-afbaf3acaf54/original=true/57521c14-8820-4968-9f92-afbaf3acaf54.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123026151",
+    "prompt": "Semi-realism, ma1ma1helmes_b_illu, \n(masterpiece, best quality, very aesthetic, amazing quality, absurdres, newest, simple background), BREAK, s1_dram\n1girl, solo, deep color, pastel color, black hair, long hair, school uniform, serafuku, red neckerchief, sailor collar, pleated skirt, blue skirt, floating hair, floating clothes, standing, blue sky, cloud, arm up, hand on own arm, stretching, from side",
+    "negativePrompt": "source_furry, source_Futanari, censored, worst quality, low quality, ugly, deformed fingers, extra fingers, fused fingers, too many fingers, grainy, Sweat, looking up, monochrome",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/63ba568b-11f4-483b-8d4f-52096c1a6eeb/original=true/63ba568b-11f4-483b-8d4f-52096c1a6eeb.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123026153",
+    "prompt": "Semi-realism, ma1ma1helmes_b_illu, \n(masterpiece, best quality, very aesthetic, amazing quality, absurdres, newest, simple background), BREAK, s1_dram\nfrieren, (<lora:mario-cosplay-illustriousxl-lora-nochekaiser:1>, mario cosplay, mario (cosplay), blue overalls, overalls, shirt, red shirt, long sleeves, collared shirt, hat, red hat), Mushroom, huge Mushroom",
+    "negativePrompt": "source_furry, source_Futanari, censored, worst quality, low quality, ugly, deformed fingers, extra fingers, fused fingers, too many fingers, grainy, Sweat, looking up, monochrome",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5074d402-a53e-446b-9968-a20eaa47abe9/original=true/5074d402-a53e-446b-9968-a20eaa47abe9.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029616",
+    "prompt": "\"(masterpiece, best quality, high quality, highres), very awa, highres, absurdres,\n(naguru \\(cyoroama\\):0.9), (chii-kun \\(seedyoulater\\):0.7), (pikaole:0.8),\nDRFTPFV1.0, frog, desert rain frog, african rain frog, animal, animal Focus,\n(no humans:1.1), (cute:1.2), comfy, solo, cozy,\nindoors, reading a book, asleep, curious, relaxed, bored, sad, lying on floor, night, lamp, \"",
+    "negativePrompt": "bad quality, worst quality, worst detail, censor, lowres, worst aesthetic, bad anatomy, signature, watermark, logo, \n(hair:1.2), (furry:1.2),",
+    "tool": "Stable Diffusion",
+    "category": "Animals",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0964a1c1-c471-4ca1-b130-9cb0a57de6ec/original=true/0964a1c1-c471-4ca1-b130-9cb0a57de6ec.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029524",
+    "prompt": "masterpiece, best quality, amazing quality, <lora:suillustr:1.3> St3venun1v3rs3, artstyle, solo, 1boy <lora:Lion_Illustrious_v2:1> l10n, ((lion)), ((anthro)), feline, pink fur, pink body, light pink mane, fluffy mane, dark nose, heart shaped nose, black eyes, birthday theme, birthday cake, party hat, birthday present, happy",
+    "negativePrompt": "human, bad quality, worst quality, worried",
+    "tool": "SDXL",
+    "category": "Food",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/63bd2b78-a210-43ee-9157-f16661da2b3d/original=true/63bd2b78-a210-43ee-9157-f16661da2b3d.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029525",
+    "prompt": "masterpiece, best quality, amazing quality, <lora:suillustr:1.3> St3venun1v3rs3, artstyle, solo, 1boy <lora:Lion_Illustrious_v2:1> l10n, ((lion)), ((anthro)), feline, pink fur, pink body, light pink mane, fluffy mane, dark nose, heart shaped nose, black eyes, birthday theme, birthday cake, party hat, birthday present",
+    "negativePrompt": "human, bad quality, worst quality, worried",
+    "tool": "SDXL",
+    "category": "Food",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6dc00eaf-a9ee-4bd6-9a85-dd090b8d1175/original=true/6dc00eaf-a9ee-4bd6-9a85-dd090b8d1175.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029529",
+    "prompt": "masterpiece, best quality, amazing quality, <lora:suillustr:1.3> St3venun1v3rs3, artstyle, solo, 1boy <lora:Lion_Illustrious_v2:1> l10n, ((lion)), ((anthro)), feline, pink fur, pink body, light pink mane, fluffy mane, dark nose, heart shaped nose, black eyes, birthday theme, birthday cake, party hat, birthday presents",
+    "negativePrompt": "human, bad quality, worst quality",
+    "tool": "SDXL",
+    "category": "Food",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d0c61254-aba8-4e6a-b7db-d1fa466a4f17/original=true/d0c61254-aba8-4e6a-b7db-d1fa466a4f17.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029532",
+    "prompt": "masterpiece, best quality, amazing quality, <lora:suillustr:1.3> St3venun1v3rs3, artstyle, solo, 1boy <lora:Lion_Illustrious_v2:1> l10n, ((lion)), ((anthro)), feline, pink fur, pink body, light pink mane, fluffy mane, dark nose, heart shaped nose, black eyes, birthday theme, birthday cake, party hat, birthday present, balloons",
+    "negativePrompt": "human, bad quality, worst quality, worried",
+    "tool": "SDXL",
+    "category": "Food",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/87aa9ed5-742a-4120-98e6-9fc8a688c239/original=true/87aa9ed5-742a-4120-98e6-9fc8a688c239.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029544",
+    "prompt": "Ultra-photo-realistic cinematic portrait, high-end editorial realism, 85mm prime lens look, f/2, true 8K micro-detail, shallow depth of field, subtle natural film grain, crisp micro-contrast, 3sm3r4ld4, close-up shot of face and upper body, a woman with fair skin, stylish makeup, captivating green eyes, gold earrings with dangling pendants, long brunette hair slicked back in a wild and messy pony tail, fitting white rib-knit high turtleneck. smoky makeup, tanned skin, friendly face expression wi",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b42f0385-640c-4ea7-9835-dcbe664b049e/original=true/b42f0385-640c-4ea7-9835-dcbe664b049e.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029486",
+    "prompt": "masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field, realistic, best quality, amazing quality, newest, very aesthetic, absurdres,\n1girl, jewelry, yellow and blood background, solo, necklace, blood-tinted eyewear, mythological memorabilia, looking at viewer, round eyewear, blood theme, blood eyes, simple background, black hair, earrings, necklace, parted lips, tinted eyewear, medium hair, sunglasses, upper body, blunt bangs, blood-framed eyewear, looking",
+    "negativePrompt": "worst_quality, bad_quality, poorly_detailed, 2d, sketch, ugly face, low res, interlocked fingers, anatomically incorrect hands, bad anatomy, {worst quality, low quality, normal quality}, (watermark, signature, letter, username, logo, name, text,:1.4) badhandsv5-neg, (monochrome), (gray scale), ugly ",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/02023cff-d352-41da-a3fc-98ecc08c6615/original=true/02023cff-d352-41da-a3fc-98ecc08c6615.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122961783",
+    "prompt": "embedding:lazypos, newest, explicit,\n<lora:kitamura_kaori_-_Midareuchi:1>,\n1girl, solo,\nka0ri_kitamura6, ((detailed hair:1.4)), (detailed eyes:1.4),\nblack hair, long hair, blue eyes, large breasts,\nnetorare, cheating, wind,\nBREAK\nexcited, happy, , parted lips,\nwhite blazer, white shirt, bowtie, school uniform, skirt, , loose socks, ,\nstanding, \n,\nlooking at another,\nfrom behind, upper body,\noutdoors, london, evening, cloudy sky, in rain, heavy rain, wet, wet hair, winter,  \ndynamic angle, diffus",
+    "negativePrompt": "embedding:lazyneg, missing fingers, ugly hands, censored, blurry, comic, text, extra penis, extra testicles, deformed, disfigured, loli, pubic hair, piss,",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/99f7ee10-5baf-44ed-a03a-a41e32c54885/original=true/99f7ee10-5baf-44ed-a03a-a41e32c54885.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029508",
+    "prompt": "masterpiece,best quality,amazing quality, retro artstyle,anime screencap,solo,1 girl,\nin concert venue,\nNausicaa,1girl,brown hair,medium hair,brown eyes, breasts,blue dress,chest bullet holder,long_sleeves, belt, earrings \n,retro artstyle,anime screencap, \nSexy pose,smile, dancing",
+    "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,pubic hair,(double navel:1.2),(blurry:1),, bad quality,worst quality,worst detail,sketch,censor,pubic hair,(double navel:1.2),(blurry:1),",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c81a9c26-6c34-4e55-afd8-2cd481f0afc1/original=true/c81a9c26-6c34-4e55-afd8-2cd481f0afc1.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029519",
+    "prompt": "<lora:training_204497-20260302110759240:1> WillumpGameNunuSongIL2, [ Four Arms, ] blue glowing eyes, blue teeth, horns, furry, tail, bed blue fur, fur patterns, black claws, pointed ears, solo,  forest,   <lora:SmoothStyle_Lambda:0.4> no lineart, no outline  chubby,  \n(( one eye closed, open mouth, smile, tongue out, double v, v, idol pose, 1 leg up, ,))",
+    "negativePrompt": "(deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/075b1b80-64a1-49a5-b1ce-ab153b363b59/original=true/075b1b80-64a1-49a5-b1ce-ab153b363b59.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029502",
+    "prompt": "masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field, realistic, best quality, amazing quality, newest, very aesthetic, absurdres,\n1girl, elf, solo, red eyes, small breasts, dark blue hair, long hair, double buns, blunt bangs, happy expression, skimpy china dress, portrait, outdoors, night time, sidewalk, blurry background, looking at viewer, heart handsadult, aged up",
+    "negativePrompt": "worst_quality, bad_quality, poorly_detailed, 2d, sketch, ugly face, low res, interlocked fingers, anatomically incorrect hands, bad anatomy, {worst quality, low quality, normal quality}, (watermark, signature, letter, username, logo, name, text,:1.4) badhandsv5-neg, (monochrome), (gray scale), ugly ",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/00e126cf-0fed-452a-9301-08b75dc308a0/original=true/00e126cf-0fed-452a-9301-08b75dc308a0.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029492",
+    "prompt": "1girl, elf, solo, red eyes, small breasts, dark blue hair, long hair, double buns, blunt bangs, happy expression, skimpy china dress, portrait, outdoors, night time, sidewalk, blurry background, looking at viewer, heart handsadult, aged up\n,masterpiece,best quality,amazing quality, TRexStyle,",
+    "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aa34eacd-f41a-46c6-b49b-9a5e6313ece7/original=true/aa34eacd-f41a-46c6-b49b-9a5e6313ece7.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-120923763",
+    "prompt": "very awe,aesthetically pleasing,masterpiece,best quality,amazing quality,very aesthetic,ultra-detailed,high resolution,8k,1boy,solo,male focus,detailed face,dragon boy,eastern dragon,horns,white skin,scales,no humans,blue eyes,shoulder armor,armor,glowing,tail,holding vase,upper body,looking at viewer,smile,snow,night,lantern,fireworks,spring festival,petals,<lora:add-detail-xl:1>,<lora:rokudenashi:0.5>,<lora:MaemukiStyleSDXL:0.5>,itami (maemukina do),<lora:Porcelain Aurelion Sol:0.6>,porcelain ",
+    "negativePrompt": "score_5,score_4,score_3,score_2,score_1,score_0,lowres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,censored,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,blurry,female,girl,breasts,",
+    "tool": "SDXL",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/49ee83b8-003b-4fc5-a8de-d7e5c75b87f5/original=true/49ee83b8-003b-4fc5-a8de-d7e5c75b87f5.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-121772333",
+    "prompt": "dim lighting theme, dark, dark theme, dark environment, night,\n\ndabrfhd-briefs on head focus, blue headwear,\n\nmale focus, black hair, black eyes, 1boy, close-up, portrait,\n\nshirt, necklace,\n\nblack background, plain background,\n\nmasterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, very awa, [[[bad anatomy, [cropped]]]],",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f72fd67f-c5bc-487c-97cb-13a89e08ade6/original=true/f72fd67f-c5bc-487c-97cb-13a89e08ade6.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122845617",
+    "prompt": "mhh, dynamic angle, abstract, 1girl,(((hazel eyes))), dark background, messy background, , sparkles, glitches, dynamic pose, fire armor outfit (fire effectshimmering red waves:1.0),, smiling, menace, black long hair,\nlooking at viewer, sheep spiraled fire horns, casting spells in air, sitting at witch camp fire,",
+    "negativePrompt": "bad anatomy, bad hands, extra, fewer, missing, watermark, signature, lowres, ai-generated, blunt bangs, (((head out of frame))), cropped,Lowres, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, old, oldest, conjoined, missing fingers, extra fingers, censor",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/46ec1f46-5342-45cf-ab66-2c6c49cbc1bc/original=true/46ec1f46-5342-45cf-ab66-2c6c49cbc1bc.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122844530",
+    "prompt": "mhh, dynamic angle, abstract, 1girl,(((hazel eyes))), dark background, messy background, , sparkles, glitches, dynamic pose, armor outfit madeof fire,  (fire effect shimmering red waves:1.0),, smiling, menace, black long hair,\nlooking at viewer, sheep spiraled horns made of fire,",
+    "negativePrompt": "bad anatomy, bad hands, extra, fewer, missing, watermark, signature, lowres, ai-generated, blunt bangs, (((head out of frame))), cropped,Lowres, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, old, oldest, conjoined, missing fingers, extra fingers, censor",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d73fc4a8-29bd-4500-9a48-87b9ba151d24/original=true/d73fc4a8-29bd-4500-9a48-87b9ba151d24.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122844531",
+    "prompt": "mhh, dynamic angle, abstract, 1girl,(((hazel eyes))), dark background, messy background, , sparkles, glitches, dynamic pose, armor outfit made of fire,  (fire effect shimmering red waves:1.0),, smiling, menace, black long hair,\nlooking at viewer, sheep spiraled horns made of fire, abstruct pose,",
+    "negativePrompt": "bad anatomy, bad hands, extra, fewer, missing, watermark, signature, lowres, ai-generated, blunt bangs, (((head out of frame))), cropped,Lowres, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, old, oldest, conjoined, missing fingers, extra fingers, censor",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/32225646-8a9a-4c60-a572-66f6ab00fa6a/original=true/32225646-8a9a-4c60-a572-66f6ab00fa6a.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122844534",
+    "prompt": "mhh, dynamic angle, abstract, 1girl,(((hazel eyes))), dark background, messy background, , sparkles, glitches,dynamic pose, fire armor outfit, smiling, menace, black long hair,\nlooking at viewer, sheep fire tiefling horns,",
+    "negativePrompt": "bad anatomy, bad hands, extra, fewer, missing, watermark, signature, lowres, ai-generated, blunt bangs, (((head out of frame))), cropped,Lowres, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, old, oldest, conjoined, missing fingers, extra fingers, censor",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b27da6cb-026c-4b99-b35b-05bada282d83/original=true/b27da6cb-026c-4b99-b35b-05bada282d83.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-122938904",
+    "prompt": "An epic oil painting, masterpiece.\nThe floorboards disintegrated into a swarm of digital locusts, leaving him suspended over a bottomless pit of scrolling code\nFilled with a deep, contemplative melancholy. The style is a direct homage to Ivan Aivazovsky, a misty atmosphere, and a grand, emotional scale. Wide angle, high angle view",
+    "negativePrompt": "3d render, cgi, unreal engine, blender, octane render, shiny plastic, glossy skin, smooth surfaces, anime, cartoon, cel shading, flat colors, vector art, sketch, rough draft, low resolution, pixelated, watermark, text, signature, bad anatomy, deformed, extra fingers, distorted, simple shapes and con",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad08ee2f-7031-4bc6-bb67-a96c005df354/original=true/ad08ee2f-7031-4bc6-bb67-a96c005df354.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123017120",
+    "prompt": "bloom, painterly,\n\ndavarkagi-1male focus, blonde_davarkagi_hair, blue_davarkagi_eyes, davarkagi_scar on single cheek, manly, mature male, facial hear, beard\n\ntorn clothes,\n\nportrait,\n\nWhite background, [in-action, dynamic action, surreal, scenery, abstract background],\n\nmasterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, very awa,\n\nanime screencap,",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f40c6648-6ee2-4302-a0fd-5fa0b139355c/original=true/f40c6648-6ee2-4302-a0fd-5fa0b139355c.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123025568",
+    "prompt": "IllusP0s,  D4awing, traditional media, realistic, fantasy, winter, outdoors, (nihei tsutomu:0.7), tsuda nanafushi,  sousou no frieren, \n1girl, elf, twintails, silver hair, frieren, pointy ears, casual, looking at viewer, jitome, gym uniform, (blue buruma:1.2), warm grey leggings, steam breath, :<, from side, looking at viewer, jitome,\n beanie, outdoors, nature, scenery,\nNiji_oil_anime, norman rockwell,",
+    "negativePrompt": "IllusN3g, (bad anatomy), too many fingers, fused fingers, missing fingers,",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3a2f84c2-b69a-4b92-a220-86cf44c4aefb/original=true/3a2f84c2-b69a-4b92-a220-86cf44c4aefb.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123025569",
+    "prompt": "IllusP0s,  D4awing, traditional media, realistic, fantasy, winter, outdoors, (nihei tsutomu:0.7), tsuda nanafushi,  sousou no frieren, \n1girl, elf, twintails, silver hair, frieren, pointy ears, casual, looking at viewer, jitome, ear blush, gym uniform, (blue buruma:1.2), warm grey leggings, steam breath, :<, looking at viewer,\n beanie, outdoors, nature, scenery, hands up, adjusting headwear,\nNiji_oil_anime, norman rockwell,",
+    "negativePrompt": "IllusN3g, (bad anatomy), too many fingers, fused fingers, missing fingers,",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e119bd54-9f8d-46de-9a00-4ff5c8a3b8e0/original=true/e119bd54-9f8d-46de-9a00-4ff5c8a3b8e0.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123025571",
+    "prompt": "IllusP0s,  D4awing, traditional media, realistic, fantasy, winter, outdoors, (nihei tsutomu:0.7), tsuda nanafushi,  sousou no frieren, \n1girl, elf, twintails, silver hair, frieren, pointy ears, casual, looking at viewer, jitome, ear blush, gym uniform, (blue buruma:1.2), warm grey leggings, steam breath, :<, from side, looking at viewer,\n beanie, outdoors, nature, scenery,\nNiji_oil_anime, norman rockwell,",
+    "negativePrompt": "IllusN3g, (bad anatomy), too many fingers, fused fingers, missing fingers,",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c5b543e6-fd8d-4567-b426-7e39ec96eb23/original=true/c5b543e6-fd8d-4567-b426-7e39ec96eb23.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123025573",
+    "prompt": "IllusP0s,  D4awing, traditional media, realistic, fantasy, winter, outdoors, (nihei tsutomu:0.7), tsuda nanafushi,  sousou no frieren, \n1girl, elf, twintails, silver hair, frieren, pointy ears, casual, from side, looking at viewer, jitome, gym uniform, (blue buruma:1.2), warm grey leggings, steam breath, stretching, spread arms, >.<, closed eyes,\n beanie, outdoors, nature, scenery,\nNiji_oil_anime, norman rockwell,",
+    "negativePrompt": "IllusN3g, (bad anatomy), too many fingers, fused fingers, missing fingers,",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/efe2903f-4af0-4426-95f0-069172e7b60b/original=true/efe2903f-4af0-4426-95f0-069172e7b60b.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123025574",
+    "prompt": "IllusP0s,  D4awing, traditional media, realistic, fantasy, winter, outdoors, (nihei tsutomu:0.7), tsuda nanafushi,  sousou no frieren, \n1girl, elf, twintails, silver hair, frieren, pointy ears, casual, looking at viewer, jitome, gym uniform, (blue buruma:1.2), warm grey leggings, steam breath, stretching, spread arms, >.<, :<,\n beanie, outdoors, nature, scenery,\nNiji_oil_anime, norman rockwell,",
+    "negativePrompt": "IllusN3g, (bad anatomy), too many fingers, fused fingers, missing fingers,",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b898260b-a0e2-49ad-aa75-deeecce80865/original=true/b898260b-a0e2-49ad-aa75-deeecce80865.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029468",
+    "prompt": "1girl, japanese clothes, kimono, solo, blonde hair, outdoors, red eyes, sash, torii, white kimono, smile, stairs, obi, full body, sandals, tree, tabi, socks, closed mouth, white socks, day, hair ornament, floral print, earrings, standing, stone stairs, own hands together, jewelry, wide sleeves, haori, zouri, print kimono, sky, long sleeves, dappled sunlight, forest, sunlight, nature, cloud,\nadult, woman, masterpiece, best quality,  absurdres, newest,  very aesthetic, amazing quality, highres, pi",
+    "negativePrompt": "lowres, (bad), bad feet, text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, early, chromatic aberration, signature, artistic error, username, scan, [abstract], english text, shiny_skin, loli, young, nude, nudity, nipples, pussy, cleft ",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5fb93b74-bbe2-4151-ac0a-9e4cea70069e/original=true/5fb93b74-bbe2-4151-ac0a-9e4cea70069e.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029420",
+    "prompt": "chiaroscuro technique on photograph of A beautiful masterpiece with a rich colored, a (photo RAW,film grain,realistic:1.25,aesthetic,blurry foreground),(Cliff,(close-up explorer-traveler with a backpack stand in foreground,water),sky,winter,snow,snowstorm,sunset,),perfect composition, award winning photography,volumetric natural light, epic atmosphere,perfect composition,artistic photography, detailed, bright,with Hard Texture,(detailed textures:1.3),fine textures,high quality textures of materi",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9c828cde-8c0f-4533-87b8-3be6a0114d7a/original=true/9c828cde-8c0f-4533-87b8-3be6a0114d7a.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029345",
+    "prompt": "masterpiece, best quality, score_9, score_8. @hou_jae04.1girl, plague doctor mask, black gloves, upper body, plague doctor \\(darkest dungeon\\), holding a black powder bomb, vibrant colors",
+    "negativePrompt": "score_1, score_2, score_3, blurry, worst quality, low quality, jpeg artifacts, signature, watermark, username, error, deformed hands, bad anatomy, extra limbs, poorly drawn hands, poorly drawn face, mutation, deformed, extra eyes, extra arms, extra legs, malformed limbs, fused fingers, too many fing",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/64267bc7-5903-490c-9bc0-acb2bce0e33e/original=true/64267bc7-5903-490c-9bc0-acb2bce0e33e.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029445",
+    "prompt": "upper body shot of an adult man with medium brown hair, in black monk outfit, standing at the star wars like balcony, sci-fi star wars city on the background, night, neon star wars like lights and flying spaceships, huge sci-fi star wars like buildings, multiple star wars like spaceships, small and big star wars like spaceships, yellow and red star wars like spaceships, dense star wars like development of buildings, looking to the side, scenery, star wars like multiple buildings and platforms on",
+    "negativePrompt": "anime, cartoon, graphic, painting, crayon, abstract, glitch, deformed, mutated, ugly, disfigured, deformed, mutated, ugly, disfigured, bad anatomy, gross proportions, malformed limbs, missing arms, missing legs, extra limbs, extra arms, extra legs, extra hands, extra fingers, missing fingers, fused ",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e4f2b63a-54c3-47cc-a3c1-557e928f973a/original=true/e4f2b63a-54c3-47cc-a3c1-557e928f973a.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029449",
+    "prompt": "Solo, monochrome,  best quality, @nc1n, furry, anthro, traditional media, 1girl, furry, anthro, long red sideswept hair, brown eyes, (android arms), gray fur, fluffy tail,  black fur, white coat, detailed coat, white hat, detailed hat, black shirt, detailed shirt, white tie, detailed tie, black trousers, detailed trousers, noire, black sky, nights, store, detailed store",
+    "negativePrompt": ", Fused fingers, Vibrant atmosphere, fused face, bad face, Bad proportions, bad anatomy, bad quality, bad body, bad background, fused face, bad face, beard, fused legs, bad details, particles, bad reflection, nipples, bad fog, duo, other characters, nsfw, bad clothes, big had, bad tail, bad hair, fu",
+    "tool": "SDXL",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fce1100f-11a0-42ed-8452-4761b73cddd1/original=true/fce1100f-11a0-42ed-8452-4761b73cddd1.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029450",
+    "prompt": "Solo, monochrome,  best quality, @nc1n, furry, anthro, traditional media, 1girl, furry, anthro, long red sideswept hair, brown eyes, (android arms), gray fur, fluffy tail,  black fur, white coat, detailed coat, white hat, detailed hat, black shirt, detailed shirt, white tie, detailed tie, black trousers, detailed trousers, noire, black sky, nights, Grey Street, rain, detailed rain,",
+    "negativePrompt": ", Fused fingers, Vibrant atmosphere, fused face, bad face, Bad proportions, bad anatomy, bad quality, bad body, bad background, fused face, bad face, beard, fused legs, bad details, particles, bad reflection, nipples, bad fog, duo, other characters, nsfw, bad clothes, big had, bad tail, bad hair, fu",
+    "tool": "SDXL",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/55fb8990-c8e9-42c0-b2de-3d4f4065f76c/original=true/55fb8990-c8e9-42c0-b2de-3d4f4065f76c.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029451",
+    "prompt": "Solo, monochrome,  best quality, @nc1n, furry, anthro, traditional media, 1girl, furry, anthro, long red sideswept hair, brown eyes, (android arms), gray fur, fluffy tail,  black fur, white coat, detailed coat, white hat, detailed hat, black shirt, detailed shirt, white tie, detailed tie, black trousers, detailed trousers, noire, black sky, nights, store, detailed store, sitting, taking photo, holding mobile phone, detailed mobile phone",
+    "negativePrompt": ", Fused fingers, Vibrant atmosphere, fused face, bad face, Bad proportions, bad anatomy, bad quality, bad body, bad background, fused face, bad face, beard, fused legs, bad details, particles, bad reflection, nipples, bad fog, duo, other characters, nsfw, bad clothes, big had, bad tail, bad hair, fu",
+    "tool": "SDXL",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cf953304-f99f-4bde-a847-af73b2ffd808/original=true/cf953304-f99f-4bde-a847-af73b2ffd808.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029444",
+    "prompt": "a shot of the upper body of an adult man, wearing a black expensive long robe, sitting at a golden table with marble elements, behind him a huge window reminiscent of the set from Star Wars, with a sci-fi city from Star Wars in the background, night, neon lights similar to the lights from Star Wars, flying spaceships, huge sci-fi buildings, many spaceships similar to the set from Star Wars, small and large spaceships similar to the spaceships from Star Wars, yellow and red spaceships, a dense de",
+    "negativePrompt": "anime, cartoon, graphic, painting, crayon, abstract, glitch, deformed, mutated, ugly, disfigured, deformed, mutated, ugly, disfigured, bad anatomy, gross proportions, malformed limbs, missing arms, missing legs, extra limbs, extra arms, extra legs, extra hands, extra fingers, missing fingers, fused ",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9db19ff2-8e2b-4eba-9ac5-6d173a71f2ef/original=true/9db19ff2-8e2b-4eba-9ac5-6d173a71f2ef.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029453",
+    "prompt": "upper body shot of an adult 20y old man with medium brown hair, in black monk outfit, standing at the star wars like balcony, sci-fi star wars city on the background, night, neon star wars like lights and flying spaceships, huge sci-fi star wars like buildings, multiple star wars like spaceships, small and big star wars like spaceships, yellow and red star wars like spaceships, dense star wars like development of buildings, looking to the side, scenery, star wars like multiple buildings and plat",
+    "negativePrompt": "anime, cartoon, graphic, painting, crayon, abstract, glitch, deformed, mutated, ugly, disfigured, deformed, mutated, ugly, disfigured, bad anatomy, gross proportions, malformed limbs, missing arms, missing legs, extra limbs, extra arms, extra legs, extra hands, extra fingers, missing fingers, fused ",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9dd75a0d-b7bf-4327-84eb-9ff26536f24a/original=true/9dd75a0d-b7bf-4327-84eb-9ff26536f24a.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029454",
+    "prompt": "upper body shot of an adult man with medium brown hair, in black monk outfit, standing at the star wars like balcony, sci-fi star wars city on the background, night, neon star wars like lights and flying spaceships, huge sci-fi star wars like buildings, multiple star wars like spaceships, small and big star wars like spaceships, yellow and red star wars like spaceships, dense star wars like development of buildings, looking to the side, scenery, star wars like multiple buildings and platforms on",
+    "negativePrompt": "anime, cartoon, graphic, painting, crayon, abstract, glitch, deformed, mutated, ugly, disfigured, deformed, mutated, ugly, disfigured, bad anatomy, gross proportions, malformed limbs, missing arms, missing legs, extra limbs, extra arms, extra legs, extra hands, extra fingers, missing fingers, fused ",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2ee1ac29-3e34-4e13-a220-472a99f3d2d8/original=true/2ee1ac29-3e34-4e13-a220-472a99f3d2d8.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029446",
+    "prompt": "a shot of the upper body of an adult man, wearing a black expensive long robe, sitting at a golden table with marble elements, behind him a huge window reminiscent of the set from Star Wars, with a sci-fi city from Star Wars in the background, night, neon lights similar to the lights from Star Wars, flying spaceships, huge sci-fi buildings, many spaceships similar to the set from Star Wars, small and large spaceships similar to the spaceships from Star Wars, yellow and red spaceships, a dense de",
+    "negativePrompt": "anime, cartoon, graphic, painting, crayon, abstract, glitch, deformed, mutated, ugly, disfigured, deformed, mutated, ugly, disfigured, bad anatomy, gross proportions, malformed limbs, missing arms, missing legs, extra limbs, extra arms, extra legs, extra hands, extra fingers, missing fingers, fused ",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d851ded5-e773-4026-8cf8-9cbcd02ada2a/original=true/d851ded5-e773-4026-8cf8-9cbcd02ada2a.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029452",
+    "prompt": "upper body shot of an adult 20y old man with medium brown hair, in black monk outfit, standing at the star wars like balcony, sci-fi star wars city on the background, night, neon star wars like lights and flying spaceships, huge sci-fi star wars like buildings, multiple star wars like spaceships, small and big star wars like spaceships, yellow and red star wars like spaceships, dense star wars like development of buildings, looking to the side, scenery, star wars like multiple buildings and plat",
+    "negativePrompt": "anime, cartoon, graphic, painting, crayon, abstract, glitch, deformed, mutated, ugly, disfigured, deformed, mutated, ugly, disfigured, bad anatomy, gross proportions, malformed limbs, missing arms, missing legs, extra limbs, extra arms, extra legs, extra hands, extra fingers, missing fingers, fused ",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/139df846-0425-4f7f-85dd-a64adb8140c5/original=true/139df846-0425-4f7f-85dd-a64adb8140c5.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029418",
+    "prompt": "gigachad_zib, A highly detailed, full-body portrait of a muscular male angel gigachad_zib gazing directly at the viewer with a stern, focused expression; he has large, majestic white feathered wings spread wide behind him, each wing composed of thousands of individually rendered feathers showing fine texture and subtle gradients from pure white to soft cream under warm golden light; he wears an elegant off-white tunic made of flowing linen fabric that drapes naturally over his strong frame with ",
+    "negativePrompt": "anime, bad hands, pixelated, drawing, CGI, AI, stable diffusion, action figure, 2d, cartoon, sketch, render, 3d, painting, digital art, fan art, 2d art, wax, doll-like, perfect skin, 2.5d, smooth skin, jewelry, hyperrealistic, ultrarealistic, ugly, extra fingers, extra limbs, extra hands, extra body",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/893621af-e455-468f-86ba-a0d8adfa7a2d/original=true/893621af-e455-468f-86ba-a0d8adfa7a2d.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029351",
+    "prompt": "chiaroscuro technique on photograph of A beautiful masterpiece with a rich colored, a (photo RAW,film grain,realistic:1.25,aesthetic,blurry foreground),(Lake,(foggy in foreground),sky,summer,sunrays,clouds,daylight,),perfect composition, award winning photography,volumetric natural light, epic atmosphere,perfect composition,artistic photography, detailed, bright,with Hard Texture,(detailed textures:1.3),fine textures,high quality textures of materials, volumetric textures, natural textures, hard",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/05328cd8-dc66-4463-bc55-e1d5af0ec79a/original=true/05328cd8-dc66-4463-bc55-e1d5af0ec79a.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029350",
+    "prompt": "by Aya Shachou,(masterpiece, best quality), amazing quality, very aesthetic, absurdres, highres, newest,\nclose-up,\n1girl,solo focus, solo,\nbedroom,lying on bed, looking at viewer, \nhand to own chin,\nclose-up,  smile,\nhand reaching to viewer,\nBREAK\nmiraj,single horn,armor,dress,detached sleeves,shorts,brown short hair,red eyes <lora:NOOB_vp1_detailer_by_volnovik_v1:0.7> <lora:est2_r1:0.7> <lora:miraj-000012:0.8> <lora:by_aya_shachou-pony-000017:0.85>",
+    "negativePrompt": "bad quality, worst quality, worst detail, sketch, bad hands, bad anatomy, deformed, artist name, watermark, signature, patreon, twitter username,\nsound effects,speech bubble, dialogue bubble, text bubble, speech balloons, comic bubbles, manga bubbles, word balloon, text in bubble, dialogue box, narr",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3f79f710-9fe1-43c1-a934-50d07164a9a9/original=true/3f79f710-9fe1-43c1-a934-50d07164a9a9.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029268",
+    "prompt": "by Aya Shachou,(masterpiece, best quality), amazing quality, very aesthetic, absurdres, highres, newest,\nclose-up,\n1girl,solo focus, solo,\nportrait, looking at viewer, \nclose-up,  >:\\),  \nhand reaching to viewer,fingers,\nblack background, full moon,backlighting, sidelighting, \nBREAK\nmiraj,single horn,armor,dress,detached sleeves,brown short hair,red eyes <lora:NOOB_vp1_detailer_by_volnovik_v1:0.7> <lora:est2_r1:0.7> <lora:miraj-000012:0.8> <lora:by_aya_shachou-pony-000017:0.85>",
+    "negativePrompt": "bad quality, worst quality, worst detail, sketch, bad hands, bad anatomy, deformed, artist name, watermark, signature, patreon, twitter username,\nsound effects,speech bubble, dialogue bubble, text bubble, speech balloons, comic bubbles, manga bubbles, word balloon, text in bubble, dialogue box, narr",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f1c0187d-808f-4dd1-8462-2ee5124cb879/original=true/f1c0187d-808f-4dd1-8462-2ee5124cb879.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029271",
+    "prompt": "by Aya Shachou,(masterpiece, best quality), amazing quality, very aesthetic, absurdres, highres, newest,\nclose-up,\n1girl,solo focus, solo,\nportrait, looking up, \nclose-up, tears,parted lips, >:\\),  \nhand reaching to viewer,fingers,\nblack background, full moon,backlighting, sidelighting, \nBREAK\nmiraj,single horn,armor,dress,detached sleeves,brown short hair,red eyes <lora:NOOB_vp1_detailer_by_volnovik_v1:0.7> <lora:est2_r1:0.7> <lora:miraj-000012:0.8> <lora:by_aya_shachou-pony-000017:0.85>",
+    "negativePrompt": "bad quality, worst quality, worst detail, sketch, bad hands, bad anatomy, deformed, artist name, watermark, signature, patreon, twitter username,\nsound effects,speech bubble, dialogue bubble, text bubble, speech balloons, comic bubbles, manga bubbles, word balloon, text in bubble, dialogue box, narr",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/25f1ad18-4612-4127-8bf7-3192ba4fecdd/original=true/25f1ad18-4612-4127-8bf7-3192ba4fecdd.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029306",
+    "prompt": "dsposeanchor,rotational_symmetry,mirrored_pair,2girls,\n\nBREAK\numalovey, horse girl, horse tail, long hair, multicolored hair, red hair, white hair, hair bun, yellow eyes, diamond-shaped pupils, heart in eyes, mole on neck, heart sticker, sticker on face, ear ornament,\n\n\nBREAK\n, marche lorraine \\(umamusume\\), umamusume, animal ears, horse ears, horse girl, medium hair, brown hair, multicolored hair, streaked hair, purple eyes, ear covers, hair ornament,  solo,cabbie hat, red headwear, ears throug",
+    "negativePrompt": "lowres, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, old, oldest,\nreal life, 3d, celluloid, photorealistic, realistic, cosplay photo, sweat, portrait, anatomical nonsense,",
+    "tool": "SDXL",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/20ff8557-43f5-428b-b68f-f359f964f0f1/original=true/20ff8557-43f5-428b-b68f-f359f964f0f1.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029301",
+    "prompt": "<lora:NKTKanna-ILXL:0.8> 1girl, solo, NKTKanna, blonde hair, long hair, twintails, red eyes, very long hair, hair between eyes, hair ornament, ahoge, looking at viewer, straight bangs, tousled hair, blush, small pupils, squinted eyes, looking at viewer, firm hips, wide pelvis, large breasts, thin waist, shiny skin, leggings, blouse, choker, smiling, looking at viewer, night, embankment, side view, dynamic angle, dynamic pose, <lora:AddMicroDetails_Illustrious:0.5>, lazypos, ILXLpos, IllusP0s, <l",
+    "negativePrompt": "lazyneg, lazyhand, ILXLneg, Watermark, (watermark:1.2), censorship, IllusN3g, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, realistic, photorealistic, badge on the neck, medallion on the neck, ear piercing,",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1819f74a-643d-4632-abd9-7063ee5d36f2/original=true/1819f74a-643d-4632-abd9-7063ee5d36f2.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029302",
+    "prompt": "<lora:NKTKanna-ILXL:0.8> 1girl, solo, NKTKanna, blonde hair, long hair, twintails, red eyes, very long hair, hair between eyes, hair ornament, ahoge, KannaBodysuit, bow, hair bow, green bow, scarf, detached sleeves, black bodysuit, bodysuit, hair ribbon, ribbon, long sleeves, gloves, green ribbon, white sleeves, black gloves, orange scarf, bodysuit under clothes, jacket, wide sleeves, white jacket, thighhighs, white thighhighs, cropped jacket, dynamic angle, dynamic pose, <lora:AddMicroDetails_I",
+    "negativePrompt": "lazyneg, lazyhand, ILXLneg, Watermark, (watermark:1.2), censorship, IllusN3g, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, realistic, photorealistic, badge on the neck, medallion on the neck, ear piercing,",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a647bdb1-735e-4e23-bc08-accacd90eecc/original=true/a647bdb1-735e-4e23-bc08-accacd90eecc.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029108",
+    "prompt": "Solo, high angle, best quality, Cu1@T, furry, anthro, 1girl, furry, anthro, long red sideswept hair, brown eyes, (android arms), gray fur, fluffy tail,  black fur, headband, detailed headband, pink tank top, detailed tank top, sweatpants, detailed sweatpants,  white sneakers, detailed sneakers, she is hanging on the pull-up bar, doing pull-ups, good anatomy,",
+    "negativePrompt": ", Fused fingers, Vibrant atmosphere, fused face, bad face, Bad proportions, bad anatomy, bad quality, bad body, bad background, fused face, bad face, beard, fused legs, bad details, particles, bad reflection, nipples, bad fog, duo, other characters, nsfw, bad clothes, big had, bad tail, bad hair, fu",
+    "tool": "SDXL",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e7a3d510-3a18-4b99-bc29-9caeb9a37c17/original=true/e7a3d510-3a18-4b99-bc29-9caeb9a37c17.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029107",
+    "prompt": "Solo, best quality, Cu1@T, furry, anthro, 1girl, furry, anthro, long red sideswept hair, brown eyes, (android arms), gray fur, fluffy tail,  black fur, headband, detailed headband, pink tank top, detailed tank top, sweatpants, detailed sweatpants,  washing hands, water, detailed water, bathroom, sink, detailed sink,  blue atmosphere, good anatomy,",
+    "negativePrompt": ", Fused fingers, Vibrant atmosphere, fused face, bad face, Bad proportions, bad anatomy, bad quality, bad body, bad background, fused face, bad face, beard, fused legs, bad details, particles, bad reflection, nipples, bad fog, duo, other characters, nsfw, bad clothes, big had, bad tail, bad hair, fu",
+    "tool": "SDXL",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/55d2f931-6e8d-4985-a2a6-cee3a5254623/original=true/55d2f931-6e8d-4985-a2a6-cee3a5254623.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029212",
+    "prompt": "Generate an image in the style of the cartoon who spongebob of squidward, one of the characters from the show, holding a large sign that reads \" Gold Buzz Please!\".he is sitting in a cardboard box in a filthy back alley",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dd62919c-c6b1-43f7-bf16-49118e6fe0be/original=true/dd62919c-c6b1-43f7-bf16-49118e6fe0be.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029205",
+    "prompt": "oil painting in the style of Edgar Degas in his late years. a female ballet dancer is standing on the stage on her tiptoe. she wears a costume made of brown w00kiee fur. detailed background. <lora:Wookiee_Hair:1.0>",
+    "negativePrompt": "",
+    "tool": "SDXL",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2979e1fa-834b-437a-8db3-c30c3e016ce2/original=true/2979e1fa-834b-437a-8db3-c30c3e016ce2.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029130",
+    "prompt": "monolith made of w00kiee on the moon.\nThe background is the earth with soft depth of field. Volumetric lighting, dramatic shadows, cinematic lighting, masterpiece, Unreal Engine 5 render.",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4f3b3df8-90ab-4529-86a7-0f593c4ce44d/original=true/4f3b3df8-90ab-4529-86a7-0f593c4ce44d.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029109",
+    "prompt": "Solo, best quality, Cu1@T, furry, anthro, 1girl, furry, anthro, long red sideswept hair, brown eyes, (android arms), gray fur, fluffy tail,  black fur, headband, detailed headband, pink tank top, detailed tank top, sweatpants, detailed sweatpants,  white sneakers, detailed sneakers,  running, outside, street, bushes, detailed bushes, trees, detailed trees, sunshine, detailed sunshine, red sunshine,  dynamic angle, orange atmosphere, orange fog, thick fog, detailed fog, good anatomy,",
+    "negativePrompt": ", Fused fingers, Vibrant atmosphere, fused face, bad face, Bad proportions, bad anatomy, bad quality, bad body, bad background, fused face, bad face, beard, fused legs, bad details, particles, bad reflection, nipples, bad fog, duo, other characters, nsfw, bad clothes, big had, bad tail, bad hair, fu",
+    "tool": "SDXL",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a9bdfcb8-defd-4d4b-8f52-676c2ce14b6a/original=true/a9bdfcb8-defd-4d4b-8f52-676c2ce14b6a.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029011",
+    "prompt": "masterpiece, very aesthetic, absurdres, perfect quality, best quality, high quality, realistic adult woman, detailed face eyes, \nBREAK, \n(1girl, human:1.4), (digitigrade, digitigrade legs:1.3), (skin tail, thick tail:1.5), Trixie, hairband, ginger hair, long hair ponytail and bangs, green eyes, eyeshadow, White jumper, white skirt\nBREAK,\n looking at viewer, very awa, animal_feet, highly detailed, natural light, park, forest, sitting on a rock, reclining, smiling at the viewer, smiling at the vie",
+    "negativePrompt": "english text, bad quality,worst quality,worst detail,sketch, monochrome, (3d:1.1), rough sketch, fewer digits, extra digits, signature, watermark, sample watermark, logo, artist logo, patreon logo, web address, oversaturated, saturated extra legs, extra fingers, deformed hands, 3d,blender, polydacty",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d543bc2b-ace5-420d-bbb4-39e95a7b69fe/original=true/d543bc2b-ace5-420d-bbb4-39e95a7b69fe.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123029014",
+    "prompt": "1girl, waist-up portrait,\nthick red hair,\npale white skin with slight blue undertone,\nwearing red lace dress,\nholding a single red rose,\nred glowing eyes with black sclera,\ngraveyard mist background with silver moon,, robotic vampire woman\nsoft evil smile, dark lips,\nsimple silver choker\n((half-body view)), ((fully clothed)),<lora:DandonFuga_Style_v.2_-_Pony:0.8> \n<lora:add-detail-xl:1> \n<lora:Dynamic Poses:1>\nRobotXL,,, robot joints, colored skin, robot girl, robot ears, metal skin,,",
+    "negativePrompt": "alpha tattoo, tattoo, Realisian-Neg, bad quality, worst quality, worst detail, sketch, censor, smooth negative, watermark, logo, blurry eyes,",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7d8b34ba-326d-44d1-83db-ef8dab4af28b/original=true/7d8b34ba-326d-44d1-83db-ef8dab4af28b.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028968",
+    "prompt": "A radiant medium shot in Pony Diffusion V6 inspired modern 2.5D anime style, set on a sunlit riverside promenade alive with the spirit of summer. Liza — a slender, athletic young woman with shoulder-length light blonde hair and vivid blue eyes, her figure graceful and vibrant — sits relaxed on a wooden bench along the sparkling waterfront. She’s dressed in the same breezy pastel-yellow sundress with thin straps and a fitted bodice that flares into a flowing skirt, the soft fabric catching the ri",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a5243ac-d4a2-4fbb-bd21-deef1a9c1580/original=true/9a5243ac-d4a2-4fbb-bd21-deef1a9c1580.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028945",
+    "prompt": "score_9, score_8_up, score_7_up, high res Image,realistic,  masterpiece, best quality, raven, Large eyebrows, medium breasts, bare midriff, sheer dress, cute face, clear skin, naughty smile, shiny hair,  white background, simple background, lineless, looking at viewer",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/50128186-b767-4d3d-a557-ee1c5840aa38/original=true/50128186-b767-4d3d-a557-ee1c5840aa38.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028448",
+    "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, detailed background, 8k, dynamic angle, \"alpacaxd, 1girl, chopsticks, noodles, solo, food, black hair, braid, qing guanmao, jiangshi, ramen, hat, twin braids, eating, long hair, blue eyes, ofuda, chinese clothes, bowl, colored skin\",",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Food",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/84ca07c3-e61c-4be0-bd3e-c27503fd9e06/original=true/84ca07c3-e61c-4be0-bd3e-c27503fd9e06.mp4",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028957",
+    "prompt": "Wookiee Hair Style, \nA crazy robot sitting on a toilet made of w00kiee, with Wookiee hair, reading newspaper, wearing sunglasses and funny hat, dense shaggy brown fur, fluffy texture and voluminous brown fur, \ntropical seaside, (a sign that says \"HAIRY BEACH\":1.4),\nmasterpiece, high quality, high resolution, highly detailed, vibrant palette, perfect lighting",
+    "negativePrompt": "bad quality, worst quality, low quality, lowres, jpeg artifacts, bad anatomy, bad hands, multiple views, signature, watermark, censored, old, oldest, blurry, blurry eyes, simple background, bad compostion, poor, low effort, child, childish, nude, nipples, nsfw,",
+    "tool": "Stable Diffusion",
+    "category": "Sci-Fi",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9f42459d-63e3-4abd-a612-d1fab8482329/original=true/9f42459d-63e3-4abd-a612-d1fab8482329.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028907",
+    "prompt": "khmlenxl, grey eyes, white hair, bob cut, \nlooking at viewer, choker, green attire, \noutdoors, garden, fantasy, \nclose up, \n(insanely detailed, very aesthetic, masterpiece, best quality), <lora:KhameleonXL:1>,",
+    "negativePrompt": "lowres, (bad quality,worst quality:1.2), bad anatomy, watermark, jpeg artifacts, signature, missing fingers, fused fingers, blurry, censored, sfw, lamps, white borders, open mouth,",
+    "tool": "Stable Diffusion",
+    "category": "Fantasy",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2320bdde-065a-418e-a216-c7ec3d717615/original=true/2320bdde-065a-418e-a216-c7ec3d717615.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028887",
+    "prompt": "(4k,8k,Ultra HD), masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, cinematic, beautiful face, ambient occlusion, raytracing, soft lighting, 8K, illustrating, CG, \nBREAK\n1girl, Reze,solo,((chibi,drooling,mouth drool,upper body,open mouth,\n )),white background,look at viewer,smile,blush,blush,sweat,  white background, simple background,\n\nBREAK,\n1girl,solo,mm,black hair,medium hair,hair bun,hair between eyes,green eyes,black choker,ani",
+    "negativePrompt": "earring,chainsaw,,SmoothNegative_Hands-neg,corridor,Smooth_Negative,weapon,chainsaw,negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts, WLOP, watermarks,chainsaw,closed eye",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8e2a3040-5dd0-4e10-b627-e01ed7d75d6f/original=true/8e2a3040-5dd0-4e10-b627-e01ed7d75d6f.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028889",
+    "prompt": "(4k,8k,Ultra HD), masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, cinematic, beautiful face, ambient occlusion, raytracing, soft lighting, 8K, illustrating, CG, \nBREAK\n1girl, Reze,solo,((licking pose,chibi,tongue,waving,upper body,\n )),white background,look at viewer,blush,blush,sweat,  white background, simple background,\n\nBREAK,\n1girl,solo,mm,black hair,medium hair,hair bun,hair between eyes,green eyes,black choker,anime coloring",
+    "negativePrompt": "earring,chainsaw,,SmoothNegative_Hands-neg,corridor,Smooth_Negative,weapon,chainsaw,negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts, WLOP, watermarks,chainsaw,closed eye",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4cfa4eae-e1be-43ca-a22f-9f0cb2df839a/original=true/4cfa4eae-e1be-43ca-a22f-9f0cb2df839a.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028890",
+    "prompt": "(4k,8k,Ultra HD), masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, cinematic, beautiful face, ambient occlusion, raytracing, soft lighting, 8K, illustrating, CG, \nBREAK\n1girl, Reze,solo,((mutsuki face,chibi,portrait,:3,look at viewers,close mouth,\n )),white background,look at viewer,smile,blush,blush,sweat,  white background, simple background,\n\nBREAK,\n1girl,solo,mm,black hair,medium hair,hair bun,hair between eyes,green eyes,black ",
+    "negativePrompt": "earring,chainsaw,,SmoothNegative_Hands-neg,corridor,Smooth_Negative,weapon,chainsaw,negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts, WLOP, watermarks,chainsaw,closed eye",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/baac2039-51c5-46d8-af03-b0edc879963d/original=true/baac2039-51c5-46d8-af03-b0edc879963d.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028891",
+    "prompt": "(4k,8k,Ultra HD), masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, cinematic, beautiful face, ambient occlusion, raytracing, soft lighting, 8K, illustrating, CG, \nBREAK\n1boy,danji,solo,((mutsuki face,chibi,portrait,:3,look at viewers,close mouth,)),white background,look at viewer,white background, simple background,\n\nBREAK,\n\ndenji, denji (chainsaw man), short hair, brown hair, brown eyes, spiky hair, male focus, anime screencap, shi",
+    "negativePrompt": "earring,chainsaw,,SmoothNegative_Hands-neg,corridor,Smooth_Negative,weapon,chainsaw,negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts, WLOP, watermarks,chainsaw,closed eye",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/26ff9657-ffc4-4105-9f42-f8bb7999fa6f/original=true/26ff9657-ffc4-4105-9f42-f8bb7999fa6f.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028896",
+    "prompt": "(4k,8k,Ultra HD), masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, cinematic, beautiful face, ambient occlusion, raytracing, soft lighting, 8K, illustrating, CG, \nBREAK\n1girl, Reze,solo,((mutsuki face,chibi,portrait,:3,look at viewers,close mouth,\n )),white background,look at viewer,smile,blush, standing on one leg,standing,blush,sweat,  white background, simple background,\n\nBREAK,\n1girl,solo,mm,black hair,medium hair,hair bun,hair ",
+    "negativePrompt": "earring,chainsaw,,SmoothNegative_Hands-neg,corridor,Smooth_Negative,weapon,chainsaw,negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts, WLOP, watermarks,chainsaw,closed eye",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cf298290-69b6-43b9-be4c-92ad79b3cf38/original=true/cf298290-69b6-43b9-be4c-92ad79b3cf38.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028718",
+    "prompt": "(insanely detailed, masterpiece, best quality, realistic, 3d, HDR, photo, cinematic lighting, dynamic shadows, high quality, amazing quality), detailed parts, intricate details, masterpiece, (Woven wookiee hair chibi cute monster made of Woven wookiee hair :1.4), (Woven wookiee hair chibi cute monster standing on pedestal, monster pose:1.4), (cowboy shot, close view:1.4), ( Japanese cherry blossom forest, Japanese cherry blossom trees, pink leaves on trees, wind blows leaves, mountain Fuji, clou",
+    "negativePrompt": "lowres, worst quality, low quality, bad quality, jpeg artifacts, signature, watermark, text, logo, username, blurry, deformed, ugly, disfigured, bad anatomy, extra limbs, missing limbs, fused fingers, too many fingers, extra fingers, malformed hands, poorly drawn hands, bad hands, mutated hands, lon",
+    "tool": "Stable Diffusion",
+    "category": "Landscape",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2c124f0d-9e77-493e-b877-524939dee91e/original=true/2c124f0d-9e77-493e-b877-524939dee91e.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028766",
+    "prompt": "konya karasue, made of muslin, mikisai, masterpiece, best quality, amazing quality, highres, absurdres, newest, very aesthetic, extreme aesthetic, sensitive, very awa, incredibly absurdres, 8K, ultra detailed, HDR, high contrast, high detail RAW color art, supreme masterpiece, cinematic, fashion photography style, dramatic, visual impact, ultra-high resolution, sharp focus, intricate details, high-end texture, dramatic lighting, emotional, detailed background, scenery, dynamic pose, dynamic comp",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/07d55dd0-8330-4f36-b634-5aea764b8db3/original=true/07d55dd0-8330-4f36-b634-5aea764b8db3.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028745",
+    "prompt": "wide shot of a beautiful 25 year old redhead librarian elf, vibrant green eyes, she is sitting on a chair in an ancient wood panelled art nouveau library, wide round hips, soft flat tummy, perky c-cup breasts, wearing a white fitted button down blouse and a knee length tweed skirt, she has a sultry look on her face, wearing thin rimmed eye glasses, green skin, pointed elf ears, perfect teeth, wearing a green art nouveau dress, blushing\nThe Librarian, 1girl, skin detail, lustrousnskin, (blue eyes",
+    "negativePrompt": "blurry, boring, bland, dull, out of focus, cartoon, drawing, painting, poor quality, low resolution, asymmetrical, unbalanced, deformed, disfigured, bad hands, extra limbs, Lingerie, bellybutton, navel",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/203003ef-420c-422a-a37d-d16c8f9486f1/original=true/203003ef-420c-422a-a37d-d16c8f9486f1.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028771",
+    "prompt": "A hyper-realistic star wars style, wide-angle photograph of the Millennium Falcon made of w00kiee hair. highly detailed. the background is deep space flying past a planet, which is also made of w00kie hair. there is a faint glow in the background from the nebula.",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Sci-Fi",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/81ba2105-31d7-4d6f-b54b-d91b087a6bb0/original=true/81ba2105-31d7-4d6f-b54b-d91b087a6bb0.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028772",
+    "prompt": "A hyper-realistic wide-angle photograph of the Millennium Falcon made of w00kiee hair. highly detailed.",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/98f5b1d5-7ffd-4cc1-835e-5f8be42994ac/original=true/98f5b1d5-7ffd-4cc1-835e-5f8be42994ac.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028351",
+    "prompt": "a closeup, 3/4 front view of a meticulously restored, polished 1950s fire engine truck complete with intricate fire department lettering and flashing lights, gleaming under the soft sunlight of a quiet 1950s suburban street, is the subject of this vivid scene. the environment is a peaceful, tree-lined neighborhood with well-kept lawns, white picket fences, and charming houses, all rendered in the style of a classic 1950s advertisement, reminiscent of the work of norman rockwell, with a focus on ",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Animals",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/143b1fd0-ef04-4f0d-b8c7-608d142838bc/original=true/143b1fd0-ef04-4f0d-b8c7-608d142838bc.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028352",
+    "prompt": "a closeup, 3/4 front view of a polished 1950s ford delivery van, gleaming under the soft sunlight of a quiet 1950s suburban street, is the subject of this vivid scene. the environment is a peaceful, tree-lined neighborhood with well-kept lawns, white picket fences, and charming houses, all rendered in the style of a classic 1950s advertisement, reminiscent of the work of norman rockwell, with a focus on wholesome, nostalgic charm. the medium is a high-quality, glossy magazine print, with a smoot",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Animals",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/96a8f5a0-a5dc-406b-85dd-c40cfbebef19/original=true/96a8f5a0-a5dc-406b-85dd-c40cfbebef19.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "civitai-123028353",
+    "prompt": "a closeup, 3/4 front view of a polished 1950s ford custom pickup, gleaming under the soft sunlight of a quiet 1950s suburban street, is the subject of this vivid scene. the environment is a peaceful, tree-lined neighborhood with well-kept lawns, white picket fences, and charming houses, all rendered in the style of a classic 1950s advertisement, reminiscent of the work of norman rockwell, with a focus on wholesome, nostalgic charm. the medium is a high-quality, glossy magazine print, with a smoo",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Animals",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b333fe71-1e0f-467b-b22e-ff95aaa9ba2e/original=true/b333fe71-1e0f-467b-b22e-ff95aaa9ba2e.jpeg",
+    "source": "Civitai",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-dbadf2f1fe47",
+    "prompt": "strong warrior princess| centered| key visual| intricate| highly detailed| breathtaking beauty| precise lineart| vibrant| comprehensive cinematic| Carne Griffiths| Conrad Roset",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://cdn.prompthero.com/g85340p71q25gb6bjz8vqivdmiux-stable-diffusion-15-strong-warrior-princess-centered-key-visual-intricate-highly-detailed-breathtaking-beauty-precise-lineart-vibrant-comprehensive-cinematic-carne-griffiths-conrad-roset.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-d5a31756c9a4",
+    "prompt": "a portrait of an old coal miner in 19th century, beautiful painting with highly detailed face by greg rutkowski and magali villanueve",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/8vsajf5okvs9v0imi4jkiic3hjdw-stable-diffusion-15-a-portrait-of-an-old-coal-miner-in-19th-century-beautiful-painting-with-highly-detailed-face-by-greg-rutkowski-and.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-73a1da70e5b0",
+    "prompt": "Hyper realistic painting of a beautiful girl in an EVA plugsuit, hyper detailed, anime, by greg rutkowski, trending on artstation",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/g4n3boj7wkfug4mkf68fj0dcj6os-stable-diffusion-15-hyper-realistic-painting-of-a-beautiful-girl-in-an-eva-plugsuit-hyper-detailed-anime-by-greg-rutkowski-trending-on-artstation.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-70a3d2f15557",
+    "prompt": "store full of curious collectibles :: incredible, anime, Digital 2D, animated by Kyoto Animation, Studio Ghibli, Miyazaki, AKIRA art style, beautiful, gorgeous, dramatic lighting, rule of thirds, perfect composition, trending on ArtStation, 4k --ar 1:2 --quality 2",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Anime",
+    "image": "https://cdn.prompthero.com/xdol66d0nh5necyeaq77qur07i05-stable-diffusion-15-store-full-of-curious-collectibles-incredible-anime-digital-2d-animated-by-kyoto-animation-studio-ghibli-miyazaki-akira-art-style-beautiful.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-62c428b028f6",
+    "prompt": "poster of warrior princess| standing on hill | centered| key visual| intricate| highly detailed| breathtaking| precise lineart| vibrant| panoramic| cinematic| Carne Griffiths| Conrad Roset",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://cdn.prompthero.com/rr4s7i82to83u1b1xav06r3epnj0-stable-diffusion-15-poster-of-warrior-princess-standing-on-hill-centered-key-visual-intricate-highly-detailed-breathtaking-precise-lineart-vibrant-panoramic-cinematic-carne.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-88cdfe4906ad",
+    "prompt": ":  sango fantasy, fantasy magic, intricate, sharp focus, illustration, highly detailed, digital painting, concept art, matte, Artgerm and Paul lewin and kehinde wiley, masterpiece",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Fantasy",
+    "image": "https://cdn.prompthero.com/qqpkrx9izcfac5jznmq1kaedoyes-stable-diffusion-15-sango-fantasy-fantasy-magic-intricate-sharp-focus-illustration-highly-detailed-digital-painting-concept-art-matte-artgerm-and-paul-lewin-and.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-fd44ea12b8fd",
+    "prompt": "High quality portrait of Gordon Freeman from HL2. Art by Makoto Shinkai, Crunchyroll, pixiv, danbooru, HD, headshot, cinematic still, detailed anime face, bokeh, digital art, cel shading, vivid colors, ambient lighting",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/gz3ybqf5cu7dd2s9a1bpf94y3tga-stable-diffusion-15-high-quality-portrait-of-gordon-freeman-from-hl2-art-by-makoto-shinkai-crunchyroll-pixiv-danbooru-hd-headshot-cinematic-still-detailed.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-98fb9743f551",
+    "prompt": "long range view, Beautiful Japanese flower garden, elegant bridges, waterfalls, pink and white, by Akihito Yoshida, Ismail Inceoglu, Karol Bak, Airbrush, Dramatic, Panorama, Cool Color Palette, Megapixel, Lumen Reflections, insanely detailed and intricate, hypermaximalist, elegant, ornate, hyper realistic, super detailed, unreal engine",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://cdn.prompthero.com/aqtrz9u33a0g7lu6s8jcqe2s3z31-stable-diffusion-15-long-range-view-beautiful-japanese-flower-garden-elegant-bridges-waterfalls-pink-and-white-by-akihito-yoshida-ismail-inceoglu-karol-bak.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-24f7fecd955a",
+    "prompt": "Scarlett Johansson, highly detailed, artstation, smooth, sharp focus, 8K, art by art by artgerm and greg rutkowski and edgar maxence.",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://cdn.prompthero.com/6mn44zxlna8b7rd8k21ewm1rurxb-stable-diffusion-15-scarlett-johansson-highly-detailed-artstation-smooth-sharp-focus-8k-art-by-art-by-artgerm-and-greg-rutkowski-and-edgar-maxence.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-ca3bea1d06ba",
+    "prompt": "a ultradetailed beautiful panting of a stylish woman, by conrad roset, greg rutkowski and makoto shinkai, trending on artstation",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/ml3rg7xmao7dnvmtmz0pfzfx9z7x-stable-diffusion-15-a-ultradetailed-beautiful-panting-of-a-stylish-woman-by-conrad-roset-greg-rutkowski-and-makoto-shinkai-trending-on-artstation.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-887119029951",
+    "prompt": "young man with long face, with clean shaven short beard, with dark hair, without hat, without glasses, with t-shirt, with hoodies, line art, ink, portrait, stroke only, style moebius.",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/u920v6ltyitqc23gve9n5yu1n9cy-stable-diffusion-15-young-man-with-long-face-with-clean-shaven-short-beard-with-dark-hair-without-hat-without-glasses-with-t-shirt.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-52db54815944",
+    "prompt": "detailed and realistic (upper body portrait:1. 2) of a woman with a few (freckles:0. 8) BREAK round eyes and short messy hair BREAK shot outside, wearing a white t shirt, staring at camera, chapped lips BREAK soft natural lighting, portrait photography, magical photography, dramatic lighting, photo realism, ultra-detailed, intimate portrait composition, Leica 50mm, f1. 4 asian, chinese, busty, (epicnegative:0. 9) easynegative",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/5t5nrurlg8ybqz77mylrtby1sg7d-stable-diffusion-15-detailed-and-realistic-upper-body-portrait12-of-a-woman-with-a-few-freckles08-break-round-eyes-and-short-messy-hair.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-686342d65efc",
+    "prompt": "1 girl, beautiful Korean girl, (Cute Loose Bob hair), (wearing a cropped hoodie, capri sweatpants:1. 5), (hands in pockets:1. 5), (red lips:1. 3), (small breasts:1. 3), (toned stomach:1. 3), (eyelashes:1. 2), (aegyo sal:1. 2), beautiful detailed eyes, symmetrical eyes, (detailed face), immersive background, volumetric haze, global illumination, soft lighting, (flowing hair), (bright smile), natural lighting, (realistic:1. 5), (lifelike:1. 4), (4k, digital art, masterpiece), High detail digital p",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/rl1ul2i0eqithy4gp45cj83e11ga-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants1-5-hands-in-pockets1-5.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-d11cda3fe8a8",
+    "prompt": "Kyoto Animation stylized anime mixed with tradition Chinese artworks~ A dragon flying at modern cyberpunk fantasy world. Cinematic Lighting, ethereal light, intricate details, extremely detailed, incredible details, full colored, complex details, insanely detailed and intricate, hypermaximalist, extremely detailed with rich colors. masterpiece, best quality, aerial view, HDR, UHD, unreal engine. plump looking at the camera, smooth thighs, (glittery jewelry) ((acrylic illustration, by artgerm, by",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/c2p361z8p1b64jbqmylf69x4h7sm-stable-diffusion-xl-base-09-kyoto-leonardo-anime-xl-2leonardo-alchemyanimeleonardo-alpha-upscale-kyoto-animation-stylized-anime-mixed-with-tradition-chinese-artworks-a-dragon-flying-at-modern-cyberpunk-fantasy-world-cinematic-lighting-ethereal.jpg",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-3ac90abf045c",
+    "prompt": "an image of a person with a flowing, sculptural hairstyle and garment that echo the movement of water. The hair and attire should be crafted with smooth, swirling patterns that extend and blend into each other, in a seamless and organic fashion. The color scheme should be a gradient of turquoise to aquamarine, set against a neutral gray background to emphasize the subject. The subject's pose should be elegant and poised, with a profile view showcasing refined features and a calm, contemplative e",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/83jhg2meq69e4mstdgb4k1ker80z-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv5-refiner-model-sdxl-1009safetensors-workflow-seargesdxl43-prompt-generator-llama2-an-image-of-a-person-with-a-flowing-sculptural-hairstyle-and-garment-that-echo-the-movement-of-water-the-hair.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-8770d00e9982",
+    "prompt": "1girl, (Nadia Hilker):1. 5, Champagne color Gatsby 1920s Flapper Dress with Sequins and Fringes, South of France, Monaco, Monte Carlo, dynamic angle, seductive grin, smokey eye shadow, high detail skin, high detail eyes, seductive eyes, smokey makeup, slender body, toned body, perfect face, slim athletic body, (perky small breasts:0. 75), detailed clothing, intricate clothing, seductive pose, action pose, motion, casting pose, ((masterpiece)), ((best quality)), extremely detailed cg 8k wallpaper",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/53icex148v5mqei5u80cqm0htzto-stable-diffusion-15-taurealmixv37fp16prunedvae-1girl-nadia-hilker15-champagne-color-gatsby-1920s-flapper-dress-with-sequins-and-fringes-south-of-france-monaco-monte-carlo-dynamic.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-585c74fd52ec",
+    "prompt": "a highly detailed matte painting of a young boy and girl at the bottom of a huge hill by studio ghibli, makoto shinkai, by artgerm, by wlop, by greg rutkowski, volumetric lighting, octane render, 4 k resolution, trending on artstation, masterpiece",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/pml3dtt83hwl130pvdfrnq153vgt-stable-diffusion-15-a-highly-detailed-matte-painting-of-a-young-boy-and-girl-at-the-bottom-of-a-huge-hill-by-studio.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-1e73d9df0d17",
+    "prompt": "Steve Jobs Star Wars movie character, highly detailed, digital fantasy character, painted portrait, artstation, concept art, hard focus, illustrations, works by artgerm and Greg Rutkowski, Alphonse Mucha and Craig Mullins, James Jean, Andrey Ryabovichev, Mark Simonetti and Peter Morbacher, 16k,",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/8q060ldfn4rt2lkr4zcthifnwq3p-stable-diffusion-15-steve-jobs-star-wars-movie-character-highly-detailed-digital-fantasy-character-painted-portrait-artstation-concept-art-hard-focus-illustrations-works.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-c73ee340b76d",
+    "prompt": "Baroque rococo architecture, architectural photography, post apocalyptic New York, hyperrealism, hyperrealistic, octane render, cinematic, hyper detailed, 8K",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Architecture",
+    "image": "https://cdn.prompthero.com/jig5foi8fh7k920flrcl96dwhabz-stable-diffusion-15-baroque-rococo-architecture-architectural-photography-post-apocalyptic-new-york-hyperrealism-hyperrealistic-octane-render-cinematic-hyper-detailed-8k.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-2587b3003823",
+    "prompt": "aesthetic, painterly style, modern ink, Asian girl, sensual, sultry, dark blouse, expressive pose, urbanpunk, abstract texture multilayer background, neo-expressionist , Russ Mills, Ian Miller",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/w4dag85vpu2h95ggvvcq1g5v1wf4-stable-diffusion-xl-base-09-aesthetic-painterly-style-modern-ink-asian-girl-sensual-sultry-dark-blouse-expressive-pose-urbanpunk-abstract-texture-multilayer-background-neo-expressionist.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-67201b5bdbfa",
+    "prompt": "An image of a woman standing straight on, head turned slightly to her left, looking directly into the camera with a confident yet curious expression. She has dark brown, wavy hair and fair skin with noticeable freckles. Her eyes are amber brown with a warm light reflecting in them. She wears a tartan plaid garment in navy blue and red with white lines, and the neckline is slightly off her right shoulder. The setting is brightly lit with natural light.",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/avg2mpaytbaed3zucz440261xu62-stable-diffusion-xl-base-09-an-image-of-a-woman-standing-straight-on-head-turned-slightly-to-her-left-looking-directly-into-the-camera-with.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-84ad361bca25",
+    "prompt": "An image of a young woman with a medium complexion and chestnut-colored hair styled in a casual updo with loose strands around her face. She has a natural makeup look with defined eyes and a neutral lip color. She is wearing a fitted, cropped burgundy T-shirt with short sleeves and high-waisted black pants with distinctive button details. She stands confidently, with one hand on her hip and the other gently touching her pants. The lighting is soft and frontal, highlighting her features and the t",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "Portrait",
+    "image": "https://cdn.prompthero.com/ws0y934lhyz4axbzbpg0kfhdt05g-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv8-dreamshaperxlturbo-full-credits-shall-go-to-the-an-image-of-a-young-woman-with-a-medium-complexion-and-chestnut-colored-hair-styled-in-a-casual-updo-with.png",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "ph-d13dbd5c50c2",
+    "prompt": "a masterpiece, batgirl/supergirl from dc comic wearing alternate yellow costume, coy and alluring, full body, Kim Jung gi, freedom, soul, digital illustration, comic style, cyberpunk, perfect anatomy, centered, approaching perfection, dynamic, highly detailed, watercolor painting, artstation, concept art, smooth, sharp focus, illustration, art by Carne Griffiths and Wadim Kashin, unique, award winning, masterpiece",
+    "negativePrompt": "",
+    "tool": "Stable Diffusion",
+    "category": "General",
+    "image": "https://cdn.prompthero.com/erklkhk7nw0k92x16xzhmye4utuv-stable-diffusion-xl-base-09-bat-girl-a-masterpiece-batgirlsupergirl-from-dc-comic-wearing-alternate-yellow-costume-coy-and-alluring-full-body-kim-jung-gi-freedom-soul.jpg",
+    "source": "PromptHero",
+    "dateAdded": "2026-03-03"
   }
 ]
