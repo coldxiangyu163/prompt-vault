@@ -25653,5 +25653,13 @@
     "source": "PromptHero",
     "url": "https://prompthero.com/prompt/85aa11db8db-stable-diffusion-xl-base-09-aesthetic-painterly-style-modern-ink-asian-girl-sensual-sultry-dark-blouse-expressive-pose-urbanpunk-abstract-texture-multilayer-background-neo-expressionist",
     "id": "20260304_1772540781283"
+  },
+  {
+    "prompt": "Ink and watercolor painting of a grumpy orange cat with a tiny fluffy yellow duck perched on its head. Heavy expressive ink lines for the cat’s scowl and fur texture, contrasted with soft, loose golden washes for both animals. Slightly chaotic paint edges, visible wet-in-wet blending, and playful splashes around the duck’s tiny bow. Warm palette, painterly humor, textured paper grain visible.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/449c1358-e16e-45a3-92c3-97fa205ff1f8/original=true/449c1358-e16e-45a3-92c3-97fa205ff1f8.jpeg"
+    ],
+    "tool": "Unknown",
+    "source": "Civitai"
   }
 ]
