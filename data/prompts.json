@@ -18975,5 +18975,25 @@
       "portrait"
     ],
     "style": "realistic"
+  },
+  {
+    "prompt": "1 girl, solo, depth of field, cinematic angle, \nmedium breast, blonde, gold hair, yellow hair, big round eyes, yellow eyes, white pupils, white hair ribbon, french braid, long hair, hair between eyes, japanese ahoge,\nWhite sailor outfit, white short skirt, shoes,\nBREAK\nlaying on back, snack, on shopping cart, foreshortening, arm rest, crossed legs, indoors, mall, holding lollipop,\nmasterpiece, best quality, amazing quality, 4k, very aesthetic, high resolution, ultra-detailed, absurdres, newest, ultra-HD,",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afdb7346-6b56-4486-8dfa-bec266fdb9d0/original=true/afdb7346-6b56-4486-8dfa-bec266fdb9d0.jpeg",
+    "tool": "Stable Diffusion",
+    "tags": [
+      "general"
+    ],
+    "style": "realistic",
+    "hash": "7fe1b7d6ec81"
+  },
+  {
+    "prompt": "<lora:Rogue80sIllustrious1.0JLFO-000015:0.85>  r0gue, 1girl, retro artstyle, bodysuit, white hair, red hair, jacket, multicolored hair, long hair, solo, gloves, yellow bodysuit, headband, two-tone hair, belt, green bodysuit,smile, makeup, lipstick, breasts,clenched hand, looking at viewer, hand on own hip, cowboy shot, simple background,, masterpiece, best quality, amazing quality, very aesthetic, absurdres",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bcc128fd-90bd-4d08-a4e6-0372b128820c/original=true/bcc128fd-90bd-4d08-a4e6-0372b128820c.jpeg",
+    "tool": "Stable Diffusion",
+    "tags": [
+      "general"
+    ],
+    "style": "realistic",
+    "hash": "5621d9a76861"
   }
 ]
