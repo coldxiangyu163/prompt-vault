@@ -18732,195 +18732,6 @@
     "id": "20260303_civ_1002"
   },
   {
-    "content": "<lora:reij-detaILer:0.74> <lora:Rembrandt Lighting style illu v1:0.61> <lora:bladeRunner_illustrious_v2:0.21> <lora:CreateConcept_Illustrious:0.58>",
-    "negative_prompt": "(lowres:1.2), (worst quality:1.4), (low quality:1.4), (bad anatomy:1.4), multiple views, jpeg artifacts, artist name, censored, censored nipples, young, 2D",
-    "tool": "Stable Diffusion",
-    "model": "Illustrious",
-    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/75175725-2305-43a4-a364-a4cc9b5d8241/original=true/75175725-2305-43a4-a364-a4cc9b5d8241.jpeg",
-    "source": "civitai",
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:07:14.838568",
-    "id": "20260304_civ_0bcc3aa5"
-  },
-  {
-    "content": "A pale dark sorceress levitating in a deep forest at night, full body centered vertical composition, camera positioned slightly below eye level looking upward, her body upright and elongated, chest subtly forward, head tilted slightly back, gaze lifted into the darkness with a calm yet ominous expression, arms lowered slightly away from her body, palms open and facing down, fingers relaxed and naturally spread, long black hair flowing slowly in the cold night air, dark emerald and black medieval gown fitted at the torso with a layered flowing skirt dissolving into shadow and mist, fabric torn and drifting as if consumed by dark energy, a massive perfectly symmetrical glowing arcane circle with a pentagram aligned directly behind her body, emitting cold white and faint icy blue light with subtle flickering instability in the magical lines, thick heavy fog covering the forest floor and rising around her legs, dark tree silhouettes barely visible in the background, dense volumetric mist filling the frame, floating particles in the cold air, cinematic dark fantasy atmosphere, deep blue and charcoal color grading, very low saturation, high contrast shadows, cold moonlight faintly filtering through trees, dramatic top light combined with strong backlight creating a sharp rim light around her hair and shoulders, realistic detailed skin texture, sharp facial features, piercing cold gaze, shallow depth of field, 85mm lens, high dynamic range, ultra sharp focus, masterpiece, 8k,",
-    "negative_prompt": "blurry, low resolution, bad anatomy, deformed hands, extra fingers, missing fingers, poorly drawn face, cross eyed, plastic skin, waxy texture, flat lighting, overexposed highlights, oversaturated colors, cartoon, anime, illustration, low detail background",
-    "tool": "Stable Diffusion",
-    "model": "SDXL 1.0",
-    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a715498-647a-424f-bd98-ba0aee5e8e0b/original=true/9a715498-647a-424f-bd98-ba0aee5e8e0b.jpeg",
-    "source": "civitai",
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:07:14.838593",
-    "id": "20260304_civ_807cd7f0"
-  },
-  {
-    "content": "An ultra-detailed cinematic macro portrait of a bumblebee suspended mid-air yet posed in a distinctly human defensive stance, as if braced for impact against a powerful incoming force. Though hovering, its posture conveys grounded resistance â hind legs extended downward and slightly apart as if planted against invisible ground, joints flexed and tensed. The mid-legs angle outward for balance and stability, reinforcing the sense of physical bracing despite being airborne.\nIts dense black and golden-yellow fur is rendered with extreme microscopic fidelity â individual strands layered naturally with subtle variation in length and density, catching soft specular highlights. Fine golden pollen grains cling organically to the thorax and leg joints. The abdomen shows realistic segmentation and gentle curvature, maintaining anatomical authenticity while supporting the anthropomorphic pose.\nThe beeâs glossy compound eyes are deep obsidian with faint sapphire and emerald iridescence reflecting the magical energy ahead. Its gaze is fierce and unwavering, locked forward with disciplined intensity. Antennae sweep slightly backward, reacting to the force of the spell discharge. The translucent wings extend behind in a powerful stabilizing spread, their delicate membranes etched with intricate vein structures; subtle motion blur at the tips conveys rapid vibration counteracting recoil.\nThe foremost right leg (closest to the head) is fully outstretched, gripping a proportionally accurate miniature wand no longer than its foreleg. The wand is simple, smooth matte dark wood with faint natural grain, lightweight and realistically scaled to the beeâs size. It is aimed directly forward with precision. The foremost left leg is raised above the beeâs head in a dramatic counterbalancing gesture, elbow joint bent slightly, as if channeling additional force into the spell or shielding itself from backlash â a heroic, duelist-like silhouette translated into insect anatomy.\nFrom the wandâs tip erupts a concentrated arcane blast that expands into a luminous defensive barrier. Concentric rings of sapphire and pale silver energy rotate with geometric precision, layered with glowing protective glyphs. The shield radiates outward in smooth, controlled expansion, with crackling filaments of energy arcing across its surface. Tiny sparks scatter forward, dissipating naturally into the air.\nColored smoke swirls dynamically around the beeâs lower body and behind the shield â deep indigo, muted violet, and faint teal vapors curling as if pushed back by the force of the magic. The environment is an enchanted twilight meadow rendered in creamy macro bokeh; blurred wildflowers and tall grasses provide atmospheric depth. Floating pollen and dust particles drift through subtle volumetric light rays cutting across the frame.\nLighting is dramatic and high-contrast: a cool frontal key light illuminates the beeâs face, outstretched leg, and wand, while a warm golden rim light traces the fur edges and wing contours, enhancing dimensional separation. The glowing shield acts as a powerful secondary light source, casting shifting blue highlights and soft reflections across the beeâs textured thorax and abdomen. Captured on a 100mm macro lens with shallow depth of field, focus is razor-sharp on the beeâs eyes and forward-pointing wand, with smooth falloff toward wings and background. Fine cinematic film grain, gentle chromatic aberration at the edges, and restrained bloom around the magical energy complete the polished fantasy realism aesthetic. The color grading balances cool sapphire and steel-blue tones against warm honey-gold fur, evoking a heroic, defensive, high-stakes magical confrontation.\nmasterpiece, best quality, ultra-detailed textures, 8k resolution, professional colour grading, high dynamic range, photorealistic macro fantasy artwork",
-    "negative_prompt": "low quality, low resolution, blurry, out of focus, bad anatomy, incorrect insect anatomy, malformed legs, extra legs, extra wings, distorted proportions, oversized wand, stiff pose, cartoonish style, excessive glow, oversaturated colors, flat lighting, harsh shadows, jpeg artifacts, watermark, text, logo",
-    "tool": "Stable Diffusion",
-    "model": "ZImageBase",
-    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7175fb39-a996-470d-b95d-d4b628be00c0/original=true/7175fb39-a996-470d-b95d-d4b628be00c0.jpeg",
-    "source": "civitai",
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:07:14.838617",
-    "id": "20260304_civ_cc5766e0"
-  },
-  {
-    "content": "<lora:DetailerILv2-000008:0.67>",
-    "negative_prompt": "ai-generated, ai-assisted, stable diffusion, nai diffusion, worst quality, worst aesthetic, bad quality, normal quality, average quality, oldest, old, early, very displeasing, displeasing, adversarial noise, unknown artist, banned artist, what, off-topic, artist request, text, artist name, signature, username, logo, watermark, copyright name, copyright symbol, resized, downscaled, source larger, low quality, lowres, jpeg artifacts, compression artifacts, blurry, artistic error, bad anatomy, bad hands, bad feet, disfigured, deformed, extra digits, fewer digits, missing fingers, censored, bar censor, mosaic censoring, missing, extra, fewer, bad, hyper, error, ugly, worst, tagme, unfinished, bad proportions, bad perspective, aliasing, simple background, asymmetrical, monochrome, sketch, concept art, flat color, flat colors, simple shading, jaggy lines, traditional media \\(artwork\\), microsoft paint \\(artwork\\), ms paint \\(medium\\), unclear, photo, icon, multiple views, sequence, comic, 2koma, 4koma, multiple images, turnaround, collage, panel skew, letterboxed, framed, border, speech bubble, 3d, lossy-lossless, scan artifacts, out of frame, cropped",
-    "tool": "Stable Diffusion",
-    "model": "Illustrious",
-    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cd7d4f2f-eb98-411c-9b31-d82cbdee9702/original=true/cd7d4f2f-eb98-411c-9b31-d82cbdee9702.jpeg",
-    "source": "civitai",
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:07:14.838737",
-    "id": "20260304_civ_30b7ad60"
-  },
-  {
-    "content": "masterpiece,amazing quality,newest,absurdres,highres,highly-detailed,detailed face,glossy hair,<lora:serafuku_illustrious_V2.0:0.8>,serafuku,blue serafuku,pleated skirt,blue sailor collar,neckerchief,long sleeves,simple background,black hair,long hair,straight hair,smile,",
-    "negative_prompt": "worst quality,bad quality,lowres,bad anatomy,bad hands,extra legs,extra arms,missing fingers,error,username,artist name,text,multiple angle,split view,censored,bar censored,halo,hair inner colored,earring,",
-    "tool": "Stable Diffusion",
-    "model": "Illustrious",
-    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6c1a1cb8-16b7-46d2-a1fd-c711a2403024/original=true/6c1a1cb8-16b7-46d2-a1fd-c711a2403024.jpeg",
-    "source": "civitai",
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:07:14.838790",
-    "id": "20260304_civ_4043bbd7"
-  },
-  {
-    "content": "1 girl, solo, depth of field, cinematic angle, \nmedium breast, blonde, gold hair, yellow hair, big round eyes, yellow eyes, white pupils, white hair ribbon, french braid, long hair, hair between eyes, japanese ahoge,\nWhite sailor outfit, white short skirt, shoes,\nBREAK\nlaying on back, snack, on shopping cart, foreshortening, arm rest, crossed legs, indoors, mall, holding lollipop,\nmasterpiece, best quality, amazing quality, 4k, very aesthetic, high resolution, ultra-detailed, absurdres, newest, ultra-HD,",
-    "negative_prompt": "lazyneg, lazyhand, (photorealistic, realistic),  modern, recent, old, oldest, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digits, fewer digits, cropped, very displeasing, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, username, signature, conjoined,bad ai-generated, gold skin, white hair, ",
-    "tool": "Stable Diffusion",
-    "model": "Illustrious",
-    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afdb7346-6b56-4486-8dfa-bec266fdb9d0/original=true/afdb7346-6b56-4486-8dfa-bec266fdb9d0.jpeg",
-    "source": "civitai",
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:07:14.838804",
-    "id": "20260304_civ_7fe1b7d6"
-  },
-  {
-    "content": "<lora:Rogue80sIllustrious1.0JLFO-000015:0.85>  r0gue, 1girl, retro artstyle, bodysuit, white hair, red hair, jacket, multicolored hair, long hair, solo, gloves, yellow bodysuit, headband, two-tone hair, belt, green bodysuit,smile, makeup, lipstick, breasts,clenched hand, looking at viewer, hand on own hip, cowboy shot, simple background,, masterpiece, best quality, amazing quality, very aesthetic, absurdres",
-    "negative_prompt": "patreon username, patreon logo, artist name, signature,",
-    "tool": "Stable Diffusion",
-    "model": "Illustrious",
-    "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bcc128fd-90bd-4d08-a4e6-0372b128820c/original=true/bcc128fd-90bd-4d08-a4e6-0372b128820c.jpeg",
-    "source": "civitai",
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:07:14.838822",
-    "id": "20260304_civ_5621d9a7"
-  },
-  {
-    "content": "Stable Diffusion prompt: strong warrior princess| centered| key visual| int...\n@mcrow\n\nPosted 3 years ago\n\nFollow\n13.5k\nviews\n379\nfavorites\nFavorite",
-    "negative_prompt": "",
-    "tool": "Stable Diffusion",
-    "model": "USED",
-    "image_url": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fg85340p71q25gb6bjz8vqivdmiux-stable-diffusion-15-strong-warrior-princess-centered-key-visual-intricate-highly-detailed-breathtaking-beauty-precise-lineart-vibrant-comprehensive-cinematic-carne-griffiths-conrad-roset.png&w=1920&q=75",
-    "source": "prompthero",
-    "tags": [
-      "character"
-    ],
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:08:55.867629",
-    "id": "20260304_ph_c6ee3989"
-  },
-  {
-    "content": "Stable Diffusion prompt: a portrait of an old coal miner in 19th century, b...\n@BilboX\n\nPosted 3 years ago\n\nFollow\n14.7k\nviews\n352\nfavorites\nFavorite",
-    "negative_prompt": "",
-    "tool": "Stable Diffusion",
-    "model": "USED",
-    "image_url": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F8vsajf5okvs9v0imi4jkiic3hjdw-stable-diffusion-15-a-portrait-of-an-old-coal-miner-in-19th-century-beautiful-painting-with-highly-detailed-face-by-greg-rutkowski-and.png&w=1920&q=75",
-    "source": "prompthero",
-    "tags": [
-      "portrait"
-    ],
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:08:55.867658",
-    "id": "20260304_ph_472c98bf"
-  },
-  {
-    "content": "Stable Diffusion prompt: Hyper realistic painting of a beautiful girl in an...\nNE\n@Nethril\n\nPosted 3 years ago\n\nFollow\n8.4k\nviews\n195\nfavorites\nFavorite",
-    "negative_prompt": "",
-    "tool": "Stable Diffusion",
-    "model": "USED",
-    "image_url": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fg4n3boj7wkfug4mkf68fj0dcj6os-stable-diffusion-15-hyper-realistic-painting-of-a-beautiful-girl-in-an-eva-plugsuit-hyper-detailed-anime-by-greg-rutkowski-trending-on-artstation.png&w=1920&q=75",
-    "source": "prompthero",
-    "tags": [
-      "realistic"
-    ],
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:08:55.867677",
-    "id": "20260304_ph_8d8ad760"
-  },
-  {
-    "content": "Stable Diffusion prompt: store full of curious collectibles :: incredible, ...\n@MIDo\n\nPosted 3 years ago\n\nFollow\n7.5k\nviews\n189\nfavorites\nFavorite",
-    "negative_prompt": "",
-    "tool": "Stable Diffusion",
-    "model": "USED",
-    "image_url": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fxdol66d0nh5necyeaq77qur07i05-stable-diffusion-15-store-full-of-curious-collectibles-incredible-anime-digital-2d-animated-by-kyoto-animation-studio-ghibli-miyazaki-akira-art-style-beautiful.png&w=1920&q=75",
-    "source": "prompthero",
-    "tags": [
-      "general"
-    ],
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:08:55.867693",
-    "id": "20260304_ph_f01f6d5a"
-  },
-  {
-    "content": "Stable Diffusion prompt: a portrait of an old coal miner in 19th century, b...\n@BilboX\n\nPosted 3 years ago\n\nFollow\n8.6k\nviews\n187\nfavorites\nFavorite",
-    "negative_prompt": "",
-    "tool": "Stable Diffusion",
-    "model": "USED",
-    "image_url": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2F23g20r9312ok51c1bv4uvsctcdo7-stable-diffusion-15-a-portrait-of-an-old-coal-miner-in-19th-century-beautiful-painting-with-highly-detailed-face-by-greg-rutkowski-and.png&w=1920&q=75",
-    "source": "prompthero",
-    "tags": [
-      "portrait"
-    ],
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:08:55.867708",
-    "id": "20260304_ph_75b9b8bc"
-  },
-  {
-    "content": "Stable Diffusion prompt: poster of warrior princess| standing on hill |cent...\n@mcrow\n\nPosted 3 years ago\n\nFollow\n6.1k\nviews\n155\nfavorites\nFavorite",
-    "negative_prompt": "",
-    "tool": "Stable Diffusion",
-    "model": "USED",
-    "image_url": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Frr4s7i82to83u1b1xav06r3epnj0-stable-diffusion-15-poster-of-warrior-princess-standing-on-hill-centered-key-visual-intricate-highly-detailed-breathtaking-precise-lineart-vibrant-panoramic-cinematic-carne.png&w=1920&q=75",
-    "source": "prompthero",
-    "tags": [
-      "character"
-    ],
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:08:55.867752",
-    "id": "20260304_ph_ea564549"
-  },
-  {
-    "content": "Stable Diffusion prompt: : sango fantasy, fantasy magic, , intricate, sha...\n@Jawekkwakman\n\nPosted 3 years ago\n\nFollow\n5.5k\nviews\n132\nfavorites\nFavorite",
-    "negative_prompt": "",
-    "tool": "Stable Diffusion",
-    "model": "USED",
-    "image_url": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fqqpkrx9izcfac5jznmq1kaedoyes-stable-diffusion-15-sango-fantasy-fantasy-magic-intricate-sharp-focus-illustration-highly-detailed-digital-painting-concept-art-matte-artgerm-and-paul-lewin-and.png&w=1920&q=75",
-    "source": "prompthero",
-    "tags": [
-      "fantasy"
-    ],
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:08:55.867766",
-    "id": "20260304_ph_30f34b8c"
-  },
-  {
-    "content": "Stable Diffusion prompt: High quality portrait of Gordon Freeman from HL2. ...\n69\n@692dae592bf\n\nPosted 3 years ago\n\nFollow\n5.3k\nviews\n113\nfavorites\nFavorite",
-    "negative_prompt": "",
-    "tool": "Stable Diffusion",
-    "model": "USED",
-    "image_url": "https://prompthero.com/_next/image?url=https%3A%2F%2Fcdn.prompthero.com%2Fgz3ybqf5cu7dd2s9a1bpf94y3tga-stable-diffusion-15-high-quality-portrait-of-gordon-freeman-from-hl2-art-by-makoto-shinkai-crunchyroll-pixiv-danbooru-hd-headshot-cinematic-still-detailed.png&w=1920&q=75",
-    "source": "prompthero",
-    "tags": [
-      "portrait"
-    ],
-    "created_at": "2026-03-04",
-    "collected_at": "2026-03-04T02:08:55.867781",
-    "id": "20260304_ph_ce668728"
-  },
-  {
     "prompt": "\n\nCreate a high-contrast black and white image depicting a silhouetted female figure against a stormy, overcast sky. The figure is robed in a flowing, tattered gown and wears a decorative headpiece with crescent moon elements. One hand is outstretched, cradling a luminous crescent moon, as if bestowing it. The aesthetic should be gothic, ethereal, and subtly melancholic, evoking a sense of ancient mystery and celestial influence. Focus on the interplay of light and shadow to enhance the drama and evoke a sense of the unseen. The atmosphere should be one of quiet power and otherworldly beauty.\n",
     "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3cfa9e1b-c37f-471b-b46b-ce7cc3c3744f/original=true/3cfa9e1b-c37f-471b-b46b-ce7cc3c3744f.jpeg",
     "tool": "Stable Diffusion",
@@ -18995,832 +18806,6 @@
     ],
     "style": "realistic",
     "hash": "5621d9a76861"
-  },
-  {
-    "id": "58e9b6aeaba1",
-    "content": "zidiusArt, black cat is looking in shock at deformed and elongated white bird looking at it. Cat is atop of birdhouse. Cat is clearly horrified and shocked, with eyes wide open and mouth slightly open as well. Bird has extremely long neck. Cat is looking at bird\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4c1b888f-1e08-4252-92d9-c3c9ff11034a/original=true/4c1b888f-1e08-4252-92d9-c3c9ff11034a.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "f51fea0f7c31",
-    "content": "Epic foreground-to-background composition: an old weathered windmill atop a windswept rural hill, looking down across endless patchwork fields of golden wheat and green barley swaying in the breeze, clusters of rustic farmsteads with thatched roofs and haystacks tucked into small valleys, dirt roads meandering between low stone walls and wild hedgerows, distant foggy woodland hills rising dramatically under a vast sky filled with soft clouds, immense depth and heroic rural grandeur, classic anime landscape painting vibe, thick impasto-like painterly strokes fused with radiant digital painting, nostalgic majestic mood, warm afternoon sunlight\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/108a536e-4dbc-4383-88d9-e31ed79d1a6d/original=true/108a536e-4dbc-4383-88d9-e31ed79d1a6d.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "landscape",
-      "anime"
-    ],
-    "style": "anime",
-    "source": "civitai"
-  },
-  {
-    "id": "b78adc40bb20",
-    "content": "A lone hooded wizard stands at the edge of a vast rolling meadow beneath a cold blue sky, holding a small glowing orb at chest height. In the distance, the hills rise into the shape of an enormous sleeping stone face half-buried in the earth, its closed eyes spanning entire valleys, cracked lips forming cliff walls, its nose eroded into a mountain ridge. Thin skeletal fingers emerge from the terrain like fossilized spires. The wizard appears impossibly small, robe fluttering gently in the wind. Harsh natural sunlight casts long shadows across the grass, revealing subtle bone textures embedded in the landscape. Hyper-realistic cinematic photography, dreamlike stillness, uncanny primordial scale, dark fantasy dreamcore, analog film grain, desaturated greens and bone whites, wide-angle composition, existential awe --ar 2:3\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09a37e0a-5eba-493d-b9f5-24224fe8d753/original=true/09a37e0a-5eba-493d-b9f5-24224fe8d753.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape",
-      "fantasy"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "3680f8561fc8",
-    "content": "\n\nCreate a high-contrast black and white image depicting a silhouetted female figure against a stormy, overcast sky. The figure is robed in a flowing, tattered gown and wears a decorative headpiece with crescent moon elements. One hand is outstretched, cradling a luminous crescent moon, as if bestowing it. The aesthetic should be gothic, ethereal, and subtly melancholic, evoking a sense of ancient mystery and celestial influence. Focus on the interplay of light and shadow to enhance the drama and evoke a sense of the unseen. The atmosphere should be one of quiet power and otherworldly beauty.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3cfa9e1b-c37f-471b-b46b-ce7cc3c3744f/original=true/3cfa9e1b-c37f-471b-b46b-ce7cc3c3744f.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "landscape"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "004e0f2ce5fb",
-    "content": "an infographic on how to pick the best lingerie for  your deathclaw girlfriend\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/12ebd674-b6e7-47f0-922d-069990595fee/original=true/12ebd674-b6e7-47f0-922d-069990595fee.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "c4708c340cd2",
-    "content": "A modern fantasy comic book cover illustrated in a clean, sharp, highly textured digital-painterly style — vibrant, dynamic, and character-focused, blending the dramatic lighting and painterly realism of Arcane with the expressive exaggeration and bold energy of Hearthstone splash art. The composition is punchy, colorful, and instantly readable, with strong silhouette design and exaggerated expressions for comedic impact.\nFront and center stands an utterly overwhelmed young battle-mage, robes half-buttoned and slightly singed, holding a glowing spellbook upside down as chaotic magic erupts around him. His hair is wild and wind-swept from an arcane explosion, and his wide-eyed expression screams, “This was NOT in the tutorial.” One hand crackles with unstable neon-blue lightning, while the other desperately tries to swat away a tiny floating imp that’s yanking at his hood.\nBeside him, leaning casually against a cracked stone pillar, is his unimpressed companion — a towering orc barbarian in bright, over-the-top heroic armor, arms crossed, eyebrow raised, completely untouched by the magical disaster unfolding inches away. His axe rests on his shoulder, and he’s sipping tea from a comically delicate porcelain cup as fireballs whiz past. His expression reads: “I told you not to touch it.”\nIn the background, the fantasy city street is in shambles: a magically animated broom is aggressively chasing a terrified guard, a potion shop sign is spinning wildly after being struck by stray magic, and a portal has opened midair — but instead of something terrifying emerging, an annoyed goose is stepping through, glowing with ominous arcane energy.\nThe title text is bold and stylized at the top, metallic with glowing magical cracks running through it. Magical energy swirls around the lettering, interacting with the characters — sparks bouncing off armor edges and casting vibrant rim-lighting.\nThe color palette is saturated and playful: electric blues, hot magentas, warm oranges, and punchy emerald greens. Lighting is dramatic but crisp — strong rim lights, glowing spell effects, soft bloom around magical elements, and clean high-contrast shadows that enhance depth without muddiness. Every surface is richly textured: brushed steel armor, woven cloth fibers, glowing magical glyphs, cracked cobblestones, drifting embers, and expressive facial details rendered in high fidelity.\nThe overall composition is energetic and humorous, capturing a moment of magical chaos frozen at its peak — a cover that promises action, comedy, and fantasy mishaps in equal measure.\nBold, character-driven, vibrant, and mischievously epic — a modern fantasy comic cover that feels alive with motion and personality. 2:3\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08048e12-6f38-41f5-bdea-0d4ae55d0367/original=true/08048e12-6f38-41f5-bdea-0d4ae55d0367.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "fantasy"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "0bcc3aa5bd4d",
-    "content": "<lora:reij-detaILer:0.74> <lora:Rembrandt Lighting style illu v1:0.61> <lora:bladeRunner_illustrious_v2:0.21> <lora:CreateConcept_Illustrious:0.58>\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/75175725-2305-43a4-a364-a4cc9b5d8241/original=true/75175725-2305-43a4-a364-a4cc9b5d8241.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "72a49ee4aaa2",
-    "content": "Ultra-realistic dark epic fantasy cinematic video, vertical 9:16, 4K/8K, HDR, volumetric lighting, heavy fog, dramatic atmosphere. 0–2s Fade in from black. Ancient fog-covered graveyard at night. Crooked tombstones, dead trees, dense dark forest behind. Full-body necromancer cat stands in the center wearing a long, tattered black hooded robe with bone charms and occult accessories. His pupils are almost completely black. Subtle green glow flickers from below. Wind lightly moves his cloak and the fog. 2–5s Close-up as the cat opens an ancient glowing Necronomicon. The book erupts with intense toxic green light. Arcane runes spiral upward. Green magical smoke swirls around him. Floating glyphs rotate in the air. Light illuminates his face from below, creating deep dramatic shadows. 5–7s Slow-motion moment. He slams his staff (topped with a mouse skull with glowing green eyes) into the ground. Impact: * Circular green shockwave bursts outward. * Ground cracks open with glowing green fractures. * Dark mist explodes outward. * Magical particles scatter through the air. 7–10s Camera quickly pulls back and slightly upward. Multiple graves begin breaking apart. Skeletal cat claws burst from the soil. Several skeletal cats rise halfway out of their graves. Their eye sockets burn with bright green light. Final wide epic shot: Necromancer cat in the foreground, skeletal army emerging behind him through fog, green energy veins spreading across the graveyard. Hold for dramatic dark fantasy finish. Ultra-detailed textures, realistic cloth physics, bone detail, cinematic depth of field, epic lighting, volumetric fog, high contrast, forbidden ancient magic atmosphere.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/38888d1c-cb1c-4803-8ca5-b114dd4bef39/original=true/38888d1c-cb1c-4803-8ca5-b114dd4bef39.mp4",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape",
-      "fantasy"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "807cd7f05d78",
-    "content": "A pale dark sorceress levitating in a deep forest at night, full body centered vertical composition, camera positioned slightly below eye level looking upward, her body upright and elongated, chest subtly forward, head tilted slightly back, gaze lifted into the darkness with a calm yet ominous expression, arms lowered slightly away from her body, palms open and facing down, fingers relaxed and naturally spread, long black hair flowing slowly in the cold night air, dark emerald and black medieval gown fitted at the torso with a layered flowing skirt dissolving into shadow and mist, fabric torn and drifting as if consumed by dark energy, a massive perfectly symmetrical glowing arcane circle with a pentagram aligned directly behind her body, emitting cold white and faint icy blue light with subtle flickering instability in the magical lines, thick heavy fog covering the forest floor and rising around her legs, dark tree silhouettes barely visible in the background, dense volumetric mist filling the frame, floating particles in the cold air, cinematic dark fantasy atmosphere, deep blue and charcoal color grading, very low saturation, high contrast shadows, cold moonlight faintly filtering through trees, dramatic top light combined with strong backlight creating a sharp rim light around her hair and shoulders, realistic detailed skin texture, sharp facial features, piercing cold gaze, shallow depth of field, 85mm lens, high dynamic range, ultra sharp focus, masterpiece, 8k,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a715498-647a-424f-bd98-ba0aee5e8e0b/original=true/9a715498-647a-424f-bd98-ba0aee5e8e0b.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "landscape",
-      "fantasy"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "f290f2de3732",
-    "content": "A breathtakingly adorable fantasy creature resembling a mystical fox spirit with impossibly fluffy iridescent fur that shimmers between deep amethyst and silvery lavender, its oversized expressive eyes glowing like molten gold with slit pupils radiating intelligence and playfulness, delicate pointed ears tipped with luminous gold dust particles floating gently, nine flowing tails cascading behind like silk ribbons each ending in stardust sparkles, tiny paws with soft pink beans stepping carefully on a moss-covered fallen log in an ancient enchanted forest at twilight, foreground featuring glowing bioluminescent mushrooms in golden amber hues and dewy ferns with intricate frond details, midground showing the fox mid-leap with ethereal motion blur trailing from its tails creating magical light streaks, background featuring towering ancient trees with gnarled roots and soft violet mist weaving through trunks fading into dreamy bokeh, complementary purple-and-gold palette dominating with rich royal purple fur shadows contrasting vibrant honey-gold accents on eyes, ear tips, and floating magical particles, cinematic 3800K warm moonlight filtering through canopy creating volumetric god rays and rim lighting on fluffy fur texture with individual strands visible, intimate low-angle composition at eye level with the creature emphasizing cuteness and wonder, captured with 85mm lens at f/1.4 for tack-sharp subject with creamy background blur, subtle film grain and magical particle effects, ultra-detailed 8K hyperrealistic masterpiece of pure enchantment.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3f3b0825-9b17-4cf9-b6cf-5f7599d30a94/original=true/3f3b0825-9b17-4cf9-b6cf-5f7599d30a94.mp4",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "landscape",
-      "fantasy"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "cc5766e0644b",
-    "content": "An ultra-detailed cinematic macro portrait of a bumblebee suspended mid-air yet posed in a distinctly human defensive stance, as if braced for impact against a powerful incoming force. Though hovering, its posture conveys grounded resistance â hind legs extended downward and slightly apart as if planted against invisible ground, joints flexed and tensed. The mid-legs angle outward for balance and stability, reinforcing the sense of physical bracing despite being airborne.\nIts dense black and golden-yellow fur is rendered with extreme microscopic fidelity â individual strands layered naturally with subtle variation in length and density, catching soft specular highlights. Fine golden pollen grains cling organically to the thorax and leg joints. The abdomen shows realistic segmentation and gentle curvature, maintaining anatomical authenticity while supporting the anthropomorphic pose.\nThe beeâs glossy compound eyes are deep obsidian with faint sapphire and emerald iridescence reflecting the magical energy ahead. Its gaze is fierce and unwavering, locked forward with disciplined intensity. Antennae sweep slightly backward, reacting to the force of the spell discharge. The translucent wings extend behind in a powerful stabilizing spread, their delicate membranes etched with intricate vein structures; subtle motion blur at the tips conveys rapid vibration counteracting recoil.\nThe foremost right leg (closest to the head) is fully outstretched, gripping a proportionally accurate miniature wand no longer than its foreleg. The wand is simple, smooth matte dark wood with faint natural grain, lightweight and realistically scaled to the beeâs size. It is aimed directly forward with precision. The foremost left leg is raised above the beeâs head in a dramatic counterbalancing gesture, elbow joint bent slightly, as if channeling additional force into the spell or shielding itself from backlash â a heroic, duelist-like silhouette translated into insect anatomy.\nFrom the wandâs tip erupts a concentrated arcane blast that expands into a luminous defensive barrier. Concentric rings of sapphire and pale silver energy rotate with geometric precision, layered with glowing protective glyphs. The shield radiates outward in smooth, controlled expansion, with crackling filaments of energy arcing across its surface. Tiny sparks scatter forward, dissipating naturally into the air.\nColored smoke swirls dynamically around the beeâs lower body and behind the shield â deep indigo, muted violet, and faint teal vapors curling as if pushed back by the force of the magic. The environment is an enchanted twilight meadow rendered in creamy macro bokeh; blurred wildflowers and tall grasses provide atmospheric depth. Floating pollen and dust particles drift through subtle volumetric light rays cutting across the frame.\nLighting is dramatic and high-contrast: a cool frontal key light illuminates the beeâs face, outstretched leg, and wand, while a warm golden rim light traces the fur edges and wing contours, enhancing dimensional separation. The glowing shield acts as a powerful secondary light source, casting shifting blue highlights and soft reflections across the beeâs textured thorax and abdomen. Captured on a 100mm macro lens with shallow depth of field, focus is razor-sharp on the beeâs eyes and forward-pointing wand, with smooth falloff toward wings and background. Fine cinematic film grain, gentle chromatic aberration at the edges, and restrained bloom around the magical energy complete the polished fantasy realism aesthetic. The color grading balances cool sapphire and steel-blue tones against warm honey-gold fur, evoking a heroic, defensive, high-stakes magical confrontation.\nmasterpiece, best quality, ultra-detailed textures, 8k resolution, professional colour grading, high dynamic range, photorealistic macro fantasy artwork\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7175fb39-a996-470d-b95d-d4b628be00c0/original=true/7175fb39-a996-470d-b95d-d4b628be00c0.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "fantasy"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "666880354572",
-    "content": "remove the two little holes in the cow's muzzle (marked in red)\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/231d7cd3-2c25-4524-9064-04bde048e074/original=true/231d7cd3-2c25-4524-9064-04bde048e074.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "189979a59c4f",
-    "content": "Generate me a funny image of a spartan cats in a phalanx line at Thermopolis, They are in a shield wall with spears in greek armor.   8k, uhd, high quality, depth of field,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ddb28a95-f044-41e3-acee-7fb2e113a2b0/original=true/ddb28a95-f044-41e3-acee-7fb2e113a2b0.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "a1be92c7df14",
-    "content": "A hyper-detailed, photorealistic close-up of a small rat sitting beside a wooden bowl overflowing with bright red super-hot chilies. The rat is holding a half-eaten chili pepper in its tiny paws, mid-reaction. Its eyes are extremely blood-shot, veiny, wide, and bulging in panic. The rat’s mouth is open in a dramatic, over-the-top scream; its tongue is hanging out, glowing red from the heat. Sweat is pouring down its fur, droplets flying. Tears stream down its cheeks. Its whiskers are frazzled, its fur puffed from shock. The expression is exaggerated and comically desperate, like it just bit into the hottest pepper on Earth. Vibrant lighting, shallow depth of field, sharp texture details, hilarious chaotic energy, cinematic photorealism\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82013cea-cc2b-45b7-b1ea-312f0d1c273c/original=true/82013cea-cc2b-45b7-b1ea-312f0d1c273c.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "eb0871760256",
-    "content": "Ultra-wide rural panorama at misty dawn: a cluster of weathered thatched-roof farmhouses with wooden beams and mossy shingles perched on gentle rolling hills, narrow dirt paths lined with wildflowers connecting tiny rice paddies and vegetable patches, ancient gnarled cherry trees dotting the landscape, distant layered misty mountain ranges fading into soft blue infinity, faint smoke rising from stone chimneys, extreme atmospheric depth and grand scale, soft anime-style landscape painting aesthetic, rich textured painterly brushwork merged with glowing digital rendering, rustic serene majesty, gentle golden morning light filtering through fog\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3086d0ae-4916-4566-8c43-f2a30cfe512f/original=true/3086d0ae-4916-4566-8c43-f2a30cfe512f.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "landscape",
-      "anime"
-    ],
-    "style": "anime",
-    "source": "civitai"
-  },
-  {
-    "id": "0bcc3aa5bd4d",
-    "content": "<lora:reij-detaILer:0.74> <lora:Rembrandt Lighting style illu v1:0.61> <lora:bladeRunner_illustrious_v2:0.21> <lora:CreateConcept_Illustrious:0.58>\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c97efa76-6f05-4fec-a155-a5ca15434bc0/original=true/c97efa76-6f05-4fec-a155-a5ca15434bc0.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "0bcc3aa5bd4d",
-    "content": "<lora:reij-detaILer:0.74> <lora:Rembrandt Lighting style illu v1:0.61> <lora:bladeRunner_illustrious_v2:0.21> <lora:CreateConcept_Illustrious:0.58>\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/473029c3-eb60-4ccc-93e8-920da6119989/original=true/473029c3-eb60-4ccc-93e8-920da6119989.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "2df744b13ce5",
-    "content": "Perfect picture of old japanese castle with white walls nearby forest hills, huge fog around it, early morning, 3/4 view, dynamic picture, no sun, gray sky.. \nextremely detailed, perfect composition, a vibrant tissue of hues and textures captured digitally, best quality, realistic, captivating, intricately detailed, hyper detailed, maximalist style, dynamic lighting, superb composition, finest details, highest aesthetics, best quality, sharp focus, high contrast, stylized, clear, colorful, ultra quality, whimsical, fantastic, splash art, intricate detailed, hyperdetailed, maximalist style, hyper detailed, maximalist style, concept art, sharp focus, harmony, serenity, calm, mysterious glow, dynamic lighting, superb composition, sharp focus, high contrast, stylized, clear, colorful, ultra quality, best quality, DB4RZ, DB4RZ style painting, in the style of cksc, a masterpiece, award winning\n <lora:FLUX-daubrez-DB4RZ-v2:0.5> <lora:Luminous_Nostalgia_Cinematic_Fantasy_Glow:0.5> <lora:MoriiMee_Gothic_Niji_Style__FLUX_LoRA_Test_2:0.8>\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e908217e-de3c-4f9f-8443-f04a2cef1141/original=true/e908217e-de3c-4f9f-8443-f04a2cef1141.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "landscape",
-      "fantasy"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "157319cb0b11",
-    "content": "shrek, green ogre closeup biting into a juicy onion, 5 fingers\n, the scene is captured in dimly lit dark fantasy but vibrant colors, with bold ink lines defining form against the watercolor wash of the aged paper\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/74523bf1-7a8d-4ee3-bfde-7c2b4ddc7abe/original=true/74523bf1-7a8d-4ee3-bfde-7c2b4ddc7abe.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "fantasy"
-    ],
-    "style": "artistic",
-    "source": "civitai"
-  },
-  {
-    "id": "3540426b1621",
-    "content": "<lora:Menchi_-_Excel_Saga (1):1>,  menchi, dog, no humans, spotlight, microphone, microphone stand, sitting, music, animal, instrument, stage, animal focus, solo, sheet music on stand, standing in front of microphone\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2e74b6d3-f810-43de-a24f-90cbfab6e8b2/original=true/2e74b6d3-f810-43de-a24f-90cbfab6e8b2.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "0bcc3aa5bd4d",
-    "content": "<lora:reij-detaILer:0.74> <lora:Rembrandt Lighting style illu v1:0.61> <lora:bladeRunner_illustrious_v2:0.21> <lora:CreateConcept_Illustrious:0.58>\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/87976e8b-bb76-4f62-b2f5-4ec9248f8d6f/original=true/87976e8b-bb76-4f62-b2f5-4ec9248f8d6f.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "e67eb47fa87e",
-    "content": "He is holding two green glowing swords- also the part marked in red needs to be fixed\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a3482a72-d168-41bd-b9fc-4317a20330e7/original=true/a3482a72-d168-41bd-b9fc-4317a20330e7.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "30b7ad609986",
-    "content": "<lora:DetailerILv2-000008:0.67>\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cd7d4f2f-eb98-411c-9b31-d82cbdee9702/original=true/cd7d4f2f-eb98-411c-9b31-d82cbdee9702.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "d54ce021c34a",
-    "content": "The Scooby gang as a group of paranormal investigators, Fred and Shaggy wearing tactical military gear, Daphne wearing a business suit and Velma as the typical nerdy girl, a text says \"SCOOBY DOO: SCP OPERATIONS\"\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d215c6ab-cc6c-42cf-8951-38a8f2524c45/original=true/d215c6ab-cc6c-42cf-8951-38a8f2524c45.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "30b7ad609986",
-    "content": "<lora:DetailerILv2-000008:0.67>\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/215f2cb5-9a97-459d-9625-da3391350322/original=true/215f2cb5-9a97-459d-9625-da3391350322.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "764dceda7981",
-    "content": "Generate me a funny image of a cat dressed in  like marty mcfly from back to the future. They are pulling up their 80s style sunglasses and looking at their watch. Next to him is a white cat dressed in a white jumpsuit with crazy wild white hair like Dr. Emmitt Brown. They are standing next to the Delorean time machine car with a streak of fire behind it. The top of the movie says \"Cat to the Future\" in the Back to the Future movie font. realistic,  8k, uhd, high quality, depth of field,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/19806cd2-51b7-40ab-ac5f-417a984b6520/original=true/19806cd2-51b7-40ab-ac5f-417a984b6520.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "aceb8f42b1d4",
-    "content": "<lora:CPA:0.5> <lora:FLUX-daubrez-DB4RZ-v2:0.3> <lora:ck-shadow-circuit:0.35> in the style of cksc, <lora:ìë¬µí_No2:0.3> <lora:It's a LoRA for portraits, BUT! actually specialized in backgrounds. v1.0:0.15> <lora:Dark_and_sentimental:0.8> <lora:dreadmirth-style-art:0.5> dreadmirthart\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c7b91c79-a0df-41af-9777-bd792b7e5fba/original=true/c7b91c79-a0df-41af-9777-bd792b7e5fba.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "ad2968f79d2e",
-    "content": "Ultra-cinematic dark-fantasy still life, vertical frame: a cluttered alchemist/necromancer workbench in a candlelit crypt. Foreground centerpiece: a torn aged parchment spread on a stained stone table, covered with intricate arcane diagrams, borders and dense handwriting rendered as abstract non-readable glyphs (no legible letters). Left midground: a large human skull with ornate engraved filigree and runic etching, resting on a heavy carved grimoire; metalwork shows micro-scratches, patina, dust in grooves. Right midground: a glass bottle of deep crimson liquid with a cork stopper, condensation droplets and glass refraction; beside it molten wax candles with thick drips and bright flames, tiny sparks floating. Scattered props: tarnished chalice, small skull, ritual coins/amulets, inked seal stamp, bone-handled dagger, chains hanging above, scattered ash, dried blood smears, soot, grit, spiderweb threads. Background: blurred stone arches and shelves of relics, warm bokeh candle points in haze. Lighting: warm candle key from right + dim cool moon/torch fill from left, strong chiaroscuro, rim highlights on skull edges and bottle, volumetric smoke/haze with dust motes; subtle bloom on flames and glass glints, fine film grain, cinematic HDR micro-contrast. Camera/optics: 50mm macro-ish, shallow DOF—parchment texture and skull engraving razor sharp, background softly melted; 8k detail density, no watermark, no logos, no readable text.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/51e83bdf-e733-47c5-8da1-f894d81feb06/original=true/51e83bdf-e733-47c5-8da1-f894d81feb06.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "fantasy"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "e54526579055",
-    "content": "Realistic image inside a KFC restaurant. Ronald Mcdonald and Wendy Thomas wearing their iconic outfits are sitting on a table with a KFC chicken bucket and a Pepsi and a small business card like the reference image. They are looking at the card with a puzzled expression. Ronald and Wendy both have red kiss marks all over their faces. On the background behind the counter colonel Sanders wearing his iconic outfit and an apron is looking at Ronald and Wendy with his arms crossed and with a judgmental expression.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cd341d91-49b6-4dbf-b9fb-468a7f446f35/original=true/cd341d91-49b6-4dbf-b9fb-468a7f446f35.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "4043bbd7eb17",
-    "content": "masterpiece,amazing quality,newest,absurdres,highres,highly-detailed,detailed face,glossy hair,<lora:serafuku_illustrious_V2.0:0.8>,serafuku,blue serafuku,pleated skirt,blue sailor collar,neckerchief,long sleeves,simple background,black hair,long hair,straight hair,smile,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6c1a1cb8-16b7-46d2-a1fd-c711a2403024/original=true/6c1a1cb8-16b7-46d2-a1fd-c711a2403024.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "bcaa7115900b",
-    "content": "Majestic downward vista into a secluded rural basin at early autumn: traditional timber-framed houses with steeply pitched thatched roofs half-hidden by tall bamboo groves and maple trees turning crimson, stepped rice terraces cascading down misty slopes, narrow stone paths and wooden gates leading to small shrines, faint morning mist clinging to the valley floor, towering distant mountains piercing through layered haze, ultra-wide perspective emphasizing overwhelming natural and human harmony, soft anime-style rural painting aesthetic, lush textured brush details combined with crisp ethereal digital rendering, rustic tranquil grandeur, diffused cool morning light\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d4726b17-51bf-40a3-baa7-998a3f4e5899/original=true/d4726b17-51bf-40a3-baa7-998a3f4e5899.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape",
-      "anime"
-    ],
-    "style": "anime",
-    "source": "civitai"
-  },
-  {
-    "id": "39f5ac2b1aad",
-    "content": "1 girl, solo, depth of field, cinematic angle, \nmedium breast, blonde, gold hair, yellow hair, big round eyes, yellow eyes, white pupils, white hair ribbon, french braid, long hair, hair between eyes, japanese ahoge,\nWhite sailor outfit, white short skirt, shoes,\nBREAK\nlaying on back, snack, on shopping cart, foreshortening, arm rest, crossed legs, indoors, mall, holding lollipop,\nmasterpiece, best quality, amazing quality, 4k, very aesthetic, high resolution, ultra-detailed, absurdres, newest, ultra-HD, \n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afdb7346-6b56-4486-8dfa-bec266fdb9d0/original=true/afdb7346-6b56-4486-8dfa-bec266fdb9d0.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "22bbc0a38a59",
-    "content": "Cinematic high-aesthetic surreal sci-fi oil painting, medium shot at eye level: a lone young woman in a flowing white dress stands on a sandy beach dotted with sparse grassy patches, facing a colossal circular structure resembling a damaged satellite or crashed spaceship. The ring-like structure dominates the scene, which once was a doorway to another dimension, partially crumbling, riddled with holes, rust, and torn metal edges, symmetrical and monumental. The sky is vivid blue with scattered white clouds; strong sunlight creates crisp, sharp shadows across sand, grass, and corroded metal. Ocean waves roll gently on the left, adding scale and calm contrast. Rule-of-thirds composition places the girl slightly left of center, with leading lines from sand ripples and dunes guiding the eye toward the structure’s core. Deep focus keeps both foreground and background sharp. Vivid blue and sandy neutral palette, smooth painterly textures with bold anime-inspired outlines, surreal sci-fi mood, quiet awe and mystery, polished digital oil painting with very high aesthetic quality.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f146a10e-c736-44c9-97db-2095b0396b46/original=true/f146a10e-c736-44c9-97db-2095b0396b46.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape",
-      "anime"
-    ],
-    "style": "anime",
-    "source": "civitai"
-  },
-  {
-    "id": "5621d9a76861",
-    "content": "<lora:Rogue80sIllustrious1.0JLFO-000015:0.85>  r0gue, 1girl, retro artstyle, bodysuit, white hair, red hair, jacket, multicolored hair, long hair, solo, gloves, yellow bodysuit, headband, two-tone hair, belt, green bodysuit,smile, makeup, lipstick, breasts,clenched hand, looking at viewer, hand on own hip, cowboy shot, simple background,, masterpiece, best quality, amazing quality, very aesthetic, absurdres\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bcc128fd-90bd-4d08-a4e6-0372b128820c/original=true/bcc128fd-90bd-4d08-a4e6-0372b128820c.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "c0ccd2d170eb",
-    "content": "A surrealist oil painting, depicting a human full-strength skeleton viewed from a dramatic low angle. The skull is tilted far back, gazing upward into a light source, with the jaw slightly open. The torso and ribcage are rendered not as standard anatomy, but as a surreal, organically intertwined and melted bone structure, forming a complex, fluid cage. The skull remains a fragmented composition of shattered porcelain with soft, smoky sfumato layers and sharp, bone-white fractures.\nEnvironment: A void of deep, impenetrable black shadows and heavy, swirling atmospheric smoke and fog that consumes the background, covers a hazy, impressionistic wash of dark city shapes and diffused, ghostly light patches; a melancholic and blurred background rendered in oil.\nColoring: A strictly muted and desaturated palette dominated by slate grays, deep charcoal blues, bone whites, and pale porcelain tones, with visible brushwork.\nStyle: Surrealist oil painting. Emphasizes dreamlike quality and fragmentation.\nLighting: A strong, conical beam of light cuts through the upper atmosphere from the top left, illuminating the smoke and the upper parts of the skeleton, creating extreme chiaroscuro against the dark void. The light creates a soft, ghostly glow within the fog. Highlights are rendered as soft, deliberate paint applications.\nTechnical: 8k resolution, cinematic grain, aspect ratio 9:16, 1536x2752px\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/392454fb-bf0f-4e49-9c4d-ae016ea6f181/original=true/392454fb-bf0f-4e49-9c4d-ae016ea6f181.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "artistic",
-    "source": "civitai"
-  },
-  {
-    "id": "4fc2f02c835b",
-    "content": "Big horned sheep drinking water at a stream. Text bubble from off screen \"Save some water for A.I. jerk!\"\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27b0cd44-e451-41d5-8a5c-b217946cd744/original=true/27b0cd44-e451-41d5-8a5c-b217946cd744.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "dce0d20fe09e",
-    "content": "in the style of cksc, Cinematic ultra detailed digital oil painting at sunset on a tropical Thai beach at Khao Phing Kan, wide shot with the entire vintage blue camper van fully visible from bumper to bumper parked at the shoreline, rear view of two young beautiful women with long wavy hair in different colors sitting on the roof, romantically holding hands and gazing toward the ocean, one wearing a bikini, the other a loose short tshirt and denim shorts, warm golden sunset light with soft halation and ambient occlusion, turquoise water glowing with muted highlights, massive limestone boulders rising dramatically from the sea with shimmering reflections, strong orange red yellow and turquoise palette, rich painterly texture with visible brushwork and deep surface detail, photoreal yet slightly surreal, subtle double exposure dream haze, mystical glow, cozy ambient lighting, dynamic shadows, sharp focus across van and figures, cinematic composition, concept art polish, tranquil paradise mood with gentle psychedelic softness, award winning masterpiece quality.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e8bdd7ef-5645-420c-8f57-a384cb89c6fc/original=true/e8bdd7ef-5645-420c-8f57-a384cb89c6fc.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape"
-    ],
-    "style": "artistic",
-    "source": "civitai"
-  },
-  {
-    "id": "358c68f40c8f",
-    "content": "Surreal cinematic photoreal space vista of Earth from orbit with a sweeping curved horizon, bright blue oceans and swirling white cloud systems, a thin glowing atmosphere line, deep black space with a small crescent moon, in the foreground a cute yellow rubber duck seen from behind floating on a transparent water surface suspended above the planet, tiny ripples radiate from the duck and sparkling star like highlights glitter on the water, the duck casts a soft reflection and faint shadow in the ripples, ultra wide angle perspective, crisp planet detail, clean high contrast lighting, bright sunlit color palette with rich blues and whites and the saturated yellow duck, dreamy impossible scale, high resolution, sharp and majestic mood.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/245c7cd8-ecae-4583-b616-13444532fb30/original=true/245c7cd8-ecae-4583-b616-13444532fb30.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "13be0cdf3169",
-    "content": "futuristic style sci-fi style A fantastical trading base on a distant planet. Tall deep-space communication antennas, squat industrial buildings and hangars, and a landing pad surrounded by a protective wall. The base is located on a mountain spur, swept by a violent snowstorm, through which the buildings are barely visible. No humans on picture. Blizzard.\nextremely detailed, perfect composition, a vibrant tissue of hues and textures captured digitally, best quality, realistic, captivating, intricately detailed, hyper detailed, maximalist style, dynamic lighting, superb composition, finest details, highest aesthetics, best quality, sharp focus, high contrast, stylized, clear, colorful, ultra quality, whimsical, fantastic, splash art, intricate detailed, hyperdetailed, maximalist style, hyper detailed, maximalist style, concept art, sharp focus, harmony, serenity, calm, mysterious glow, dynamic lighting, superb composition, sharp focus, high contrast, stylized, clear, colorful, ultra quality, best quality, DB4RZ, DB4RZ style painting, in the style of cksc, a masterpiece, award winning\n <lora:FLUX-daubrez-DB4RZ-v2:0.5> <lora:Luminous_Nostalgia_Cinematic_Fantasy_Glow:0.5> <lora:MoriiMee_Gothic_Niji_Style__FLUX_LoRA_Test_2:0.8> . futuristic, technological, alien worlds, space themes, advanced civilizations . sleek, modern, ultramodern, high tech, detailed\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8e98be52-4ed9-4041-b7df-b09d609a0561/original=true/8e98be52-4ed9-4041-b7df-b09d609a0561.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape",
-      "fantasy"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "049bcf69886d",
-    "content": "Create an image in the style of a digital illustration with a strong painterly, illustrative character, featuring painted textures and a deliberate use of light and color. It depicts a young blonde woman in close-up, shown frontally, with her gaze directed slightly upward. She wears a straw hat and round, mirrored sunglasses. Reflected in the lenses is a bright beach scene with the sea, sky, sun umbrellas, and several people, giving the image a second narrative layer. Her face is softly lit, and her skin appears warm and slightly glossy, as if touched by sun and salty air. Individual strands of hair fall loosely across her face, making the scene feel natural and unposed. The color palette is warm and summery, with turquoise and sandy tones contrasted against golden skin hues, award winning, a masterpiece, Special Ink-drawing mode, animeniji, Mh1$AgThS2, 2D flat anime, cartoon-style, intricate linework with expressive contrasts, soft lighting with dynamic highlights, a masterpiece, award winning, CAICO\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d71ca5a6-c6eb-48b5-9113-7f052c2e0064/original=true/d71ca5a6-c6eb-48b5-9113-7f052c2e0064.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape",
-      "anime"
-    ],
-    "style": "anime",
-    "source": "civitai"
-  },
-  {
-    "id": "8010f0ca03d8",
-    "content": "Semi-realism, ma1ma1helmes_b_illu, \n(masterpiece, best quality, very aesthetic, amazing quality, absurdres, newest, simple background), BREAK, \nholding a gun, slender body, white bodysuit, black jacket, cropped jacket, pistol with silencer, blonde hair, long hair, hime cut, forehead, skin tight, skinny, slender, thigh gap, slender thighs, black gloves, black belt, wide belt, hairband, blue eyes, secret agent\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8aca61fc-9a47-42b5-aa98-dab6d6ae1f43/original=true/8aca61fc-9a47-42b5-aa98-dab6d6ae1f43.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "24b6374e29c2",
-    "content": "<lora:Rogue80sIllustrious1.0JLFO-000015:1.0>  r0gue, 1girl, retro artstyle, bodysuit, white hair, red hair, jacket, multicolored hair, long hair, solo, yellow bodysuit, headband, two-tone hair, , green bodysuit,smile, makeup, lipstick,grin,   simple background,, masterpiece, best quality, amazing quality, very aesthetic, absurdres, upper body, portrait, looking at viewer, simple background,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a0c6d0d1-b57f-4c80-97e4-75d61c78d430/original=true/a0c6d0d1-b57f-4c80-97e4-75d61c78d430.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "0bcc3aa5bd4d",
-    "content": "<lora:reij-detaILer:0.74> <lora:Rembrandt Lighting style illu v1:0.61> <lora:bladeRunner_illustrious_v2:0.21> <lora:CreateConcept_Illustrious:0.58>\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fee43db6-599b-41f4-abc7-1ca165bf3b13/original=true/fee43db6-599b-41f4-abc7-1ca165bf3b13.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "f330226e019b",
-    "content": "(flat color:2), (no lineart:1), (no outline:1), (Flat vector:1)\"The image depicts a stunning cat girl, Hanekawa Tsubasa, standing in a dimly lit alleyway at night. Her long, flowing white hair cascades down her back like a river of silk, with a few strands framing her face and tickling her cheeks. Her bright yellow eyes sparkle with mischief, and her parted lips curve into a sly smile as she gazes directly at the viewer.\"\n masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/63b73e6d-ea63-426f-af0a-480d4b6648ec/original=true/63b73e6d-ea63-426f-af0a-480d4b6648ec.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "7a89a5745fad",
-    "content": "<lora:gc_vintage:1> vintage <lora:Fancha_style_v.5:1> Fancha style <lora:Anime v1.3:1>  <lora:secret_grotesque_fantasy_flux1_v0.1_copy:1> secret_grotesque_fantasy\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7aff3cd5-2649-479c-9da7-5113b35eee4f/original=true/7aff3cd5-2649-479c-9da7-5113b35eee4f.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "anime",
-      "fantasy"
-    ],
-    "style": "anime",
-    "source": "civitai"
-  },
-  {
-    "id": "99f9aa73f726",
-    "content": "Cinematic photorealistic aerial bird eye view from far away, Saint Peters Square in Vatican City at sunrise, the vast oval piazza and sweeping marble colonnades dominate the frame with Saint Peters Basilica glowing in the background, soft golden morning light and pastel sky, long clean shadows across the cobblestones and gentle mist in the air, two tiny beautiful nuns in black and white habits are at the edge of the square pressed against a pale stone wall, hugging each other close and kissing intensely, quiet secret moment within monumental architecture, warm sunbeams grazing the marble and creating luminous highlights, calm beautiful morning atmosphere, muted ivory and charcoal palette with warm gold accents, deep depth of field, subtle film grain, ultra detailed environment, epic scale and serene tension.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2f320c31-f3af-4061-927e-dd20cfa1df3e/original=true/2f320c31-f3af-4061-927e-dd20cfa1df3e.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "landscape"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "d6cc18d8bad8",
-    "content": "linquivera,  Ink illustration, brown tones, aged black bright multicolored paper, inkpunk, \npsychodelic scenic thailand island, one longtail boat, bright vivid colors, surreal, will-o'-the-wisp, moonlit, lonely, solitude, windy, tall trees, willows, willowy,  OverallDetail, extremely detailed, UHD,(long exposure , dystopian but extremely beautiful, award winning, a masterpiece, best quality, Special Ink-drawing mode, animeniji, Mh1$AgThS2, 2D flat anime, cartoon-style, intricate linework with expressive contrasts, soft lighting with dynamic highlights, a masterpiece, award winning, CAICO\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e10c0da3-c04c-4653-9c08-95d16e7fc982/original=true/e10c0da3-c04c-4653-9c08-95d16e7fc982.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "anime"
-    ],
-    "style": "anime",
-    "source": "civitai"
-  },
-  {
-    "id": "30b7ad609986",
-    "content": "<lora:DetailerILv2-000008:0.67>\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/55e15749-b2cb-482c-8ed9-88242a476e93/original=true/55e15749-b2cb-482c-8ed9-88242a476e93.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "9f6ccae7d481",
-    "content": "A majestic adult griffin perches confidently atop a high precipice of floating rock, its powerful wings partially spread as if ready to ascend into the surrounding misty atmosphere. The creature’s plumage displays intricate feather patterns that shimmer with metallic sheens under the bright daylight, conveying strength and nobility. Foreground elements feature wisps of cloud-like vapor swirling around the base of the perch, adding a dreamlike quality to the grounded structure. Midground focus highlights the griffin’s keen gaze directed toward the horizon, with its talons gripping the stone surface firmly to emphasize stability amidst the vast sky. The background extends into an expansive aerial landscape where layers of cumulus clouds drift slowly against a clear azure backdrop, creating a sense of infinite space and freedom. A monochromatic blue-and-silver color scheme unifies the scene, utilizing varying shades of cerulean and metallic grey to enhance the ethereal atmosphere. Bright 6000K daylight from overhead casts soft shadows that define the griffin’s form while maintaining clarity across the expansive view. Utilizing a wide-angle 35mm lens at f/4 for comprehensive environmental context, this hyperdetailed 8K image captures the essence of aerial grandeur and celestial grace in a timeless high-altitude setting.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5b940154-1d56-44f2-a152-c77bd20419a5/original=true/5b940154-1d56-44f2-a152-c77bd20419a5.mp4",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "5258b947cf1d",
-    "content": "The palette is dominated by dark tones. The texture is pronounced, with brushstrokes and traces of paint visible, imitating the process of painting using multi-layered tones. The composition is centered around the figures, and the background flows smoothly in color and tone. The style is abstract, almost sculptural. The style is abstract, almost sculptural. Free, gestural brushstrokes create a sense of movement and action. The muted color palette includes subtle variations in tone. The sense of depth is achieved through different densities of brushstrokes. The light source is diffused, giving the image a slightly cool and mysterious shade. The style of painting is reminiscent of abstract realism and expressionism.  Soft shadows that reflect every detail and add volume to the scene.\n\nA striking portrait of a female person of indeterminate age, possibly in their 20s or 30s, exuding an aura of serene strength. The individual's skin is pale, almost ivory, contrasted by intricate, raised white markings across their shaved head and face, creating a tribal or ceremonial aesthetic. Their eyes are a striking amber color, conveying an intense gaze, while their expression is composed and confident. They are draped in a flowing, vibrant saffron-colored fabric, which appears to be a shawl or wrap, adorned with intricate white patterns. Multiple necklaces with beads and small pendants add further decorative detail. The setting is softly lit, with dappled sunlight creating shadows. The background appears blurred, suggesting an outdoor environment, possibly a market or village, with hints of architectural structures, but the focus is entirely on the central figure. The lighting creates a warm, inviting atmosphere, although the subject's expression adds a feeling of contemplation. The composition, a medium close-up, allows for detailed observation of the subject's features. The overall style is akin to a stylized portrait, possibly inspired by cultural elements with a touch of fantasy.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fbff5e0c-a037-44cc-82f7-3983766a1d95/original=true/fbff5e0c-a037-44cc-82f7-3983766a1d95.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "fantasy"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "9f24a77f79a2",
-    "content": "realistic, solo, cat, cute, sleeping, light_particles, nature, mountain, depth of field, the best quality, amazing quality, high quality, masterpiece,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/35db9a04-3f7e-4abf-b0c5-7929785c4a45/original=true/35db9a04-3f7e-4abf-b0c5-7929785c4a45.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "landscape"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "6f09f09a06d5",
-    "content": "masterpiece,amazing quality,newest,absurdres,highres,highly-detailed,detailed face,glossy hair,1girl,\nwhite down jacket,blue serafuku,pleated skirt,blue sailor collar,simple background,black hair,long hair,straight hair,smile,pantyhose,<lora:down jacket no hood_illustrious_V2.0:0.7>,<lora:serafuku_illustrious_V2.0:0.7>,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c468621e-5e96-4a58-bbb6-12ce8ce0cc63/original=true/c468621e-5e96-4a58-bbb6-12ce8ce0cc63.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "ffbbead9955b",
-    "content": "Guevinravinzo art style: A vibrant watercolor illustration of a vintage red tram gliding along wet cobblestone streets lined with autumnal trees shedding golden leaves; overhead wires crisscross above historic European buildings featuring ornate facades and a prominent spire in the background; pedestrians stroll along sidewalks under soft diffused light; detailed architectural textures, expressive brushstrokes, warm earth tones blending with cool shadows, evoking nostalgic urban charm reminiscent of Vincenzo Sgueraâs romantic cityscapes. <lora:Vincenzo_Sguera_E7:0.85>\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/573973c4-4f07-4d74-8724-054e3e95b352/original=true/573973c4-4f07-4d74-8724-054e3e95b352.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "artistic",
-    "source": "civitai"
-  },
-  {
-    "id": "d39bb3e8c1c0",
-    "content": "<lora:Menchi_-_Excel_Saga (1):1>, menchi, dog, no humans, weapon, gun, gatling gun, holding, solo, parody, holding weapon, holding gatling gun, outdoors, standing, rocks on ground, rocks, serious expression, looking at viewer, aiming gatling gun at viewer, day\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d9a42c23-04fc-4cbc-8d8b-1c4d3e6142e3/original=true/d9a42c23-04fc-4cbc-8d8b-1c4d3e6142e3.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "a4f9718e35b5",
-    "content": "Transform the uploaded anime/cartoon/drawing into an ultra-photorealistic, lifelike photograph of a real adult human being in real life. The person is cosplaying the exact character with 100% identical pose, posture, hand gestures, facial expression, eye direction, hairstyle, hair color, outfit, accessories, props, and background elements. Preserve every single detail of the composition and camera angle as in the original image but instead realistic. The entire setting should be transformed to photorealism with cinematic camera techniques such as depth of field and focus, all objects should have detailed realistic texture. Adjust all exaggerated anime/cartoon proportions to natural, attractive real-human anatomy subtle bone structure. Add photorealistic skin texture with pores and subtle imperfections, lifelike eyes with catchlights and depth, detailed hair strands, realistic fabric folds and material textures, natural shadows, cinematic studio lighting or matching the original scene lighting perfectly. Ultra-high detail, sharp focus, 8K resolution, professional photography quality, no cartoon/illustration/anime artifacts remaining,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5da6081b-5f7d-44fb-9d3f-c68002b34fcf/original=true/5da6081b-5f7d-44fb-9d3f-c68002b34fcf.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "anime"
-    ],
-    "style": "anime",
-    "source": "civitai"
-  },
-  {
-    "id": "2d3154c294d2",
-    "content": "<lora:Menchi_-_Excel_Saga (1):1>,  menchi, dog, no humans, in the dark, forest, at night, menchi worried, outdoors, several pairs of glowing eyes watching menchi from the darkness, horror\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a08a10e4-68a6-4cb3-a242-598eb9e6ddca/original=true/a08a10e4-68a6-4cb3-a242-598eb9e6ddca.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "db520841db1b",
-    "content": "A hyper-realistic, high-resolution image styled as a cinematic historical-photography composite, with beautiful color grading resembling medium-format film photography (similar to Kodak Ektar 100 film — rich color tones, deep contrast, and sharp detail). The scene captures the Roman army in an epic, desperate defense against a colossal, otherworldly being — Cthulhu — just outside the ancient city of Rome.\n\nThe camera angle is a dramatic wide shot from a slightly low perspective, positioned behind the frontline Roman soldiers as they charge forward. The depth of field is moderately shallow, with the foreground soldiers in sharp focus and the monstrous figure of Cthulhu looming in slight atmospheric blur in the distance, accentuating the scale difference. The image feels like a single frame from an alternate-history war documentary.\n\nIn the immediate foreground, Roman legionaries are marching with disciplined intensity, forming a wedge-shaped assault formation. They wear authentic late-Republic-era armor: glinting lorica segmentata (banded iron armor), red tunics beneath, reinforced leather sandals (caligae), and plumed galea helmets. Each soldier holds a heavy scutum shield raised forward and a gladius sword or pilum (javelin) ready to throw. Their expressions are grim and focused, illuminated by the warm glow of firelight and the cold twilight sky above.\n\nTo the right side of the frame, a team of muscular war horses pulls a chariot, thundering toward the battlefield, its rider shouting commands — the chariot is reinforced with bronze accents, dust and sparks flying from the wheels as they grind over rough terrain.\n\nTo the left, catapults mounted atop reinforced wooden platforms launch flaming boulders and spiked projectiles into the distance, caught mid-flight in a long exposure blur that contrasts beautifully with the sharp detail of the soldiers. Smoke trails and arcs of fire add drama to the composition. The machines themselves are manned by auxiliary engineers in simpler tunics and leather armor, their faces straining in the effort.\n\nAt the central upper third of the image, the Roman general sits astride a rearing black stallion. His armor is ornate — polished bronze chestplate adorned with embossed eagle motifs, a crimson cloak billowing behind him, and a silver-crested helmet gleaming in the scattered light. His right arm is outstretched, sword pointed toward the towering monstrosity ahead, rallying the legions forward.\n\nCthulhu, barely visible beyond a dense haze of dust, fire, and atmosphere, is immense — tentacles writhing, wings partially spread, its eyes glowing with ancient menace. The creature rises behind the distant ruins of a crumbling aqueduct, dwarfing the Roman architecture around it. The creature’s scale is exaggerated through atmospheric perspective, making it appear half-shrouded in storm clouds and smoke.\n\nThe color palette is cinematic: cool steel-blues in the sky and smoke, contrasted with warm oranges from fire and torchlight. The lighting mimics real-world golden hour conditions, slightly underexposed for dramatic shadows and rich contrasts. There’s realistic grain and light bloom from fire sources, evoking the look of analog photography captured in extreme conditions. The image style maintains all photographic principles — lens flare, chromatic aberration near the image edges, natural skin textures on the soldiers, and light bouncing off dust particles suspended in air.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b889c83b-133b-4078-8c70-1d3a4039e582/original=true/b889c83b-133b-4078-8c70-1d3a4039e582.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "4cf9dc308d74",
-    "content": "Semi-realism, ma1ma1helmes_b_illu, \n(masterpiece, best quality, very aesthetic, amazing quality, absurdres, newest, simple background), BREAK, \n1 girl, solo, rabbit, forest, alice in wonderland, blonde hair, blue dress, white apron, dynamic pose, running, dynamic pose, frills, smile, blush, detailed eyes, freckles, pink lips, white, pastel colors, vintage, depth of field, rakugakingu\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b8b9f63c-584c-4648-9008-083a2bf2123f/original=true/b8b9f63c-584c-4648-9008-083a2bf2123f.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "7ac8ed6adce5",
-    "content": "High contrast black and white ink illustration, post apocalyptic ruined city canyon with collapsed buildings, twisted rebar and broken concrete, a cute woman named Elle -  long braid, simple dress and sneakers, calm innocent smile - is hugging a monster that is adorable yet terrifying, round plush like body with multiple big glossy eyes, one huge main eye and several smaller eyes around it, massive mouth full of sharp teeth, a long wet tongue curling outward, cute expression but predatory posture, claws resting on the debris, dramatic sunbeams cutting through dust and smoke, cinematic low angle wide shot, deep perspective, ultra detailed linework, gritty textures, manga concept art mood, sharp lighting, epic scale, crisp focus, masterpiece quality, very detailed. zidiusArt\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c57f00a0-73c8-496d-b041-aa25c56ceb65/original=true/c57f00a0-73c8-496d-b041-aa25c56ceb65.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "anime"
-    ],
-    "style": "anime",
-    "source": "civitai"
-  },
-  {
-    "id": "bd28e28a384e",
-    "content": "Create a photorealistic image taken from above of martha bae river, jamaica, bamboo raft, jungle, vivid colors, bright, amazing landscape, perfect composition, a rich and complex image of nature, a vibrant tissue of hues and textures captured digitally, best quality, double exposure, realistic, captivating, fantastical, splash art, intricately detailed, hyper detailed, maximalist style, photorealistic, concept art, sharp focus, harmony, serenity, calm, mysterious glow, dynamic lighting, masterpiece, superb composition, finest details, highest aesthetics, strong muted highlighter of fantastical waterfall surrounded by green jungle, ((view from above)), aerial photo from above as if a bird had taken the picture, mystical glow, best quality, sharp focus, high contrast, stylized, clear, colorful, best quality sharp focus, high contrast, stylized, clear, colorful, surreal, ultra quality, 8k, best quality, masterpiece, DB4RZ, DB4RZ style painting, NeoPigma, in the style of cksc, anime, cyberpunk\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/92d68b36-22ef-4e72-b19a-9a17e6a9cd34/original=true/92d68b36-22ef-4e72-b19a-9a17e6a9cd34.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "landscape",
-      "anime"
-    ],
-    "style": "anime",
-    "source": "civitai"
-  },
-  {
-    "id": "eaa325c6c9bb",
-    "content": "a Giga Chad anthropomorphic tiger man in a suit responding\"Yes.\" To the question \"are you the one who doomed humanity by trying to romance the void?\"\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e9d300f-4383-476c-b605-ce57ef5e1c9c/original=true/3e9d300f-4383-476c-b605-ce57ef5e1c9c.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "69e6f00ca4b5",
-    "content": "Cinematic dark fantasy portrait of a female hooded assassin lunging toward the camera, masked face hidden in shadow with piercing glowing eyes, she throws a spinning steel shuriken straight at the viewer, frozen mid flight with motion blur and sharp specular highlights, black cloak and layered leather armor whipping in a violent wind, torn scarf ribbons trailing, gloved hands tense, swirling ash and floating debris in storm fog, hard rim light outlining fabric folds, palette primarily black and silver with a few toxic green accents from small vials and faint rune glow on her belt, high contrast chiaroscuro, ultra detailed cloth weave and metal scratches, low angle close shot with wide lens perspective, shallow depth of field, subtle film grain, intense ominous mood, high resolution concept art realism. zidiusArt\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/69a96703-c228-47c1-a484-9a8d9430dbb9/original=true/69a96703-c228-47c1-a484-9a8d9430dbb9.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "fantasy"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "c691d7ffb585",
-    "content": "in the style of ck-mgs, nistyle, Special Ink-drawing mode, intricate linework with expressive contrasts, Mh1$AgThS2, Inkplash art on rice paper, sepia, henna , Silhouette Art, magnificent, inksplash A bold inkplash-meets-watercolor wash artwork, expertly painted on rice paper using rich sepia, burnt henna, and ink-black hues.   intricate linework with expressive contrasts, soft lighting with dynamic highlights, Japanese woman sitting in front of a tori gate at the top of a mountain, overlooking wooded hills, landscape, sunset. Impressionistic, ligne claire outlines for clarity and structure, award winning, a masterpiece\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/14f926b1-1eb1-43f0-acb2-77671ea4354c/original=true/14f926b1-1eb1-43f0-acb2-77671ea4354c.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape"
-    ],
-    "style": "artistic",
-    "source": "civitai"
-  },
-  {
-    "id": "dec62c08a3a4",
-    "content": "base image for the other one\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b5bafe80-5ca0-46f4-bf8f-7c94df8ab17a/original=true/b5bafe80-5ca0-46f4-bf8f-7c94df8ab17a.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "3a293701d551",
-    "content": "masterpiece,amazing quality,newest,absurdres,highres,highly-detailed,detailed face,glossy hair,<lora:serafuku_illustrious_V2.0:0.8>,serafuku,pleated skirt,blue sailor collar,neckerchief,long sleeves,simple background,black hair,long hair,straight hair,smile,pantyhose,sitting,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3f8353a0-80bc-4526-bccb-92e9e9b8a2c1/original=true/3f8353a0-80bc-4526-bccb-92e9e9b8a2c1.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "7a1dfb7541f1",
-    "content": "masterpiece, very aesthetic, best quality, 8k, Anime-art, amazing quality, very awa, absurdres, newest, high detail, cinematic lighting, (impressionism:1.2), high detail, depth of field, (blurred background), (dramatic lighting), atmospheric, dynamic angle, volumetric lighting, h0r1h3r0s,\nIllusP0s,\nadult, aged up,\nmedieval fantasy,\n\nfox ears, fox tail,\nmagic,\n\nsitting, feet in water,\noutside, river, bridge,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2643ff4d-b485-4681-b7f6-6231483e9b84/original=true/2643ff4d-b485-4681-b7f6-6231483e9b84.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "anime",
-      "fantasy"
-    ],
-    "style": "anime",
-    "source": "civitai"
-  },
-  {
-    "id": "112c36074040",
-    "content": "Create an image of an ancient gongbi style Chinese painting depicting a lush aviary garden within an imperial summer retreat, meticulous fine line brushwork with mineral pigment brilliance, vibrant kingfishers golden pheasants and mandarin ducks perched among blooming magnolia and osmanthus trees, each feather precisely rendered with Song Dynasty level detail, ornate red lacquered pavilions with elegant upturned eaves nestled between carefully arranged scholars rocks, reflections shimmering in a jade green lotus pond, background mountains fading into subtle layered ink wash gradients suggesting seasonal transition, harmonious composition balancing richly detailed foreground with ethereal distant landscape, serene refined atmosphere expressing unity between humanity and nature, soft luminous lighting, silk texture implied, restrained elegant color palette,  masterful classical chinese court painting aesthetic. a masterpiece, award winning, Special Ink-drawing mode, animeniji, Mh1$AgThS2, 2D flat anime, cartoon-style, intricate linework with expressive contrasts, soft lighting with dynamic highlights, CAICO\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d6ec33d1-ac4a-4b9b-96b0-e96a5031d075/original=true/d6ec33d1-ac4a-4b9b-96b0-e96a5031d075.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "landscape",
-      "anime"
-    ],
-    "style": "anime",
-    "source": "civitai"
-  },
-  {
-    "id": "5fdc0162a2e2",
-    "content": "masterpiece, high detail, extremely detailed, detailed linework, dynamic composition, (realistic), flat color, retro colors, 60s, retro, comic, fantasy, jedopil, oil painting, perfect eyes, vivid colors, vibrant colors, light from front, 1girl, solo, long hair, looking at viewer, bangs, blue eyes,  shirt, black hair, white background, bare shoulders, monochrome, upper body, parted lips, glasses, sleeveless, blunt bangs, mole, lips, gradient, looking to the side, gradient background, eyelashes, mole under eye, sleeveless shirt, makeup, shadow, blue background, sunglasses, lipstick, portrait, close-up, blue theme, pink lips, round eyewear, limited palette, tinted eyewear, aqua background, looking over eyewear, holographic eyewear, blue-tinted eyewear, pink-tinted eyewear, perfect eyes, rimless eyewear,\nBREAK\ndynamic angle, depth of field, \nblurred background, Flat lighting, clean line, pastel blue and pastel orange gradient background with white border, light theme, windy, blizzard,\n7481llu, 69yottea_style_illu,snow, usnr,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f86b0c6c-b939-4d19-94d2-92ee54a7341c/original=true/f86b0c6c-b939-4d19-94d2-92ee54a7341c.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait",
-      "fantasy"
-    ],
-    "style": "artistic",
-    "source": "civitai"
-  },
-  {
-    "id": "503f771811fe",
-    "content": "Generate me an outrageously funny, over-the-top epic image of heroic dogs as ancient Athenian warriors standing in an ultra-serious, very dramatic tight phalanx formation at Thermopylae… except they are still very clearly Good Boys™.\n\nThey’re forming a shield wall with comically oversized round shields (some slightly chewed), holding long spears in their paws (one dog is clearly holding his backwards). They’re wearing highly detailed classical Greek armor and majestic crested helmets — but the helmets keep slipping over their eyes, and at least one fluffy tail is wagging heroically.\n\nOne golden retriever looks dramatically into the distance like he’s about to deliver a legendary speech, a tiny chihuahua is trying very hard to look intimidating, and a chunky bulldog is taking the whole “stoic warrior” thing way too seriously.\n\nEpic battlefield backdrop at Thermopylae, stormy skies, dust in the air, cinematic lighting, ultra-dramatic atmosphere — treated with the intensity of a blockbuster historical war film — but they are unmistakably dogs who would absolutely chase a squirrel mid-battle.\n\nHighly detailed fur and armor textures, 8K, UHD, dramatic depth of field, absurdly epic yet gloriously ridiculous tone\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/79157b49-66b3-46a9-8eab-feab769ec681/original=true/79157b49-66b3-46a9-8eab-feab769ec681.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "d763ea16a5a0",
-    "content": "Shot on a Fujifilm GFX100 using an adapted Carl Zeiss Planar 80mm f/2.8 medium format lens, wide open for razor-sharp subject isolation and subtle fall-off into shadows. Single hard light source: a bare tungsten bulb suspended low over the table, casting stark chiaroscuro shadows and a soft halo of warmth on the subject beneath. Color grading leans into muted teals and amber highlights, reminiscent of cross-processed Kodak Vision3 500T film. Slight grain added in post for cinematic texture.\n\nA hyper-realistic, darkly humorous fashion image set inside a worn concrete-walled interrogation room, featuring a sharp-eyed female detective and Cookie Monster, captured mid-scene as if from a crime thriller still.\n\nThe detective, a woman in her early 30s with sharp cheekbones and jet-black hair slicked back into a low bun, leans forward in a stiff chair, elbows on the table, fingers steepled. She wears a tailored charcoal-grey wool trench over a crisp white button-up, collar slightly askew, sleeves rolled to the elbow — somewhere between Gaultier and crime drama grit. Her expression is unreadable, lit from above so that only the glint in her eyes cuts through the shadow.\n\nAcross from her, Cookie Monster, fully photoreal and texturally accurate with matted blue fur and wide, twitchy eyes, sits slouched and visibly sweating. The interrogation lamp beams harshly onto him, making his googly eyes glint with panic.\n\nOn the scuffed metal table between them lies a thick manila folder, half-open, stamped in bold, all-caps type: \"STOLEN COOKIES CASE\". A few cookie crumbs are suspiciously scattered across the table’s surface.\n\nThe shot captures the absurdity with total seriousness—framed like a scene from Zodiac or The French Connection, but styled with deadpan fashion precision. Everything is real: props, lighting, textures, clothing, fur detail. High fidelity, 8K clarity, a Vogue-meets-True Detective editorial with a surrealist twist.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/def91762-8c91-4933-b896-64c548790e40/original=true/def91762-8c91-4933-b896-64c548790e40.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "0aefec670298",
-    "content": "masterpiece, best quality, hyper detailed, cinematic composition, (close-up portrait off-shoulde, intense eyes, natural makeup masterpiece, highly detailed, black hair, long hair, parted bangs, small breasts lazypos, masterpiece, best quality, hyper detailed, cinematic composition, one mole near mouth)\nBREAK\nmasterpiece, best quality, very aesthetic, absurdres, newest, depth of field,realistic, goth girl , 1girl, sharp fingernails, red background, profile, nun, jewelry, looking at viewer, from side, simple, parted lips, upper body, cross necklace, long fingernails, red nails, ring, eyeshadow, makeup, multiple rings\nCherry blossoms, petals, looking at viewer, one shoulder exposed, limited palette, pink Theme, foreground, depth of field, Blurred periphery,\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/171e8f94-6f82-4256-9329-3b5a993db08a/original=true/171e8f94-6f82-4256-9329-3b5a993db08a.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "a0d9e0d9b65a",
-    "content": "menchi, dog, solo, animal focus, animal, animal focus, sitting on chair, in tavern, in front of table, drinking a beer, looking depressed <lora:Menchi_-_Excel_Saga (1):1>\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f4d12a18-0659-4b05-8945-3a1ea3e1ab57/original=true/f4d12a18-0659-4b05-8945-3a1ea3e1ab57.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "e703e5a78b78",
-    "content": "redundant dreams, astral, translucent sorceress hidden in billowing silk, reflecting nebula, dreamy, strange double exposure, a mind filled with magic and mystery, swirling smoke, sacred art, delicate filigree, burning inner soul\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/78b9bf67-51bf-4c5d-bf1d-4b6e79d24176/original=true/78b9bf67-51bf-4c5d-bf1d-4b6e79d24176.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "fantasy"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "48afe04dda13",
-    "content": "Ultra-cinematic realistic medieval battlefield standoff, vertical frame: rear view of a lone swordsman in the lower center foreground, standing in muddy churned ground, facing a distant line of mounted cavalry emerging from thick fog. The warrior wears a dark quilted gambeson/coat with subtle leather trim and seams, hair tied back, posture tense; he holds a straight sword low in his right hand, blade angled forward, ready but restrained. Background: a wall of mist and smoke fills most of the upper frame, swallowing the horizon; silhouettes of riders and horses resolve into pale warhorses at the front line, darker riders behind, spears and helmets barely visible through haze. Composition: huge negative space of fog above, subject small against the massed cavalry; strong depth with the cavalry centered across the midline, slightly blurred by distance. Lighting: cold overcast daylight, muted blue-gray palette, soft diffuse highlights on horses, deep shadow pockets in the fog; light volumetric haze, subtle bloom on the brightest mist, fine film grain. Camera/optics: 70–100mm telephoto feel compressing distance, shallow-to-medium DOF with the swordsman crisp and the cavalry slightly softened, background fading into atmospheric fog; HDR realism, 8k detail density, no text, no watermark, no logos.\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bf21fe70-73dd-400b-885d-22c06f8e056b/original=true/bf21fe70-73dd-400b-885d-22c06f8e056b.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
-  },
-  {
-    "id": "7530f473df2b",
-    "content": "<lora:Menchi_-_Excel_Saga (1):1>,  menchi, dog, solo, no humans, sleeping, dog curled up, sleeping on grill, bbq grill, outdoors,backyard\n",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d68d5267-c969-4385-a215-e26dbcf71b1e/original=true/d68d5267-c969-4385-a215-e26dbcf71b1e.jpeg",
-    "tool": "Stable Diffusion",
-    "tags": [
-      "portrait"
-    ],
-    "style": "realistic",
-    "source": "civitai"
   },
   {
     "id": "civitai_20260304_9f24a77f79a2",
@@ -20167,15 +19152,717 @@
     "collected_at": "2026-03-04"
   },
   {
-    "id": "04b85c540920",
-    "prompt": "same but realistic",
+    "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, dated, dark fantasy, 1990s_(style), halftone, cinematic, epic, anime_screencap, wide angle, from side, 1boy, monster, guts_\\(berserk\\), black armor, holding weapon, huge sword, dragonslayer_\\(sword\\), black cape, mid-air, jumping, attacking, embers, giant snake, cobra, cobra hood, black scales, open mouth, gaping maw, (human face inside mouth:1.3), pale skin, looking up, (looking at another), (duel), forked tongue, sharp teeth, eyes inside of mouth, fire burning city, night, red sky, hell, ash, sparks, claws, anime_coloring, reflected light, rim lighting, ink splatter, speed lines, halation, blood rain, burning buildings, black buildings\n\nNegative prompt: worst quality, low quality, normal quality, ugly, multiple_views, 4koma, 2koma, loli, scanlines",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a4f2fe5d-be70-4534-8bf4-c086868ca1e8/original=true/a4f2fe5d-be70-4534-8bf4-c086868ca1e8.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "anime",
+      "fantasy",
+      "architecture",
+      "character",
+      "cinematic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/121048075",
+    "author": "skyger",
     "tool": "Stable Diffusion",
-    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/21041e77-95b9-4826-ab2f-88c723fab8f4/original=true/21041e77-95b9-4826-ab2f-88c723fab8f4.jpeg",
+    "created_at": "2026-02-14",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1003"
+  },
+  {
+    "prompt": "An artist leans into her framed painting, to comb the lustrous long hair of the woman in the painting.\n\nNegative prompt: Poor quality. Low quality.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7cdecd9f-fb9b-4c80-ac2d-de8e3d792430/original=true/7cdecd9f-fb9b-4c80-ac2d-de8e3d792430.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/119968107",
+    "author": "CreativeEdge",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-08",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1004"
+  },
+  {
+    "prompt": "Epic cinematic anime concept art in a dark fantasy illustration style: a colossal cracked stone face embedded in a towering cliff, featuring a massive hyper-detailed eye glowing violet and electric blue with a radiant circular pupil, filling the center of the composition. A lone cloaked swordswoman stands in silhouette before it, katana at his side, while embers drift through a stormy dusk sky and jagged shadows stretch across the landscape. High-contrast lighting, dramatic scale, painterly textures, ultra-detailed digital matte painting with a moody blue \u0013orange color palette.\n\nNegative prompt: fake, ugly, (high cheekbones, prominant cheekbones:1.3),  bad, plastic skin, (painting, bokeh, illusration, drawing,cgi, watercolor, crayon:1.6), , (cartoon eyes,cinematic:1.3), 3d render, body hair,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/139a57ed-f681-4af3-83c7-ac12029721f3/original=true/139a57ed-f681-4af3-83c7-ac12029721f3.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "fantasy",
+      "cinematic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/121356188",
+    "author": "Blikker",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-16",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1005"
+  },
+  {
+    "prompt": "The woman touches her hair, the ocean water is moving, the sun goes down",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5a360e2e-5ee8-4387-9674-fe722c33cae0/original=true/5a360e2e-5ee8-4387-9674-fe722c33cae0.mp4"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/120717551",
+    "author": "Lady_Luminous",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-11",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1006"
+  },
+  {
+    "prompt": "Anime style illustration of cute girl with pink hair and maid outfit looks crazy in burning beach in fantasy world, darkness, night, midnight. glowing purple eyes ⚡ shaped pupils exude ominous love magical aura. ⚡ in eyes. She holds a giant thing looks like ⚡ in hands. Hugging ⚡. High contrast. Yellow lightning energy everywhere. She have surprised expression :o She looking down at lightning ⚡ in her hands.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/efefe6c7-2d50-4ccb-b02f-2776540abe81/original=true/efefe6c7-2d50-4ccb-b02f-2776540abe81.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "anime",
+      "fantasy"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/121208592",
+    "author": "Myth_hh",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-15",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1007"
+  },
+  {
+    "prompt": "Aaron Horkey & Anne Bachelier fusion, \"Ethereal Light Void: The Hidden Realm, \" The delicate woman's silhouette shines like a mirage, her essence revealed through the radiant glow of an ephemeral void in a surreal landscape where lush flora blooms",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8504cc02-8f33-4370-ab36-c705f3c1fe1b/original=true/8504cc02-8f33-4370-ab36-c705f3c1fe1b.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/121068519",
+    "author": "MadderThanCustard",
+    "tool": "Flux",
+    "created_at": "2026-02-14",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1008"
+  },
+  {
+    "prompt": "I want to make an image of Warhammer40K This is a solo image of ‘Ork Nob’ \nIn the center of the image is a towering figure, the ultimate weapon Ork Nob soldier stands. The Ork Nob has a giant throwing a nuke on its hand and holding it over its head ready to throw like an American football. Look at the reference image and mimic the pose.  Follow the reference image angel. I was the image to have colors.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b32b63b1-9a48-4ac7-a1f7-d1b0f33bc374/original=true/b32b63b1-9a48-4ac7-a1f7-d1b0f33bc374.jpeg"
+    ],
     "tags": [
       "general"
     ],
-    "style": "realistic",
-    "source": "civitai",
-    "created_at": "2026-03-04T02:24:50.350277"
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/120749262",
+    "author": "booksung007",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-11",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1009"
+  },
+  {
+    "prompt": "The squirrel is now bald and missing half its fur as if finely shaved - remove the text",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afd5d744-1637-4e3e-bf9f-b427bdafe431/original=true/afd5d744-1637-4e3e-bf9f-b427bdafe431.jpeg"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/120069607",
+    "author": "UnstableGen",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-05",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1010"
+  },
+  {
+    "prompt": "The minion's eye is looking at the green owl - the minion is angry - add blood specks on the bat",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2dc1aa3c-d5a8-4bcd-af2b-197f2aa3ef8d/original=true/2dc1aa3c-d5a8-4bcd-af2b-197f2aa3ef8d.jpeg"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/119725204",
+    "author": "UnstableGen",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-02",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1011"
+  },
+  {
+    "prompt": "crows sitting on a fence and scarecrow\nfield of wheat\n,masterpiece, best quality  <lora:Lineless_Digital_Painting_Style:1>âââ\n\nNegative prompt: bad quality, worst quality, watermark, signature, border, from behind, facing away, (sexy, woman:1.5), hands, human, breastsâââ",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/16d5a199-1cdc-4872-8446-d026b6be61ae/original=true/16d5a199-1cdc-4872-8446-d026b6be61ae.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/105364631",
+    "author": "Underdorks",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-10",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1012"
+  },
+  {
+    "prompt": "Create an image of the following scene: City scene, stairs between cherry blossoms, woman in the middle of the stairs, the maxi dress with its long train is completely made of pink cherry blossoms, long dress, long hair, pink cherry blossom petals, clear sky, exploding, psychedelic, bright colors, bold patterns, surreal, abstract shapes and patterns, lively atmosphere, dreamy, pastel colors, highly detailed beautiful face, iridescent, impasto oil, hyperrealistic, detailed, masterpiece, dynamic spectrum light, saturated, light in contrast<lora:xl_more_art-full_v1:0.5>, masterpiece, award-winning, professional, highly detailed, detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering, detailed skin texture, (blush:0.5), (goosebumps:0.5), Subsurface scattering,romance, whispered, unseen secrets, fantasy, dreamlike, surrealism, sharp focus, rich in detail, dreamy, cinematic, trending on ArtStation, captivating, fantastical, splash art, photorealistic, concept art, sharp focus, harmony, mysterious glow, superb composition, masterpiece, award-winning, ,anime, cyberpunk, DB4RZ, DB4RZ style painting",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0df4c205-0bc2-4fd9-9fa7-0db6a7d759af/original=true/0df4c205-0bc2-4fd9-9fa7-0db6a7d759af.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "anime",
+      "photorealistic",
+      "fantasy",
+      "sci-fi",
+      "character",
+      "cinematic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/120277005",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-02-07",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1013"
+  },
+  {
+    "prompt": "3-panel vertical meme comic in a deliberately bad MS Paint drawing style. Crude linework, uneven proportions, low-effort doodle energy, flat colors, low resolution, intentionally ugly but expressive.\n\nTop panel:\nA badly drawn spider, exaggerated ugly and scary, next to a small cute ferret. The ferret is simple, round, and adorable. Above the ferret is text: “If u cute, human give food.” The spider looks confused, awkward, and slightly horrified.\n\nMiddle panel:\nThe spider alone, staring directly at the viewer, close-up. Face is extremely ugly, distorted, asymmetrical, unsettling. Blank background. Deadpan, serious expression, realizing something.\n\nBottom panel:\nSame spider, now transformed into an absurdly cute, friendly version. Big sparkling eyes, soft rounded shapes, harmless appearance. Still badly drawn, but intentionally cute. Same MS Paint low-effort aesthetic. Clear contrast with the middle panel.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8c1bda8c-7d7e-472d-80bb-a5f69aca842b/original=true/8c1bda8c-7d7e-472d-80bb-a5f69aca842b.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/120344421",
+    "author": "Fujido",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-08",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1014"
+  },
+  {
+    "prompt": "Cinematic slow-motion orbit around a masked ballerina and nobleman embracing in a golden, candlelit studio. Floating dust particles sparkle in warm light. Subtle breathing movements and slight swaying of the couple. Atmospheric depth of field, soft bokeh, high fidelity, magical romantic tone.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fe266d0b-eddb-46b9-8a51-99f6c0ab5131/original=true/fe266d0b-eddb-46b9-8a51-99f6c0ab5131.mp4"
+    ],
+    "tags": [
+      "portrait",
+      "fantasy",
+      "cinematic"
+    ],
+    "style": "cinematic",
+    "source_url": "https://civitai.com/images/120692351",
+    "author": "privatewolf",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-11",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1015"
+  },
+  {
+    "prompt": "The first image is Johnny Bravo wearing a blue space marine suit holding a gun. On the second image is a sister of battle character she has white hair, blue eye, black armor and is holding a large sword. I would like to position these two characters like the third reference image. Both characters are still wearing their respective armor but erase the gun and sword. Focus on the position of the characters. Make Johnny Bravo mimic the male male in the third reference image. Make the sister of battle character mimic the female in the third reference image but have her arms crossed. The image style should resemble the second reference image. Change the background to what seem to fit the scene your call.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/925eb586-ab44-4bb0-8936-e44e775d0761/original=true/925eb586-ab44-4bb0-8936-e44e775d0761.jpeg"
+    ],
+    "tags": [
+      "fantasy",
+      "sci-fi",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/120051094",
+    "author": "booksung007",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-05",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1016"
+  },
+  {
+    "prompt": "Anime style illustration of cute girl with pink hair and maid outfit looks crazy in burning beach in fantasy world, darkness, night, midnight. glowing purple eyes ⚡ shaped pupils exude ominous love magical aura. ⚡ in eyes. She holds a giant thing looks like ⚡ in hands. Hugging ⚡. High contrast. Yellow lightning energy everywhere. She have surprised expression :o She looking down at lightning ⚡ in her hands.\n\nNegative prompt: bad quality,worst quality,worst detail,sketch,censor,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1912dd06-66b1-4972-aeb4-6911229d79f1/original=true/1912dd06-66b1-4972-aeb4-6911229d79f1.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "anime",
+      "fantasy"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/121208590",
+    "author": "Myth_hh",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-15",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1017"
+  },
+  {
+    "prompt": "(EyesHD:1.2), (4k,8k,Ultra HD), masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, cinematic,  beautiful face, beautiful eyes, \nBREAK\nambient occlusion, raytracing, soft lighting, blum effect, masterpiece, absolutely eye-catching, intricate cinematic background, \nBREAK\nmasterpiece, amazing quality, best quality, ultra-detailed, 8K, illustrating, CG, ultra-detailed-eyes, detailed background, cute girl, eyelashes,  cinematic composition, ultra-detailed, high-quality, extremely detailed CG unity, \nAka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, \nBREAK\n(qiandaiyiyu:0.85), (soleil \\(soleilmtfbwy03\\):0.6), (godiva ghoul:0.65), (anniechromes:0.5), \nwhite hair, very long hair, high ponytail, bangs, hair flowing in wind, red hair ribbon, looking away, profile, side view, wearing white traditional clothing, white hanfu, white kimono, wide sleeves, ornate patterns, gold embroidery, large gold earrings, dangling earrings, tassels, holding katana, sword hilt, sword tassel, white background, simple background, painterly, watercolor (medium), sketchy, wash painting, expressive brushstrokes,\nBREAK\n(rella:1.2), (redum4:1.2) (au \\(d elete\\):1.2) (dino \\(dinoartforame\\):1.1),\n\nNegative prompt: negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts, jewelry",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/30f81893-7777-4411-8267-896f19166b04/original=true/30f81893-7777-4411-8267-896f19166b04.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "fantasy",
+      "character",
+      "cinematic"
+    ],
+    "style": "digital-art",
+    "source_url": "https://civitai.com/images/121640476",
+    "author": "BeeZ333",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-19",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1018"
+  },
+  {
+    "prompt": "Ceate an image that shows a young woman sitting on a charming Italian balcony in Positano at sunrise. She wears a casual summer dress, relaxed yet elegant, and reads a book with a cup of coffee beside her. Lush green vines climb over the railing, adding a touch of nature to the cozy atmosphere. The townscape below glows in warm light and soft, dreamy shades of blue during the beautiful sunrise, creating a delightful contrast to the bright interior of the apartment. The atmosphere is intimate, cinematic, and painterly, conveying a sense of peace, relaxation, and quiet contemplation. (Cliffs, coastal town, Italian flair, atmospheric lighting, impressionistic brushstroke style, romantic European ambiance, a masterpiece, award winning, anime, cyberpunk, DB4RZ, DB4RZ style painting",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be984ca1-d2f2-4ef4-a417-73683c5276f7/original=true/be984ca1-d2f2-4ef4-a417-73683c5276f7.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "sci-fi",
+      "architecture",
+      "cinematic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/120745761",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-02-11",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1019"
+  },
+  {
+    "prompt": "Create an image thst shows a cinematic photorealistic anime inspired scene at twilight overlooking a serene harbor in a futuristic cyberpunk city. A black cat with sleek dark fur and a lovely beige puppy sitting side by side upright on a stone ledge in the foreground, viewed from behind and slightly from the side, tail resting calmly, gazing across shimmering moonlit water. Neon reflections ripple across the river as boats drift silently below. The skyline blends high tech skyscrapers with East Asian architecture, pagodas and bridges outlined by soft pink and cyan city lights. Cherry blossom branches frame the scene, petals drifting through still air. A full moon hangs low in a clear night sky, casting gentle silver light that mixes with neon glow. Wide shot, shallow depth of field, smooth edges, refined detail, tranquil and contemplative mood, soft atmospheric haze, high realism with subtle retro anime influence,y award winning, a masterpiece, CAICO",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dfea5041-dfe4-4d10-a3c0-c698b30e569a/original=true/dfea5041-dfe4-4d10-a3c0-c698b30e569a.jpeg"
+    ],
+    "tags": [
+      "anime",
+      "photorealistic",
+      "sci-fi",
+      "architecture",
+      "cinematic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/120825654",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-02-12",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1020"
+  },
+  {
+    "prompt": "add a couple of frying sausages and a few cherry tomatoes and remove the yellow filter",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/17a4492c-7339-4c6e-94a9-ba78193e3959/original=true/17a4492c-7339-4c6e-94a9-ba78193e3959.jpeg"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/121095066",
+    "author": "UnstableGen",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-14",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1021"
+  },
+  {
+    "prompt": "One-eyed minion holding a fire extinguisher standing next to a flame atronach looking nervous - semi-realistic",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f53c2000-0178-4df5-8bd6-c860414741cc/original=true/f53c2000-0178-4df5-8bd6-c860414741cc.jpeg"
+    ],
+    "tags": [
+      "photorealistic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/120069392",
+    "author": "UnstableGen",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-05",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1022"
+  },
+  {
+    "prompt": "Create a surreal, cinematic photograph shows a tranquil river flowing out of an oil painting mounted on a living room wall. The painting depicts a calm river winding between distant mountains, its surface smooth and reflective. From the canvas, the river breaks free, spilling naturally into the room, cascading over the edge of a sofa and spreading across the polished wooden floor. A small detailed ship gently bobs on the water as it drifts from the painted landscape into the living space, blurring the boundary between art and reality. The living room is warmly lit and carefully styled with tasteful furniture, creating an inviting contrast to the impossible scene. Reflections shimmer on the wood, and soft cinematic lighting enhances depth and realism. The overall composition feels like a high-end photo poster dreamlike, imaginative, and visually striking, with a seamless fusion of painted art and physical space.Mythport, anime art, water is running out of the frame, award winning, a masterpiece,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/caec012c-692b-4ad5-9d8d-bc1218a1cb6d/original=true/caec012c-692b-4ad5-9d8d-bc1218a1cb6d.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photorealistic",
+      "sci-fi",
+      "architecture",
+      "cinematic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/120261920",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-02-07",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1023"
+  },
+  {
+    "prompt": "(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy,absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION,\n1girl, thick, curvy, large breasts,\nRed hair, hair swept to the side, hair over one ear, hair over one eye, asymmetrical hair, asymmetrical bangs, \nHair strands, \nLower stomach exposed, lower belly exposed,\nPiercings, many ear piercings, \nEye shadow, eye liner,\nBeautiful eyes,\nBlack t shirt, blue skull on shirt, \nBlack shirt, blue accents, \nLooking at viewer, happy, smirk, freckles, blush,\n\nNegative prompt: lowres, worst quality, low quality, bad quality, simple background,\nsignature, multiple views, 2koma, 4koma,\nfurry, anthro, bkub, \nchibi,loli,child, bad anatomy, missing leg, missing limb, twins, identical twins, solid eyes,\nmerged, merged limbs, exposed ass, exposed butt,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/298bce0f-f60a-4067-8876-99326851e361/original=true/298bce0f-f60a-4067-8876-99326851e361.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photorealistic",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/121737576",
+    "author": "Wadufuk1",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-20",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1024"
+  },
+  {
+    "prompt": "Create an image thst showsa city on the water beautiful landscape, sunset, woman, very intricate, very detailed, sharp, bright, colorful,pagoda,  chochin lanterns , golden hour, very award winning, a masterpiece, CAICO",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/95299c56-3893-4103-bea2-91336177299a/original=true/95299c56-3893-4103-bea2-91336177299a.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/120986928",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-02-13",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1025"
+  },
+  {
+    "prompt": "masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,\nAka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,\n1girl, solo, long hair, white hair, silver hair, white dress, long-sleeved dress, sitting at counter, bar, sitting on stool, side view, profile, hand on chin, chin rest, holding glass, wine glass, champagne glass, looking away, pensive, melancholic, dark, night, low-key lighting, rim lighting, cinematic lighting, bokeh, dark blue theme, aesthetic, moody\n(rella:1.2), (redum4:1.2) (au \\(d elete\\):1.2) (dino \\(dinoartforame\\):1.1), wlop,\n\nNegative prompt: bad quality, worst quality, worst detail, sketch, censor, signature, watermark, text,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8b48a189-0b43-4e58-bcfa-8d745edf1bd4/original=true/8b48a189-0b43-4e58-bcfa-8d745edf1bd4.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "cinematic"
+    ],
+    "style": "digital-art",
+    "source_url": "https://civitai.com/images/121861601",
+    "author": "BeeZ333",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-22",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1026"
+  },
+  {
+    "prompt": "Create a special ink drawing mode, intricate linework with expressive contrasts, inksplash art on rice paper, sepia, henna, silhouette art, magnificent, inksplash image of group of birds with red beak and black and white plumage flying towards the sunset, calm lake, reflection, calm lake, dreamlike landscape, mountains, trees, The artwork is rendered in a clean, modern style that emphasizes precise linework, vivid colors, and a touch of anime inspiration. The image creates a mysterious, captivating atmosphere., perfect composition, haze, low angle, shadow plants, vivid colors, best quality, realistic, fantastical, splash art, hyper-detailed, maximalist style, photorealistic, concept art, sharp focus, harmony, ambient occlusion, halo, dynamic lighting, a masterpiece, award-winning, DB4RZ, DB4RZ style painting, NeoPigma, in the style of cksc, anime, cyberpunk",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/66c64c8b-965b-4ca9-9e54-bd7f2e99b37c/original=true/66c64c8b-965b-4ca9-9e54-bd7f2e99b37c.jpeg"
+    ],
+    "tags": [
+      "landscape",
+      "anime",
+      "photorealistic",
+      "sci-fi",
+      "character"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/120426872",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-02-08",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1027"
+  },
+  {
+    "prompt": "masterpiece, best quality, very aesthetic, CivitAI BatouLaMenace, (flat color:1.5), (no lineart:1.5), (semi-realistic:2), (artist:Incase:0), (artist:Tsuaii:0),\n\nfarmer, solo, rear view, walking through rice field, traditional conical hats, straw hats, loose rural clothing, long sleeves, dark green garments, waist sashes,\n\nvast rice field, tall green and golden rice plants, narrow water path between crops, white wildflowers in foreground, lush vegetation,\n\nwide valley landscape, layered mountains, steep green hills, distant mountain range, expansive countryside,\n\nsun low in sky, glowing sun, bright yellow sky, green tinted atmosphere, soft clouds, large fluffy clouds, sun rays across valley, birds flying in sky,\n\nserene rural life, peaceful atmosphere, harmony with nature, calm mood, pastoral scenery,\n\nvibrant green color palette, rich saturation, soft gradient lighting, cinematic wide shot, atmospheric perspective, depth haze, detailed foliage, intricate grass textures, sharp focus, high contrast, balanced composition, ultra detailed environment\n\nNegative prompt: bad quality, worst quality, worst detail, sketch, censor, signature, watermark, text,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e246e004-de9a-496f-8387-b63b96ff5d2f/original=true/e246e004-de9a-496f-8387-b63b96ff5d2f.jpeg"
+    ],
+    "tags": [
+      "landscape",
+      "photorealistic",
+      "character",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/121449468",
+    "author": "BatouLaMenace",
+    "tool": "SDXL",
+    "created_at": "2026-02-17",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1028"
+  },
+  {
+    "prompt": "Create an image of the pitoresque and famous village Capri in Italy, 60`s,, swimming pools, red and white striped umbrellas, view from above, ships off the coast, surrounded by turquoise clear water. The art style is highly detailed and painterly, take care of the right dimensions, emphasizing the interplay of light, water, and texture to evoke a sense of serenity and timeless beauty, best quality, realistic, captivating, intricately detailed, hyper detailed, maximalist style, fantastic, splash art, intricate detailed, concept art, bright colors, clear turquoise water , colorful, superb composition, sharp focus, high contrast, stylized, clear, colorful, masterpiece  award winning, CAICO",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ca1808c4-1ec7-4e55-83a7-4b53e6acd891/original=true/ca1808c4-1ec7-4e55-83a7-4b53e6acd891.jpeg"
+    ],
+    "tags": [
+      "photorealistic",
+      "character"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/120251993",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-02-07",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1029"
+  },
+  {
+    "prompt": "digitally created artwork, surreal fantasy scene, central figure standing in narrow wooden boat facing away, wearing long flowing dark coat (weighted), wide-brimmed hat obscuring face, boat positioned lower third of frame, floating on mirror-calm waters reflecting vibrant sky, fantastical landscape dominated by swirling spiral patterns in fiery reds, burnt oranges, golden yellows (weighted), deep browns creating dynamic motion, two slender minarets with intricate carvings mid-ground, cluster of buildings with terracotta roofs and whitewashed walls suggesting Islamic architecture, massive golden-yellow orb sun centered upper frame emitting warm glow, dark indigo sky creating stark contrast, highly detailed painterly style blending surrealism and fantasy, intricate patterns reminiscent of arabesque designs, signature \"Sergei Stolyarov\" bottom right corner, cinematic wide-angle perspective with slight fish-eye distortion emphasizing spirals",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/02ee1d9b-8fff-471c-9db6-861fccaf07ea/original=true/02ee1d9b-8fff-471c-9db6-861fccaf07ea.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "fantasy",
+      "architecture",
+      "cinematic"
+    ],
+    "style": "cinematic",
+    "source_url": "https://civitai.com/images/121853022",
+    "author": "angelomaiota",
+    "tool": "SDXL",
+    "created_at": "2026-02-21",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1030"
+  },
+  {
+    "prompt": "masterpiece, best quality, very aesthetic,\nanime coloring, delicate, dreamy,  cinematic lighting, volumetric lighting, natural shadows, soft and gentle colors, soft pastel colors, soft shading, detailed textures, dappled sunlight,\n1 girl, solo, depth of field, large breast, dynamic pose, cinematic angle,\nZhiliuDNA, Zhl_Def, brown hair, orange eyes, low ponytail, very long hair, black horns, horns, horn ornament, braided bun, double bun, donut hair bun, short dress, black dress, black stole, stole, white bustier, bustier, cleavage cutout, black shrug, shrug (clothing), collared shrug, black coat, coat on shoulders, striped sleeves, black sleeves, sleeves past elbows, white sleeve cuffs, brown arm warmers, arm warmers, single wrist guard, black wrist guards, multiple rings, gold ring, chest tattoo, yellow trim, yellow tassel, jewelry, coin earrings, earrings, braid, coin hair ornament, brown pantyhose, print pantyhose, pantyhose, multiple thigh straps, black thigh strap, thighlet, holed coin, clothing cutout, underbust, orange rope, \nBREAK\nlooking at object, looking at lantern, holding lantern, arched back, sitting, from behind, from below, koi, flying fish, smile, happy, closed mouth, upperbody, one hand up, looking up,\n(rella:0.8), (redum4:0.8) (au \\(d elete\\):0.8) (dino \\(dinoartforame\\):1.1), (wlop:0.4),epic,\n\nNegative prompt: lazyneg, (realistic, photorealistic) ,(worst quality, bad quality:1.2), lipstick, 3d lips, lowres,low quality,bad_quality,anatomical nonsense,interlocked fingers,extra fingers,watermark,transparent,logo,text,signature,jpeg artifacts,username,censored,extra digit,ugly,bad_hands,bad_feet,bad_anatomy,deformed anatomy,bad proportions,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08511fe7-3f39-40c0-b94a-2a1f8efb4a03/original=true/08511fe7-3f39-40c0-b94a-2a1f8efb4a03.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photorealistic",
+      "character",
+      "cinematic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/121613027",
+    "author": "Heibei",
+    "tool": "SDXL",
+    "created_at": "2026-02-19",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1031"
+  },
+  {
+    "prompt": "Change Font to look more Japanese for both the top \"Are you from Japan? Cause I'm trying to get in...\". Change the bottom wording of \"Japanties\" to a Japanese font and change the color to red.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d4dc2b36-dd0d-43b2-aafa-f37f3d29e040/original=true/d4dc2b36-dd0d-43b2-aafa-f37f3d29e040.jpeg"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/120280525",
+    "author": "Eva4321",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-08",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1032"
+  },
+  {
+    "prompt": "Create a photorealistic close up imageof a breathtaking beautiful Panther Red-eyed tree frog with illuminating skin,on a wet stone, in the jungle, riverside,vibrant colors, highly detailed, aesthetic, great lighting, extremely detailed,   perfect composition, a vibrant tissue of hues and textures captured digitally, best quality, realistic, captivating, intricately detailed, hyper detailed, maximalist style, dynamic lighting, superb composition, finest details, highest aesthetics, best quality, sharp focus, high contrast, stylized, clear, colorful, ultra quality, whimsical, fantastic, splash art, intricate detailed, hyperdetailed, maximalist style, hyper detailed, maximalist style,  concept art, sharp focus, harmony, serenity, calm, mysterious glow, dynamic lighting, superb composition, sharp focus, high contrast, stylized, clear, colorful, ultra quality,  best quality, DB4RZ, DB4RZ style painting, NeoPigma, in the style of cksc, anime, cyberpunk, a masterpiece, award winning,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5123418b-d70b-4326-985d-205c98ab270e/original=true/5123418b-d70b-4326-985d-205c98ab270e.jpeg"
+    ],
+    "tags": [
+      "anime",
+      "photorealistic",
+      "sci-fi",
+      "character"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/120864316",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-02-12",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1033"
+  },
+  {
+    "prompt": "mysterious silhouette of a a Japanese shrine maiden, riding a horse, the horse is beautiful, full of energy with a long maine, filled with an asian landsape,  highest definition, HD32K, wallpaper, amazing depth, double exposure, surreal, intricately detailed, perfect balanced, deep fine borders, artistic photorealism, highly detailed, masterpiece, award winning, double exposure, Retro anime aesthetic, award winning, a masterpiece, CAICO",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9c250c90-c94d-4934-83e1-307169021659/original=true/9c250c90-c94d-4934-83e1-307169021659.jpeg"
+    ],
+    "tags": [
+      "anime",
+      "photorealistic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/121425599",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-02-17",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1034"
+  },
+  {
+    "prompt": "Create an side View image of a woman with long blond wavy hair,  dressed like a gardener. She wears a straw hat, green rubber boots, a green apron and carries a wicker basket full of flowers under one arm. The young woman bends forward to pick another flower on a little path in a huge Field of multicolored flowers. The wide Angeled view of the flower Field shows amazing colorful and Beautiful flowers with Focus on light yellow, Lilac, apricot and white flowers, highly detailed artwork,very detailed,Intricate, detailed illustration, iridescent accents, smooth, impressionist brushstrokes, art from a distance, wide angled, a light veil lies over the picture, a rich and complex image of nature, a vibrant web of digitally captured tones and textures, best quality, double exposure, realistic, captivating, fantastical, splash art, intricately detailed, hyper detailed, maximalist style, photorealistic, concept art, sharp focus, harmony, serenity, calm, mysterious glow, dynamic lighting, masterpiece, superb composition, finest details, highest aesthetic, mystical glow, best quality, sharp focus, high contrast, stylized, clear, colorful, ultra quality, 8k, best quality, masterpiece, award winning, a breathtaking masterpiece, award winning, DB4RZ, DB4RZ style painting, NeoPigma, in the style of cksc, anime, cyberpunk, impressionist brushstrokes, art nouveau.  dreamlike, dynamic, inspired by Eric Canete, Alan Lee and Todd McFarlane, a masterpiece, award winning",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/378bc70e-1eaa-4e3f-b3f9-9825348051ca/original=true/378bc70e-1eaa-4e3f-b3f9-9825348051ca.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photorealistic",
+      "sci-fi",
+      "character"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/120251563",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-02-07",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1035"
+  },
+  {
+    "prompt": "Draw me a realistic picture of an army of cats in lord of the rings orc Urukai armor standing outside a field of battle with long orc pikes. Full urukai helmet covering most of their faces. They have angry expressions on their faces. There is a large white paw print across their helmets. They are waiting in the rain on a stormy night. lightning illuminating the background. focus on cats",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bcc83ac6-2e5b-4d55-8532-8069e70220bc/original=true/bcc83ac6-2e5b-4d55-8532-8069e70220bc.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic",
+      "character"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/120111951",
+    "author": "Eva4321",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-06",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1036"
+  },
+  {
+    "prompt": "linquivera,  Ink illustration, brown tones, aged black bright multicolored paper, inkpunk, breathtaking beauty of Bali, scenic bali landscape, sunrise landscape, an amazing temple at distance on a moozntain in the jungle, perfect composition, ((soft pastell colors)), shadow Palms, water,best quality, whimsical, fantastic, splash art, intricate detailed, hyperdetailed, maximalist style, concept art, sharp focus, harmony, serenity, tranquility, ambient occlusion, halation, cozy ambient lighting,bright vivid colors, surreal, lonely, solitude, windy, tall trees, OverallDetail, extremely detailed, UHD,(long exposure , dystopian but extremely beautiful,best quality, award winning, a masterpiece, Special Ink-drawing mode, animeniji, Mh1$AgThS2, 2D flat anime, cartoon-style, intricate linework with expressive contrasts, soft lighting with dynamic highlights, a masterpiece, award winning, CAICO",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c1e47edc-bcdc-4412-a375-43ffef898086/original=true/c1e47edc-bcdc-4412-a375-43ffef898086.jpeg"
+    ],
+    "tags": [
+      "landscape",
+      "anime",
+      "character"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/121101631",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-02-14",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1037"
+  },
+  {
+    "prompt": "a photorealistic depiction of squirrel with a scene girl/emo hairstyle - close up - eyes hidden behind hair - bushy tail - emo squirrel - zoom out a little - make it look more like a squirrel - attached image is just a reference",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/55eafaec-6904-4ea9-8fdc-d18c2f2625e0/original=true/55eafaec-6904-4ea9-8fdc-d18c2f2625e0.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/121095112",
+    "author": "UnstableGen",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-02-14",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1038"
+  },
+  {
+    "prompt": "inquivera,  Ink illustration, (anime:0.5), brown tones, aged black and bright green paper, different shades of green tones, inkpunk, moonlight,surreal,a landscape somewhere in vietnam, a group of women with traditional hats from behind, working on rice field, mountains, rice field, rainy ((at a distance)), Will-o'-the-wisp,red moonlit, solitude, windy,  OverallDetail, extremely detailed, UHD,(long exposure , dystopian but extremely beautiful:1.4) ,masterpiece, award winning,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0c8bd78b-5935-430a-b156-9975bac48838/original=true/0c8bd78b-5935-430a-b156-9975bac48838.jpeg"
+    ],
+    "tags": [
+      "landscape",
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/121427541",
+    "author": "Lady_Luminous",
+    "tool": "SDXL",
+    "created_at": "2026-02-17",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1039"
+  },
+  {
+    "prompt": "DiscoBallStyle masterpiece, high_quality, highres, flat_colors, gradient, (holding sign, need buzz), looking at viewer,\nlong_lashes, blush, dynamic_angle, DiscoBallStyle neon glowing uniform, full length suit, tron, cinematic,  civbot, in space, sitting on ral-vltne, city street, ethereal_aura, big_eyes, pastel_mint, ral-vltne glowing, pastel_pink, pastel_yellow, dutch angle, cute, annoyed,  (twin pigtails, messy hair), ((realistic)) DiscoBallStyle theme\n\nNegative prompt: worst_quality, bad_quality, poorly_detailed, young,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ab63493f-fa38-4893-ba1a-2ae40929b255/original=true/ab63493f-fa38-4893-ba1a-2ae40929b255.jpeg"
+    ],
+    "tags": [
+      "photorealistic",
+      "sci-fi",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/121137316",
+    "author": "clownsarecool",
+    "tool": "SDXL",
+    "created_at": "2026-02-15",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1040"
+  },
+  {
+    "prompt": "Create a photorealistic poster style ink art with a magnificent double exposure silhouette composition, front facing silhouette of a Native American woman wearing a traditional buckskin dress, a single eagle feather tied into her hair, strong calm presence and symmetrical framing, deep ink black silhouette edges with subtle textured bleed, the lower portion of her silhouette filled with a realistic white wolf howling upward, the wolf image fully contained within her form and blended seamlessly through double exposure technique, high contrast lighting emphasizing the silhouette shape, soft mist and grain within the interior image for depth, minimalist background with subtle paper texture, cinematic fine art aesthetic, powerful spiritual symbolism, elegant silhouette art with photorealistic detail inside the form, dramatic and timeless mood, balanced composition suitable for a gallery poster, a masterpiece, award winning, CAICO, double expousure",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c15026f9-1941-4e3f-bd1a-cfc7770cd2ee/original=true/c15026f9-1941-4e3f-bd1a-cfc7770cd2ee.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic",
+      "architecture",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/120708256",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-02-11",
+    "collected_at": "2026-03-04T02:27:59",
+    "id": "20260304_civ_1041"
   }
 ]
