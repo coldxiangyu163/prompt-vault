@@ -1,8 +1,9 @@
 {
-  "total": 1362,
-  "last_update": "2026-03-04T02:52:22.266547",
+  "total": 1508,
+  "last_update": "2026-03-04T03:22:14",
   "sources": {
-    "civitai": 52,
-    "prompthero": 54
-  }
+    "civitai": 150,
+    "prompthero": 0
+  },
+  "note": "Civitai 100% duplicate, PromptHero skipped in standalone mode"
 }
