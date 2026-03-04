@@ -65,17 +65,25 @@ let isLoading = false;
 let currentModalIndex = -1; // Track current modal prompt index
 
 // ===== Init =====
-document.addEventListener('DOMContentLoaded', async () => {
+async function init() {
     await loadPrompts();
     bindEvents();
-});
+}
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+} else {
+    init();
+}
 
 // ===== Load Data =====
 async function loadPrompts() {
     const spinner = document.getElementById('loadingSpinner');
     try {
         const res = await fetch('data/prompts.json');
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
         allPrompts = await res.json();
+        console.log('✅ Loaded prompts:', allPrompts.length);
         document.getElementById('totalCount').textContent = allPrompts.length;
         buildDynamicTags();
         updateToolTagCounts();
@@ -84,7 +92,14 @@ async function loadPrompts() {
         // Check deep link
         handleDeepLink();
     } catch (e) {
-        console.error('Failed to load prompts:', e);
+        console.error('❌ Failed to load prompts:', e);
+        // Retry after 5 seconds if data is empty
+        setTimeout(() => {
+            if (!allPrompts || allPrompts.length === 0) {
+                console.log('🔄 Retrying loadPrompts...');
+                loadPrompts();
+            }
+        }, 5000);
     } finally {
         if (spinner) spinner.style.display = 'none';
     }
