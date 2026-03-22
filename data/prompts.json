@@ -80621,5 +80621,49 @@
     "created_at": "2026-03-18",
     "collected_at": "2026-03-22T01:00:50.341369",
     "source": "Civitai"
+  },
+  {
+    "prompt": "ethereal fantasy concept art of  A whimsical soft digital painting, masterpiece, high quality, innocent.\nA telephoto compression shot making distant mountains appear massive, revealing a lush emerald-green valley cut through by a winding silver river surrounded by rolling hills, with giant ancient oak trees that have stood for a thousand years, dominated by a massive wall that once divided the land now breached and crumbling, during a solar eclipse with a ring of fire in the sky and strange shadows. Painted in Scientific botanical illustration style expanded to landscape. cyanotype blue print style monochromatic blue tones..\ncolor theme tangerine and sky blue. winter. twightlight. wind.\nMasterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic.\noil painting, in the style of Rembrandt,\n<lora:style_of_Rembrandt_FLUX_135:0.8>,\n<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,\n<lora:age_v1:-1>,\n<lora:113_novuschromaFLX_1:0.2> novuschroma,\n<lora:softwhim:1> whimsical,\n<lora:FS_v3:0.4> FS,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style from Renaissance period, masterful composition, Renaissance mood, renaissance oil painting, brush strokes . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy\n\nNegative prompt: painting, drawing, signature, watermark, ugly, off-center, deformed, cropped, frame, worst quality, low quality, lowres, JPEG artifacts, painting frame, signature, watermark, photo, photorealistic, realism, ugly, off-center, deformed, 35mm film, dslr, cropped, frame, worst quality, low quality, lowres, JPEG artifacts, photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1dd4b2ed-0fd3-4de5-8e3f-41b861567e17/original=true/1dd4b2ed-0fd3-4de5-8e3f-41b861567e17.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photorealistic",
+      "fantasy",
+      "character",
+      "cinematic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/121783493",
+    "author": "Omega_Xlll",
+    "tool": "Flux",
+    "created_at": "2026-02-21",
+    "collected_at": "2026-03-23T01:01:24",
+    "id": "20260323_civ_1772540781403"
+  },
+  {
+    "prompt": "ethereal fantasy concept art of  A whimsical soft digital painting, masterpiece, high quality, innocent.\nAn aerial drone-like perspective soaring high above the canopy or peaks, of a scorching endless desert with rolling golden sand dunes heat haze distorting the horizon and dry cracked earth in the foreground, desolate and empty evoking a sense of ancient solitude and melancholy, under a dramatic bruising storm sky with heavy dark clouds and distant lightning illuminating the peaks. Painted in Impressionist landscape style by Claude Monet focusing on the changing light and color rather than detail. tilt-shift photography effect making the scene look like a miniature model shallow depth of field..\ncolor theme light peach and sandstone. winter. dusk. night, (aurora:1.1).\nMasterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic.\noil painting, in the style of Rembrandt,\n<lora:style_of_Rembrandt_FLUX_135:0.8>,\n<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,\n<lora:age_v1:-1>,\n<lora:113_novuschromaFLX_1:0.2> novuschroma,\n<lora:softwhim:1> whimsical,\n<lora:FS_v3:0.4> FS,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy\n\nNegative prompt: painting, drawing, signature, watermark, ugly, off-center, deformed, cropped, frame, worst quality, low quality, lowres, JPEG artifacts, photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b302fb8d-e4de-4acf-863b-777daa90077d/original=true/b302fb8d-e4de-4acf-863b-777daa90077d.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photorealistic",
+      "fantasy",
+      "character",
+      "cinematic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/121783282",
+    "author": "Omega_Xlll",
+    "tool": "Flux",
+    "created_at": "2026-02-20",
+    "collected_at": "2026-03-23T01:01:24",
+    "id": "20260323_civ_1772540781404"
   }
 ]
