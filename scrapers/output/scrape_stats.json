@@ -1,9 +1,12 @@
 {
-  "timestamp": "2026-03-04T02:27:59",
-  "new_prompts": 39,
-  "total_prompts": 1161,
+  "timestamp": "2026-03-24T17:04:07",
+  "before": 4255,
+  "after": 4285,
+  "new_prompts": 30,
   "sources": {
-    "civitai": 39,
-    "prompthero": 0
-  }
+    "civitai": 13,
+    "prompthero": 17
+  },
+  "fixed_ids": 0,
+  "removed_existing_duplicates": 323
 }
