@@ -74882,5 +74882,505 @@
     "collected_at": "2026-03-24T17:04:07",
     "source": "prompthero",
     "id": "20260324_phr_1772540781434"
+  },
+  {
+    "id": "civitai_1774372242091_nnfu",
+    "prompt": "score_9, score_8_up, score_7_up,  san, 1girl, full body, squatting, solo, short hair, brown hair, gray eyes, headband, face paint, earrings, white sleeveless top, navy under dress, arm cuffs, fur headdress, fur cape, light-skinned female, female focus, looking at viewer, smiling, forest, (blush:1.1)  <lora:pony/twilight_style:0.8> concept art, realistic, <lora:pony/expressiveh:0.8> expressiveh, <lora:pony/kenva:0.8> knva, <lora:pony/san_pony_v4> <lora:sdxl/sinfully_stylish_sdxl>\n\nNegative prompt: score_6, score_5, score_4",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/936f0e8d-c76f-4aa7-8b5c-37349f9b7da7/original=true/936f0e8d-c76f-4aa7-8b5c-37349f9b7da7.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "photorealistic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/12097475",
+    "author": "Stellaaa",
+    "tool": "Pony",
+    "created_at": "2024-05-10",
+    "collected_at": "2026-03-24T17:10:42.091Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242092_rh49",
+    "prompt": "very dark focused flash photo, amazing quality, masterpiece, best quality, hyper detailed, ultra detailed, UHD, perfect anatomy, portrait, dof, hyper-realism, majestic, awesome, inspiring,Capture the thrilling showdown between the ancient mummy and the colossal sand boss in an epic battle amidst swirling dust and desert sands. Embrace the action and chaos as these formidable forces clash in the heart of the dunes. cinematic composition, soft shadows, national geographic style\n\nNegative prompt: easynegative, bad proportions, low resolution, bad, ugly, terrible, painting, 3d, render, comic, anime, manga, unrealistic, flat, watermark, signature, worst quality, low quality, normal quality, lowres, simple background, inaccurate limb, extra fingers, fewer fingers, missing fingers, extra arms, (extra legs:1.3), inaccurate eyes, bad composition, bad anatomy, error, extra digit, fewer digits, cropped, low res, worst quality, low quality, normal quality, jpeg artifacts, extra digit, fewer digits, trademark, watermark, artist's name, username, signature, text, words, human,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dd00de1d-ec6a-4848-bc8c-01d7a8437a5d/original=true/dd00de1d-ec6a-4848-bc8c-01d7a8437a5d.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photorealistic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/11871535",
+    "author": "saper7474377",
+    "tool": "SDXL",
+    "created_at": "2024-05-08",
+    "collected_at": "2026-03-24T17:10:42.092Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242092_kdtv",
+    "prompt": "score_9, score_8_up, score_7_up, BREAK,\n1girl, portrait, beautiful, tiefling shaman, white hair, (long hair:1.3), side bangs, horns, barbarian, gladiator, war paint, tribal markings, long tail, blue skin, pink eyes, glowing eyes, (smug:0.85), (big breast:1.25), dramatic lights\n<lora:Fant5yP0ny:0.6> <lora:fantasy_world_pony:0.9> <lora:Cherry-Gig:0.55>\n\nNegative prompt: score_6, score_5, score_4, censored, furry, child, kid, chibi, 3d, aidxlv05_neg, signature, watermark, subtitles",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/81f8e626-a822-4815-b8be-361ff65b0d88/original=true/81f8e626-a822-4815-b8be-361ff65b0d88.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "fantasy"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/16382509",
+    "author": "PaperbackLion",
+    "tool": "Pony",
+    "created_at": "2024-06-19",
+    "collected_at": "2026-03-24T17:10:42.092Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242092_m3ej",
+    "prompt": "linquivera,  Ink illustration, (anime:0.5), brown tones, aged black red paper, inkpunk, moonlight,surreal, a ghost standing on a boat in swampy wetlands, (at a distance), Will-o'-the-wisp, moonlit, lonely, solitude, windy, tall trees, willows, willowy,  OverallDetail, extremely detailed, UHD,(long exposure , dystopian but extremely beautiful:1.4),<lora:- SDXL - letitflrsh_let_it_flourish_V1.0:0.8> ,<lora:Cute_Collectible:1>, <lora:XL_boss_battle:0.6>  <lora:add-detail-xl:1>,  <lora:Concept Art Twilight Style SDXL_LoRA_Pony Diffusion V6 XL:1>,  <lora:MJ52:1>\n\nNegative prompt: (worst quality, low quality, illustration, 3d, 2d, painting, cartoons, sketch), open mouth",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/402ed7f8-ba25-421d-a68a-b11ae31af91f/original=true/402ed7f8-ba25-421d-a68a-b11ae31af91f.jpeg"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/10703900",
+    "author": "Rohanda",
+    "tool": "SDXL",
+    "created_at": "2024-04-25",
+    "collected_at": "2026-03-24T17:10:42.092Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242092_ycac",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, beautiful, white hair, long hair, bangs, fair skin, big breasts, leather armor, sword, forest, dappled sunlight, upper body, looking at viewer\n\nNegative prompt: score_4, score_3, score_2, score_1, SDXL_general_unaestheticXL_Alb2, SDXL_semireal_unaestheticXL2v10",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c53c6b0f-ab0f-4970-8911-b9bfd66e6f21/original=true/c53c6b0f-ab0f-4970-8911-b9bfd66e6f21.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "fantasy"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/14971955",
+    "author": "Imperativ",
+    "tool": "Pony",
+    "created_at": "2024-06-07",
+    "collected_at": "2026-03-24T17:10:42.092Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242092_wn28",
+    "prompt": "<lora:GEN 0.1v:0.8>,<lora:Expressive_H-000001>,<lora:modern_anime_screencap_v1_0:0.8>,source_anime,score_9,score_8_up,score_7_up,score_6_up,dark background,low light,\n1girl,solo,<lora:age_slider_v4:1.2>,adult,tall female,black hair,medium hair,bangs,full bangs,straight hair,red eyes,pale skin,skindentation,petite,toned,(thick thighs:0.6),medium breasts,(angry:0.6),(half-closed eyes:0.8),fighting stance,holding katana,stance,black baggy pants,white top,high collar,one eye closed,crouch,glowing eyes,belt,harness,looking at viewer,flaming eye,black background,\n\nNegative prompt: unaestheticXL_Alb2,score_4,score_3,score_2,score_1,source_cartoon,source_pony,source_furry,worst quality,low quality,normal quality,ugly,bad hand,bad feet,bad anatomy,multiple views,text,watermark,signature,monochrome,3d,\nunnatural face,unnatural body,long neck,spiral eyes,(thick lips:1.2),loli,child,teen,tall female,messy hair,ponytail,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bc6700f4-7fd3-4fc8-84ce-dcb154161850/original=true/bc6700f4-7fd3-4fc8-84ce-dcb154161850.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/24294279",
+    "author": "Tommu",
+    "tool": "Stable Diffusion",
+    "created_at": "2024-08-14",
+    "collected_at": "2026-03-24T17:10:42.092Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242092_dhf0",
+    "prompt": "realistic, solo, cat, cute, sleeping, light_particles, nature, mountain, depth of field, the best quality, amazing quality, high quality, masterpiece,\n\nNegative prompt: bad quality,worst quality,worst detail,sketch,censor,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afcab5fa-e580-489a-9ea8-bca23534be08/original=true/afcab5fa-e580-489a-9ea8-bca23534be08.jpeg"
+    ],
+    "tags": [
+      "landscape",
+      "photorealistic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/60206877",
+    "author": "Asto556",
+    "tool": "Illustrious",
+    "created_at": "2025-02-26",
+    "collected_at": "2026-03-24T17:10:42.092Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242092_fbbq",
+    "prompt": "(1girl, solo, masterpiece, 8k, HDR,), ginger girl, \ncharacter concept art of a beautiful woman leaning over, red sweater falling off her shoulder, cleavage, extremely sexy, seductive, long hair, luscious lips, comic book art, rough colored sketch, \n(small breasts, big hips, looking at the viewer),\n(simple background, white background)\n\nNegative prompt: watermark, ugly, mutation, lowres, low quality, extra limbs, text, signature, artist name, bad anatomy, poorly drawn, malformed, deformed, blurry, out of focus, noise, dust",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ab2daea7-2269-436b-acad-e6c73ee8af83/original=true/ab2daea7-2269-436b-acad-e6c73ee8af83.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/9078035",
+    "author": "AkiAICreator",
+    "tool": "SDXL",
+    "created_at": "2024-04-03",
+    "collected_at": "2026-03-24T17:10:42.092Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_tffi",
+    "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up,   <lora:r3dgl0wXLP:0.7> r3dgl0w, red eyes, red background, 1girl, dark, horns\n\nNegative prompt: 3d,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/00cb6f22-bd07-47d5-bd0d-e399aff68ade/original=true/00cb6f22-bd07-47d5-bd0d-e399aff68ade.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/9550394",
+    "author": "freckledvixon",
+    "tool": "Pony",
+    "created_at": "2024-04-10",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_auy2",
+    "prompt": "detailed background,( Calm spring night landscape), amongst lush greenery, beautiful view, creeping phlox in full bloom, creeping phlox, early morning, sunrise sky, beautiful clouds, dappled sunlight, outdoor seating, one lamp, Tranquil Lake, Boat on a Lake, depth of field, masterpiece, best quality, ultra-detailed, very aesthetic, illustration, perfect composition, intricate details, absurdres, moody lighting, wisps of light, no humans,\n\nNegative prompt: extra digit, fewer digits, cropped, worst quality, low quality, normal quality, very displeasing,  blurry, artist name,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d57e4d81-eac9-40ed-9054-1d3b82a24f49/original=true/d57e4d81-eac9-40ed-9054-1d3b82a24f49.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape"
+    ],
+    "style": "digital-art",
+    "source_url": "https://civitai.com/images/10556898",
+    "author": "SomeT",
+    "tool": "SDXL",
+    "created_at": "2024-04-23",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_l7hg",
+    "prompt": "score_9, score_8_up, score_7_up,  ((first person perspective)), landscape photo, tron, heaven, ascendance, god rays, light, gold, sky,  advntr, underwater, alien, colorful, ((zdzislaw beksinski)),translucent,transparent,reelmech, mechanical parts, cable, wires, machinery, joints, body suit\n\nNegative prompt: score_6, score_5, score_4, simple background, blur, low quality, muscular, fairy wings,  censored, , , teeth, , furry, hair buns,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27220beb-d75d-4bad-9965-9506eb50a234/original=true/27220beb-d75d-4bad-9965-9506eb50a234.jpeg"
+    ],
+    "tags": [
+      "landscape",
+      "photorealistic",
+      "sci-fi"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/11029293",
+    "author": "HyperActive84",
+    "tool": "Pony",
+    "created_at": "2024-04-28",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_no5f",
+    "prompt": "Bosstyle, Silhouette of a Woman fighting a giant DARK mononoke Monster Boss resembling a ethereal fox with seven tails: Capture the essence of nostalgia and color in this vintage photograph. Dominating the scene is a meticulously detailed, translucent dark-red Blood filled firefox, adorned with vibrant patterns, blending seamlessly with its surroundings. Its long tail, composed of intricately woven ribbons in a spectrum of colors, trails behind, adding to the spectacle of the moment. Amidst the quietude of the night, its presence exudes a sense of ancestral strength and resilience. Behind it, the low-toned hues of the Milky Way cast a mesmerizing backdrop, a cosmic tapestry weaving tales of both past and future. In this moment, the convergence of tradition and technology, of ancient wisdom and industrial progress, hangs palpably in the air., atmospheric haze, Film grain, cinematic film still, shallow depth of field, highly detailed, high budget, cinemascope, moody, epic, OverallDetail, 2000s vintage RAW photo, photorealistic, candid camera, color graded cinematic, eye catchlights, atmospheric lighting, imperfections, natural, shallow dof\n\nNegative prompt: NEG-fixl-2, easynegative, bad proportions, low resolution, bad, ugly, terrible, painting, 3d, render, comic, anime, manga, unrealistic, flat, watermark, signature, worst quality, low quality, normal quality, lowres, simple background, inaccurate limb, extra fingers, fewer fingers, missing fingers, extra arms, (extra legs:1.3), inaccurate eyes, bad composition, bad anatomy, error, extra digit, fewer digits, cropped, low res, worst quality, low quality, normal quality, jpeg artifacts, extra digit, fewer digits, trademark, watermark, artist's name, username, signature, text, words, human,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c0ea2c31-2551-46b4-95e4-6c3ca52a0204/original=true/c0ea2c31-2551-46b4-95e4-6c3ca52a0204.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photorealistic"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/17108902",
+    "author": "OrlandoOrso",
+    "tool": "SDXL",
+    "created_at": "2024-06-25",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_zvs9",
+    "prompt": "(silhouette_with_gold_foil:1.5), 1girl, pretty woman, grey eyes, detailed face, long hair, twintails, capelet, dress, gloves, cherry blossom flower petals floating around her, setting sun in back ground illuminating the body, lost the deep forest, many trees and foliage around her, a mysterious terror and fear inducing scene, small golden stars, circular patterns around body, intricate golden dress, gold foil,\nscore_9, score_8_up, score_7_up, score_6_up, score_5_up,\n\nNegative prompt: score_4,score_5,score_3,score_2,score_1, text, signature, username",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a103c4ba-ee8c-47b8-a649-5eed4e16efb8/original=true/a103c4ba-ee8c-47b8-a649-5eed4e16efb8.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/28673784",
+    "author": "a2957598",
+    "tool": "Pony",
+    "created_at": "2024-09-10",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_c35p",
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres\nwlop miimalism  \n  cinematic  lighting \n   1girl, aged up\n  walking in the alley black suit white collar shirt \n perspective from above\n cyberpunk, neon\n\nNegative prompt: lowres, worst quality, blurry, grayscale, low contrast\n low quality, worst quality, normal quality",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d57e4412-2d4d-4d3d-9725-a61bcd86cbfc/original=true/d57e4412-2d4d-4d3d-9725-a61bcd86cbfc.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "sci-fi"
+    ],
+    "style": "cinematic",
+    "source_url": "https://civitai.com/images/13164245",
+    "author": "bullseyetroll",
+    "tool": "SDXL",
+    "created_at": "2024-05-21",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_7uea",
+    "prompt": "(best quality, 8K, high resolution, masterpiece), ultra detailed, (3D CGI), black sunglasses, trendy, fashionable, silver and black stylized angry muscle doberman on a black background, countryside advertising, winning photo,\n\nNegative prompt: BadDream",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/26cfd41c-7ced-4c28-839e-99c0498d05ea/original=true/26cfd41c-7ced-4c28-839e-99c0498d05ea.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/10634283",
+    "author": "doberman1987",
+    "tool": "SDXL",
+    "created_at": "2024-04-24",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_v2pz",
+    "prompt": "score_9, score_8_up, score_7_up, detailed, 1girl, solo, intricate details, chromatic aberration, realistic, long hair, pink hair, red head ornament, pink highlights, hair over one eye, purple eyes, earrings, sharp eyes, choker, neon shirt, torn legwear, open jacket, turtleneck sweater, night,against wall, brick wall, graffiti, dim lighting, alley, looking at viewer\n\nNegative prompt: monochrome, toned",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/877f082b-3bc4-4b6d-976f-3980bfd0f62b/original=true/877f082b-3bc4-4b6d-976f-3980bfd0f62b.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/15900782",
+    "author": "FallenIncursio",
+    "tool": "Pony",
+    "created_at": "2024-06-15",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_vsyo",
+    "prompt": "detailed realistic close up of a strawberry shaped like a kitten, sitting, natural light\n\nNegative prompt: worst quality",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6fcaf10d-d444-489e-9fe2-a945fbbd6cc3/original=true/6fcaf10d-d444-489e-9fe2-a945fbbd6cc3.jpeg"
+    ],
+    "tags": [
+      "photorealistic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/11798302",
+    "author": "freek22",
+    "tool": "SDXL",
+    "created_at": "2024-05-07",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_muws",
+    "prompt": "<lora:gr33nXLP:1> gr33n, solo, 1girl, long hair, plant, flower, score_9, score_8_up, score_7_up, score_6_up,\n\nNegative prompt: watermark, signature, artist name, (3d), muscular, cum, ugly, monochrome,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ebebea37-2512-47b9-a171-b79f5fc5b91f/original=true/ebebea37-2512-47b9-a171-b79f5fc5b91f.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/16641559",
+    "author": "4ndr3w",
+    "tool": "Pony",
+    "created_at": "2024-06-21",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_o1f1",
+    "prompt": "concept art hidden face, mysterious, hooded, full body, dark enigmatic warrior, standing, storm of falling shards, glowing ethereal giant heavy thick sword in hand, warriorâs intricate armor, tattered cloak that billows in the wind, atmosphere is charged with an otherworldly energy, fantasy realism, dramatic lighting, detailed textures to bring the scene to life, <lora:zavy-cntrst-sdxl:1.5>, <lora:- SDXL - vanta-black_contrast_V3.0:0.4>, <lora:glowneon_xl_v1:0.4> . digital artwork, illustrative, painterly, matte painting, highly detailed\n\nNegative prompt: photo, photorealistic, realism, ugly",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fb38a219-28f9-467d-b1e5-e51c650cbdd4/original=true/fb38a219-28f9-467d-b1e5-e51c650cbdd4.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic",
+      "fantasy"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/13073993",
+    "author": "DreamCk",
+    "tool": "SDXL",
+    "created_at": "2024-05-20",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_7oem",
+    "prompt": "A closeup of fantastical image of a moon knight, clad in flowing, flowing robes, wielding an ornate, ornate blade. Their eyes are filled with power and determination, as they wield the sword in a fluid, dynamic motion. The moon's reflection highlights their magical power\n\nNegative prompt: bad proportions, low resolution, bad, ugly, terrible, , pink skin creepy, meat skin,comic, anime, manga, unrealistic, flat, FastNegativeV2, watermark, signature, worst quality, low quality, normal quality, lowres, simple background, inaccurate limb, extra fingers, fewer fingers, missing fingers, extra arms, (extra legs:1.6), inaccurate eyes, bad composition, bad anatomy, error, extra digit, fewer digits, cropped, low res, worst quality, low quality, normal quality, jpeg artifacts, extra digit, fewer digits, trademark, watermark, artist's name, username, signature, text, words, (malformed hand:1.2), (disassembled lightsaber handle:1.5)",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3723815a-6877-4f9b-a485-4680f9e360b1/original=true/3723815a-6877-4f9b-a485-4680f9e360b1.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photorealistic",
+      "fantasy"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/15565887",
+    "author": "eduardo_saffe",
+    "tool": "SDXL",
+    "created_at": "2024-06-12",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_4bsq",
+    "prompt": "score_9, score_8_up, score_7_up, \r\nmonster girl, llamia, slit pupils, green eyes, horns, kunoichi, long hair, action pose, forest,\n\nNegative prompt: score_6, score_5, score_4, text, pony, furry, child, kid, monochrome background,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/680922a8-d5bd-4cd7-836d-eb6ae1042b8e/original=true/680922a8-d5bd-4cd7-836d-eb6ae1042b8e.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/54318776",
+    "author": "Elioplasma",
+    "tool": "Pony",
+    "created_at": "2025-01-28",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_f6wm",
+    "prompt": "drunken fist, leaning forward, Red and Grey color graded glamour portrait photo of an Cyborg Samurai, macro, a captivating vibrant dark neon capturing the essence of a translucent amber cyborg Bedouin sorcerer in fight stance, defying expectations by conjuring a whimsical robot 'freak' from an oversized sedge hat. ethereal, smoky backdrop. throwing a translucent orange/tanslucent purple/black, weapon, katana, holding katana, atmospheric haze, Film grain, cinematic film still, shallow depth of field, highly detailed, high budget, cinemascope, moody, epic, OverallDetail, gorgeous, 2000s vintage RAW photo, photorealistic, candid camera, color graded cinematic, eye catchlights, atmospheric lighting, skin pores, imperfections, natural, shallow dof,\n\nNegative prompt: NEG-fixl-2, easynegative, bad proportions, low resolution, bad, ugly, terrible, painting, 3d, render, comic, anime, manga, unrealistic, flat, watermark, signature, worst quality, low quality, normal quality, lowres, simple background, inaccurate limb, extra fingers, fewer fingers, missing fingers, extra arms, (extra legs:1.3), inaccurate eyes, bad composition, bad anatomy, error, extra digit, fewer digits, cropped, low res, worst quality, low quality, normal quality, jpeg artifacts, extra digit, fewer digits, trademark, watermark, artist's name, username, signature, text, words, human,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0a828b7f-26e5-4b34-9249-473ba586edca/original=true/0a828b7f-26e5-4b34-9249-473ba586edca.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photorealistic",
+      "sci-fi"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/11878630",
+    "author": "Ajuro",
+    "tool": "SDXL",
+    "created_at": "2024-05-08",
+    "collected_at": "2026-03-24T17:10:42.093Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242093_0a92",
+    "prompt": "masterpiece, ultimate detailed, tiny finnest details,\nFierce japanese female warrior is holding a reflective shiny (katana:1.3) in front of  her face, (an ancient mythical Japanese demon is reflected in the katana blade:1.6),\n<lora:MJanime_Flux_LoRa:0.25> anime style <lora:NeonFantasyFLUX:0.5> ne0nfant4sy <lora:Flux1-impossible_geometry_V1.0:0.4> <lora:flux.1_lora_flyway_Epic-detail_v2:0.7> .  <lora:ImageUpgraderV2:0.3>\n\nNegative prompt: anime, cartoon, graphic, text, painting, crayon, drawing, vibrant, colorful, low contrast,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f71a9168-b681-4ce0-a4b5-1a83c0d4d86d/original=true/f71a9168-b681-4ce0-a4b5-1a83c0d4d86d.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "anime",
+      "fantasy"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/36361030",
+    "author": "atena",
+    "tool": "Flux",
+    "created_at": "2024-10-24",
+    "collected_at": "2026-03-24T17:10:42.094Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242094_hztj",
+    "prompt": "\n\nNegative prompt: n",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5bfe44f0-6a5b-4f22-b8cf-9837ff8d5ea3/original=true/5bfe44f0-6a5b-4f22-b8cf-9837ff8d5ea3.jpeg"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/69578442",
+    "author": "sunnytiersen",
+    "tool": "Flux",
+    "created_at": "2025-04-12",
+    "collected_at": "2026-03-24T17:10:42.094Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242094_qclp",
+    "prompt": "score_9, score_8_up, source_anime, Watamelon, no humans, creature, chibi, watermelon, all fours, aquascreaming, screaming, open mouth, crying with eyes open, 1boy, justtnp, black hair, heterochromia, black eyes, white eyes, <lora:ChamWatamelonPonyXL:1>, <lora:oc_justtnp_ponyXL:1.2>, <lora:concept_aquascreaming_ponyXL:0.8>\n\nNegative prompt: 3d, monochrome",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0430beb1-1cdf-4c35-a9fe-14b5e9eb8e9b/original=true/0430beb1-1cdf-4c35-a9fe-14b5e9eb8e9b.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "anime"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/23367762",
+    "author": "ChameleonAI",
+    "tool": "Pony",
+    "created_at": "2024-08-08",
+    "collected_at": "2026-03-24T17:10:42.094Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242094_xmgz",
+    "prompt": "masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field, focused subject, dynamic angle, side view,  1girl,solo, CivChan, android,  holofoil glitter, faint, glowing, ethereal, neon hair, glowing hair, long hair, purple eyes, futuristic uniform, cleavage, standing looking sweet, stance, coy,  looking at viewer, relaxing, sci-fi\n\nNegative prompt: score_6, score_5, score_4, bad quality, worst quality, worst detail, sketch, censorship, furry, window, holding, headphones,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a15b19a0-ba97-4b2f-8c21-068235956c18/original=true/a15b19a0-ba97-4b2f-8c21-068235956c18.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "sci-fi"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/67188663",
+    "author": "ChronoKnight",
+    "tool": "Illustrious",
+    "created_at": "2025-04-01",
+    "collected_at": "2026-03-24T17:10:42.094Z",
+    "source": "Civitai"
+  },
+  {
+    "id": "civitai_1774372242094_n7dn",
+    "prompt": "score_9, score_8_up, score_8_up, 1 Indian girl, dark-skinned girl, cyberpunk, brown hair, ((long hair)), ((bangs)), straight hair, piercings, choker, portrait, ((streetwear)), average tits, teardrop shaped tits, fit body, thin waists, beautiful, night neon lighting, negative_hand, g0thicPXL, GTA\n\nNegative prompt: core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/32d13028-bbc7-4c81-b243-a34879df02e8/original=true/32d13028-bbc7-4c81-b243-a34879df02e8.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "sci-fi"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/38729349",
+    "author": "RONIN_N",
+    "tool": "Pony",
+    "created_at": "2024-11-06",
+    "collected_at": "2026-03-24T17:10:42.094Z",
+    "source": "Civitai"
   }
 ]
