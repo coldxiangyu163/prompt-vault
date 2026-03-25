@@ -75382,5 +75382,100 @@
     "created_at": "2024-11-06",
     "collected_at": "2026-03-24T17:10:42.094Z",
     "source": "Civitai"
+  },
+  {
+    "prompt": "The palette is dominated by dark tones. The texture is pronounced, with brushstrokes and traces of paint visible, imitating the process of painting using multi-layered tones. The composition is centered around the figures, and the background flows smoothly in color and tone. The style is abstract, almost sculptural. The style is abstract, almost sculptural. Free, gestural brushstrokes create a sense of movement and action. The muted color palette includes subtle variations in tone. The sense of depth is achieved through different densities of brushstrokes. The light source is diffused, giving the image a slightly cool and mysterious shade. The style of painting is reminiscent of abstract realism and expressionism.  Soft shadows that reflect every detail and add volume to the scene.\n \nAn epic oil painting of a dark gothic fantasy battle. In the heart of a rain-drenched battlefield, amidst the chaos, stands an elegant yet ferocious, middle-aged Viking. Her weathered, chiseled face is adorned with ancient runes etched deep into her skin, carved in glowing crimson ink that pulses with every heartbeat. Her gray, tangled hair is pulled back into a tight braid, the strands tousled by the wind, and in her calloused, muscular hands, she grips a massive, serrated, broad-bladed axe. Fresh ichor or plasma drips from the sharpened blade, and she furiously fights off approaching enemies. Her runes, some etched near her eyes, others outlined on her arms and shoulders, glow in the dim light, their magic seeming to react to her struggle. Around her, the battlefield is a whirlwind of swords clashing, the howls of sinister creatures, and the piercing glow of their eyes. Fallen bodies of undead creatures and skeletons litter the cursed ground, their bodies poised to rise again from their recent deaths. In the distance, the silhouettes of a horde of approaching creatures are visible. The sky above her is a swirling mass of vibrant, seemingly living storm clouds, casting harsh rays of light through the rain that falls upon her like liquid fire. Her expression is sinister and relentless, her gaze fixed on the approaching enemies she intends to slay. The scene is framed by dramatic contrast: the glow of her runes against the darkness of her face, the metallic glint of her axe contrasting with the sickly, acidic tones of the battlefield. Every detail, from the texture of her leather armor to the stains of ichor and plasma pooling in the dirt beneath her feet, is rendered with incredible clarity, as if frozen in a tragic moment of epic rage.\n\nNegative prompt: (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, (Integration of fingers and fingers, melting fingers), signature, watermarks, ugly, imperfect eyes, error, extra limb, missing limbs, painting by , 3d art\n\nembedding:bad-artist",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8928e082-af52-4ade-a86e-d79e0ed63aa9/original=true/8928e082-af52-4ade-a86e-d79e0ed63aa9.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "fantasy",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/123066308",
+    "author": "Sheat13",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-26T01:01:39",
+    "id": "20260326_civ_1772540781435"
+  },
+  {
+    "prompt": "masterpiece, best quality, traditional media, mhh, surreal, chinese building, lantern, night, paper parasol, red hanfu, red kimono, water, blue flowers, romantic and nostalgic mood\n\nNegative prompt: (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b6162c87-4e2d-40ff-a762-0c57d9f406ca/original=true/b6162c87-4e2d-40ff-a762-0c57d9f406ca.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "architecture"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/123075804",
+    "author": "Antonio88",
+    "tool": "SDXL",
+    "created_at": "2026-03-04",
+    "collected_at": "2026-03-26T01:01:39",
+    "id": "20260326_civ_1772540781436"
+  },
+  {
+    "prompt": "masterpiece, best quality, 8k, ultra-detailed, cinematic lighting, ray tracing, depth of field,\n(Flat color:1.4), falling, above a city, shards of glass, sneakers\nmature female, spider-gwen, marvel, cyberpunk, neon buildings, signs, billboards, particles, anaglyph:1.3, glitch art, glitch, chromatic abberation, chromatic abberation abuse, solo, F4st\n(indoors, night)\n\nNegative prompt: (low quality, worst quality), patreon, artist name, displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, child, street, ground",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d33f97b1-d9d7-46b5-ae89-e2800c6a4d86/original=true/d33f97b1-d9d7-46b5-ae89-e2800c6a4d86.jpeg"
+    ],
+    "tags": [
+      "sci-fi",
+      "architecture",
+      "cinematic"
+    ],
+    "style": "cinematic",
+    "source_url": "https://civitai.com/images/125133820",
+    "author": "Chumple",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-24",
+    "collected_at": "2026-03-26T01:01:39",
+    "id": "20260326_civ_1772540781437"
+  },
+  {
+    "prompt": "A whimsical soft digital painting, masterpiece, high quality, innocent.\nA classical renaissance oil painting, visible brushstrokes, chiaroscuro lighting, museum quality masterpiece. A leading lines composition, natural pathways drawing the viewer's eye deep into the distance of red tide phenomenon where algae turns the churning sea into a crimson blood-like color. Environmental context: in springtime, fresh blooming nature, vibrant green foliage, vernal equinox atmosphere, at golden hour, fiery spectacular sunset, warm amber light, long dramatic shadows, with howling turbulent wind, dust and debris blowing in the air, dynamic motion. featuring giant exotic fern leaves framing the edges, with remnants of a forgotten stone bridge stretching across the landscape, where schools of glowing fish visible just beneath the water surface, showing a tiny silhouette of a lone wanderer holding a staff for scale, dominated by the relic of an enormous rusted sword plunged into the earth, a forgotten relic of ancient titans, visually enhanced by subtle light diffraction creating tiny rainbows in the floating water droplets. Aesthetic and Style: Oil on canvas in style of Albert Bierstadt, Hudson River School, epic scale and dramatic light. Palette: pastel goth baby pink and stark black theme. Masterpiece, high resolution, atmospheric depth..\nMasterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic.\noil painting, in the style of Rembrandt\n<lora:style_of_Rembrandt_FLUX_135:0.8>\n<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack\n<lora:age_v1:-1>\n<lora:113_novuschromaFLX_1:0.2> novuschroma\n<lora:softwhim:1> whimsical\n<lora:FS_v3:0.4> FS, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling\n\nNegative prompt: painting, drawing, signature, watermark, ugly, off-center, deformed, cropped, frame, worst quality, low quality, lowres, JPEG artifacts",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/998359aa-e5ca-4bf1-8a9b-39831bc91f1b/original=true/998359aa-e5ca-4bf1-8a9b-39831bc91f1b.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "photorealistic",
+      "fantasy",
+      "character"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/122932413",
+    "author": "Omega_Xlll",
+    "tool": "Flux",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-26T01:01:39",
+    "id": "20260326_civ_1772540781438"
+  },
+  {
+    "prompt": "masterpiece,\nbest quality,\nholographic,\niridescent,\nabsurdres,\nhigh resolution,\n32k, BREAK  \nBREAK\nIn a neon-lit, cyberpunk city street at night, a scene unfolds with a futuristic vibe. A police car with flashing blue lights is parked in the middle of the wet street, reflecting the vibrant colors of the surrounding signs. Two figures stand near the car; one is a woman in her late 20s with shoulder-length cherry red hair, wearing a black leather jacket and ripped jeans, her expression intense as she looks towards the viewer. The other is a man in a trench coat, his face partially obscured by shadows, suggesting a mysterious demeanor. Above them, a drone hovers, its red lights glowing ominously. The street is lined with towering buildings adorned with bright, colorful signs in Japanese, creating a dense, urban atmosphere. The lighting is cinematic, with a mix of neon glows and soft diffused lighting enhancing the scene's mood.\nscifi setting,  (surreal dreamscape:1.14), atmospheric haze, ethereal, \nexpressive,  intricate, \natmospheric,  ,\n\nNegative prompt: (lowres:1.2), (worst quality:1.4), (low quality:1.4), (bad anatomy:1.4), multiple views, jpeg artifacts, artist name, censored, censored nipples, young, 2D",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/26292304-09ea-46e7-b3ff-13ddd4547949/original=true/26292304-09ea-46e7-b3ff-13ddd4547949.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "sci-fi",
+      "architecture",
+      "cinematic"
+    ],
+    "style": "cinematic",
+    "source_url": "https://civitai.com/images/123053234",
+    "author": "valerie_4659",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-03",
+    "collected_at": "2026-03-26T01:01:39",
+    "id": "20260326_civ_1772540781439"
   }
 ]
