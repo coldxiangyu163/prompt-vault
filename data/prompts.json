@@ -77283,5 +77283,288 @@
     "style": "mixed",
     "source": "prompthero",
     "id": "20260402_phr_1772540781479"
+  },
+  {
+    "id": "20260404_civ_1772540781480",
+    "prompt": "[cutesy-two:aged up, cutesy-one:0.45],  long eyelashes, sheep, aliasing, chest fur, body fur, too fluffy, [:sidelighting, portrait:0.2], upper body, light background, detailed background, pink, too many pillows, too many sheep, surreal background, fluffy, dynamic angle, bosom,\nrobe, frilly collar, hairband, pajamas, navel, fluffy clothes, cotton, hood, seiza, leaning forward, outdoors,\nvery awa, absurdres, \n <lora:Cutesy-Co_v2_Expanded__g04__epoch_19:1>\n\nNegative prompt: bad anatomy, too many digits, multiple views, sketch, monochrome, limited palette, from below, 3girls, 3d, backlighting, from behind,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27e5b477-8acb-45ae-82e7-676c343c4117/original=true/27e5b477-8acb-45ae-82e7-676c343c4117.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/126152809",
+    "author": "Kaligo731",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-04-02",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781481",
+    "prompt": "A woman with precise vector-defined silhouette facing forward, wearing a structured dress with minimal fabric folds, her hair rendered as clean geometric strands; shallow depth of field with soft bokeh background, sharp focus on her face with no facial features visible; minimalist realism fused with surrealist abstraction style featuring sharp vector outlines and dynamic negative space composition, with geometric precision applied to silhouettes and fluid organic forms to hair and dress; dominant high-contrast color palette using luminous yellow-to-gold gradient on skin and dress fabric against deep black background, with strategic saturation and luminosity applied only to the figure; dramatic tension conveyed through high-contrast chiaroscuro and dynamic energy via strict tonal range; digitally crafted using vector-based line work for clean outlines and gradient fills on dress and hair, combined with raster-based texturing for fabric surface details and particle effects to create layered depth; subtle luminescent particle dispersion around the figure, with controlled density to simulate dust motes or illuminated particles integrated into the yellow gradient transitions, creating luminous halo effect with seamless gradient continuity. <lora:zimage/painting_zimage_v1.safetensors:1.0:1.0>\n\nNegative prompt: deformed anatomy, extra limbs, missing fingers, blurry, pixelated, compression artifacts, flat lighting, low contrast, oversmoothing, muddy textures, banding, noise, distortion, cartoon, low detail, unnatural pose, asymmetrical, duplicate objects, poorly drawn hands, poorly drawn feet, disfigured, inaccurate eyes, unnatural colors, washed out, artifacts",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5497fc6a-2971-4b74-bfe9-71d1b078dbb5/original=true/5497fc6a-2971-4b74-bfe9-71d1b078dbb5.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "sci-fi",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/126052597",
+    "author": "Weak_Examination",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-04-02",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781482",
+    "prompt": "hyper-close portrait of a woman’s face emerging through a surface of liquid red mercury, the metallic fluid stretched and clinging to her skin as it breaks. The surface tension distorts her lips and one eye beneath it, creating warped reflections. The mercury gleams with deep crimson highlights, reflecting faint gold rim light along her cheekbones. Her visible eye is half-lidded, calm and distant. Background dissolves into pure black. Fine particles shimmer in the air. Style: noir couture, liquid metal realism, cinematic lighting.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5cc4b5a1-bb2c-4f13-ad28-0584d0684bae/original=true/5cc4b5a1-bb2c-4f13-ad28-0584d0684bae.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "cinematic"
+    ],
+    "style": "cinematic",
+    "source_url": "https://civitai.com/images/126165144",
+    "author": "lightyagami_",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-04-02",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781483",
+    "prompt": "Two ducks on a calm freshwater lake, one duck actively pulling another duck behind it on water skis, the leading duck fitted with a small, naturalistic harness secured comfortably around its body, a taut rope extending from the harness to the second duck, which is skillfully water skiing across the surface, realistic duck anatomy with accurate proportions and posture, ultra-detailed feathers with layered structure, subtle color variation, and individual barbs visible, tiny water droplets clinging to feathers and catching the light, dynamic water interaction with crisp splashes, foam, and V-shaped ripples trailing behind the skiing duck, realistic surface tension and reflections on the water, soft wind disturbance across the lake, bright natural daylight with physically accurate lighting and soft shadows, gentle highlights and reflections shimmering on the water surface, shallow depth of field with sharp focus on both ducks and slight background blur, serene lakeside environment with reeds and distant trees rendered in fine detail, atmospheric perspective, cinematic composition, captured as if with a high-end DSLR using a telephoto lens, ultra-high resolution, hyperrealistic, intricate detail, photorealistic, 8k, HDR, global illumination, ray-traced lighting, natural color grading",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7503c363-94d7-45e5-a77e-2d9be71fdac5/original=true/7503c363-94d7-45e5-a77e-2d9be71fdac5.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "photorealistic",
+      "character",
+      "cinematic"
+    ],
+    "style": "photorealistic",
+    "source_url": "https://civitai.com/images/126223927",
+    "author": "Mr_Flibble",
+    "tool": "Nano Banana",
+    "created_at": "2026-04-03",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781484",
+    "prompt": "Chciałbym poprawić ten obraz z pokemon Ditto, który jest smutny na parapecie. Chciałbym zmienić klimat na melancholijny, smutny. Deszcz pada za oknem, jest ciemno, urozmaicić pokój trenera pokemon bo jest pusty. Obraz opowiada o pokemonie Ditto, który czeka na swojego właściciela, który już nie wróci, mimo tego czeka dalej. Styl będzie to nowoczesny watercolor. Dodaj pojedynczą łzę spływająca z oka Ditto. A na zdjęciu po prawej stronie na tablicy postaraj się utworzyć zdjęcie z Ditto i jego trenerem. „Powiedziałeś, że wrócisz.”. Napisz to po angielsku, styl napisu będzie odręczny, adekwatny do obrazu. Dodaj napis do dobranego przez ciebie miejsca na obrazie.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cc1f70fe-be9f-43c9-a2cb-89238b1ade92/original=true/cc1f70fe-be9f-43c9-a2cb-89238b1ade92.jpeg"
+    ],
+    "tags": [
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/126193774",
+    "author": "Oskarjasz",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-04-03",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781485",
+    "prompt": "linquivera, Ink illustration, brown tones,  inkpunk, moonlight, full giant moon, surreal, a little girl sits in the swamp in a cold canoe and lets himself drift, surrounded by high trees, (at a distance), Will-o'-the-wisp, moonlit, lonely, solitude, windy, tall trees, willows, willowy, OverallDetail, extremely detailed, UHD,(((long exposure , dystopian but extremely beautiful))), masterpiece, award winning, a breathtaking masterpiece, award winning, DB4RZ, DB4RZ style painting, NeoPigma, in the style of cksc, anime, cyberpunk",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/00a77346-f48c-4af7-8a41-a1434429c893/original=true/00a77346-f48c-4af7-8a41-a1434429c893.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "anime",
+      "fantasy",
+      "sci-fi"
+    ],
+    "style": "anime",
+    "source_url": "https://civitai.com/images/126158702",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-04-02",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781486",
+    "prompt": "masterpiece, high_quality, highres, upper body view, \ndynamic angle, in motion,\n1girl, extreme long hair, blonde, \napron, blouse, pleated skirt, love letter,\nshy, blush, looking down, cute,\ncomplementary color background, duotone\n\nNegative prompt: poorly_detailed, jpeg_artifacts, worst_quality, bad_quality,",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/186584d3-3d16-4421-ae2c-8c4a0e18bfa7/original=true/186584d3-3d16-4421-ae2c-8c4a0e18bfa7.jpeg"
+    ],
+    "tags": [
+      "portrait"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/125922171",
+    "author": "reijlita",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-31",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781487",
+    "prompt": "A knight made of burning paper walking through snowfall, ashes rising instead of falling, sword made of pure light, dramatic dark fantasy, high detail textures",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b483215d-69a8-419b-b5a0-826396ea1b42/original=true/b483215d-69a8-419b-b5a0-826396ea1b42.jpeg"
+    ],
+    "tags": [
+      "fantasy"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/125828282",
+    "author": "lightyagami_",
+    "tool": "Flux",
+    "created_at": "2026-03-30",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781488",
+    "prompt": "Based on https://civitai.com/images/124677210 by @purplelady",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4239fc79-9c1a-4f53-826f-4ed9945182d9/original=true/4239fc79-9c1a-4f53-826f-4ed9945182d9.jpeg"
+    ],
+    "tags": [
+      "general"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/125812843",
+    "author": "Lostcut",
+    "tool": "Nano Banana",
+    "created_at": "2026-03-30",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781489",
+    "prompt": "Epic cinematic dark fantasy illustration on the rooftop of a gothic cathedral at dawn, stone gargoyles and flying buttresses framing the scene. Elle, a female beautiful skinny young sexy vampire queen, stands at the edge of the roof in flowing sexy black velvet robes with strong cleavage, pale skin and crimson lips, she embraces the rising sun that will kill her, arms stretched wide and head tilted back in serene acceptance, ash and embers begin to lift from her shoulders and hair as the first golden sunrays strike, dramatic god rays spilling over the cathedral spires, warm sunrise gold against cold blue gray stone, long shadows across wet slate tiles, flocks of ravens circling in mist, atmospheric haze and drifting dust motes, high contrast chiaroscuro, wide angle low viewpoint looking up, ultra detailed stone carvings and fabric texture, tragic beautiful mood, high resolution masterpiece quality.",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/626cfa3b-0f40-409a-8295-f4a899736087/original=true/626cfa3b-0f40-409a-8295-f4a899736087.jpeg"
+    ],
+    "tags": [
+      "fantasy",
+      "character",
+      "cinematic"
+    ],
+    "style": "digital-art",
+    "source_url": "https://civitai.com/images/126158131",
+    "author": "martinffm",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-04-02",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781490",
+    "prompt": "(EyesHD:1.2), (4k,8k,Ultra HD), masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, cinematic,  beautiful face, beautiful eyes, \nBREAK\nambient occlusion, raytracing, soft lighting, blum effect, masterpiece, absolutely eye-catching, intricate cinematic background, \nBREAK\nmasterpiece, amazing quality, best quality, ultra-detailed, 8K, illustrating, CG, ultra-detailed-eyes, detailed background, cute girl, eyelashes,  cinematic composition, ultra-detailed, high-quality, extremely detailed CG unity, \nAka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, \nBREAK\n(qiandaiyiyu:0.85), (soleil \\(soleilmtfbwy03\\):0.6), (godiva ghoul:0.65), (anniechromes:0.5), \n(close-up:1.5), \n1girl, solo, close-up, portrait, brown hair, long hair, messy hair, looking at viewer, grey eyes, eyelashes, lips, white kimono, white yukata, flower, white flower, magnolia, branch, blooming, sunlight, bright lighting, soft lighting, glow, lens flare, depth of field, blurry foreground, blurry background, ethereal, aesthetic, dreamy.\n\nBREAK\n(rella:1.2), (redum4:1.2) (au \\(d elete\\):1.2) (dino \\(dinoartforame\\):1.1),\n\nNegative prompt: bad quality, worst quality, worst detail, sketch, censor, signature, watermark, text, lazyneg, furry,multiple hands",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/05eb1439-feab-44a8-9374-f6823d375643/original=true/05eb1439-feab-44a8-9374-f6823d375643.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "character",
+      "cinematic"
+    ],
+    "style": "digital-art",
+    "source_url": "https://civitai.com/images/126057909",
+    "author": "BeeZ333",
+    "tool": "SDXL",
+    "created_at": "2026-04-01",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781491",
+    "prompt": "safe_pos, score_9, score_8_up, score_8, 1girl, elf, solo, perfect face, light amber eyes, cowboy shot, small breasts, long black hair, parted bangs, refined, volumetric lighting, cinematic lighting,sky background, close up, simple gown,\n\nNegative prompt: safe_neg, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, pumped body, athletic body, black and white, sepia, hands on own face, chibi, child, border, signature, hands",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5ef67e3d-f6ed-4cc1-9e1f-3e41afbf98d5/original=true/5ef67e3d-f6ed-4cc1-9e1f-3e41afbf98d5.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "fantasy",
+      "cinematic"
+    ],
+    "style": "cinematic",
+    "source_url": "https://civitai.com/images/125911208",
+    "author": "ElvishDreams",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-03-30",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781492",
+    "prompt": "Elegant shibori-dyed silk scroll painting depicting the impermanence of summer rains through yuzen technique. Indigo, Green  and slate gradations create misty mountains in kasumi style, with delicate silver leaf accents catching light. A solitary figure  traverses a winding mountain path, their reflection rippling in puddles below. Dragonflies hover above rain-dappled lotus blooms in foreground, embodying the mujo concept of fleeting beauty. Calligraphy in traditional sosho script dances along the margins, suggesting the gentle rhythm of rainfall. Fine brushwork details reveal moss-covered stone lanterns and distant rural dwellings with soft, glowing paper windows. The composition balances tight detail with expansive negative space, conveying the Japanese concept of ma through atmospheric perspective and subtle tonal shifts,a masterpiece, award winning,, a masterpiece., award winning, CAICO",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0b6b1b9b-b5fc-47dc-bf15-a6159769d7a8/original=true/0b6b1b9b-b5fc-47dc-bf15-a6159769d7a8.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "fantasy",
+      "sci-fi"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/125850404",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-03-30",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781493",
+    "prompt": "A traditional Korean minhwa painting depicts a playful scene: a magpie perched on a blossoming plum branch, symbolizing good fortune. The composition captivates with its dancheong color palette of vibrant reds, blues, greens, and yellows against a background of hanji paper. The delicate ink technique creates mist-shrouded mountains in the distance, embodying the Korean aesthetic principle of yeobaek (empty space). The early morning light bathes the scene in golden hues, evoking associations with the Korean concept of heung, a masterpiece, award winning,, CAICO",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4567dae3-937b-4f29-ae52-b659ff76cef5/original=true/4567dae3-937b-4f29-ae52-b659ff76cef5.jpeg"
+    ],
+    "tags": [
+      "landscape",
+      "sci-fi",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/126151851",
+    "author": "Lady_Luminous",
+    "tool": "Flux",
+    "created_at": "2026-04-02",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
+  },
+  {
+    "id": "20260404_civ_1772540781494",
+    "prompt": "(monochrome:0.5), (Sketch art, line art, drawn:2),(monochrome:0.5), (Sketch art, line art, drawn:2),A lone, gnarled tree stands defiantly at the edge of a jagged cliffside, its roots gripping earthy soil beneath a swirling gradient sky streaked with violet and orange huesâas ghostly floating islands drift silently above dense white clouds over distant mountains and barren valleys.((outdoors, sky, day, cloud, blue sky, tree, no humans, grass, scenery, nature, forest, rock, mountain, bush, fantasy, landscape, gradient sky, path, cliff, purple sky, floating island, above clouds, floating rock):0.5), masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up,\n\nNegative prompt: lowres, worst quality, low quality, bad anatomy, bad hands, jpeg, artifacts ((signature, watermark, text, logo, artist name, patreon_username, web_address, username):1.5), extra digits,  censored, patreon username, loli, chibi, sweat, particles, parted lips, (boarder:2), white boarder",
+    "images": [
+      "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c216f336-b39b-435a-bc4b-a86b20989023/original=true/c216f336-b39b-435a-bc4b-a86b20989023.jpeg"
+    ],
+    "tags": [
+      "portrait",
+      "landscape",
+      "anime",
+      "fantasy",
+      "character"
+    ],
+    "style": "mixed",
+    "source_url": "https://civitai.com/images/124973228",
+    "author": "phinjo",
+    "tool": "Stable Diffusion",
+    "created_at": "2026-04-03",
+    "collected_at": "2026-04-04T17:04:47",
+    "source": "civitai"
   }
 ]
