@@ -1,3 +1,5 @@
+
+
 # 🎨 PromptVault — AI 生图提示词视觉图库
 
 ![Prompts](https://img.shields.io/badge/prompts-2500+-blue) [![License](https://img.shields.io/github/license/coldxiangyu163/prompt-vault)](LICENSE) [![Website](https://img.shields.io/badge/website-live-green)](https://coldxiangyu163.github.io/prompt-vault)
@@ -38,6 +40,7 @@ prompt-vault/
 
 ```json
 {
+  "id": "20260301_001",
   "prompt": "完整的提示词文本...",
   "images": ["images/skill_001.jpg"],
   "tags": ["infographic", "poster"],
